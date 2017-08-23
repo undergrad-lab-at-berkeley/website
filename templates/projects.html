@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+
+{% block title %}
+    <title>Projects | Undergraduate Lab @ Berkeley</title>
+{% endblock %}
+
+{% block body %}
+<a id="title" class="in-page-link"></a>
+            
+<section class="page-title page-title-4 image-bg overlay parallax">
+    <div class="background-image-holder">
+        <img alt="Background Image" class="background-image" src="{{ url_for('static', filename='img/cover12.jpg') }}">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <h3 class="uppercase mb0">Research Projects</h3>
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+<section>
+    <div class="container">
+    {% block content %}
+        <div class="row">
+            <div class="col-sm-10 col-sm-offset-1">
+                <div class="post-snippet mb64">
+
+                    <img class="mb24" alt="Post Image" src="{{ content['img'] }}">
+                    <div class="post-title">
+                        <span class="label">{{content['date']}}</span>
+                        <h4 class="inline-block">{{content['title']}}</h4>
+                    </div>
+                    <ul class="post-meta">
+                        <li>
+                            <i class="ti-bookmark"></i>
+                            <span>Research by
+                                {% for person in content['team'] %}
+                                    <b>{{person}}</b>
+                                    {% if not loop.last %}, {% endif %}
+                                {% endfor %}
+                            </span>
+                        </li>
+                        {% if content['has_mentor'] %}
+                        <li>
+                            <i class="ti-user"></i>
+                            <span>Mentored by <b>{{content['mentor']}}</b>
+                            </span>
+                        </li>
+                        {% endif %}
+                    </ul>
+                    <hr>
+
+                    {{content['content'] | safe}}
+                    
+                </div>
+                
+                <hr>
+            </div>
+        {% endblock %}
+        </div>
+    </div>
+    
+</section>
+{% endblock %}

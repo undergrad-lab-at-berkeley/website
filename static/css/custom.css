@@ -1,0 +1,8 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+.indented-list {
+    padding-left: 50px
+}
+
+.bio-icon i, .bio-icon a {
+    color: black;
+}

@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+
+{% block body %}
+    <a id="head" class="in-page-link"></a>
+
+    <section class="cover fullscreen image-slider slider-arrow-controls controls-inside parallax">
+        <ul class="slides">
+            <li class="overlay image-bg">
+                <div class="background-image-holder">
+                    <img alt="image" class="background-image" src="{{ url_for('static', filename='img/main-page-background.png') }}">
+                </div>
+                <div class="container v-align-transform">
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+                            <img alt="Logo" class="image-md mb8" src="{{ url_for('static', filename='img/logo.png')}}">
+                            <h6 class="uppercase mb32">Welcome to Research!</h6>
+                            <p class="text-justify mb0">
+                                We believe that every student interested in participating in research at Berkeley should have the opportunity to do so. We are committed to individually helping new students find research on campus, developing students led research projects, and connecting &amp; supporting students already involved in research.
+                            </p>
+                        </div>
+                    </div>
+                    
+                </div>
+                
+            </li>
+        </ul>
+    </section><a id="feature1" class="in-page-link"></a>
+
+    <section class="image-square left">
+        <div class="col-md-6 image">
+            <div class="background-image-holder">
+                <img alt="image" class="background-image" src="{{ url_for('static', filename='img/mission.jpg') }}">
+            </div>
+        </div>
+        <div class="col-md-6 col-md-offset-1 content">
+            <h3>A Research Lab Run by Undergraduates</h3>
+            <p class="mb0">
+                Our lab members engage in collaborative research projects focused on improving and exploring the Berkeley community through the scientific method. By completing a “micro” semester or year-long  research project students will learn the research process through guided workshops in a supportive environment. 
+            </p>
+        </div>
+    </section>
+
+    <a id="feature2" class="in-page-link"></a>
+    <section class="image-square right">
+        <div class="col-md-6 image">
+            <div class="background-image-holder">
+                <img alt="image" class="background-image" src="{{ url_for('static', filename='img/lab.jpg') }}">
+            </div>
+        </div>
+        <div class="col-md-6 content">
+            <h3>Immersing New Students In Research<br></h3>
+            <p class="mb0">
+                Members  also attend workshops, go on tours of campus research labs, and talk with professors about their projects. All ULAB students will learn specific technical research skills: looking for academic papers, scientific computing, and brief scientific presentations.
+            </p>
+        </div>
+    </section>
+
+    <a id="quote" class="in-page-link"></a>
+    <section class="image-bg bg-light parallax overlay pt160 pb160 pt-xs-80 pb-xs-80">
+        <div class="background-image-holder">
+            <img alt="image" class="background-image" src="{{ url_for('static', filename='img/intro2.png') }}">
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7 col-sm-8">
+                    <i class="ti-quote-left icon icon-sm mb16"></i>
+                    <h3 class="mb32">It can be one of the most transformative and fruitful adventures of their college career.<br></h3>
+                    <p>
+                        When Berkeley undergraduates engage in immersive research experiences, it can be one of the most transformative and fruitful adventures of their college career. Yet, many new students are deterred from even getting started. This problem stems from a tendency for programs to favor already experienced students and difficulty for new students in navigating a complex myriad of Berkeley resources.&nbsp;ULAB emphasizes new ways to reach underrepresented and socioeconomically disadvantaged students by partnering with the residence halls and existing organizations. -- Big Ideas @ Berkeley</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <a id="joinus" class="in-page-link"></a>
+    <section>
+        <div class="container">
+            <div class="row v-align-children">
+                <div class="col-md-7 col-sm-6 text-center mb-xs-24">
+                    <img class="cast-shadow" alt="Screenshot" src="{{ url_for('static', filename='img/big_ideas.jpg') }}">
+                </div>
+                
+                <div class="col-md-4 col-md-offset-1 col-sm-5 col-sm-offset-1">
+                    <h3>Want To Join Us?</h3>
+                    <p>To apply to work on one our team research projects, fill out researcher profile and indicate on the profile you are interested in independent projects. Because we only recently started the program, we have only a limited number of projects and mentors, but we will try to match students up that are a good fit for our current projects in terms of interest.
+                    </p>
+                    <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdyFjdQ6WJtDMclnOtXeTQ70aqcKpkleRvaDoJ4kGTElaD9_g/viewform?usp=sf_link" target="_blank">APPLY FOR Research</a><a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSf8ROm6k2gJHAvscKeEJjMBQeO0d3UECX1oMk0K9EUmzkiZsA/viewform?usp=sf_link" target="_blank">Keep Me Updated</a>
+                </div>
+            </div>
+        </div>                
+    </section>
+
+{% endblock %}

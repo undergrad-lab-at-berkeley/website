@@ -1,0 +1,53 @@
+{% block navbar %}
+<div class="nav-container">
+            <nav class="absolute transparent">
+                <div class="nav-bar">
+                    <div class="module left">
+                        <a href="/">
+                            <img class="logo logo-light" alt="Foundry" src="{{ url_for('static', filename='img/logo.png') }}">
+                            <img class="logo logo-dark" alt="Foundry" src="{{ url_for('static', filename='img/logo.png') }}">
+                        </a>
+                    </div>
+                    <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
+                        <i class="ti-menu"></i>
+                    </div>
+                    <div class="module-group right">
+                        <div class="module left">
+                            <ul class="menu">
+                                <li>
+                                    <a href="/">Home </a>
+                                </li>
+                                <li>
+                                    <a href="/aboutus">About Us</a>
+                                </li>
+                                <li class="has-dropdown">
+                                    <a href="#">Research Projects</a>
+                                    <ul>
+                                        {% for project in navProjects %}
+                                        <li>   
+                                            <a href="{{ project['url'] }}">
+                                                <small>{{ project['name'] }}</small>
+                                            </a>
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                </li>
+                                
+                            </ul>
+                        </div>
+
+                        <div class="module widget-handle left">
+                            <ul class="menu">
+                                <li>
+                                    <a href="/#joinus" class="inner-link" target="_self">Join Us</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                    </div>
+                    
+                </div>
+            </nav>
+        </div>
+
+{% endblock %}
