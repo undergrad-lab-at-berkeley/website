@@ -1,32 +1,5 @@
 # -*- coding: utf-8 -*-
 research = {
-    "placeholder": {
-        "date": "23 Sep",
-        "img": "img/project/blog-single.jpg",
-        "title": "A simple image post for starters",
-        "team": ["Craig Garner"],
-        'navbar': "placeholder",
-        "has_mentor": True,
-        "mentor": "ULAB",
-        "content": """<p class='lead'>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        </p>
-                        <p>
-                            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
-                        </p>
-                        <blockquote>
-                            It's our challenges and obstacles that give us layers of depth and make us interesting. Are they fun when they happen? No. But they are what make us unique. And that's what I know for sure... I think.
-                        </blockquote>
-                        <p>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                        </p>
-                        <ul class='bullets'>
-                            <li>Beatae vitae dicta sunt explicabo</li>
-                            <li>Inventore veritatis et quasi architecto</li>
-                            <li>Sed do eiusmod tempor incididunt</li>
-                            <li>Accusamus et iusto odio dignissimos ducimus</li>
-                        </ul>""",
-    },
     "tiny-environmental-impact-group": {
         "date": "17 Nov, 2017",
         "navbar": "Tiny Home Env. Impact",
@@ -82,11 +55,11 @@ research = {
                         <li>Replicate the Haggard Experiment (2009) or a related experiment</li>
                         <li>Use an open-source dataset to learn how to visualize fMRI data over multiple time-points and understand standard fMRI visualization techniques.</li>
                         <div style="padding-left:50px">
-                        
+
                             <li>One possible location to find open-source fMRI data-set is <a href="https://openfmri.org/dataset/", target="_blank">here</a>.</li>
 
                             <li>Be able to justify fMRI results with clinical neuroscience and be able to use segmentation algorithms to track neuronal activation at a macro-structural level in the brain.</li>
-                        
+
                         </div>
                         <li>(Beta) Design a novel research experiment analyzing fMRI data for a patient undergoing a specific task. Submit the raw data for this experiment as a data-set for <a href="https://openfmri.org/contact/" target="_blank">OpenfMRI</a> and write a poster/talk describing the results of this project.</li>
                         <li>(Optional engineering goal) Develop a device which reads input brain data and uses said data to serve as a control of a mechanical or virtual system.</li>
@@ -102,7 +75,7 @@ research = {
         "has_mentor": True,
         "mentor": "Amit Akula",
         "content": """
-                    
+
                     <h4>Overview</h4>
 
                     <p class="lead">Can we infer the "community structure" of individuals in the residence halls given data such as DC traffic data, Facebook data, classes, etc.? What does this data tell us about community formation in the residence halls?
@@ -133,7 +106,7 @@ research = {
         "has_mentor": True,
         "mentor": "Alex Powers",
         "content": """
-                    
+
                     <h4>Our Motivation and Project Overview</h4>
 
                     <p class="lead">Everyone loves food, but sometimes food is deadly. Food is essential, not only to survival, but also to students' well-being now and in the future. Thus, we are interested in examining the impact of cooking under various circumstances on students' long-term health.</p>
@@ -172,7 +145,7 @@ research = {
         "has_mentor": False,
         "mentor": "",
         "content": """
-                    
+
                     <h4>Motivations</h4>
 
                     <p>We noticed many people in our dorm getting sick around the same time. The problems of getting sick include reduction in productivity, inability to attend class/discussions/labs, negative impact emotional/mental health, and additional financial burden</p>

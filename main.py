@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 navProjects = [
     {
-        "url": "/projects/{}".format(x), 
+        "url": "/projects/{}".format(x),
         "name": content.research[x]["navbar"]
     } for x in content.research
 ][1:]
@@ -43,7 +43,7 @@ def aboutus():
     if not team:
         team = content.team.copy()
         for name in team:
-            team[name]['img'] = url_for('static', filename=team[name]['img'])     
+            team[name]['img'] = url_for('static', filename=team[name]['img'])
 
     return render_template("aboutus.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
 
@@ -51,12 +51,12 @@ def aboutus():
 @app.route("/project/<name>")
 @app.route("/projects")
 @app.route("/projects/<name>")
-def project(name="placeholder"):
-    global projects
-    if name not in projects:
-        projects[name] = content.research[name].copy()
-        projects[name]['img'] = url_for('static', filename=projects[name]['img'])
-    return render_template("projects.html", content=projects[name])
+# def project(name="placeholder"):
+#     global projects
+#     if name not in projects:
+#         projects[name] = content.research[name].copy()
+#         projects[name]['img'] = url_for('static', filename=projects[name]['img'])
+#     return render_template("projects.html", content=projects[name])
 
 ##################### Error Handling #####################
 @app.errorhandler(404)
@@ -70,4 +70,3 @@ def internal_server_error(e):
 #################### Main App #####################
 if __name__ == "__main__":
     app.run()
-
