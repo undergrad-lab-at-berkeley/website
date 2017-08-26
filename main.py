@@ -51,12 +51,12 @@ def aboutus():
 @app.route("/project/<name>")
 @app.route("/projects")
 @app.route("/projects/<name>")
-# def project(name="placeholder"):
-#     global projects
-#     if name not in projects:
-#         projects[name] = content.research[name].copy()
-#         projects[name]['img'] = url_for('static', filename=projects[name]['img'])
-#     return render_template("projects.html", content=projects[name])
+def project(name="placeholder"):
+    global projects
+    if name not in projects:
+        projects[name] = content.research[name].copy()
+        projects[name]['img'] = url_for('static', filename=projects[name]['img'])
+    return render_template("projects.html", content=projects[name])
 
 ##################### Error Handling #####################
 @app.errorhandler(404)
