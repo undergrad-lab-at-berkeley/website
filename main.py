@@ -11,6 +11,13 @@ navProjects = [
     } for x in content.research
 ][1:]
 
+about_us = [
+    {
+        "url": "/aboutus/{}".format(x),
+        "name": x,
+    } for x in content.about_us
+][1:]
+
 # cache useful info to prevent reloading
 projects = dict()
 founders = None
