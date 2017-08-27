@@ -165,7 +165,6 @@ research = {
                     """,
     },
 }
-about_us = ["Mission","Founders","Advisors","Team","Partners"]
 foundersOrder = ["Joshua Hug", "Alex Powers", "AMIT AKULA", "MRINALINI SUGOSH", "Dylan Kato", "Michael Oshiro"]
 founders = {
     # "placeholder": {

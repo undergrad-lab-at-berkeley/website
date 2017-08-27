@@ -17,17 +17,8 @@
                                 <li>
                                     <a href="/">Home </a>
                                 </li>
-                                <li class="has-dropdown">
-                                    <a href="#">About US</a>
-                                    <ul>
-                                        {% for item in about_us %}
-                                        <li>
-                                            <a href="{{ item['url'] }}">
-                                                <small>{{ item['name'] }}</small>
-                                            </a>
-                                        </li>
-                                        {% endfor %}
-                                    </ul>
+                                <li>
+                                    <a href="/aboutus">About Us</a>
                                 </li>
                                 <li class="has-dropdown">
                                     <a href="#">Past Research Projects</a>
