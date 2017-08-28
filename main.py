@@ -59,6 +59,9 @@ def project(name="placeholder"):
         projects[name]['img'] = url_for('static', filename=projects[name]['img'])
     return render_template("projects.html", content=projects[name])
 
+@app.route("/jobs")
+def jobs():
+    return render_template("job-board.html")
 ##################### Error Handling #####################
 @app.errorhandler(404)
 def page_not_found(e):
