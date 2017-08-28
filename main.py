@@ -3,6 +3,7 @@ from flask import Flask, render_template, url_for, redirect
 import content
 
 app = Flask(__name__)
+app.config["TEMPLATES_AUTO_RELOAD"] = True
 
 navProjects = [
     {
@@ -69,4 +70,4 @@ def internal_server_error(e):
 
 #################### Main App #####################
 if __name__ == "__main__":
-    app.run()
+    app.run(use_reloader=True, debug=True)
