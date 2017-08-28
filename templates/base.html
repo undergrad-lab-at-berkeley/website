@@ -15,6 +15,7 @@
         <link href="{{ url_for('static', filename='css/theme.css') }}" rel="stylesheet" type="text/css" media="all" />
         <link href="{{ url_for('static', filename='css/custom.css') }} " rel="stylesheet" type="text/css" media="all" />
         <link href="{{ url_for('static', filename='css/custom-font.css') }} " rel="stylesheet" type="text/css" media="all" />
+
         <!-- Favicons -->
         <link rel="apple-touch-icon" sizes="57x57" href="{{ url_for('static', filename='img/favicon/apple-icon-57x57.png') }}">
         <link rel="apple-touch-icon" sizes="60x60" href="{{ url_for('static', filename='img/favicon/apple-icon-60x60.png') }}">
@@ -36,45 +37,22 @@
 
     </head>
     <body class="scroll-assist">
-                
+
         {% block navbar %}
         {% include "nav.html" %}
         {% endblock %}
-        
+
         <div class="main-container">
-            
+
             {% block body %}
             {% endblock %}
-            
+
             {% block footer %}
-            <footer class="footer-2 bg-dark text-center-xs">
-                <div class="container">
-                    <div class="row">
-
-                        <div class="col-sm-4">
-                            <a href="#"><img class="image-xxs fade-half" alt="Logo" src="{{ url_for('static', filename='img/logo.png') }}"></a>
-                            <br>
-                            <a href="https://www.facebook.com/uLab.Berkeley/" target="_blank"><i class="ti-facebook"></i></a>
-                            <a href="mailto:ulab.berkeley@gmail.com"><i class="ti-email"></i></a>
-                            <br>
-                            <span class="fade-half">
-                                © Copyright 2017 ULAB - All Rights Reserved
-                            </span>
-                        </div>
-
-                        <div class="col-sm-4"></div>
-
-                        <div class="col-sm-4 text-right">
-                            <a href="https://www.ocf.berkeley.edu" target="_blank"><img src="https://www.ocf.berkeley.edu/hosting-logos/ocf-hosted-penguin-dark.svg" alt="Hosted by the OCF" class="image-xxs fade-half" style="border: 0;" /></a>
-                            <span class="fade-half"><br><small>We are a student group acting independently of the university of california. We take full responsibility for our organization and this web site.</small></span>
-                        </div>
-                    </div>
-                </div>
-            </footer>
+            {% include "footer.html" %}
             {% endblock %}
 
         </div>
-                
+
         <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
         <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
         <script src="{{ url_for('static', filename='js/flexslider.min.js') }}"></script>
@@ -83,4 +61,3 @@
         <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
     </body>
 </html>
-                
