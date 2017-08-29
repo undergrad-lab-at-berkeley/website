@@ -6,3 +6,8 @@
 .bio-icon i, .bio-icon a {
     color: black;
 }
+
+.social-bookmark-2 > li {
+    display: inline-block;
+    margin: 0 10px;
+}

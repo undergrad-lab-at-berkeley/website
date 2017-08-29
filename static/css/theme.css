@@ -571,13 +571,11 @@ ul.lead li {
 /*!---------- 5. SECTIONS ----------*/
 section,
 footer {
-  padding: 96px 0;
+  padding: 0;
   position: relative;
   overflow: hidden;
 }
-footer {
-  padding: 72px 0;
-}
+
 .fullscreen {
   height: 100vh;
 }
