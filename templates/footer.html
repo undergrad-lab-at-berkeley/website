@@ -1,24 +1,34 @@
 {% block footer %}
-<footer class="footer-2 bg-dark text-center-xs">
+<footer class="footer-area fixed-footer grey-bg footer-style-two" style="border-top: #e0e0e0 solid 1px; padding: 1em 0 1em 0; background-color:#F5F5F5">
     <div class="container">
         <div class="row">
-
-            <div class="col-sm-4">
-                <a href="#"><img class="image-xxs fade-half" alt="Logo" src="{{ url_for('static', filename='img/logo.png') }}"></a>
-                <br>
-                <a href="https://www.facebook.com/uLab.Berkeley/" target="_blank"><i class="ti-facebook"></i></a>
-                <a href="mailto:ulab.berkeley@gmail.com"><i class="ti-email"></i></a>
-                <br>
-                <span class="fade-half">
-                    © Copyright 2017 ULAB - All Rights Reserved
-                </span>
-            </div>
-
-            <div class="col-sm-4"></div>
-
-            <div class="col-sm-4 text-right">
-                <a href="https://www.ocf.berkeley.edu" target="_blank"><img src="https://www.ocf.berkeley.edu/hosting-logos/ocf-hosted-penguin-dark.svg" alt="Hosted by the OCF" class="image-xxs fade-half" style="border: 0;" /></a>
-                <span class="fade-half"><br><small>We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.</small></span>
+            <div class="col-md-12">
+                <div class="text-center">
+                    <div class="footer-logo">
+                        <h3><a href="#">Undergraduate Lab at Berkeley</a></h3>
+                    </div>
+                    <div class="footer-fun-text">
+                      <p style="font-size: 1.3em;
+                              text-transform: uppercase;
+                              letter-spacing: 1.5px;">Get involved.</p>
+                    </div>
+                    <div class="social-bookmark-2-wrapper">
+                        <ul class="social-bookmark-2">
+                            <li><a href="https://www.facebook.com/uLab.Berkeley/"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="mailto:info@ulab.berkeley.edu"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+                        </ul>
+                        <a href="https://www.ocf.berkeley.edu" target="_blank">
+                          <img src="https://www.ocf.berkeley.edu/hosting-logos/ocf-hosted-penguin-dark.svg"
+                            alt="Hosted by the OCF" class="image-xxs fade-half" style="border: 0; margin-bottom: 3px;" />
+                        </a>
+                        <div class="fade-half">
+                            © Copyright 2017 ULAB - All Rights Reserved
+                        </div>
+                        <div class="fade-half">
+                            We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
