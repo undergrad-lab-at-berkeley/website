@@ -348,5 +348,40 @@ team = {
         "github": "",
         "linkedin": "",
         "bio": """I started Berkeley pre-law, pre-med, and engineering because I actually had no idea what I wanted to do. That made Berkeley so much more fun! I worked at the Rent Board. Taught 61B three times. Hiked to abandoned factories across the Golden Gate Bridge. Finally, I found that I was passionate about helping people solve complex problems. Also I'm a better cook than Dylan.""",
-    }
+    },
+    "Phat Pham": {
+        "img": "img/team/phat_pham.jpg",
+        "personal": "",
+        "github": "https://github.com/phatlast96",
+        "linkedin": "https://www.linkedin.com/in/phamphat/",
+        "bio": """A web and mobile developer with an interest in machine learning. Sometimes, I like to open up a good book while sitting in my hammock and drinking a cup of hot tea. Other times, I like to be wild amongst my group of friends. Not much of a partier, but I'll light up your intellectual mind. Always had a bad habit of signing up for more things than I can handle.""",
+    },
+    "Michael Oshiro": {
+        "img": "img/team/michael_oshiro.jpg",
+        "personal": "",
+        "github": "",
+        "linkedin": "",
+        "bio": """Outside of Physics and Math, some of my hobbies include exploring new places, game design, and cooking. I particularly enjoy spicier cuisines like Indian and Thai. """,
+    },
+    "Khang Nguyen": {
+        "img": "img/team/khang_nguyen.jpg",
+        "personal": "",
+        "github": "",
+        "linkedin": "",
+        "bio": """Born and raised in Houston, Texas! When I'm in Berkeley, it's all studying and hard work but when I'm at home, I indulge myself in some video games and Twitch. Aside from video games, listening to music and finding new music is one of my go-to hobbies for when I have nothing to do. If you're trying to find some relaxing music, try Hammock, Stars of the Lid, or Explosions in the Sky :)""",
+    },
+    "Gibson Chu": {
+        "img": "img/team/gibson_chu.jpg",
+        "personal": "",
+        "github": "",
+        "linkedin": "https://www.linkedin.com/in/gibsontchu/",
+        "bio": """Hey there! I'm Gibson Chu, a second year studying Econ and Data Science. I love photography and video-making, so work as the Media Manager for marketing. I also shoot photos for the school's yearbook, as a city government reporter at the Daily Californian and as a director for Cal Hacks. My free time includes playing cards, watching League videos, and catching up on much needed sleep.""",
+    },
+    "Jemma Kwak": {
+        "img": "img/team/jemma_kwak.png",
+        "personal": "https://jemmakwak.github.io/",
+        "github": "",
+        "linkedin": "https://www.linkedin.com/in/jemma-kwak/",
+        "bio": """Hi! I'm Jemma. I love watching Berkeley sunsets from my apartment, scoping out good vegan eats in the area, skateboarding, and long walks on the beach. I've lived in four different states but California is definitely home. You can probably find me around campus in Moffitt(literally, I'm here right now) or teaching web design.""",
+    },
 }
