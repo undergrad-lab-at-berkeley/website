@@ -1,7 +1,7 @@
 import os
 from flask import Flask, render_template, url_for, redirect
 import content
-from api import googleSheetAPI as sheetAPI
+#from api import googleSheetAPI as sheetAPI
 
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
@@ -43,6 +43,7 @@ def aboutus():
 
     global team
     if not team:
+        from api import googleSheetAPI as sheetAPI
         sheetData = sheetAPI.retrieveSpreadsheetData("1GzJxD0LLVln3bZFbTJAgJZ-XkRHv-QRZ7AUUTk7_0Xg", 'A2:M')
         team = sheetAPI.convertToDictionaryFormat(sheetData)
         # team = content.team.copy()
