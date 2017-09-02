@@ -7,6 +7,7 @@ from apiclient import discovery
 from oauth2client import client
 from oauth2client import tools
 from oauth2client.file import Storage
+import os.path
 
 try:
     import argparse
@@ -86,7 +87,9 @@ def convertToDictionaryFormat(values):
         if membershipStatus.lower() == 'active':
             firstName = sheetRow[2]
             lastName = sheetRow[3]
-            profileImage = convertImageURL(sheetRow[5])
+            # profileImage = sheetRow[5]
+            profileImage = convertImageURL(firstName, lastName)
+            print(profileImage)
             personalWebsiteLink = sheetRow[9]
             gitHubLink = sheetRow[7]
             linkedinProfileLink = sheetRow[8]
@@ -100,9 +103,10 @@ def convertToDictionaryFormat(values):
                                         bio=biography)
     return result_dict
 
-def convertImageURL(url):
-    imageID = url.split("/")[-1]
-    return "https://drive.google.com/uc?id={}".format(imageID)
+def convertImageURL(firstName, lastName):
+    imageFileAddr = "img/team/{} {}.jpg".format(firstName.lower(), lastName.lower())
+    imageFileAddr = imageFileAddr.replace(" ", "_")
+    return imageFileAddr
 
 if __name__ == '__main__':
     values = retrieveSpreadsheetData("1GzJxD0LLVln3bZFbTJAgJZ-XkRHv-QRZ7AUUTk7_0Xg", 'A2:M')
