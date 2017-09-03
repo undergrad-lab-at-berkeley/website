@@ -6,8 +6,8 @@
   {% for category in jobs.keys() %}
   <h2>{{ category }} </h2>
   <div class="list-group">
-    {% for job in jobs[category] %}
-    <a href="#" class="list-group-item list-group-item-action">{{ job }}</a>
+    {% for job in jobs[category].keys() %}
+    <a href={{ jobs[category][job]["link"] }} class="list-group-item list-group-item-action">{{ job }}</a>
     {% endfor %}
   </div>
   {% endfor %}

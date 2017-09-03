@@ -387,7 +387,58 @@ team = {
 }
 
 jobs = {
-    "category 1": ["Job #1", "Job #2", "Job #3", "Job #4"],
-    "category 2": ["Job #1", "Job #2", "Job #3", "Job #4"],
-    "category 3": ["Job #1", "Job #2", "Job #3", "Job #4"]
+    "category 1": {
+        "job #1": {
+            "description": "No description",
+            "link": "##"
+        },
+        "job #3": {
+            "description": "No description",
+            "link": "##"
+        },
+        "job #4": {
+            "description": "No description",
+            "link": "#"
+        },
+        "job #5": {
+            "description": "No description",
+            "link": "#"
+        }
+    },
+    "category 2": {
+        "job #1": {
+            "description": "No description",
+            "link": "#"
+        },
+        "job #3": {
+            "description": "No description",
+            "link": "#"
+        },
+        "job #4": {
+            "description": "No description",
+            "link": "#"
+        },
+        "job #5": {
+            "description": "No description",
+            "link": "#"
+        }
+    },
+    "category 3": {
+        "job #1": {
+            "description": "No description",
+            "link": "#"
+        },
+        "job #3": {
+            "description": "No description",
+            "link": "#"
+        },
+        "job #4": {
+            "description": "No description",
+            "link": "#"
+        },
+        "job #5": {
+            "description": "No description",
+            "link": "#"
+        }
+    }
 }
