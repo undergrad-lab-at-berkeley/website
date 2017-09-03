@@ -385,3 +385,9 @@ team = {
         "bio": """Hi! I'm Jemma. I love watching Berkeley sunsets from my apartment, scoping out good vegan eats in the area, skateboarding, and long walks on the beach. I've lived in four different states but California is definitely home. You can probably find me around campus in Moffitt(literally, I'm here right now) or teaching web design.""",
     },
 }
+
+jobs = {
+    "category 1": ["Job #1", "Job #2", "Job #3", "Job #4"],
+    "category 2": ["Job #1", "Job #2", "Job #3", "Job #4"],
+    "category 3": ["Job #1", "Job #2", "Job #3", "Job #4"]
+}

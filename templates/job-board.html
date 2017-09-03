@@ -1,14 +1,16 @@
 {% extends "base.html" %}
 
 {% block body %}
-<section class="fullscreen align-middle" style="font-size:2em; margin:0 2em">
+<section class="align-middle" style="font-size:2em; margin:0 2em">
   <h1 style="text-align: center">Career @ ULAB</h1>
+  {% for category in jobs.keys() %}
+  <h2>{{ category }} </h2>
   <div class="list-group">
-    <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
-    <a href="#" class="list-group-item list-group-item-action">Morbi leo risus</a>
-    <a href="#" class="list-group-item list-group-item-action">Porta ac consectetur ac</a>
-    <a href="#" class="list-group-item list-group-item-action disabled">Vestibulum at eros</a>
+    {% for job in jobs[category] %}
+    <a href="#" class="list-group-item list-group-item-action">{{ job }}</a>
+    {% endfor %}
   </div>
+  {% endfor %}
 
   <script>
     $('.collapse').collapse()

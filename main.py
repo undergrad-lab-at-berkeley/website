@@ -62,7 +62,7 @@ def project(name="placeholder"):
 
 @app.route("/jobs")
 def jobs():
-    return render_template("job-board.html")
+    return render_template("job-board.html", jobs=content.jobs)
 ##################### Error Handling #####################
 @app.errorhandler(404)
 def page_not_found(e):
