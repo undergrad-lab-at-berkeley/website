@@ -420,5 +420,64 @@ jobs = {
             "link": "##",
             "deadline": "2017 Sept 23"
         }
+    },
+    "Cognitive Science": {
+        "Mentor": {
+            "description": "in charge of at least 1 skill, in charge of 1 research project; 2 mentors per project",
+            "qualifications": "coding, computational modeling and mapping of brain, machine learning, expertise in 1 research project area",
+            "commitment": "",
+            "perks": "",
+            "link": "##",
+            "deadline": "2017 Sept 23"
+        },
+        "Lab Tech": {
+            "description": "in charge of at least 1 skill, in charge of 1 research project; 2 mentors per project",
+            "qualifications": "operate EEG OR operate MRI OR computer science expert (stat modeling and mapping of brain)",
+            "commitment": "",
+            "perks": "",
+            "link": "##",
+            "deadline": "2017 Sept 23"
+        }
+    },
+    "Biology": {
+        "Mentor": {
+            "description": "",
+            "qualifications": "",
+            "commitment": "",
+            "perks": "",
+            "link": "##",
+            "deadline": "2017 Sept 23"
+        }
+    },
+    "Physics": {
+        "title": {
+            "description": "",
+            "qualifications": "",
+            "commitment": "",
+            "perks": "",
+            "link": "##",
+            "deadline": "2017 Sept 23"
+        }
+    },
+    "Operations": {
+        "title": {
+            "description": "",
+            "qualifications": "",
+            "commitment": "",
+            "perks": "",
+            "link": "##",
+            "deadline": "2017 Sept 23"
+        }
+    },
+    "Public Affairs": {
+        "title": {
+            "description": "",
+            "qualifications": "",
+            "commitment": "",
+            "perks": "",
+            "link": "##",
+            "deadline": "2017 Sept 23"
+        }
     }
+
 }

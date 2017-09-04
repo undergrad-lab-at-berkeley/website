@@ -3,11 +3,24 @@
 {% block body %}
 <section class="align-middle" style="font-size:2em; margin:0 2em">
   <h1 style="text-align: center">Career @ ULAB</h1>
-  {% for category in jobs.keys() %}
-  <h2>{{ category }} </h2>
+
+  <div class="dropdown show" style='margin-bottom: .8em'>
+    <a class="btn btn-secondary dropdown-toggle" style="margin-bottom: 0"
+        href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Select A Field
+    </a>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="padding: .5em;">
+      {% for category in jobs.keys() %}
+      <a class="dropdown-item" style="display:block" href="/jobs/{{category}}">{{ category }}</a>
+      {% endfor %}
+    </div>
+  </div>
+
+
+  <h2>{{ jobCategory }} </h2>
   <div class="list-group">
-    {% for job in jobs[category].keys() %}
-    <a href={{ jobs[category][job]["link"] }} class="list-group-item list-group-item-action">
+    {% for job in jobs[jobCategory].keys() %}
+    <a href={{ jobs[jobCategory][job]["link"] }} class="list-group-item list-group-item-action">
       <div style="display: inline-block">{{ job }}</div>
 
       <!-- <div class="progress">
@@ -15,17 +28,17 @@
       </div> -->
     </a>
     <div style="padding: 1em 1em">
-      <p>Application Deadline: {{ jobs[category][job]['deadline'] }}</p>
-      <p>{{ jobs[category][job]['description'] }}</p>
-      <p>{{ jobs[category][job]['qualifications'] }}</p>
-      <p>{{ jobs[category][job]['commitment'] }}</p>
-      <p>{{ jobs[category][job]['perks'] }}</p>
+      <p>Application Deadline: {{ jobs[jobCategory][job]['deadline'] }}</p>
+      <p>{{ jobs[jobCategory][job]['description'] }}</p>
+      <p>{{ jobs[jobCategory][job]['qualifications'] }}</p>
+      <p>{{ jobs[jobCategory][job]['commitment'] }}</p>
+      <p>{{ jobs[jobCategory][job]['perks'] }}</p>
     </div>
 
 
     {% endfor %}
   </div>
-  {% endfor %}
+
 
 </section>
 {% endblock %}

@@ -61,8 +61,10 @@ def project(name="placeholder"):
     return render_template("projects.html", content=projects[name])
 
 @app.route("/jobs")
-def jobs():
-    return render_template("job-board.html", jobs=content.jobs)
+@app.route("/jobs/<category>")
+def getJobs(category="Computer Science"):
+    return render_template("job-board.html", jobs=content.jobs, jobCategory=category)
+
 ##################### Error Handling #####################
 @app.errorhandler(404)
 def page_not_found(e):
