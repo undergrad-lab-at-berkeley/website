@@ -387,58 +387,38 @@ team = {
 }
 
 jobs = {
-    "category 1": {
-        "job #1": {
-            "description": "No description",
-            "link": "##"
+    "Computer Science": {
+        "Mentor (ML)": {
+            "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
+            "qualifications": "Experience with Machine Learning, CS189 or some equivalent learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
+            "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
+            "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers",
+            "link": "##",
+            "deadline": "2017 Sept 23"
         },
-        "job #3": {
-            "description": "No description",
-            "link": "##"
+        "Mentor (NLP)": {
+            "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
+            "qualifications": "Experience with Natural Language Processing, INFO 159 or some equivalent learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
+            "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
+            "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers",
+            "link": "##",
+            "deadline": "2017 Sept 23"
         },
-        "job #4": {
-            "description": "No description",
-            "link": "#"
+        "Mentor (AI)": {
+            "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
+            "qualifications": "Experience with Artificial Intelligence, CS188 or some equivalent learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
+            "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
+            "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers",
+            "link": "##",
+            "deadline": "2017 Sept 23"
         },
-        "job #5": {
-            "description": "No description",
-            "link": "#"
-        }
-    },
-    "category 2": {
-        "job #1": {
-            "description": "No description",
-            "link": "#"
-        },
-        "job #3": {
-            "description": "No description",
-            "link": "#"
-        },
-        "job #4": {
-            "description": "No description",
-            "link": "#"
-        },
-        "job #5": {
-            "description": "No description",
-            "link": "#"
-        }
-    },
-    "category 3": {
-        "job #1": {
-            "description": "No description",
-            "link": "#"
-        },
-        "job #3": {
-            "description": "No description",
-            "link": "#"
-        },
-        "job #4": {
-            "description": "No description",
-            "link": "#"
-        },
-        "job #5": {
-            "description": "No description",
-            "link": "#"
+        "Mentor (HCI)": {
+            "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
+            "qualifications": "Experience with Human Computer Interaction, Preferably a Cognitive Science major, CS160, or relevant learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
+            "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
+            "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers",
+            "link": "##",
+            "deadline": "2017 Sept 23"
         }
     }
 }

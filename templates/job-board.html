@@ -7,13 +7,25 @@
   <h2>{{ category }} </h2>
   <div class="list-group">
     {% for job in jobs[category].keys() %}
-    <a href={{ jobs[category][job]["link"] }} class="list-group-item list-group-item-action">{{ job }}</a>
+    <a href={{ jobs[category][job]["link"] }} class="list-group-item list-group-item-action">
+      <div style="display: inline-block">{{ job }}</div>
+
+      <!-- <div class="progress">
+        <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+      </div> -->
+    </a>
+    <div style="padding: 1em 1em">
+      <p>Application Deadline: {{ jobs[category][job]['deadline'] }}</p>
+      <p>{{ jobs[category][job]['description'] }}</p>
+      <p>{{ jobs[category][job]['qualifications'] }}</p>
+      <p>{{ jobs[category][job]['commitment'] }}</p>
+      <p>{{ jobs[category][job]['perks'] }}</p>
+    </div>
+
+
     {% endfor %}
   </div>
   {% endfor %}
 
-  <script>
-    $('.collapse').collapse()
-  </script>
 </section>
 {% endblock %}
