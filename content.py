@@ -465,16 +465,6 @@ jobs = {
                 "deadline": "Applications accepted on a rolling basis"
             },
         },
-        "Engineering": {
-            "Mentor": {
-                "description": "TBD"
-                "qualifications": "",
-                "commitment": "",
-                "perks": "",
-                "link": "##",
-                "deadline": "",
-            },
-        },
         "Physics": {
             "Mentor": {
                 "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
