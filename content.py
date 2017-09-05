@@ -494,7 +494,7 @@ jobs = {
             },
         },
         "ULAB Executive Team": {
-            "Operations Team - Graphic Designer": {
+            "Graphic Designer": {
                 "description": "TBD",
                 "qualifications": "",
                 "commitment": "",
@@ -503,7 +503,7 @@ jobs = {
                 "deadline": "",
             },
 
-            "Public Affairs Team - Social Media Manager": {
+            "Social Media Manager": {
                 "description": "TBD",
                 "qualifications": "",
                 "commitment": "",
