@@ -455,4 +455,14 @@ jobs = {
                 "deadline": "2017 Sept 30"
             },
         },
+        "Biology": {
+            "Mentor": {
+                "description": "Research labs are composed of a principal investigator who oversees research projects . As ULAB is run entirely by undergraduates, the core of our program is small teams of students who will spend two semesters on a research project that will be in partner with one or more research labs on campus. The purpose of mentors are to assist selected student on this project by providing advice, assistance in lab techniques, and help brainstorm and develop future research workshops.",
+                "qualifications": "Research experience is required as we are looking for individuals who can reflect on their own experiences to provide advice to students.",
+                "commitment": "5-6 hours a week",
+                "perks": "This position will provide you with many opportunities to both network with research labs on campus. This will also give you the opportunity to learn any lab techniques of your interest. Course Credit is Available",
+                "link": "https://goo.gl/forms/NBnH2lWeR8mtYLX12",
+                "deadline": "Applications accepted on a rolling basis"
+            },
+        },
 }
