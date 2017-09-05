@@ -465,4 +465,32 @@ jobs = {
                 "deadline": "Applications accepted on a rolling basis"
             },
         },
+        "Engineering": {
+            "Mentor": {
+                "description": "TBD"
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "##",
+                "deadline": "",
+            },
+        },
+        "Physics": {
+            "Mentor": {
+                "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+                "qualifications": "At least four months of previous research experience, Some mentoring or teaching experience is recommended but not required, We are especially looking for astronomy and astrophysics majors, but all subfields are welcome, ",
+                "commitment": "5 - 6 hrs a week",
+                "perks": "Ability to help a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/Ifb65eRQwlnTavDa2",
+                "deadline": "We will review applications on a rolling basis until September 15th, or until all our positions have been filled."
+            },
+            "Lab Manager": {
+                "description": "The lab manager is effectively chief of staff, handling administrative and equipment-related logistics. As ULAB is run entirely by undergraduates, the core of our program is small teams of 5 students who work with experienced mentors on research projects for a year. The lab manager is responsible for coordinating with the mentors and other ULAB teams to ensure these projects run smoothly. In addition, the lab manager will oversee the onboarding of hired staff, maintain a roster of staff and assignments, recruit and review applicants, and manage staff resources. The lab manager will work together with the ULAB operations division to get staff on-board, obtain necessary equipment, learn about safety/research policies, and training. The operations division will also assist the lab manager in building and maintaining relationships with on-campus labs to access instruments. ",
+                "qualifications": "Research experience is preferred, but we're looking for individuals who are detail-oriented, can meet deadlines, and are passionate about getting undergraduates into research! As lab manager, you'll be networking with professors to partner with their labs, and learning how to use their equipment.",
+                "commitment": "6-8 hours a week",
+                "perks": "Ability to help a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers",
+                "link": "https://goo.gl/forms/UeSSpXuKGBbSygJf2",
+                "deadline": "We will review applications on a rolling basis until September 15th, or until all our positions have been filled. You can contact Yasmeen Musthafa at yasmeenm@ulab.berkeley.edu with any questions. Course Credit is Available. "
+            },
+        },
 }
