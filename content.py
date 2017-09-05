@@ -483,16 +483,6 @@ jobs = {
                 "deadline": "We will review applications on a rolling basis until September 15th, or until all our positions have been filled. You can contact Yasmeen Musthafa at yasmeenm@ulab.berkeley.edu with any questions. Course Credit is Available. "
             },
         },
-        "Engineering": {
-            "Mentor": {
-                "description": "TBD"
-                "qualifications": "",
-                "commitment": "",
-                "perks": "",
-                "link": "##",
-                "deadline": "TBD",
-            },
-        },
         "ULAB Executive Team": {
             "Graphic Designer": {
                 "description": "TBD",
@@ -504,6 +494,16 @@ jobs = {
             },
 
             "Social Media Manager": {
+                "description": "TBD",
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "##",
+                "deadline": "TBD",
+            },
+        },
+        "Engineering": {
+            "Mentor": {
                 "description": "TBD",
                 "qualifications": "",
                 "commitment": "",
