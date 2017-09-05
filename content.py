@@ -421,4 +421,38 @@ jobs = {
             "deadline": "2017 Sept 23"
         }
     },
+        "Cognitive Science": {
+            "Mentor (Libet Experiment)": {
+                "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+                "qualifications": "Familiarity with the Libet Exeriment + relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and CS 1) Knowledge of EEG theory and operation (preferred) 2) knowledge of general neuroanatomy and neurobio (psych 117, psych c127 are good), Basic CS Skills",
+                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+                "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+                "deadline": "2017 Sept 16"
+            },
+            "Mentor (Mapping Neural Networks)": {
+                "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+                "qualifications": "Relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and CS 1) knowledge of general neuroanatomy and neurobio (psych 117, psych c127 are good options) 2), CS requirements:CS61B, CS188 or equivalent",
+                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+                "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+                "deadline": "2017 Sept 16"
+            },
+            "Mentor (Mapping Neural Networks)": {
+                "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+                "qualifications": "Relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and/or CS",
+                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+                "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+                "deadline": "2017 Sept 16"
+            },
+            "Lab Tech": {
+                "description": "Helps with logistics and running experiments for the lab",
+                "qualifications": "operate EEG OR operate MRI OR computer science expert (stat modeling and mapping of brain)",
+                "commitment": "~5 Hours/Week",
+                "perks": "Ability to help a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+                "deadline": "2017 Sept 30"
+            },
+        },
 }
