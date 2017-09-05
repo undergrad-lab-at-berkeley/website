@@ -485,7 +485,7 @@ jobs = {
         },
         "Engineering": {
             "Mentor": {
-                "description": ""
+                "description": "TBD"
                 "qualifications": "",
                 "commitment": "",
                 "perks": "",
@@ -495,7 +495,7 @@ jobs = {
         },
         "ULAB Executive Team": {
             "Graphic Designer": {
-                "description": "",
+                "description": "TBD",
                 "qualifications": "",
                 "commitment": "",
                 "perks": "",
@@ -504,7 +504,7 @@ jobs = {
             },
 
             "Social Media Manager": {
-                "description": "",
+                "description": "TBD",
                 "qualifications": "",
                 "commitment": "",
                 "perks": "",
