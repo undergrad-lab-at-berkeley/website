@@ -66,7 +66,7 @@ def getJobs(category="Computer Science"):
     return render_template("job-board.html", jobs=content.jobs, jobCategory=category)
 
 @app.route("/workshop_bootcamp")
-def aboutus():
+def workshop_bootcamp():
     global founders
     if not founders:
         founders = content.founders.copy()
