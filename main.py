@@ -65,6 +65,28 @@ def project(name="placeholder"):
 def getJobs(category="Computer Science"):
     return render_template("job-board.html", jobs=content.jobs, jobCategory=category)
 
+@app.route("/workshop_bootcamp")
+def aboutus():
+    global founders
+    if not founders:
+        founders = content.founders.copy()
+        for name in founders:
+            founders[name]['img'] = url_for('static', filename=founders[name]['img'])
+
+    global advisors
+    if not advisors:
+        advisors = content.advisors.copy()
+        for name in advisors:
+            advisors[name]['img'] = url_for('static', filename=advisors[name]['img'])
+
+    global team
+    if not team:
+        team = content.team.copy()
+        for name in team:
+            team[name]['img'] = url_for('static', filename=team[name]['img'])
+
+    return render_template("workshop_bootcamp.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
+
 ##################### Error Handling #####################
 @app.errorhandler(404)
 def page_not_found(e):
