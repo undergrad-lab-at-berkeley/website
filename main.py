@@ -65,8 +65,8 @@ def project(name="placeholder"):
 def getJobs(category="Computer Science"):
     return render_template("job-board.html", jobs=content.jobs, jobCategory=category)
 
-@app.route("/workshop_bootcamp")
-def workshop_bootcamp():
+@app.route("/bootcamp")
+def bootcamp():
     global founders
     if not founders:
         founders = content.founders.copy()
@@ -85,7 +85,7 @@ def workshop_bootcamp():
         for name in team:
             team[name]['img'] = url_for('static', filename=team[name]['img'])
 
-    return render_template("workshop_bootcamp.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
+    return render_template("bootcamp.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
 
 ##################### Error Handling #####################
 @app.errorhandler(404)
