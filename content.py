@@ -228,11 +228,6 @@ advisors = {
         "img": "img/team/josh_hug.jpg",
         "bio": """Joshua Hug is a teaching professor at Berkeley and previously a lecturer for Computer Science at Princeton University. He completed his PhD in EECS at UC Berkeley in 2011. His primary research interest is in learning at scale and he has developed large scalable teaching models for CS61B and CS188. His passion for finding new and better ways to educate students led him to advise and support ULAB.""",
     },
-    "Diana Lizzarga": {
-        "title": "Faculty Advisor",
-        "img": "img/team/diana_lizzarga.jpg",
-        "bio": """Diana is the current director of Cal Nerds and has over 20 years of experience in higher education and improving equity and access. Currently she directs seven equity and success programs/initiatives. She is also working on her doctorate in educational leadership at UC Davis. She works with ULAB on developing niche workshops for students and advising on how to recruit and retain non-traditional students.""",
-    },
     "MaryAnn Robak": {
         "title": "Faculty Advisor",
         "img": "img/team/mary_ann_robak.jpg",
