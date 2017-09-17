@@ -272,13 +272,13 @@ team = {
         "linkedin": "",
         "bio": """I like to sing out loud in my apartment despite the never-ending fear of my neighbors judging me. My homemade speciality is carbonara tacos. Also, I love psychology, politics, and really anything that gets me thinking. """
     },
-    "Annie Tang": {
-        "img": "img/team/annie_tang.jpg",
-        "personal": "",
-        "github": "https://github.com/anniewtang",
-        "linkedin": "https://www.linkedin.com/in/anniewtang/",
-        "bio": """In my spare time I like to wander through the aisles of 85c and am constantly listening to music (I actually don't believe I've gone a single day since the 6th grade without listening to music). I also have a (un)healthy collection of stationery, and quite enjoy the colors yellow and orange. Coincidentally, I also love ba""as and oranges. Correlation? Causation? Who knows!"""
-    },
+    # "Annie Tang": {
+    #     "img": "img/team/annie_tang.jpg",
+    #     "personal": "",
+    #     "github": "https://github.com/anniewtang",
+    #     "linkedin": "https://www.linkedin.com/in/anniewtang/",
+    #     "bio": """In my spare time I like to wander through the aisles of 85c and am constantly listening to music (I actually don't believe I've gone a single day since the 6th grade without listening to music). I also have a (un)healthy collection of stationery, and quite enjoy the colors yellow and orange. Coincidentally, I also love ba""as and oranges. Correlation? Causation? Who knows!"""
+    # },
     "Min Young Kim": {
         "img": "img/team/min_young_kim.jpg",
         "personal": "",
@@ -293,13 +293,13 @@ team = {
         "linkedin": "",
         "bio": """Hello! My name is May Myat Mon but you can call me Margaret. I enjoy spending quality time with my family and friends. Aside from academics, I love playing badminton and watching movies! :) """
     },
-    "Cecilia Li": {
-        "img": "img/team/cecilia_li.jpg",
-        "personal": "",
-        "github": "",
-        "linkedin": "https://www.linkedin.com/in/cecilia-li/",
-        "bio": """Hi everyone! My name is Cecilia, a rising sophomore studying statistics and industrial research business. I was originally born in China, immigrated to Toronto, Canada at an early age and moved between both countries in the last ten years. I like outdoor activities and also learning DSLR photography. You can find me exploring new places, taking long walks on the beach, and always eating food :) """
-    },
+    # "Cecilia Li": {
+    #     "img": "img/team/cecilia_li.jpg",
+    #     "personal": "",
+    #     "github": "",
+    #     "linkedin": "https://www.linkedin.com/in/cecilia-li/",
+    #     "bio": """Hi everyone! My name is Cecilia, a rising sophomore studying statistics and industrial research business. I was originally born in China, immigrated to Toronto, Canada at an early age and moved between both countries in the last ten years. I like outdoor activities and also learning DSLR photography. You can find me exploring new places, taking long walks on the beach, and always eating food :) """
+    # },
     "Glenn Parham": {
         "img": "img/team/glenn_parham.jpg",
         "personal": "",
