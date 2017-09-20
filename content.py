@@ -228,11 +228,6 @@ advisors = {
         "img": "img/team/josh_hug.jpg",
         "bio": """Joshua Hug is a teaching professor at Berkeley and previously a lecturer for Computer Science at Princeton University. He completed his PhD in EECS at UC Berkeley in 2011. His primary research interest is in learning at scale and he has developed large scalable teaching models for CS61B and CS188. His passion for finding new and better ways to educate students led him to advise and support ULAB.""",
     },
-    "MaryAnn Robak": {
-        "title": "Faculty Advisor",
-        "img": "img/team/mary_ann_robak.jpg",
-        "bio": """Professor Robak is a lecturer in the College of Chemistry, teaching several undergraduate organic chemistry classes such as Chemistry 112B and Chemistry 115. Having taught on campus for nearly seven years after getting her Ph.D. at Cal, she is deeply passionate about providing an enjoyable and intellectually stimulating experience for undergraduates. Next year, Professor Robak hopes to re-vamp the organic chemistry curriculum and is excited for a collaboration with ULAB.""",
-    },
     "Alex Powers": {
         "title": "Cofounder",
         "img": "img/team/alex_power.jpg",
@@ -372,13 +367,13 @@ team = {
         "linkedin": "https://www.linkedin.com/in/gibsontchu/",
         "bio": """Hey there! I'm Gibson Chu, a second year studying Econ and Data Science. I love photography and video-making, so work as the Media Manager for marketing. I also shoot photos for the school's yearbook, as a city government reporter at the Daily Californian and as a director for Cal Hacks. My free time includes playing cards, watching League videos, and catching up on much needed sleep.""",
     },
-    "Jemma Kwak": {
-        "img": "img/team/jemma_kwak.png",
-        "personal": "https://jemmakwak.github.io/",
-        "github": "",
-        "linkedin": "https://www.linkedin.com/in/jemma-kwak/",
-        "bio": """Hi! I'm Jemma. I love watching Berkeley sunsets from my apartment, scoping out good vegan eats in the area, skateboarding, and long walks on the beach. I've lived in four different states but California is definitely home. You can probably find me around campus in Moffitt(literally, I'm here right now) or teaching web design.""",
-    },
+    # "Jemma Kwak": {
+    #     "img": "img/team/jemma_kwak.png",
+    #     "personal": "https://jemmakwak.github.io/",
+    #     "github": "",
+    #     "linkedin": "https://www.linkedin.com/in/jemma-kwak/",
+    #     "bio": """Hi! I'm Jemma. I love watching Berkeley sunsets from my apartment, scoping out good vegan eats in the area, skateboarding, and long walks on the beach. I've lived in four different states but California is definitely home. You can probably find me around campus in Moffitt(literally, I'm here right now) or teaching web design.""",
+    # },
 }
 
 jobs = {
