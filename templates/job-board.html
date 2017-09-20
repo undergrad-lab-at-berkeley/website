@@ -35,7 +35,9 @@
       <p style="font-size:16px">{{ jobs[jobCategory][job]['perks'] }}</p>
     </div>
 
-
+    <a type="button" href={{ jobs[jobCategory][job]["link"] }} class="btn btn-primary btn-sm" style="color: white; background: #47b475;">
+      Apply
+    </a>
     {% endfor %}
   </div>
 
