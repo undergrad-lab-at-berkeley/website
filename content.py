@@ -384,7 +384,7 @@ jobs = {
             "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
             "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
             "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
-            "deadline": "Rolling"
+            "deadline": "On a Rolling Basis"
         },
         "Mentor (NLP)": {
             "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
@@ -392,7 +392,7 @@ jobs = {
             "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
             "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
             "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
-            "deadline": "Rolling"
+            "deadline": "On a Rolling Basis"
         },
         "Mentor (AI)": {
             "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
@@ -400,7 +400,7 @@ jobs = {
             "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
             "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
             "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
-            "deadline": "Rolling"
+            "deadline": "On a Rolling Basis"
         },
         "Mentor (HCI)": {
             "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
@@ -408,7 +408,7 @@ jobs = {
             "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
             "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
             "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
-            "deadline": "Rolling"
+            "deadline": "On a Rolling Basis"
         }
     },
         "Cognitive Science": {
