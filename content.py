@@ -494,4 +494,38 @@ jobs = {
                 "deadline": "TBD",
             },
         },
+        "Partnerships and Analytics": {
+            "Liaison": {
+                "description": "TBD",
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "https://drive.google.com/open?id=1Yfh5cuMHsSx78gTNM1vCkTfTJ1Ut3Js8IUqAAqogpkM",
+                "deadline": "Rolling",
+            },
+            "Investigative Journalist": {
+                "description": "TBD",
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "https://drive.google.com/open?id=1uAXYYsqQhjGEzrcHHw9NOgL2pgucDDm74WzaxZD209E",
+                "deadline": "Rolling",
+            },
+            "Data & Technical Forensics Analyst": {
+                "description": "TBD",
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "https://drive.google.com/open?id=1Adoyfl00TFUyYiK8s1nmnF_VgtwAcsAMae48x-_7Uwo",
+                "deadline": "Rolling",
+            },
+            "Business Operations Analyst": {
+                "description": "TBD",
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "https://drive.google.com/open?id=1BQLddYZHO6dwUGITRsWmFSxFgmE8wcGeuzgFKVi2Y2s",
+                "deadline": "Rolling",
+            },
+        },
 }
