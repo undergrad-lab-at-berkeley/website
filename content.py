@@ -311,20 +311,20 @@ team = {
         "linkedin": "",
         "bio": """I'm a Minnesotan-turned-Californian girl with many, many interests and I am incredibly indecisive. I am happiest when I am outdoors whether it is walking, swimming, hiking, biking, or just lounging around. I adore nature, animals, and sunshine! My family and friends are super important to me, but I'm also always down to meet new people and try new things."""
     },
-    "Kyle Nguyen": {
-        "img": "img/team/kyle_nguyen.jpg",
-        "personal": "",
-        "github": "",
-        "linkedin": "https://www.linkedin.com/in/nguyenkyle",
-        "bio": """Outside of school, I'm an avid nature enthusiast and frequently hike. In addition to hiking I have also gone spearfishing and spelunking. In addition to the nature, I love animals and have a cat at home. I am also a car enthusiast and own 2 mazda miatas."""
-    },
-    "Ashvin  Nihalani": {
-        "img": "img/team/ashvin_nihalani.jpg",
-        "personal": "http://www.theashvin.xyz/",
-        "github": "https://github.com/ashvinnihalani",
-        "linkedin": "https://www.linkedin.com/in/ashvinnihalani/",
-        "bio": """I am a chill basketball player who likes to read. I love tinkering as it gives me a chance to explore some mechanics and fields I never delve into."""
-    },
+    # "Kyle Nguyen": {
+    #     "img": "img/team/kyle_nguyen.jpg",
+    #     "personal": "",
+    #     "github": "",
+    #     "linkedin": "https://www.linkedin.com/in/nguyenkyle",
+    #     "bio": """Outside of school, I'm an avid nature enthusiast and frequently hike. In addition to hiking I have also gone spearfishing and spelunking. In addition to the nature, I love animals and have a cat at home. I am also a car enthusiast and own 2 mazda miatas."""
+    # },
+    # "Ashvin  Nihalani": {
+    #     "img": "img/team/ashvin_nihalani.jpg",
+    #     "personal": "http://www.theashvin.xyz/",
+    #     "github": "https://github.com/ashvinnihalani",
+    #     "linkedin": "https://www.linkedin.com/in/ashvinnihalani/",
+    #     "bio": """I am a chill basketball player who likes to read. I love tinkering as it gives me a chance to explore some mechanics and fields I never delve into."""
+    # },
     "Richard Cai": {
         "img": "img/team/richard_cai.jpg",
         "personal": "",
@@ -360,13 +360,13 @@ team = {
         "linkedin": "",
         "bio": """Born and raised in Houston, Texas! When I'm in Berkeley, it's all studying and hard work but when I'm at home, I indulge myself in some video games and Twitch. Aside from video games, listening to music and finding new music is one of my go-to hobbies for when I have nothing to do. If you're trying to find some relaxing music, try Hammock, Stars of the Lid, or Explosions in the Sky :)""",
     },
-    "Gibson Chu": {
-        "img": "img/team/gibson_chu.jpg",
-        "personal": "",
-        "github": "",
-        "linkedin": "https://www.linkedin.com/in/gibsontchu/",
-        "bio": """Hey there! I'm Gibson Chu, a second year studying Econ and Data Science. I love photography and video-making, so work as the Media Manager for marketing. I also shoot photos for the school's yearbook, as a city government reporter at the Daily Californian and as a director for Cal Hacks. My free time includes playing cards, watching League videos, and catching up on much needed sleep.""",
-    },
+    # "Gibson Chu": {
+    #     "img": "img/team/gibson_chu.jpg",
+    #     "personal": "",
+    #     "github": "",
+    #     "linkedin": "https://www.linkedin.com/in/gibsontchu/",
+    #     "bio": """Hey there! I'm Gibson Chu, a second year studying Econ and Data Science. I love photography and video-making, so work as the Media Manager for marketing. I also shoot photos for the school's yearbook, as a city government reporter at the Daily Californian and as a director for Cal Hacks. My free time includes playing cards, watching League videos, and catching up on much needed sleep.""",
+    # },
     # "Jemma Kwak": {
     #     "img": "img/team/jemma_kwak.png",
     #     "personal": "https://jemmakwak.github.io/",
@@ -384,7 +384,7 @@ jobs = {
             "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
             "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
             "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
-            "deadline": "2017 Sept 23"
+            "deadline": "On a Rolling Basis"
         },
         "Mentor (NLP)": {
             "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
@@ -392,7 +392,7 @@ jobs = {
             "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
             "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
             "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
-            "deadline": "2017 Sept 23"
+            "deadline": "On a Rolling Basis"
         },
         "Mentor (AI)": {
             "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
@@ -400,7 +400,7 @@ jobs = {
             "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
             "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
             "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
-            "deadline": "2017 Sept 23"
+            "deadline": "On a Rolling Basis"
         },
         "Mentor (HCI)": {
             "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
@@ -408,7 +408,7 @@ jobs = {
             "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
             "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
             "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
-            "deadline": "2017 Sept 23"
+            "deadline": "On a Rolling Basis"
         }
     },
         "Cognitive Science": {
