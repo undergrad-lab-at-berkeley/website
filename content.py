@@ -464,6 +464,14 @@ jobs = {
                 "link": "https://goo.gl/forms/Ifb65eRQwlnTavDa2",
                 "deadline": "We will review applications on a rolling basis until September 15th, or until all our positions have been filled."
             },
+            "Condensed Matter/Physical Chemistry Mentor": {
+                "description": "	Spending 2-4 hours a week mentoring and guiding students in creating their own research proposal as related to physical chemistry and condensed matter physics",
+                "qualifications": "4 months or more of research experience in a MSE, Chemistry, Condensed Matter or related lab.",
+                "commitment": "2-4 hours a week",
+                "perks": "Ability to help a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/Ifb65eRQwlnTavDa2",
+                "deadline": "We will review applications on a rolling basis until September 15th, or until all our positions have been filled."
+            },
         },
         "ULAB Executive Team": {
             "Graphic Designer": {
