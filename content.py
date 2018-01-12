@@ -537,13 +537,13 @@ jobs = {
             },
         },
         "Advanced Technologies Group": {
-            "Membership Application": {
+            "Software Developer Application": {
                 "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
-                "qualifications": "Taken CS 61B, had software engineering internship experience, OR must be any engineering upper-division student",
-                "commitment": "90 minutes a week of mandatory meeting with the rest of the ATG group in addition to 2-3 hours a week developing with one's designated team.",
-                "perks": "Membership perks include working with other developers with experience in all kinds of technologies, work on new technologies, visit labs, have meeting with clients, & attend fun social events",
+                "qualifications": "MUST have taken CS 61B",
+                "commitment": "Time commitment inludes 90 minutes a week of mandatory meeting with the rest of the ATG group in addition to 6-9 hours a week developing with one's designated team.",
+                "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
                 "link": "https://goo.gl/forms/kiQXLwG1JOrZkWHR2",
-                "deadline": "Rolling applicationwith a hard deadline on February 3rd",
+                "deadline": "February 3rd, 2018",
             },
         },
 }
