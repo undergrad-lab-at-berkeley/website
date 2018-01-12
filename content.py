@@ -228,16 +228,6 @@ advisors = {
         "img": "img/team/josh_hug.jpg",
         "bio": """Joshua Hug is a teaching professor at Berkeley and previously a lecturer for Computer Science at Princeton University. He completed his PhD in EECS at UC Berkeley in 2011. His primary research interest is in learning at scale and he has developed large scalable teaching models for CS61B and CS188. His passion for finding new and better ways to educate students led him to advise and support ULAB.""",
     },
-    "Diana Lizzarga": {
-        "title": "Faculty Advisor",
-        "img": "img/team/diana_lizzarga.jpg",
-        "bio": """Diana is the current director of Cal Nerds and has over 20 years of experience in higher education and improving equity and access. Currently she directs seven equity and success programs/initiatives. She is also working on her doctorate in educational leadership at UC Davis. She works with ULAB on developing niche workshops for students and advising on how to recruit and retain non-traditional students.""",
-    },
-    "MaryAnn Robak": {
-        "title": "Faculty Advisor",
-        "img": "img/team/mary_ann_robak.jpg",
-        "bio": """Professor Robak is a lecturer in the College of Chemistry, teaching several undergraduate organic chemistry classes such as Chemistry 112B and Chemistry 115. Having taught on campus for nearly seven years after getting her Ph.D. at Cal, she is deeply passionate about providing an enjoyable and intellectually stimulating experience for undergraduates. Next year, Professor Robak hopes to re-vamp the organic chemistry curriculum and is excited for a collaboration with ULAB.""",
-    },
     "Alex Powers": {
         "title": "Cofounder",
         "img": "img/team/alex_power.jpg",
@@ -272,13 +262,13 @@ team = {
         "linkedin": "",
         "bio": """I like to sing out loud in my apartment despite the never-ending fear of my neighbors judging me. My homemade speciality is carbonara tacos. Also, I love psychology, politics, and really anything that gets me thinking. """
     },
-    "Annie Tang": {
-        "img": "img/team/annie_tang.jpg",
-        "personal": "",
-        "github": "https://github.com/anniewtang",
-        "linkedin": "https://www.linkedin.com/in/anniewtang/",
-        "bio": """In my spare time I like to wander through the aisles of 85c and am constantly listening to music (I actually don't believe I've gone a single day since the 6th grade without listening to music). I also have a (un)healthy collection of stationery, and quite enjoy the colors yellow and orange. Coincidentally, I also love ba""as and oranges. Correlation? Causation? Who knows!"""
-    },
+    # "Annie Tang": {
+    #     "img": "img/team/annie_tang.jpg",
+    #     "personal": "",
+    #     "github": "https://github.com/anniewtang",
+    #     "linkedin": "https://www.linkedin.com/in/anniewtang/",
+    #     "bio": """In my spare time I like to wander through the aisles of 85c and am constantly listening to music (I actually don't believe I've gone a single day since the 6th grade without listening to music). I also have a (un)healthy collection of stationery, and quite enjoy the colors yellow and orange. Coincidentally, I also love ba""as and oranges. Correlation? Causation? Who knows!"""
+    # },
     "Min Young Kim": {
         "img": "img/team/min_young_kim.jpg",
         "personal": "",
@@ -293,13 +283,13 @@ team = {
         "linkedin": "",
         "bio": """Hello! My name is May Myat Mon but you can call me Margaret. I enjoy spending quality time with my family and friends. Aside from academics, I love playing badminton and watching movies! :) """
     },
-    "Cecilia Li": {
-        "img": "img/team/cecilia_li.jpg",
-        "personal": "",
-        "github": "",
-        "linkedin": "https://www.linkedin.com/in/cecilia-li/",
-        "bio": """Hi everyone! My name is Cecilia, a rising sophomore studying statistics and industrial research business. I was originally born in China, immigrated to Toronto, Canada at an early age and moved between both countries in the last ten years. I like outdoor activities and also learning DSLR photography. You can find me exploring new places, taking long walks on the beach, and always eating food :) """
-    },
+    # "Cecilia Li": {
+    #     "img": "img/team/cecilia_li.jpg",
+    #     "personal": "",
+    #     "github": "",
+    #     "linkedin": "https://www.linkedin.com/in/cecilia-li/",
+    #     "bio": """Hi everyone! My name is Cecilia, a rising sophomore studying statistics and industrial research business. I was originally born in China, immigrated to Toronto, Canada at an early age and moved between both countries in the last ten years. I like outdoor activities and also learning DSLR photography. You can find me exploring new places, taking long walks on the beach, and always eating food :) """
+    # },
     "Glenn Parham": {
         "img": "img/team/glenn_parham.jpg",
         "personal": "",
@@ -321,20 +311,20 @@ team = {
         "linkedin": "",
         "bio": """I'm a Minnesotan-turned-Californian girl with many, many interests and I am incredibly indecisive. I am happiest when I am outdoors whether it is walking, swimming, hiking, biking, or just lounging around. I adore nature, animals, and sunshine! My family and friends are super important to me, but I'm also always down to meet new people and try new things."""
     },
-    "Kyle Nguyen": {
-        "img": "img/team/kyle_nguyen.jpg",
-        "personal": "",
-        "github": "",
-        "linkedin": "https://www.linkedin.com/in/nguyenkyle",
-        "bio": """Outside of school, I'm an avid nature enthusiast and frequently hike. In addition to hiking I have also gone spearfishing and spelunking. In addition to the nature, I love animals and have a cat at home. I am also a car enthusiast and own 2 mazda miatas."""
-    },
-    "Ashvin  Nihalani": {
-        "img": "img/team/ashvin_nihalani.jpg",
-        "personal": "http://www.theashvin.xyz/",
-        "github": "https://github.com/ashvinnihalani",
-        "linkedin": "https://www.linkedin.com/in/ashvinnihalani/",
-        "bio": """I am a chill basketball player who likes to read. I love tinkering as it gives me a chance to explore some mechanics and fields I never delve into."""
-    },
+    # "Kyle Nguyen": {
+    #     "img": "img/team/kyle_nguyen.jpg",
+    #     "personal": "",
+    #     "github": "",
+    #     "linkedin": "https://www.linkedin.com/in/nguyenkyle",
+    #     "bio": """Outside of school, I'm an avid nature enthusiast and frequently hike. In addition to hiking I have also gone spearfishing and spelunking. In addition to the nature, I love animals and have a cat at home. I am also a car enthusiast and own 2 mazda miatas."""
+    # },
+    # "Ashvin  Nihalani": {
+    #     "img": "img/team/ashvin_nihalani.jpg",
+    #     "personal": "http://www.theashvin.xyz/",
+    #     "github": "https://github.com/ashvinnihalani",
+    #     "linkedin": "https://www.linkedin.com/in/ashvinnihalani/",
+    #     "bio": """I am a chill basketball player who likes to read. I love tinkering as it gives me a chance to explore some mechanics and fields I never delve into."""
+    # },
     "Richard Cai": {
         "img": "img/team/richard_cai.jpg",
         "personal": "",
@@ -370,18 +360,180 @@ team = {
         "linkedin": "",
         "bio": """Born and raised in Houston, Texas! When I'm in Berkeley, it's all studying and hard work but when I'm at home, I indulge myself in some video games and Twitch. Aside from video games, listening to music and finding new music is one of my go-to hobbies for when I have nothing to do. If you're trying to find some relaxing music, try Hammock, Stars of the Lid, or Explosions in the Sky :)""",
     },
-    "Gibson Chu": {
-        "img": "img/team/gibson_chu.jpg",
-        "personal": "",
-        "github": "",
-        "linkedin": "https://www.linkedin.com/in/gibsontchu/",
-        "bio": """Hey there! I'm Gibson Chu, a second year studying Econ and Data Science. I love photography and video-making, so work as the Media Manager for marketing. I also shoot photos for the school's yearbook, as a city government reporter at the Daily Californian and as a director for Cal Hacks. My free time includes playing cards, watching League videos, and catching up on much needed sleep.""",
+    # "Gibson Chu": {
+    #     "img": "img/team/gibson_chu.jpg",
+    #     "personal": "",
+    #     "github": "",
+    #     "linkedin": "https://www.linkedin.com/in/gibsontchu/",
+    #     "bio": """Hey there! I'm Gibson Chu, a second year studying Econ and Data Science. I love photography and video-making, so work as the Media Manager for marketing. I also shoot photos for the school's yearbook, as a city government reporter at the Daily Californian and as a director for Cal Hacks. My free time includes playing cards, watching League videos, and catching up on much needed sleep.""",
+    # },
+    # "Jemma Kwak": {
+    #     "img": "img/team/jemma_kwak.png",
+    #     "personal": "https://jemmakwak.github.io/",
+    #     "github": "",
+    #     "linkedin": "https://www.linkedin.com/in/jemma-kwak/",
+    #     "bio": """Hi! I'm Jemma. I love watching Berkeley sunsets from my apartment, scoping out good vegan eats in the area, skateboarding, and long walks on the beach. I've lived in four different states but California is definitely home. You can probably find me around campus in Moffitt(literally, I'm here right now) or teaching web design.""",
+    # },
+}
+
+jobs = {
+    "Computer Science": {
+        "Mentor (ML)": {
+            "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
+            "qualifications": "Experience with Machine Learning, CS189 or some equivalent learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
+            "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
+            "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+            "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
+            "deadline": "On a Rolling Basis"
+        },
+        "Mentor (NLP)": {
+            "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
+            "qualifications": "Experience with Natural Language Processing, INFO 159 or some equivalent learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
+            "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
+            "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+            "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
+            "deadline": "On a Rolling Basis"
+        },
+        "Mentor (AI)": {
+            "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
+            "qualifications": "Experience with Artificial Intelligence, CS188 or some equivalent learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
+            "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
+            "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+            "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
+            "deadline": "On a Rolling Basis"
+        },
+        "Mentor (HCI)": {
+            "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
+            "qualifications": "Experience with Human Computer Interaction, Preferably a Cognitive Science major, CS160, or relevant learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
+            "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
+            "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+            "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
+            "deadline": "On a Rolling Basis"
+        }
     },
-    "Jemma Kwak": {
-        "img": "img/team/jemma_kwak.png",
-        "personal": "https://jemmakwak.github.io/",
-        "github": "",
-        "linkedin": "https://www.linkedin.com/in/jemma-kwak/",
-        "bio": """Hi! I'm Jemma. I love watching Berkeley sunsets from my apartment, scoping out good vegan eats in the area, skateboarding, and long walks on the beach. I've lived in four different states but California is definitely home. You can probably find me around campus in Moffitt(literally, I'm here right now) or teaching web design.""",
-    },
+        "Cognitive Science": {
+            "Mentor (Libet Experiment)": {
+                "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+                "qualifications": "Familiarity with the Libet Exeriment + relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and CS 1) Knowledge of EEG theory and operation (preferred) 2) knowledge of general neuroanatomy and neurobio (psych 117, psych c127 are good), Basic CS Skills",
+                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+                "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+                "deadline": "2017 Sept 16"
+            },
+            "Mentor (Mapping Neural Networks)": {
+                "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+                "qualifications": "Relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and CS 1) knowledge of general neuroanatomy and neurobio (psych 117, psych c127 are good options) 2), CS requirements:CS61B, CS188 or equivalent",
+                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+                "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+                "deadline": "2017 Sept 16"
+            },
+            "Mentor (Mapping Neural Networks)": {
+                "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+                "qualifications": "Relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and/or CS",
+                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+                "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+                "deadline": "2017 Sept 16"
+            },
+            "Lab Tech": {
+                "description": "Helps with logistics and running experiments for the lab",
+                "qualifications": "operate EEG OR operate MRI OR computer science expert (stat modeling and mapping of brain)",
+                "commitment": "~5 Hours/Week",
+                "perks": "Ability to help a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+                "deadline": "2017 Sept 30"
+            },
+        },
+        "Biology": {
+            "Mentor": {
+                "description": "Research labs are composed of a principal investigator who oversees research projects . As ULAB is run entirely by undergraduates, the core of our program is small teams of students who will spend two semesters on a research project that will be in partner with one or more research labs on campus. The purpose of mentors are to assist selected student on this project by providing advice, assistance in lab techniques, and help brainstorm and develop future research workshops.",
+                "qualifications": "Research experience is required as we are looking for individuals who can reflect on their own experiences to provide advice to students.",
+                "commitment": "5-6 hours a week",
+                "perks": "This position will provide you with many opportunities to both network with research labs on campus. This will also give you the opportunity to learn any lab techniques of your interest. Course Credit is Available",
+                "link": "https://goo.gl/forms/NBnH2lWeR8mtYLX12",
+                "deadline": "Applications accepted on a rolling basis"
+            },
+        },
+        "Physics": {
+            "Mentor": {
+                "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+                "qualifications": "At least four months of previous research experience, Some mentoring or teaching experience is recommended but not required, We are especially looking for astronomy and astrophysics majors, but all subfields are welcome, ",
+                "commitment": "5 - 6 hrs a week",
+                "perks": "Ability to help a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/Ifb65eRQwlnTavDa2",
+                "deadline": "We'll review applications on a rolling basis until September 15th, or until all our positions have been filled."
+            },
+            "Condensed Matter/Physical Chemistry Mentor": {
+                "description": "	Spending 2-4 hours a week mentoring and guiding students in creating their own research proposal as related to physical chemistry and condensed matter physics",
+                "qualifications": "4 months or more of research experience in a MSE, Chemistry, Condensed Matter or related lab.",
+                "commitment": "2-4 hours a week",
+                "perks": "Ability to help a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/Ifb65eRQwlnTavDa2",
+                "deadline": "We will review applications on a rolling basis until September 15th, or until all our positions have been filled."
+            },
+        },
+        "ULAB Executive Team": {
+            "Graphic Designer": {
+                "description": "TBD",
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "##",
+                "deadline": "TBD",
+            },
+
+            "Social Media Manager": {
+                "description": "TBD",
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "##",
+                "deadline": "TBD",
+            },
+        },
+        "Engineering": {
+            "Mentor": {
+                "description": "TBD",
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "##",
+                "deadline": "TBD",
+            },
+        },
+        "Partnerships and Analytics": {
+            "Liaison": {
+                "description": "TBD",
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "https://drive.google.com/open?id=1Yfh5cuMHsSx78gTNM1vCkTfTJ1Ut3Js8IUqAAqogpkM",
+                "deadline": "Rolling",
+            },
+            "Investigative Journalist": {
+                "description": "TBD",
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "https://drive.google.com/open?id=1uAXYYsqQhjGEzrcHHw9NOgL2pgucDDm74WzaxZD209E",
+                "deadline": "Rolling",
+            },
+            "Data & Technical Forensics Analyst": {
+                "description": "TBD",
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "https://drive.google.com/open?id=1Adoyfl00TFUyYiK8s1nmnF_VgtwAcsAMae48x-_7Uwo",
+                "deadline": "Rolling",
+            },
+            "Business Operations Analyst": {
+                "description": "TBD",
+                "qualifications": "",
+                "commitment": "",
+                "perks": "",
+                "link": "https://drive.google.com/open?id=1BQLddYZHO6dwUGITRsWmFSxFgmE8wcGeuzgFKVi2Y2s",
+                "deadline": "Rolling",
+            },
+        },
 }
