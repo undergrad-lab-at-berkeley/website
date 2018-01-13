@@ -449,7 +449,7 @@ jobs = {
             "Mentor": {
                 "description": "Research labs are composed of a principal investigator who oversees research projects . As ULAB is run entirely by undergraduates, the core of our program is small teams of students who will spend two semesters on a research project that will be in partner with one or more research labs on campus. The purpose of mentors are to assist selected student on this project by providing advice, assistance in lab techniques, and help brainstorm and develop future research workshops.",
                 "qualifications": "Research experience is required as we are looking for individuals who can reflect on their own experiences to provide advice to students.",
-                "commitment": "5-6 hours a week",
+                "commitment": "5-6 hours per week",
                 "perks": "This position will provide you with many opportunities to both network with research labs on campus. This will also give you the opportunity to learn any lab techniques of your interest. Course Credit is Available",
                 "link": "https://goo.gl/forms/NBnH2lWeR8mtYLX12",
                 "deadline": "Applications accepted on a rolling basis"
@@ -459,7 +459,7 @@ jobs = {
             "Condensed Matter Mentor": {
                 "description": "We are looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
                 "qualifications": "You must have previous research experience, preferably relating to semiconductor physics or solid state physics. However, familiarity with our specific research topics is not required.",
-                "commitment": "The time commitment is roughly 5-6 hours a week.",
+                "commitment": "5-6 hours per week",
                 "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
                 "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
                 "deadline": "We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
@@ -467,14 +467,14 @@ jobs = {
             "Astronomy Mentor": {
                 "description": "We are looking to hire undergraduates to mentor small groups of students as they perform astrophysics and astronomy experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include black hole detection and exoplanets.",
                 "qualifications": "You must have previous research experience in astronomy or astrophysics. Some coding experience is also necessary.",
-                "commitment": "5-6 hours a week",
+                "commitment": "5-6 hours per week",
                 "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
                 "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
                 "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled."
             },
              "Lab Manager": {
-                "description": "We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing google drive files.",
-                "commitment": "4-6 hrs a week",
+                "description": "We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
+                "commitment": "4-6 hrs per week",
                 "perks": "This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
                 "link": "https://goo.gl/forms/N1U1MXdoRizd2g883",
                 "deadline": "We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
