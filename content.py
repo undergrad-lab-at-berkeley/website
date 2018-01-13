@@ -456,21 +456,28 @@ jobs = {
             },
         },
         "Physics": {
-            "Mentor": {
-                "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
-                "qualifications": "At least four months of previous research experience, Some mentoring or teaching experience is recommended but not required, We are especially looking for astronomy and astrophysics majors, but all subfields are welcome, ",
-                "commitment": "5 - 6 hrs a week",
-                "perks": "Ability to help a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
-                "link": "https://goo.gl/forms/Ifb65eRQwlnTavDa2",
-                "deadline": "We'll review applications on a rolling basis until September 15th, or until all our positions have been filled."
+            "Condensed Matter Mentor": {
+                "description": "We are looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
+                "qualifications": "You must have previous research experience, preferably relating to semiconductor physics or solid state physics. However, familiarity with our specific research topics is not required.",
+                "commitment": "The time commitment is roughly 5-6 hours a week.",
+                "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
+                "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
+                "deadline": "We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
             },
-            "Condensed Matter/Physical Chemistry Mentor": {
-                "description": "	Spending 2-4 hours a week mentoring and guiding students in creating their own research proposal as related to physical chemistry and condensed matter physics",
-                "qualifications": "4 months or more of research experience in a MSE, Chemistry, Condensed Matter or related lab.",
-                "commitment": "2-4 hours a week",
-                "perks": "Ability to help a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
-                "link": "https://goo.gl/forms/Ifb65eRQwlnTavDa2",
-                "deadline": "We will review applications on a rolling basis until September 15th, or until all our positions have been filled."
+            "Astronomy Mentor": {
+                "description": "We are looking to hire undergraduates to mentor small groups of students as they perform astrophysics and astronomy experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include black hole detection and exoplanets.",
+                "qualifications": "You must have previous research experience in astronomy or astrophysics. Some coding experience is also necessary.",
+                "commitment": "5-6 hours a week",
+                "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
+                "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
+                "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled."
+            },
+             "Lab Manager": {
+                "description": "We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing google drive files.",
+                "commitment": "4-6 hrs a week",
+                "perks": "This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
+                "link": "https://goo.gl/forms/N1U1MXdoRizd2g883",
+                "deadline": "We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
             },
         },
         "ULAB Executive Team": {
