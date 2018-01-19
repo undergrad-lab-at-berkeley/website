@@ -386,38 +386,6 @@ jobs = {
             "link": "https://docs.google.com/forms/d/1kHrFgOWkQcY6l1S9rGlmS9RtirzDLa4izx_wQ-qBz94",
             "deadline": "January 27"
         },
-        "Mentor (ML)": {
-            "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
-            "qualifications": "Experience with Machine Learning, CS189 or some equivalent learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
-            "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
-            "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
-            "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
-            "deadline": "On a Rolling Basis"
-        },
-        "Mentor (NLP)": {
-            "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
-            "qualifications": "Experience with Natural Language Processing, INFO 159 or some equivalent learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
-            "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
-            "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
-            "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
-            "deadline": "On a Rolling Basis"
-        },
-        "Mentor (AI)": {
-            "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
-            "qualifications": "Experience with Artificial Intelligence, CS188 or some equivalent learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
-            "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
-            "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
-            "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
-            "deadline": "On a Rolling Basis"
-        },
-        "Mentor (HCI)": {
-            "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
-            "qualifications": "Experience with Human Computer Interaction, Preferably a Cognitive Science major, CS160, or relevant learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
-            "commitment": "4-5 Hours/Week (1hr staff meetings, ~2hr team meetings, ~2hr additional work)",
-            "perks": "Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
-            "link": "https://goo.gl/forms/UqVCX4b8GhowJBpC3",
-            "deadline": "On a Rolling Basis"
-        }
     },
         "Cognitive Science": {
             "Mentor (Libet Experiment)": {
