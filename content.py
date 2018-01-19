@@ -457,7 +457,7 @@ jobs = {
         },
         "Physics": {
             "Condensed Matter Mentor": {
-                "description": "We are looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
+                "description": "We're looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
                 "qualifications": "You must have previous research experience, preferably relating to semiconductor physics or solid state physics. However, familiarity with our specific research topics is not required.",
                 "commitment": "5-6 hours per week",
                 "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
