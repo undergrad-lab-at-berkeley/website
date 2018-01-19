@@ -378,6 +378,14 @@ team = {
 
 jobs = {
     "Computer Science": {
+        "Laboratory Manager": {
+            "description": "The CS ULAB will be aided by lab managers who handle administrative logistics. Lab managers are responsible for coordinating with the mentors and other ULAB teams to ensure these projects run smoothly. In addition, lab managers will build and maintain partnerships with on campus labs to access instruments and equipment, in addition to overseeing training for all projects. Lab managers will also handle organizing research meetings and scheduling technical workshops, while also gathering student and staff feedback to improve the experience of ULAB.",
+            "qualifications": "Experience with Machine Learning, CS189 or some equivalent learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
+            "commitment": "4+ hours per week",
+            "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
+            "link": "https://docs.google.com/forms/d/1kHrFgOWkQcY6l1S9rGlmS9RtirzDLa4izx_wQ-qBz94",
+            "deadline": "January 27"
+        },
         "Mentor (ML)": {
             "description": "Attend weekly meetings with lab staff to deliver team progress reports. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts that ULAB can potentially establish contact for consulting purposes. ",
             "qualifications": "Experience with Machine Learning, CS189 or some equivalent learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
@@ -499,14 +507,30 @@ jobs = {
                 "deadline": "TBD",
             },
         },
-        "Engineering": {
-            "Mentor": {
-                "description": "TBD",
-                "qualifications": "",
-                "commitment": "",
+    "Engineering": {
+            "Design (CAD) Mentor": {
+                "description": "Meets with PI every week and discuss progess during the week and makes plans for future weeks. Communicates with all other mentors about the process and achievement in the lab research. Guides students to a safe design with Bio-E mentor. Must be present during mentee's research session.",
+                "qualifications": "Proficient with AutoCAD and Solidworks. Preferably taken E128. Can help students with sketching 2D and 3D design and stress analysis. Ability to use ANSYS is also preferred.",
+                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
                 "perks": "",
                 "link": "##",
-                "deadline": "TBD",
+                "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled.",
+            },
+            "Physiology Mentor": {
+                "description": "Meets with PI every week and discuss progess during the week and makes plans for future weeks. Guides mentees through the experiment. Must be present during mentee's research session. Must help with design that deals with machine human interaction and optimal way to design project with comfort. Communicates with all other mentors about the process and achievement in the lab research. Works with Design mentor with interaction with design and human body, where pressure is applied etc.",
+                "qualifications": "User experience is necessary.",
+                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+                "perks": "",
+                "link": "##",
+                "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled.",
+            },
+            "Material Mentor": {
+                "description": "Meets with PI every week and discuss progess during the week, and make plans for future weeks. Guides mentees through the experiment. Must be present during mentee's research session. Must help with material selection considering mechanical and chemical properties of materials. Helps mentees to understand failure criteria and safety factors. Ensures safety of the project and failure criteria setup.",
+                "qualifications": "Material Science major preferred. Must nderstand safety factor and work on multiple projects on material selection (for example, Mechanical Property of Materials, ME108).",
+                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+                "perks": "",
+                "link": "##",
+                "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled.",
             },
         },
         "Partnerships and Analytics": {

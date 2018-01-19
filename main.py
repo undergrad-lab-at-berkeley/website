@@ -49,6 +49,10 @@ def aboutus():
 
     return render_template("aboutus.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
 
+@app.route("/new-student")
+def new_student():
+    return render_template("main-page.html")
+
 @app.route("/project")
 @app.route("/project/<name>")
 @app.route("/projects")
