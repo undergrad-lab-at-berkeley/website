@@ -536,7 +536,10 @@ jobs = {
             },
         },
 
-"Advanced Technologies Group": {
+}
+
+corporate = {
+    "Advanced Technologies Group": {
             "Software Developer Application": {
                 "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
                 "qualifications": "MUST have taken CS 61B",

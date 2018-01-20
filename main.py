@@ -53,6 +53,11 @@ def aboutus():
 def new_student():
     return render_template("main-page.html")
 
+@app.route("/corporate-jobs")
+@app.route("/corporate-jobs/<category>")
+def getCorporate(category="ATG"):
+    return render_template("corporate.html", corporate=content.corporate, jobCategory=category)
+
 @app.route("/project")
 @app.route("/project/<name>")
 @app.route("/projects")
@@ -64,7 +69,7 @@ def project(name="placeholder"):
         projects[name]['img'] = url_for('static', filename=projects[name]['img'])
     return render_template("projects.html", content=projects[name])
 
-@app.route("/jobs")
+@app.route("/ulab-jobs")
 @app.route("/jobs/<category>")
 def getJobs(category="Computer Science"):
     return render_template("job-board.html", jobs=content.jobs, jobCategory=category)
