@@ -27,6 +27,12 @@ def utility_processor():
 def index():
     return render_template("main-page.html")
 
+@app.route("/join-page")
+@app.route("/join-page/<category>")
+def getJoin(category="1st Year"):
+    print(category)
+    return render_template("join-page.html", join=content.join, jobCategory=category)
+
 @app.route("/aboutus")
 def aboutus():
     global founders
@@ -50,13 +56,14 @@ def aboutus():
     return render_template("aboutus.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
 
 @app.route("/new-student")
-def new_student():
-    return render_template("main-page.html")
+@app.route("/new-student/<category>")
+def getStudent(category="Statistical Modeling and Deep Learning"):
+    return render_template("new-student.html", student=content.student, jobCategory=category)
 
 @app.route("/corporate-jobs")
 @app.route("/corporate-jobs/<category>")
 def getCorporate(category="ATG"):
-    return render_template("corporate.html", corporate=content.corporate, jobCategory=category)
+    return render_template("corporate-jobs.html", corporate=content.corporate, jobCategory=category)
 
 @app.route("/project")
 @app.route("/project/<name>")

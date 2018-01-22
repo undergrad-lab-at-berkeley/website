@@ -228,11 +228,11 @@ advisors = {
         "img": "img/team/josh_hug.jpg",
         "bio": """Joshua Hug is a teaching professor at Berkeley and previously a lecturer for Computer Science at Princeton University. He completed his PhD in EECS at UC Berkeley in 2011. His primary research interest is in learning at scale and he has developed large scalable teaching models for CS61B and CS188. His passion for finding new and better ways to educate students led him to advise and support ULAB.""",
     },
-    "Alex Powers": {
-        "title": "Cofounder",
-        "img": "img/team/alex_power.jpg",
-        "bio": """Alex is currently pursuing a Ph.D. at Stanford University. Alex is extremely passionate about undergraduate research; he worked in Paul Alivisatos's Lab on liquid electron microscopy, the Cohen lab on imaging protein movement, and was also an intern at LBNL. He will continue to advise and work with ULAB.""",
-    },
+    # "Alex Powers": {
+    #     "title": "Cofounder",
+    #     "img": "img/team/alex_power.jpg",
+    #     "bio": """Alex is currently pursuing a Ph.D. at Stanford University. Alex is extremely passionate about undergraduate research; he worked in Paul Alivisatos's Lab on liquid electron microscopy, the Cohen lab on imaging protein movement, and was also an intern at LBNL. He will continue to advise and work with ULAB.""",
+    # },
     "Sean Burns": {
         "title": "Faculty Advisor",
         "img": "img/team/sean_burns.jpg",
@@ -241,20 +241,20 @@ advisors = {
 }
 
 team = {
-    "Eva Su": {
-        "img": "img/team/eva_su.jpg",
-        "personal": "",
-        "github": "https://github.com/esu2020",
-        "linkedin": "https://www.linkedin.com/in/sueva/",
-        "bio": """Hi, I'm Eva! People call me Eva, but you can call me Eva. Some fun facts about me:  I performed on Broadway last summer, own my own business, and I've traveled to over 16 countries. """
-    },
-    "Mrinalini Sugosh": {
-        "img": "img/team/mrinalini_sugosh.jpg",
-        "personal": "",
-        "github": "",
-        "linkedin": "https://www.linkedin.com/in/mrina24/",
-        "bio": """Hey! Call me Mrina...I like jamming to spotify, trying all kinds of new foods, hoarding free swag, and spontaneously hanging out with friends :)"""
-    },
+    # "Eva Su": {
+    #     "img": "img/team/eva_su.jpg",
+    #     "personal": "",
+    #     "github": "https://github.com/esu2020",
+    #     "linkedin": "https://www.linkedin.com/in/sueva/",
+    #     "bio": """Hi, I'm Eva! People call me Eva, but you can call me Eva. Some fun facts about me:  I performed on Broadway last summer, own my own business, and I've traveled to over 16 countries. """
+    # },
+    # "Mrinalini Sugosh": {
+    #     "img": "img/team/mrinalini_sugosh.jpg",
+    #     "personal": "",
+    #     "github": "",
+    #     "linkedin": "https://www.linkedin.com/in/mrina24/",
+    #     "bio": """Hey! Call me Mrina...I like jamming to spotify, trying all kinds of new foods, hoarding free swag, and spontaneously hanging out with friends :)"""
+    # },
     "Riley McDanal": {
         "img": "img/team/riley_mcdanal.jpg",
         "personal": "",
@@ -290,20 +290,20 @@ team = {
     #     "linkedin": "https://www.linkedin.com/in/cecilia-li/",
     #     "bio": """Hi everyone! My name is Cecilia, a rising sophomore studying statistics and industrial research business. I was originally born in China, immigrated to Toronto, Canada at an early age and moved between both countries in the last ten years. I like outdoor activities and also learning DSLR photography. You can find me exploring new places, taking long walks on the beach, and always eating food :) """
     # },
-    "Glenn Parham": {
-        "img": "img/team/glenn_parham.jpg",
-        "personal": "",
-        "github": "",
-        "linkedin": "",
-        "bio": """Do you have nightmares about election polling data and/or day dream about accurate stock market price modeling?  I do.  I am that teen who skips a party to read a book, a hike to take a nap, and a rave to FaceTime a friend.  An action-packed day for me probably entails reading The New Yorker in the morning, followed by divulging in F.E.C filings, and topping it off with Steven Colbert."""
-    },
-    "Asena Yildiz": {
-        "img": "img/team/asena_yildiz.jpg",
-        "personal": "",
-        "github": "",
-        "linkedin": "https://www.linkedin.com/in/asena-yildiz/",
-        "bio": """I'm Asena Yildiz, an avid archer, entrepreneur, and rock collector. I love bringing ideas to life, which is ultimately why I wanted to be an engineer. In my spare time, I draw, paint, and play with different mediums for my artwork. I am also a writer, imagining and designing worlds from scratch. As an artistic engineer, I tend to combine both of my interests. Oh! I also started a company once."""
-    },
+    # "Glenn Parham": {
+    #     "img": "img/team/glenn_parham.jpg",
+    #     "personal": "",
+    #     "github": "",
+    #     "linkedin": "",
+    #     "bio": """Do you have nightmares about election polling data and/or day dream about accurate stock market price modeling?  I do.  I am that teen who skips a party to read a book, a hike to take a nap, and a rave to FaceTime a friend.  An action-packed day for me probably entails reading The New Yorker in the morning, followed by divulging in F.E.C filings, and topping it off with Steven Colbert."""
+    # },
+    # "Asena Yildiz": {
+    #     "img": "img/team/asena_yildiz.jpg",
+    #     "personal": "",
+    #     "github": "",
+    #     "linkedin": "https://www.linkedin.com/in/asena-yildiz/",
+    #     "bio": """I'm Asena Yildiz, an avid archer, entrepreneur, and rock collector. I love bringing ideas to life, which is ultimately why I wanted to be an engineer. In my spare time, I draw, paint, and play with different mediums for my artwork. I am also a writer, imagining and designing worlds from scratch. As an artistic engineer, I tend to combine both of my interests. Oh! I also started a company once."""
+    # },
     "Madeleine Weiser": {
         "img": "img/team/madeleine_weiser.jpg",
         "personal": "",
@@ -325,13 +325,13 @@ team = {
     #     "linkedin": "https://www.linkedin.com/in/ashvinnihalani/",
     #     "bio": """I am a chill basketball player who likes to read. I love tinkering as it gives me a chance to explore some mechanics and fields I never delve into."""
     # },
-    "Richard Cai": {
-        "img": "img/team/richard_cai.jpg",
-        "personal": "",
-        "github": "https://github.com/richardmcai",
-        "linkedin": "https://www.linkedin.com/in/richardmcai/",
-        "bio": """I'm from Charlotte, North Carolina. In my free time I enjoy reading about philosophy, sociology, and politics. I also like to occasionally rot my brain with anime and video games. Recently I've been getting into hip-hop dance on AFX, and it's been lots of fun! I hope I can use research to make a lasting positive impact on society."""
-    },
+    # "Richard Cai": {
+    #     "img": "img/team/richard_cai.jpg",
+    #     "personal": "",
+    #     "github": "https://github.com/richardmcai",
+    #     "linkedin": "https://www.linkedin.com/in/richardmcai/",
+    #     "bio": """I'm from Charlotte, North Carolina. In my free time I enjoy reading about philosophy, sociology, and politics. I also like to occasionally rot my brain with anime and video games. Recently I've been getting into hip-hop dance on AFX, and it's been lots of fun! I hope I can use research to make a lasting positive impact on society."""
+    # },
     "Amit Akula": {
         "img": "img/team/amit_akula.jpg",
         "personal": "",
@@ -386,6 +386,14 @@ jobs = {
             "link": "https://docs.google.com/forms/d/1kHrFgOWkQcY6l1S9rGlmS9RtirzDLa4izx_wQ-qBz94",
             "deadline": "January 27"
         },
+        "Machine Learning Mentor": {
+            "description": "Mentors are expected to attend weekly group meetings (time/dates TBD) and work with their students to design the overall direction of the project, demonstrate equipment, and provide resources. Mentors are also encouraged to talk about their own academic path and discuss goals and career objectives with the students. We currently have three projects (Data science, Computer Vision, Natural Language Processing), each expecting to recruit one mentor per project, within the Statistical Modeling and Deep Learning ULAB.",
+            "qualifications": "Experience with Machine Learning, CS189 or some equivalent learning/research experience. Strong team management skills. Previous research experience preferred but not required.",
+            "commitment": "5-7 hours per week",
+            "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
+            "link": "https://goo.gl/forms/mIcjDrU9M1fBhnEV2",
+            "deadline": "Positions will be reviewed on a rolling basis until January 30 or until all positions are filled."
+        },
     },
         "Cognitive Science": {
             "Mentor (Libet Experiment)": {
@@ -394,7 +402,7 @@ jobs = {
                 "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
                 "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
                 "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
-                "deadline": "2017 Sept 16"
+                "deadline": "Rolling"
             },
             "Mentor (Mapping Neural Networks)": {
                 "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
@@ -402,7 +410,7 @@ jobs = {
                 "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
                 "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
                 "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
-                "deadline": "2017 Sept 16"
+                "deadline": "Rolling"
             },
             "Mentor (Mapping Neural Networks)": {
                 "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
@@ -410,7 +418,7 @@ jobs = {
                 "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
                 "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
                 "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
-                "deadline": "2017 Sept 16"
+                "deadline": "Rolling"
             },
             "Lab Tech": {
                 "description": "Helps with logistics and running experiments for the lab",
@@ -418,7 +426,7 @@ jobs = {
                 "commitment": "~5 Hours/Week",
                 "perks": "Ability to help a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
                 "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
-                "deadline": "2017 Sept 30"
+                "deadline": "Rolling"
             },
         },
         "Biology": {
@@ -456,25 +464,25 @@ jobs = {
                 "deadline": "We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
             },
         },
-        "ULAB Executive Team": {
-            "Graphic Designer": {
-                "description": "TBD",
-                "qualifications": "",
-                "commitment": "",
-                "perks": "",
-                "link": "##",
-                "deadline": "TBD",
-            },
+        # "ULAB Executive Team": {
+        #     "Graphic Designer": {
+        #         "description": "TBD",
+        #         "qualifications": "",
+        #         "commitment": "",
+        #         "perks": "",
+        #         "link": "##",
+        #         "deadline": "TBD",
+        #     },
 
-            "Social Media Manager": {
-                "description": "TBD",
-                "qualifications": "",
-                "commitment": "",
-                "perks": "",
-                "link": "##",
-                "deadline": "TBD",
-            },
-        },
+        #     "Social Media Manager": {
+        #         "description": "TBD",
+        #         "qualifications": "",
+        #         "commitment": "",
+        #         "perks": "",
+        #         "link": "##",
+        #         "deadline": "TBD",
+        #     },
+        # },
     "Engineering": {
             "Design (CAD) Mentor": {
                 "description": "Meets with PI every week and discuss progess during the week and makes plans for future weeks. Communicates with all other mentors about the process and achievement in the lab research. Guides students to a safe design with Bio-E mentor. Must be present during mentee's research session.",
@@ -501,46 +509,46 @@ jobs = {
                 "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled.",
             },
         },
-        "Partnerships and Analytics": {
-            "Liaison": {
-                "description": "TBD",
-                "qualifications": "",
-                "commitment": "",
-                "perks": "",
-                "link": "https://drive.google.com/open?id=1Yfh5cuMHsSx78gTNM1vCkTfTJ1Ut3Js8IUqAAqogpkM",
-                "deadline": "Rolling",
-            },
-            "Investigative Journalist": {
-                "description": "TBD",
-                "qualifications": "",
-                "commitment": "",
-                "perks": "",
-                "link": "https://drive.google.com/open?id=1uAXYYsqQhjGEzrcHHw9NOgL2pgucDDm74WzaxZD209E",
-                "deadline": "Rolling",
-            },
-            "Data & Technical Forensics Analyst": {
-                "description": "TBD",
-                "qualifications": "",
-                "commitment": "",
-                "perks": "",
-                "link": "https://drive.google.com/open?id=1Adoyfl00TFUyYiK8s1nmnF_VgtwAcsAMae48x-_7Uwo",
-                "deadline": "Rolling",
-            },
-            "Business Operations Analyst": {
-                "description": "TBD",
-                "qualifications": "",
-                "commitment": "",
-                "perks": "",
-                "link": "https://drive.google.com/open?id=1BQLddYZHO6dwUGITRsWmFSxFgmE8wcGeuzgFKVi2Y2s",
-                "deadline": "Rolling",
-            },
-        },
+        # "Partnerships and Analytics": {
+        #     "Liaison": {
+        #         "description": "TBD",
+        #         "qualifications": "",
+        #         "commitment": "",
+        #         "perks": "",
+        #         "link": "https://drive.google.com/open?id=1Yfh5cuMHsSx78gTNM1vCkTfTJ1Ut3Js8IUqAAqogpkM",
+        #         "deadline": "Rolling",
+        #     },
+        #     "Investigative Journalist": {
+        #         "description": "TBD",
+        #         "qualifications": "",
+        #         "commitment": "",
+        #         "perks": "",
+        #         "link": "https://drive.google.com/open?id=1uAXYYsqQhjGEzrcHHw9NOgL2pgucDDm74WzaxZD209E",
+        #         "deadline": "Rolling",
+        #     },
+        #     "Data & Technical Forensics Analyst": {
+        #         "description": "TBD",
+        #         "qualifications": "",
+        #         "commitment": "",
+        #         "perks": "",
+        #         "link": "https://drive.google.com/open?id=1Adoyfl00TFUyYiK8s1nmnF_VgtwAcsAMae48x-_7Uwo",
+        #         "deadline": "Rolling",
+        #     },
+        #     "Business Operations Analyst": {
+        #         "description": "TBD",
+        #         "qualifications": "",
+        #         "commitment": "",
+        #         "perks": "",
+        #         "link": "https://drive.google.com/open?id=1BQLddYZHO6dwUGITRsWmFSxFgmE8wcGeuzgFKVi2Y2s",
+        #         "deadline": "Rolling",
+        #     },
+        # },
 
 }
 
 corporate = {
     "Advanced Technologies Group": {
-            "Software Developer Application": {
+            "Software Developer": {
                 "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
                 "qualifications": "MUST have taken CS 61B",
                 "commitment": "Time commitment inludes 90 minutes a week of mandatory meeting with the rest of the ATG group in addition to 6-9 hours a week developing with one's designated team.",
@@ -549,4 +557,74 @@ corporate = {
                 "deadline": "February 3rd, 2018",
             },
         },
+    "Software Operations": {
+            "Computational Scientist": {
+                "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
+                "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
+                "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
+                "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
+                "deadline": "February 3rd, 2018",
+            },
+        },
 }
+
+student = {
+    "Statistical Modeling and Deep Learning": {
+            "New Student Researcher": {
+                "description": "Computational scientists will be expected to attend weekly lab staff meetings and meet with students during project group meetings. In addition, computational scientists will hold office hours on their own time to help students with coding modules and software questions. As a computational scientist, you will also be working with our software division to obtain and learn how to use scientific software.",
+                "commitment": "Time commitment inludes 6-9 hours a week developing with one's designated team.",
+                "link": "https://docs.google.com/forms/d/e/1FAIpQLSelh2HtqamgGb37HGAALDEGi7v2OdOZnCsNNoV-rUk9TCQL2w/viewform?usp=sf_link",
+                "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled. After filling out an application, you will be contacted to set up an interview within a few days.",
+            },
+        },
+}
+
+join = {
+    "1st Year": {
+            "Software Developer Application": {
+                "description": "Undergraduate Labs @ Berkeley’s core mission is to train UC Berkeley’s newest members so they are prepared to tackle some of the hardest research challenges on campus. To do this, new students (Freshmen and Junior Transfers) work as researchers within our student-run research laboratories. We design all of our research projects based on the interests of new students and to relate to the work being done on campus. That way, working in a uLab as a researcher in your first year allows you to explore what you are passionate about while simultaneously training for a research position at a professional research laboratory on campus.", 
+                "qualifications": "Further, each uLab has dedicated staff composed of 2nd years, upper-division students, and graduate students. These staff members (1) guide students on their research projects, (2) provide advising for their next research opportunity, (3) provide extensive training on fundamental and technical research skills, and (4) arrange for experiential opportunities such as lab tours and coffee chats with graduate students.",
+                "commitment": "While the projects have already been set up for Spring 2018, we have many openings in our uLabs for students, ranging from studying the habitability of exoplanets to modeling neurodegeneration in multiple sclerosis patients over time. Click on the button below to see our current openings for new students.",
+                "link": "/new-student",
+                "linktext": "Student Researcher",
+                "deadline": "February 3rd, 2018",
+            },
+        },
+     "2nd Year": {
+            "Mentor": {
+                "description": "Undergraduate Labs @ Berkeley’s core mission is to train UC Berkeley’s newest members so they are prepared to tackle some of the hardest research challenges on campus. This is based on a fundamental belief that UC Berkeley undergraduates, graduate students, staff, and faculty have a responsibility to ensure that all new students get the training and support they need to succeed. As a second year student, we believe that our mission extends to you in an incredibly unique way. We ensure that second year students get direct research experience working as assistant mentors. Further, we design all of our opportunities for second years to maximize their interactions with laboratories on campus. For students still looking for research, this unique dual goal allows second year students to quickly find research positions on campus. As assistant mentors, laboratory managers, operations directors, equipment operators, and other core staff, we hope to develop your core research skills while simultaneously enabling you to train the next generation of Berkeley students.",
+                "qualifications": "If you are already in a research lab, you can apply as a mentor in one of our labs. As a mentor, you gain experience supervising a cadre of new students, network with other student researchers in your field, and develop a variety of technical and core research skills.",
+                "commitment": "If you want to join a research lab but you haven’t already, you have the option of being an assistant mentor; this allows you to gain the experience of working within a lab without adding the pressure of guiding other students through the process as well.",
+                "perks": "If you want to learn to run large organizations, particularly those with a research focus, apply to one of our management positions. Second years are the core of our lab operations team and many move on to executive management positions within these roles.",
+                "link": "/ulab-jobs",
+                "linktext": "Research Jobs",
+                "link2": "/corporate-jobs",
+                "linktext2": "Operations and Executive Jobs",
+                "deadline": "Applications accepted on a rolling basis"
+            },
+        },
+    "Upperclassman": {
+            "Mentor": {
+                "description": "As an upperclassman with research experience, you have the knowledge necessary to guide newer students through the process.",
+                "qualifications": "Just as we train Berkeley’s newest members to contribute to the hardest problems on campus, we provide opportunities for upper-division students to lead research projects, operate research labs, and gain experience in advanced technical skills. As ULAB is run entirely by students, we look to students like you to take on jobs often held by professors, graduate students, and the campus administration.",
+                "commitment": "If you want to join a research lab but you haven’t already, you have the option of being an associate mentor or serve in leadership roles such as operation directors, technical consultants, and more; this allows you to gain the experience of working within a lab without adding the pressure of guiding other students through the process as well.",
+                "link": "/ulab-jobs",
+                "linktext": "Research Jobs",
+                "link2": "/corporate-jobs",
+                "linktext2": "Operations and Executive Jobs",
+                "deadline": "Applications accepted on a rolling basis"
+            },
+        },
+    "Graduate Student": {
+            "Mentor": {
+                "description": "As an graduate student with research experience, you have the knowledge necessary to guide newer students through the process.",
+                "qualifications": "Just as we train Berkeley’s newest members to contribute to the hardest problems on campus, we provide opportunities for graduate students to lead research projects, operate research labs, and gain experience in advanced technical skills. As ULAB is run entirely by students, we look to students like you to take on jobs often held by professors and the campus administration.",
+                "link": "/ulab-jobs",
+                "linktext": "Research Jobs",
+                "link2": "/corporate-jobs",
+                "linktext2": "Operations and Executive Jobs",
+                "deadline": "Applications accepted on a rolling basis"
+            },
+        },
+}
+
