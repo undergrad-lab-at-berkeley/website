@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block body %}
+<section class="align-middle" style="font-size:2em; margin:0 2em">
+  <h1 style="text-align: center">Join ULAB Today!</h1>
+
+  <div class="container">
+    <div class="row"><!-- col-md-10 col-md-offset-1 -->
+        <div class="col-sm-12 text-center">
+          <div class="tabbed-content button-tabs">
+            <ul class="tabs">
+              {% for category in corporate.keys() %}
+              <li>
+                  <div class="tab-title">
+                      <span>{{ category }}</span>
+                  </div>
+                  <div class="tab-content col-md-10 col-md-offset-1">
+                    <h2>{{ category }} </h2>
+                    <div class="list-group">
+                      {% for c in corporate[category].keys() %}
+                      <a href={{ corporate[category][c]["link"] }} class="list-group-item list-group-item-action">
+                        <div style="display: inline-block">{{ c }}</div>
+
+                        <!-- <div class="progress">
+                          <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div> -->
+                      </a>
+                      <div style="padding: 1em 1em; text-align: left">
+                        <p style="font-size:16px">Application Deadline: {{ corporate[category][c]['deadline'] }}</p>
+                        <p style="font-size:16px">{{ corporate[category][c]['description'] }}</p>
+                        <p style="font-size:16px">{{ corporate[category][c]['qualifications'] }}</p>
+                        <p style="font-size:16px">{{ corporate[category][c]['commitment'] }}</p>
+                        <p style="font-size:16px">{{ corporate[category][c]['perks'] }}</p>
+                      </div>
+
+                      <a type="button" href={{ corporate[category][c]["link"] }} class="btn btn-primary btn-sm" style="color: white; background: #47b475;">
+                        Apply
+                      </a>
+                      {% endfor %}
+                    </div>
+                  </div>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+</section>
+{% endblock %}

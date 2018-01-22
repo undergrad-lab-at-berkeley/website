@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block body %}
+<section class="align-middle" style="font-size:2em; margin:0 2em">
+  <h1 style="text-align: center">Join ULAB Today!</h1>
+
+  <div class="container">
+    <div class="row"><!-- col-md-10 col-md-offset-1 -->
+        <div class="col-sm-12 text-center">
+          <div class="tabbed-content button-tabs">
+            <ul class="tabs">
+              {% for category in join.keys() %}
+              <li>
+                  <div class="tab-title">
+                      <span>{{ category }}</span>
+                  </div>
+                  <div class="tab-content col-md-10 col-md-offset-1">
+                    <h2>{{ category }} </h2>
+                    <div class="list-group">
+                      {% for j in join[category].keys() %}
+                      <!--<a href={{ join[category][j]["link"] }} class="list-group-item list-group-item-action"> -->
+                        <!--<div style="display: inline-block">{{ j }}</div> -->
+
+                        <!-- <div class="progress">
+                          <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div> -->
+                      </a>
+                      <div style="padding: 1em 1em; text-align: left">
+                        <p style="font-size:16px">{{ join[category][j]['description'] }}</p>
+                        <p style="font-size:16px">{{ join[category][j]['qualifications'] }}</p>
+                        <p style="font-size:16px">{{ join[category][j]['commitment'] }}</p>
+                        <p style="font-size:16px">{{ join[category][j]['perks'] }}</p>
+                      </div>
+                      <a type="button" href={{ join[category][j]["link"] }} class="btn btn-primary btn-sm" style="color: white; background: #47b475;">
+                        {{ join[category][j]["linktext"] }}
+                      </a>
+                      <a type="button" href={{ join[category][j]["link2"] }} class="btn btn-primary btn-sm" style="color: white; background: #47b475;">
+                        {{ join[category][j]["linktext2"] }}
+                      </a>
+                      {% endfor %}
+                    </div>
+                  </div>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+</section>
+{% endblock %}

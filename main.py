@@ -25,6 +25,9 @@ def utility_processor():
 
 @app.route("/")
 def index():
+    f=open("log.txt",'w')
+    f.write("test \n" )
+    f.close()
     return render_template("main-page.html")
 
 @app.route("/aboutus")
@@ -49,6 +52,16 @@ def aboutus():
 
     return render_template("aboutus.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
 
+@app.route("/new-student")
+@app.route("/new-student/<category>")
+def getStudent(category="Statistical Modeling and Deep Learning"):
+    return render_template("new-student.html", student=content.student, jobCategory=category)
+
+@app.route("/corporate-jobs")
+@app.route("/corporate-jobs/<category>")
+def getCorporate(category="ATG"):
+    return render_template("corporate-jobs.html", corporate=content.corporate, jobCategory=category)
+
 @app.route("/project")
 @app.route("/project/<name>")
 @app.route("/projects")
@@ -60,10 +73,18 @@ def project(name="placeholder"):
         projects[name]['img'] = url_for('static', filename=projects[name]['img'])
     return render_template("projects.html", content=projects[name])
 
-@app.route("/jobs")
+@app.route("/ulab-jobs")
 @app.route("/jobs/<category>")
 def getJobs(category="Computer Science"):
     return render_template("job-board.html", jobs=content.jobs, jobCategory=category)
+
+@app.route("/join-page")
+@app.route("/join-page/<category>")
+def getJoin(category="1st Year"):
+    f=open("log.txt",'w')
+    f.write("banana \n" )
+    f.close()
+    return render_template("join-page.html", join=content.join_info, jobCategory=category)
 
 @app.route("/bootcamp")
 def bootcamp():
