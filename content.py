@@ -582,7 +582,7 @@ student = {
 join_info = {
     "1st Year": {
             "Software Developer Application": {
-                "description": "Undergraduate Labs @ Berkeley’s core mission is to train UC Berkeley’s newest members so they are prepared to tackle some of the hardest research challenges on campus. To do this, new students (Freshmen and Junior Transfers) work as researchers within our student-run research laboratories. We design all of our research projects based on the interests of new students and to relate to the work being done on campus. That way, working in a uLab as a researcher in your first year allows you to explore what you are passionate about while simultaneously training for a research position at a professional research laboratory on campus.", 
+                "description": "Undergraduate Labs @ Berkeley's core mission is to train UC Berkeley's newest members so they are prepared to tackle some of the hardest research challenges on campus. To do this, new students (Freshmen and Junior Transfers) work as researchers within our student-run research laboratories. We design all of our research projects based on the interests of new students and to relate to the work being done on campus. That way, working in a uLab as a researcher in your first year allows you to explore what you are passionate about while simultaneously training for a research position at a professional research laboratory on campus.",
                 "qualifications": "Further, each uLab has dedicated staff composed of 2nd years, upper-division students, and graduate students. These staff members (1) guide students on their research projects, (2) provide advising for their next research opportunity, (3) provide extensive training on fundamental and technical research skills, and (4) arrange for experiential opportunities such as lab tours and coffee chats with graduate students.",
                 "commitment": "While the projects have already been set up for Spring 2018, we have many openings in our uLabs for students, ranging from studying the habitability of exoplanets to modeling neurodegeneration in multiple sclerosis patients over time. Click on the button below to see our current openings for new students.",
                 "link": "/new-student",
@@ -592,9 +592,9 @@ join_info = {
         },
      "2nd Year": {
             "Mentor": {
-                "description": "Undergraduate Labs @ Berkeley’s core mission is to train UC Berkeley’s newest members so they are prepared to tackle some of the hardest research challenges on campus. This is based on a fundamental belief that UC Berkeley undergraduates, graduate students, staff, and faculty have a responsibility to ensure that all new students get the training and support they need to succeed. As a second year student, we believe that our mission extends to you in an incredibly unique way. We ensure that second year students get direct research experience working as assistant mentors. Further, we design all of our opportunities for second years to maximize their interactions with laboratories on campus. For students still looking for research, this unique dual goal allows second year students to quickly find research positions on campus. As assistant mentors, laboratory managers, operations directors, equipment operators, and other core staff, we hope to develop your core research skills while simultaneously enabling you to train the next generation of Berkeley students.",
+                "description": "Undergraduate Labs @ Berkeley's core mission is to train UC Berkeley's newest members so they are prepared to tackle some of the hardest research challenges on campus. This is based on a fundamental belief that UC Berkeley undergraduates, graduate students, staff, and faculty have a responsibility to ensure that all new students get the training and support they need to succeed. As a second year student, we believe that our mission extends to you in an incredibly unique way. We ensure that second year students get direct research experience working as assistant mentors. Further, we design all of our opportunities for second years to maximize their interactions with laboratories on campus. For students still looking for research, this unique dual goal allows second year students to quickly find research positions on campus. As assistant mentors, laboratory managers, operations directors, equipment operators, and other core staff, we hope to develop your core research skills while simultaneously enabling you to train the next generation of Berkeley students.",
                 "qualifications": "If you are already in a research lab, you can apply as a mentor in one of our labs. As a mentor, you gain experience supervising a cadre of new students, network with other student researchers in your field, and develop a variety of technical and core research skills.",
-                "commitment": "If you want to join a research lab but you haven’t already, you have the option of being an assistant mentor; this allows you to gain the experience of working within a lab without adding the pressure of guiding other students through the process as well.",
+                "commitment": "If you want to join a research lab but you haven't already, you have the option of being an assistant mentor; this allows you to gain the experience of working within a lab without adding the pressure of guiding other students through the process as well.",
                 "perks": "If you want to learn to run large organizations, particularly those with a research focus, apply to one of our management positions. Second years are the core of our lab operations team and many move on to executive management positions within these roles.",
                 "link": "/ulab-jobs",
                 "linktext": "Research Jobs",
@@ -606,8 +606,8 @@ join_info = {
     "Upperclassman": {
             "Mentor": {
                 "description": "As an upperclassman with research experience, you have the knowledge necessary to guide newer students through the process.",
-                "qualifications": "Just as we train Berkeley’s newest members to contribute to the hardest problems on campus, we provide opportunities for upper-division students to lead research projects, operate research labs, and gain experience in advanced technical skills. As ULAB is run entirely by students, we look to students like you to take on jobs often held by professors, graduate students, and the campus administration.",
-                "commitment": "If you want to join a research lab but you haven’t already, you have the option of being an associate mentor or serve in leadership roles such as operation directors, technical consultants, and more; this allows you to gain the experience of working within a lab without adding the pressure of guiding other students through the process as well.",
+                "qualifications": "Just as we train Berkeley's newest members to contribute to the hardest problems on campus, we provide opportunities for upper-division students to lead research projects, operate research labs, and gain experience in advanced technical skills. As ULAB is run entirely by students, we look to students like you to take on jobs often held by professors, graduate students, and the campus administration.",
+                "commitment": "If you want to join a research lab but you haven't already, you have the option of being an associate mentor or serve in leadership roles such as operation directors, technical consultants, and more; this allows you to gain the experience of working within a lab without adding the pressure of guiding other students through the process as well.",
                 "link": "/ulab-jobs",
                 "linktext": "Research Jobs",
                 "link2": "/corporate-jobs",
@@ -618,7 +618,7 @@ join_info = {
     "Graduate Student": {
             "Mentor": {
                 "description": "As an graduate student with research experience, you have the knowledge necessary to guide newer students through the process.",
-                "qualifications": "Just as we train Berkeley’s newest members to contribute to the hardest problems on campus, we provide opportunities for graduate students to lead research projects, operate research labs, and gain experience in advanced technical skills. As ULAB is run entirely by students, we look to students like you to take on jobs often held by professors and the campus administration.",
+                "qualifications": "Just as we train Berkeley's newest members to contribute to the hardest problems on campus, we provide opportunities for graduate students to lead research projects, operate research labs, and gain experience in advanced technical skills. As ULAB is run entirely by students, we look to students like you to take on jobs often held by professors and the campus administration.",
                 "link": "/ulab-jobs",
                 "linktext": "Research Jobs",
                 "link2": "/corporate-jobs",
@@ -627,4 +627,3 @@ join_info = {
             },
         },
 }
-
