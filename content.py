@@ -579,7 +579,7 @@ student = {
         },
 }
 
-join = {
+join_info = {
     "1st Year": {
             "Software Developer Application": {
                 "description": "Undergraduate Labs @ Berkeley’s core mission is to train UC Berkeley’s newest members so they are prepared to tackle some of the hardest research challenges on campus. To do this, new students (Freshmen and Junior Transfers) work as researchers within our student-run research laboratories. We design all of our research projects based on the interests of new students and to relate to the work being done on campus. That way, working in a uLab as a researcher in your first year allows you to explore what you are passionate about while simultaneously training for a research position at a professional research laboratory on campus.", 

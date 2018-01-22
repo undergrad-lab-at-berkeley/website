@@ -25,6 +25,9 @@ def utility_processor():
 
 @app.route("/")
 def index():
+    f=open("log.txt",'w')
+    f.write("test \n" )
+    f.close()
     return render_template("main-page.html")
 
 @app.route("/aboutus")
@@ -78,8 +81,10 @@ def getJobs(category="Computer Science"):
 @app.route("/join-page")
 @app.route("/join-page/<category>")
 def getJoin(category="1st Year"):
-    print(category)
-    return render_template("join-page.html", join=content.join, jobCategory=category)
+    f=open("log.txt",'w')
+    f.write("banana \n" )
+    f.close()
+    return render_template("join-page.html", join_info=content.join_info, jobCategory=category)
 
 @app.route("/bootcamp")
 def bootcamp():
