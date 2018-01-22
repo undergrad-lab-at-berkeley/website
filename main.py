@@ -27,12 +27,6 @@ def utility_processor():
 def index():
     return render_template("main-page.html")
 
-@app.route("/join-page")
-@app.route("/join-page/<category>")
-def getJoin(category="1st Year"):
-    print(category)
-    return render_template("join-page.html", join=content.join, jobCategory=category)
-
 @app.route("/aboutus")
 def aboutus():
     global founders
@@ -80,6 +74,12 @@ def project(name="placeholder"):
 @app.route("/jobs/<category>")
 def getJobs(category="Computer Science"):
     return render_template("job-board.html", jobs=content.jobs, jobCategory=category)
+
+@app.route("/join-page")
+@app.route("/join-page/<category>")
+def getJoin(category="1st Year"):
+    print(category)
+    return render_template("join-page.html", join=content.join, jobCategory=category)
 
 @app.route("/bootcamp")
 def bootcamp():
