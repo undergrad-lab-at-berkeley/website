@@ -385,7 +385,7 @@ jobs = {
             "perks": "Perks include involvement with cutting-edge ML research projects and leadership experience. Course Credit is Available. ",
             "link": "https://goo.gl/forms/l6nDfZtIU8Bth3uh1",
             "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
-        },
+                     },
         "Data Science Mentor": {
             "description": "Identifying nuclei allows researchers to identify individual cells in a sample and easily underlying biological processes at work. Automating this process can shorten the 10 years it takes for each new drug to come to market. This project will walk students through the deep learning stack and apply machine learning techniques to medical imaging. Students will be utilizing computer vision techniques and data science tools to identify nuclei in a given dataset. Mentor responsibilities include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
             "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, Linear algebra, and Deep Learning. Additional qualifications include experience with Python numerical tools (Numpy) and Data Science tools (Matplotlib, Jupyter Notebook). Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
@@ -393,15 +393,15 @@ jobs = {
             "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
             "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
             "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
-        },
-         "Computer Vision Mentor": {
-            "description": "Artistic style for all of history has been inseparable from the content of the artist’s creation. Now, with the magic of deep learning, we can separate and recombine the image content and style, reproduce famous painting styles on natural images. This project will walk students through the deep learning stack, reproducing the state of the art style transfer results and exploring research directions. See: https://www.youtube.com/watch?v=xVJwwWQlQ1o. Mentor responsibilities include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
-            "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, Linear algebra, and Deep Learning. Additional qualifications include experience with Python numerical tools (Numpy) and Data Science tools (Matplotlib, Jupyter Notebook). Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
+                     },
+        "Computer Vision Mentor": {
+            "description": "Artistic style for all of history has been inseparable from the content of the artist's creation. Now, with the magic of deep learning, we can separate and recombine the image content and style, reproduce famous painting styles on natural images. This project will walk students through the deep learning stack, reproducing the state-of-the-art style transfer results and exploring research directions. See: https://www.youtube.com/watch?v=xVJwwWQIQ1o. Mentor responsibilities will include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
+            "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, linear algebra, and deep learning. Additional qualifications include experience with Python numerical tools (Numpy) and Data science tools (Matplotlib, Jupyter Notebook). Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
             "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
-            "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
+            "perks": "Perks include involvement with research projects and leadership experience. Course credit is available.",
             "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
             "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
-        },
+                    },
         "Natural Language Processing Mentor": {
             "description": "Analysis of language-based data requires a deep understanding of natural language text and semantics, which is generally difficult tasks for computers. However, a number of statistical approaches have been shown to work well for sentiment analysis of text data. This project will involve automating the process of analyzing the helpfulness of Amazon reviews with the recent advances in deep learning models for NLP. Mentor responsibilities include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
             "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, Linear algebra, and Deep Learning. Additional qualifications include experience with Python numerical tools (Numpy), Data Science tools (Matplotlib, Jupyter Notebook), and Scikit Learn. Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
@@ -409,7 +409,7 @@ jobs = {
             "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
             "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
             "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
-        },
+                      },
     },
         "Cognitive Science": {
             "Mentor (Libet Experiment)": {
