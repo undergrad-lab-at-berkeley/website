@@ -454,6 +454,14 @@ jobs = {
                 "link": "https://goo.gl/forms/NBnH2lWeR8mtYLX12",
                 "deadline": "Applications accepted on a rolling basis"
             },
+            "Genetic Engineer": {
+                "description": "We are looking for an advanced undergraduate or grad student experienced with with MCB lab equipment and techniques including cell culture, primer design, PCR, cloning, transformation, protein expression, fluorescent microscopy, protein purification, and western blotting.  Capable applicants will have the opportunity to guide the efforts of inexperienced undergraduates looking for lab exposure.  Possible projects include expressing, isolating, and generating a crystal structure for proteins implicated in Multiple Sclerosis.",
+                "qualifications": "Qualified applicants will have taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), have experience working in a chemical biology/biochemistry/IB/MCB research lab, and using common laboratory equipment. We do a lot of training in house so a willingness to learn new things is the biggest qualification!",
+                "commitment": "6 - 10 hours a week (heavier at the beginning of the semester, lighter during midterm season)",
+                "perks": "Get access and more experience to machines such as temperature cyclers, centrifuges, and microscopes! Mentor a group of like-minded researchers, course credit, free food, and building relationships with many research laboratories on campus!",
+                "link": "https://docs.google.com/forms/d/1LPsCG4fM-VvUI9U4fFsmeU3oTijTTXmLHcEWoDqgwBw/edit",
+                "deadline": "Applications accepted on a rolling basis"
+            },
         },
         "Physics": {
             "Condensed Matter Mentor": {
@@ -462,7 +470,7 @@ jobs = {
                 "commitment": "5-6 hours per week",
                 "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
                 "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
-                "deadline": "We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                "deadline": "Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner for a better chance."
             },
             "Astronomy Mentor": {
                 "description": "We are looking to hire undergraduates to mentor small groups of students as they perform astrophysics and astronomy experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include black hole detection and exoplanets.",
