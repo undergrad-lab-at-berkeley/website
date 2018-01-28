@@ -446,20 +446,12 @@ jobs = {
             },
         },
         "Biology": {
-            "Mentor": {
-                "description": "Research labs are composed of a principal investigator who oversees research projects . As ULAB is run entirely by undergraduates, the core of our program is small teams of students who will spend two semesters on a research project that will be in partner with one or more research labs on campus. The purpose of mentors are to assist selected student on this project by providing advice, assistance in lab techniques, and help brainstorm and develop future research workshops.",
-                "qualifications": "Research experience is required as we are looking for individuals who can reflect on their own experiences to provide advice to students.",
-                "commitment": "5-6 hours per week",
-                "perks": "This position will provide you with many opportunities to both network with research labs on campus. This will also give you the opportunity to learn any lab techniques of your interest. Course Credit is Available",
-                "link": "https://goo.gl/forms/NBnH2lWeR8mtYLX12",
-                "deadline": "Applications accepted on a rolling basis"
-            },
             "Genetic Engineer": {
                 "description": "We are looking for an advanced undergraduate or grad student experienced with with MCB lab equipment and techniques including cell culture, primer design, PCR, cloning, transformation, protein expression, fluorescent microscopy, protein purification, and western blotting.  Capable applicants will have the opportunity to guide the efforts of inexperienced undergraduates looking for lab exposure.  Possible projects include expressing, isolating, and generating a crystal structure for proteins implicated in Multiple Sclerosis.",
                 "qualifications": "Qualified applicants will have taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), have experience working in a chemical biology/biochemistry/IB/MCB research lab, and using common laboratory equipment. We do a lot of training in house so a willingness to learn new things is the biggest qualification!",
                 "commitment": "6 - 10 hours a week (heavier at the beginning of the semester, lighter during midterm season)",
                 "perks": "Get access and more experience to machines such as temperature cyclers, centrifuges, and microscopes! Mentor a group of like-minded researchers, course credit, free food, and building relationships with many research laboratories on campus!",
-                "link": "https://docs.google.com/forms/d/1LPsCG4fM-VvUI9U4fFsmeU3oTijTTXmLHcEWoDqgwBw/edit",
+                "link": "https://goo.gl/forms/lfg21jlayFthbeNn1",
                 "deadline": "Applications accepted on a rolling basis"
             },
         },
