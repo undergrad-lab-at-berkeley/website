@@ -445,14 +445,22 @@ jobs = {
                 "deadline": "Rolling"
             },
         },
-       "Biology": {
+        "Biology": {
             "Pharmaceutical Scientist": {
-                "description": "ULAB is looking for a sophomore/junior “Pharmaceutical Chemist” who would enjoy replicating a known synthetic pathway for a natural product or pharmaceutical product under the mentorship of an experienced undergrad mentor. You can expect to learn synthetic design, reaction setup, water-free techniques, product purification with column chromatography/Prep TLC, and product characterization with H/C13 NMR. The applicant should be interested in medicinal chemistry and have a rough idea of basic organic chemistry techniques, with exposure in at least introductory Organic Chemistry (Chem 3A/B or Chem 12A/B).",
+                "description": "ULAB is looking for a sophomore/junior Pharmaceutical Chemist who would enjoy replicating a known synthetic pathway for a natural product or pharmaceutical product under the mentorship of an experienced undergraduate mentor. You can expect to learn synthetic design, reaction setup, water-free techniques, product purification with column chromatography/Prep TLC, and product characterization with H/C13 NMR. The applicant should be interested in medicinal chemistry and have a rough idea of basic organic chemistry techniques, with exposure in at least introductory Organic Chemistry (Chem 3A/B or Chem 12A/B).",
                 "qualifications": "Applicant needs to have received a B or higher in an introductory Organic Chemistry course (12A, 3A or equivalent) and be enrolled (or have completed) a second semester Organic Chemistry course (12B, 3B or equivalent). Preferred majors: Chemistry, Chemical Biology, Chemical Engineering, Molecular Cell Biology, Bioengineering.",
-                "commitment": "Must have at least 8 - 12 hours per week to commit to ULAB. ",
-                "perks": " Practice in designing synthetic projects, practice with process chemistry, experience with instructing and undergraduate management, graded course credit (if not already enrolled in lab).",
-                "link": "https://docs.google.com/forms/d/e/1FAIpQLScD6jFOYJeUJ_uYZ21PHMtk0Lp7ogN3FR_uNsQj1bi6b4j2rQ/viewform?usp=sf_link ",
-                "deadline": "Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner rather than later"
+                "commitment": "Must have at least 8-12 hours per week to commit to ULAB.",
+                "perks": "Practice in designing synthetic projects, practice with process chemistry, experience with instructing and undergraduate management, course credit (if not already enrolled in lab).",
+                "link": "https://docs.google.com/forms/d/e/1FAIpQLScD6jFOYJeUJ_uYZ21PHMtk0Lp7ogN3FR_uNsQj1bi6b4j2rQ/viewform?usp=sf_link",
+                "deadline": "Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in, so apply sooner rather than later."
+                },
+            "Biotechnologist/Biotechnician": {
+                "description": "Biotechnologists/biotechnicians develop and implement new research projects. Set up instruments and laboratory equipment used to conduct and monitor experiments such as centrifuges, flasks and spectrophotometers. Should be able to use spectrophotometers, compound microscopes, and benchtop centrifuges. Be able to use tools to rearrange fragments of DNA and modify genetic material.",
+                "qualifications": "Taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), experience working in a research lab preferred, and experience in managing and using laboratory equipment. We do a lot of training in house so a willingness to learn new things is the biggest qualification! Preferable, but not required: Designed and ran a research project.",
+                "commitment": "6 - 10 hours a week (heavier at the beginning of the semester, lighter during midterm season)",
+                "perks": "Get access to machines such as temperature cyclers, centrifuges, microscopes, and additional machines! working with a group of like-minded researchers, course credit, free food, free swag, and building relationships with many research laboratories on campus.",
+                "link": "https://docs.google.com/forms/u/1/d/1n4XcFiNskeklRFyr9BkXDT_f4A3MPsHZqV5gkvwChDc/edit?usp=drive_web",
+                "deadline": "Rolling. While the priority application deadline is 2018.02.02, we are hiring people as the applications come in so apply sooner rather than later"
             },
             "Genetic Engineer": {
                 "description": "We are looking for an advanced undergraduate or grad student experienced with with MCB lab equipment and techniques including cell culture, primer design, PCR, cloning, transformation, protein expression, fluorescent microscopy, protein purification, and western blotting.  Capable applicants will have the opportunity to guide the efforts of inexperienced undergraduates looking for lab exposure.  Possible projects include expressing, isolating, and generating a crystal structure for proteins implicated in Multiple Sclerosis.",
@@ -463,29 +471,21 @@ jobs = {
                 "deadline": "Applications accepted on a rolling basis"
             },
             "Medicinal Chemist": {
-                "description": "ULAB is looking for a research-experienced undergraduate or graduate “Medicinal Chemist” capable of executing synthetic procedures, and who is interested in learning how to guide less experienced undergraduates through a natural product or pharmaceutical product synthesis pathway. Knowledge of purification techniques (column chromatography, recrystallization, HPLC) is required. Experience with heterocyclic chemical synthesis/being enrolled in Chemistry 114/214 would be highly preferred.",
-                "qualifications": "If the applicant is a UC Berkeley undergraduate, he/she should have received a B or higher in an introductory Organic Chemistry course (12A, 3A or equivalent) and be enrolled (or have completed) a second semester Organic Chemistry course (12B, 3B or equivalent). Applicant must have research experience performing synthesis either in an academic or professional setting.",
-                "commitment": "Must have at least 8 - 12 hours per week to commit to ULAB.",
-                "perks": "Practice in designing synthetic projects, practice with process chemistry, experience instructing and undergraduate management, course credit, free food, and building relationships with many research laboratories on campus!",
+                "description": "ULAB is looking for a research-experienced undergraduate or graduate Medicinal Chemist capable of executing synthetic procedures and who is interested in learning how to guide less-experienced undergraduates through a natural product or pharmaceutical product synthesis pathway. Knowledge of purification techniques (column chromatography, recrystallization, HPLC) is required. Experience with heterocyclic chemical synthesis/being enrolled in Chemistry 114/214 would be highly preferred.",
+                "qualifications": "If the applicant is a UC Berkeley undergraduate, they should have received a B or higher in an introductory Organic Chemistry course (12A, 3A or equivalent) and be enrolled (or have completed) a second semester Organic Chemistry course (12B, 3B or equivalent). Applicant must have research experience performing synthesis either in an academic or professional setting.",
+                "commitment": "Must have at least 8-12 hours per week to commit to ULAB.",
+                "perks": "Practice in designing synthetic projects, practice with process chemistry, experience instructing and undergraduate management, course credit, free food, and building relationships with many research laboratories on campus.",
                 "link": "https://docs.google.com/forms/d/e/1FAIpQLSfo9Q8I7RdJxs5-Q7qEWmD-20n2AnaCjZ5THRZwSCvUFNvtOg/viewform?usp=sf_link",
-                "deadline": "Rolling. While the priority application deadline is February 2, 2018, we are recruiting people as the applications come in so apply sooner for a better chance!"
+                "deadline": "Rolling. While the priority application deadline is February 2, 2018, we are recruiting people as the applications come in, so apply sooner for a better chance!"
             },
             "Clinical Research Scientist": {
-                "description": "ULAB is looking for a driven “Clinical Research Scientist” capable of executing and/or learning procedures relevant to clinical applications. Our main interest is setting up a blood lab that will be used to analyze patient blood samples. We are interested in recruiting clinical research scientists who has Biology/Chemistry lab experience and can teach undergraduates skills that might be conducive to doing clinical research and diagnostics.",
-                "qualifications": "If the applicant is a UC Berkeley undergraduate, he/she should have received a B or higher in an introductory Biology course (Bio1A, Bio1AL) and be enrolled (or have completed) additional relevant coursework (Chem 12A, Chem 12B, MCB 110, MCB 110L, etc.) Applicant must have research experience in an academic or professional setting.",
-                "commitment": "Must have at least 8 - 12 hours per week to commit to ULAB.",
-                "perks": "Practice in clinical design, learning techniques associated with diagnosing blood, potentially formal training from UCSF experts in phlebotomy, experience instructing and undergraduate management, graded course credit (if not already enrolled in lab).",
+                "description": "ULAB is looking for a driven Clinical Research Scientist capable of executing and/or learning procedures relevant to clinical applications. Our main interest is setting up a blood test that will be used to analyze patient blood samples. We are interested in recruiting clinical research scientists who have Biology/Chemistry lab experience and can teach undergraduates skills that might be conducive to doing clinical research and diagnostics.",
+                "qualifications": "If the applicant is a UC Berkeley undergraduate, they should have received a B or higher in an introductory Biology course (Bio 1A, Bio 1AL) and be enrolled (or have completed) additional relevant coursework (Chem 12A, Chem 12B, MCB 110, MCB 110L, etc.) Applicant must have research experience in an academic or professional setting.",
+                "commitment": "Must have at least 8-12 hours per week to commit to ULAB.",
+                "perks": "Practice in clinical design, learning techniques associated with diagnosing blood, potentially formal training from UCSF experts in phlebotomy, experience instructing and undergraduate management, course credit (if not already enrolled in lab).",
                 "link": "https://docs.google.com/forms/d/e/1FAIpQLSdAQ9nLD4iAAJ-0hobLz2unvITRhxNGZbX8nLSDyK5-bo0G5g/viewform?usp=sf_link",
-                "deadline": "Rolling. While the priority application deadline is 2018.02.02, we are recruiting people as the applications come in so apply sooner for a better chance!"
-            },
-            "Biotechnologist/Biotechnician": {
-                "description": "Biotechnologists/biotechnicians develop and implement new research projects. Set up instruments and laboratory equipment used to conduct and monitor experiments such as centrifuges, flasks and spectrophotometers. Should be able to use spectrophotometers, compound microscopes, and benchtop centrifuges. Be able to use tools to rearrange fragments of DNA and modify genetic material.",
-                "qualifications": "Taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), experience working in a research lab preferred, and experience in managing and using laboratory equipment. We do a lot of training in house so a willingness to learn new things is the biggest qualification! Preferable, but not required: Designed and ran a research project.",
-                "commitment": "6 - 10 hours a week (heavier at the beginning of the semester, lighter during midterm season)",
-                "perks": "Get access to machines such as temperature cyclers, centrifuges, microscopes, and additional machines! working with a group of like-minded researchers, course credit, free food, free swag, and building relationships with many research laboratories on campus.",
-                "link": "https://docs.google.com/forms/u/1/d/1n4XcFiNskeklRFyr9BkXDT_f4A3MPsHZqV5gkvwChDc/edit?usp=drive_web",
-                "deadline": "Rolling. While the priority application deadline is 2018.02.02, we are hiring people as the applications come in so apply sooner rather than later"
-            },
+                "deadline": "Rolling. While the priority application deadline is February 2, 2018, we are recruiting people as the applications come in, so apply sooner for a better chance!"
+                },
         },
         "Physics": {
             "Condensed Matter Mentor": {
