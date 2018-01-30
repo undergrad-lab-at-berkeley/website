@@ -13,8 +13,16 @@ navProjects = [
     } for x in content.research
 ][1:]
 
+navLabs = [
+    {
+        "url": "/labs/{}".format(x),
+        "name": content.labs[x]["navbar"]
+    } for x in content.labs
+][:]
+
 # cache useful info to prevent reloading
 projects = dict()
+labs = dict()
 founders = None
 advisors = None
 team = None
@@ -22,6 +30,10 @@ team = None
 @app.context_processor
 def utility_processor():
     return dict(navProjects=navProjects)
+
+@app.context_processor
+def utility_processor1():
+    return dict(navLabs=navLabs)
 
 @app.route("/")
 def index():
@@ -61,6 +73,17 @@ def getStudent(category="Statistical Modeling and Deep Learning"):
 @app.route("/corporate-jobs/<category>")
 def getCorporate(category="ATG"):
     return render_template("corporate-jobs.html", corporate=content.corporate, jobCategory=category)
+
+@app.route("/lab")
+@app.route("/lab/<name>")
+@app.route("/labs")
+@app.route("/labs/<name>")
+def lab(name="placeholder"):
+    global labs
+    if name not in labs:
+        labs[name] = content.labs[name].copy()
+    #     labs[name]['img'] = url_for('static', filename=labs[name]['img'])
+    return render_template("labs.html", content=labs[name])
 
 @app.route("/project")
 @app.route("/project/<name>")

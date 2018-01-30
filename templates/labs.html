@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block body %}
+<section class="align-middle" style="font-size:2em; margin:0 2em">
+  <h1 style="text-align: center"> {{ content["navbar"] }} Job Openings</h1>
+
+  <div class="container">
+    <div class="row"><!-- col-md-10 col-md-offset-1 -->
+        <div class="col-sm-12 text-center">
+          <div class="tabbed-content button-tabs">
+            <ul class="tabs">
+              {% for category in content["job_categories"].keys() %}
+              <li>
+                  <div class="tab-title">
+                      <span>{{ category }}</span>
+                  </div>
+                  <!-- <div class="tab-content col-md-10 col-md-offset-1">
+                    <h2>{{ category }} </h2> -->
+                    <div class="list-group">
+                      {% for l in content["job_categories"][category].keys() %}
+                      </a>
+                      <div class="tab-content col-md-10 col-md-offset-1">
+                    <h2>{{ l }} </h2>
+                      <div style="padding: 1em 1em; text-align: left">
+                        <p style="font-size:16px">{{ content["job_categories"][category][l]['description'] }}</p>
+                        <p style="font-size:16px">{{ content["job_categories"][category][l]['qualifications'] }}</p>
+                        <p style="font-size:16px">{{ content["job_categories"][category][l]['commitment'] }}</p>
+                        <p style="font-size:16px">{{ content["job_categories"][category][l]['perks'] }}</p>
+                      </div>
+                      <a type="button" href={{ content["job_categories"][category][l]["link"] }} class="btn btn-primary btn-sm" style="color: white; background: #47b475;">
+                        Apply Now
+                      </a>
+                      {% endfor %}
+                    </div>
+                  </div>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+</section>
+{% endblock %}

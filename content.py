@@ -546,11 +546,11 @@ jobs = {
                 "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
                 "perks": "",
                 "link": "##",
-                "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled.",
+                "deadline": "We will review applications on a rolling basis until February 1st or until all our positions have been filled.",
             },
             "Material Mentor": {
-                "description": "Meets with PI every week and discuss progess during the week, and make plans for future weeks. Guides mentees through the experiment. Must be present during mentee's research session. Must help with material selection considering mechanical and chemical properties of materials. Helps mentees to understand failure criteria and safety factors. Ensures safety of the project and failure criteria setup.",
-                "qualifications": "Material Science major preferred. Must nderstand safety factor and work on multiple projects on material selection (for example, Mechanical Property of Materials, ME108).",
+                "description": "Meets with PI every week and discuss progress during the week, and make plans for future weeks. Guides mentees through the experiment. Must be present during mentee's research session. Must help with material selection considering mechanical and chemical properties of materials. Helps mentees to understand failure criteria and safety factors. Ensures safety of the project and failure criteria setup.",
+                "qualifications": "Material Science major preferred. Must understand safety factor and work on multiple projects on material selection (for example, Mechanical Property of Materials, ME108).",
                 "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
                 "perks": "",
                 "link": "##",
@@ -674,4 +674,167 @@ join_info = {
                 "deadline": "Applications accepted on a rolling basis"
             },
         },
+}
+
+labs = {
+    "Physics": {
+            "navbar": "Physics",
+            "job_categories": {
+                "Research Jobs": {
+                    "Condensed Matter Mentor": {
+                        "description": "We're looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
+                        "qualifications": "You must have previous research experience, preferably relating to semiconductor physics or solid state physics. However, familiarity with our specific research topics is not required.",
+                        "commitment": "5-6 hours per week",
+                        "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
+                        "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
+                        "deadline": "Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner for a better chance."
+                    },
+                    "Astronomy Mentor": {
+                        "description": "We are looking to hire undergraduates to mentor small groups of students as they perform astrophysics and astronomy experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include black hole detection and exoplanets.",
+                        "qualifications": "You must have previous research experience in astronomy or astrophysics. Some coding experience is also necessary.",
+                        "commitment": "5-6 hours per week",
+                        "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
+                        "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
+                        "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                    },
+                     "Lab Manager": {
+                        "description": "We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
+                        "commitment": "4-6 hrs per week",
+                        "perks": "This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
+                        "link": "https://goo.gl/forms/N1U1MXdoRizd2g883",
+                        "deadline": "We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                    },
+                },
+                "Lab Management": {
+                    "Computational Scientist": {
+                        "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
+                        "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
+                        "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
+                        "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
+                        "deadline": "February 3rd, 2018",
+                    },
+                },
+            },
+            
+        },
+     "Organic Chemistry": {
+           "navbar": "Physics",
+            "job_categories": {
+                "Research Jobs": {
+                    "Condensed Matter Mentor": {
+                        "description": "We're looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
+                        "qualifications": "You must have previous research experience, preferably relating to semiconductor physics or solid state physics. However, familiarity with our specific research topics is not required.",
+                        "commitment": "5-6 hours per week",
+                        "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
+                        "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
+                        "deadline": "Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner for a better chance."
+                    },
+                    "Astronomy Mentor": {
+                        "description": "We are looking to hire undergraduates to mentor small groups of students as they perform astrophysics and astronomy experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include black hole detection and exoplanets.",
+                        "qualifications": "You must have previous research experience in astronomy or astrophysics. Some coding experience is also necessary.",
+                        "commitment": "5-6 hours per week",
+                        "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
+                        "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
+                        "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                    },
+                     "Lab Manager": {
+                        "description": "We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
+                        "commitment": "4-6 hrs per week",
+                        "perks": "This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
+                        "link": "https://goo.gl/forms/N1U1MXdoRizd2g883",
+                        "deadline": "We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                    },
+                },
+                "Lab Management": {
+                    "Computational Scientist": {
+                        "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
+                        "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
+                        "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
+                        "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
+                        "deadline": "February 3rd, 2018",
+                    },
+                },
+            },
+            
+        },
+    "Engineering": {
+            "navbar": "Physics",
+            "job_categories": {
+                "Research Jobs": {
+                    "Condensed Matter Mentor": {
+                        "description": "We're looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
+                        "qualifications": "You must have previous research experience, preferably relating to semiconductor physics or solid state physics. However, familiarity with our specific research topics is not required.",
+                        "commitment": "5-6 hours per week",
+                        "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
+                        "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
+                        "deadline": "Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner for a better chance."
+                    },
+                    "Astronomy Mentor": {
+                        "description": "We are looking to hire undergraduates to mentor small groups of students as they perform astrophysics and astronomy experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include black hole detection and exoplanets.",
+                        "qualifications": "You must have previous research experience in astronomy or astrophysics. Some coding experience is also necessary.",
+                        "commitment": "5-6 hours per week",
+                        "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
+                        "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
+                        "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                    },
+                     "Lab Manager": {
+                        "description": "We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
+                        "commitment": "4-6 hrs per week",
+                        "perks": "This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
+                        "link": "https://goo.gl/forms/N1U1MXdoRizd2g883",
+                        "deadline": "We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                    },
+                },
+                "Lab Management": {
+                    "Computational Scientist": {
+                        "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
+                        "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
+                        "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
+                        "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
+                        "deadline": "February 3rd, 2018",
+                    },
+                },
+            },
+            
+        },
+    "Cognitive Science": {
+            "navbar": "Physics",
+            "job_categories": {
+                "Research Jobs": {
+                    "Condensed Matter Mentor": {
+                        "description": "We're looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
+                        "qualifications": "You must have previous research experience, preferably relating to semiconductor physics or solid state physics. However, familiarity with our specific research topics is not required.",
+                        "commitment": "5-6 hours per week",
+                        "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
+                        "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
+                        "deadline": "Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner for a better chance."
+                    },
+                    "Astronomy Mentor": {
+                        "description": "We are looking to hire undergraduates to mentor small groups of students as they perform astrophysics and astronomy experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include black hole detection and exoplanets.",
+                        "qualifications": "You must have previous research experience in astronomy or astrophysics. Some coding experience is also necessary.",
+                        "commitment": "5-6 hours per week",
+                        "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
+                        "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
+                        "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                    },
+                     "Lab Manager": {
+                        "description": "We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
+                        "commitment": "4-6 hrs per week",
+                        "perks": "This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
+                        "link": "https://goo.gl/forms/N1U1MXdoRizd2g883",
+                        "deadline": "We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                    },
+                },
+                "Lab Management": {
+                    "Computational Scientist": {
+                        "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
+                        "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
+                        "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
+                        "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
+                        "deadline": "February 3rd, 2018",
+                    },
+                },
+            },
+            
+        }
 }

@@ -21,12 +21,22 @@
                             <a href="/aboutus">About Us</a>
                         </li>
                         <li class="has-dropdown">
-                            <a href="#">Past Research Projects</a>
+                            <!-- <a href="#">Past Research Projects</a>
                             <ul>
                                 {% for project in navProjects %}
                                 <li>
                                     <a href="{{ project['url'] }}">
                                         <small>{{ project['name'] }}</small>
+                                    </a>
+                                </li>
+                                {% endfor %}
+                            </ul> -->
+                            <a href="#">Our Labs</a>
+                            <ul>
+                                {% for lab in navLabs %}
+                                <li>
+                                    <a href="{{ lab['url'] }}">
+                                        <small>{{ lab['name'] }}</small>
                                     </a>
                                 </li>
                                 {% endfor %}
