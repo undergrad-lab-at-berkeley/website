@@ -698,7 +698,7 @@ labs = {
             "job_categories": {
                 "Research Jobs": {
                     "Condensed Matter Mentor": {
-                        "description": u"We're looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
+                        "description": u"We are looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
                         "qualifications": u"You must have previous research experience, preferably relating to semiconductor physics or solid state physics. However, familiarity with our specific research topics is not required.",
                         "commitment": u"5-6 hours per week",
                         "perks": u"In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
@@ -713,13 +713,6 @@ labs = {
                         "link": u"https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
                         "deadline": u"We will review applications on a rolling basis until February 1st, or until all our positions have been filled."
                     },
-                     "Lab Manager": {
-                        "description": u"We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
-                        "commitment": u"4-6 hrs per week",
-                        "perks": u"This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
-                        "link": u"https://goo.gl/forms/N1U1MXdoRizd2g883",
-                        "deadline": u"We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
-                    },
                 },
                 "Lab Management": {
                     "Computational Scientist": {
@@ -729,9 +722,60 @@ labs = {
                         "link": u"https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
                         "deadline": u"February 3rd, 2018",
                     },
+                    "Lab Manager": {
+                        "description": u"We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
+                        "commitment": u"4-6 hrs per week",
+                        "perks": u"This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
+                        "link": u"https://goo.gl/forms/N1U1MXdoRizd2g883",
+                        "deadline": u"We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                    },
                 },
             },
             
+        },
+    "cogsci": {
+            "img": u"img/labs/phsyicslabcover.jpg",
+            "short_name": u"cogsci",
+            "full_name": u"Cognitive Neuroscience and Medical Imaging",
+            "navbar": u"Cog_Sci",
+            "job_categories": {
+                "Research Jobs": {
+                    "Mentor (Libet Experiment)": {
+                        "description": u"Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+                        "qualifications": u"Familiarity with the Libet Exeriment + relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and CS 1) Knowledge of EEG theory and operation (preferred) 2) knowledge of general neuroanatomy and neurobio (psych 117, psych c127 are good), Basic CS Skills",
+                        "commitment": u"~5 Hours/Week + additional time as needed once projects are underway",
+                        "perks": u"Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                        "link": u"https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+                        "deadline": u"Rolling"
+                        },
+                    "Mentor (Mapping Neural Networks)": {
+                        "description": u"Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+                        "qualifications": u"Relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and CS 1) knowledge of general neuroanatomy and neurobio (psych 117, psych c127 are good options) 2), CS requirements:CS61B, CS188 or equivalent",
+                        "commitment": u"~5 Hours/Week + additional time as needed once projects are underway",
+                        "perks": u"Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                        "link": u"https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+                        "deadline": u"Rolling"
+                        },
+                    "Mentor (Mapping Neural Networks)": {
+                        "description": u"Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+                        "qualifications": u"Relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and/or CS",
+                        "commitment": u"~5 Hours/Week + additional time as needed once projects are underway",
+                        "perks": u"Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+                        "link": u"https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+                        "deadline": u"Rolling"
+                        },
+                    },
+                "Lab Management": {
+                    "Lab Tech": {
+                        "description": u"The lab technician is tasked with working through logistics and running experiments for the lab.",
+                        "qualifications": u"Must be able to operate EEG, operate MRI, or be computer science expert (knowledge in statistical modeling and mapping of brain)",
+                        "commitment": u"The estimated time commitment is roughly 5 hours per week.",
+                        "perks": u"Perks include the ability to help a student-run reserach project; opportunities to meet researchers from other labs on campus through liason meetings; social events and community of passionate researchers. Up to 4 units of course Credit are available. ",
+                        "link": u"https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+                        "deadline": u"Rolling"
+                        },
+                },
+            }, 
         },
      "medicine": {
             "img": u"img/labs/phsyicslabcover.jpg",
@@ -936,13 +980,7 @@ labs = {
                 },
 
                 "New Students": {
-                     "Lab Manager": {
-                        "description": u"Laboratory Managers are responsible for running the uLabs safely and efficiently. The manager, alongside the Principal Investigators, are the primary supervisors for all uLab students. The manager is the principal custodian for all laboratory equipment and oversees the equipment and logistical needs for all laboratory equipment used throughout the uLab. In addition to training students on using equipment, troubleshooting experimental results, and developing trainings for students to safely use equipment, laboratory managers often acquire new equipment and work on operating a variety of sophisticated equipment as part of their research and operational duties. The manager in this uLab will work with several laboratories on campus to operate state-of-the-art genetics and medical testing equipment.",
-                        "commitment": u"7 - 10 hrs per week",
-                        "qualifications": u"As different research projects require a diverse array of new equipment, a willingness to rapidly learn how to maintain and operate equipment is a must. This position is often a great leadership opportunity for students looking to learn how to run a laboratory. Strong organizational skills, fluency in technical analysis, and interpersonal skills often characterize the best laboratory managers. This particular laboratory manager should ideally have experience with common wet laboratory techniques (PCR, Gel Electrophoresis, etc.) and experience managing or working in a molecular biology laboratory.",
-                        "perks": u"Perks: access to laboratory space and several biomedical research facilities on campus, training in a diverse array of capabilities (from CRIPS-Cas9 to computational genomics), working directly with multiple research laboratories, and working with a networks of researchers spread across many different disciplines in the biological sciences. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
-                        "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeyU_l98S5F9wNRrDq6iJMfvfyni64uiAr56ndYefotJ_zdDg/viewform",
-                        "deadline": u"We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                    "To Be Posted": {
                     },
                 },
 
@@ -1037,11 +1075,6 @@ labs = {
 
                 "New Student Positions": {
                     "To Be Posted": {
-                        "description": u"ULAB is looking for an undergraduate who would enjoy designing a robotic operating system for aiding astronauts and working on the implementation of the system in a humanoid suit (the spacesuit). This device will play an integral part of future astronauts being able to do work in a low pressure, vacuum like environment. The overall mechanics will be able to sense muscle movement in the finger, and relay a feedback to the robotic assist device. Thus, you will be working with Stanley Chang to research, test, and analyze the design use in relation to the function of the elements in the system.",
-                        "qualifications": u"Qualified applicants must have a basic knowledge of MATLAB, ROS, and Arduino. Applicants must have also taken a few controls classes, and while not necessarily required, it is recommended that they have also taken EE C106A. Additionally, EECS and Mechanical Engineering students are highly encouraged to apply. The best applicant is one who is willing to learn.",
-                        "perks": u"Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
-                        "link": u"https://docs.google.com/forms/d/e/1FAIpQLScsw1tE6PYN3oLJ18rDtwdzqpY8emmDULTnErsZVOzP_tPv9A/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
                     },
 
                     "Design Engineer": {
