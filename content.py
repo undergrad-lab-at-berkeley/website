@@ -18,7 +18,7 @@ research = {
         "app-url": "/lab-jobs/physics",
         "navbar": "Automated Weed Removal",
         "img": "img/project/exoplanet.jpg",
-        "title": "Nanoscience and Astrophysics uLab",
+        "title": "Physics and Astrophysics uLab",
         "team": ["ULAB"],
         "has_mentor": False,
         "mentor": "",
@@ -132,7 +132,7 @@ research = {
                     """,
     },
 }
-foundersOrder = ["Joshua Hug", "Amit Akula", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
+foundersOrder = ["Joshua Hug", "AMIT AKULA", "MRINALINI SUGOSH", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 founders = {
     # "placeholder": {
     #     "title": "placeholder",
@@ -639,6 +639,7 @@ student = {
         },
 }
 
+join_infoOrder = ["1st Year", "2nd Year", "Upperclassman", "Graduate Student"]
 join_info = {
     "1st Year": {
             "Software Developer Application": {
@@ -811,7 +812,7 @@ labs = {
 
                 },
 
-                "Lab Leaedership": {
+                "Lab Leadership": {
 
                     "Principal Investigator": {
                         "description": u"Oversees a portfolio of research projects run by undergraduates in a given area of study. Supervise the core leadership (Operation Director, Laboratory Manager, Computational Scientists, etc.) of the uLab and report directly to the ULAB Front Office. While a PI focuses on all aspects of laboratory management, the emphasis is placed on pursuing university level research and cultivating a strong learning environment for all laboratory staff and researchers. This uLab is working on developing cheap blood tests, studying drug delivery problems for CRISPR-Cas9, and using genetics to study autoimmune disorders such as multiple sclerosis. Principal Investigators in this group will be tasked with the largest ever expansion of ULABs' infrastructure, oversee the implementation of industry grade research protocols for all projects, and will drive multiple research projects forward.",
@@ -873,7 +874,7 @@ labs = {
 
                 },
 
-                "Lab Leaedership": {
+                "Lab Leadership": {
 
                     "Principal Investigator": {
                         "description": u"Oversees a portfolio of research projects run by undergraduates in a given area of study. Supervise the core leadership (Operation Director, Laboratory Manager, Computational Scientists, etc.) of the uLab and report directly to the ULAB Front Office. While a PI focuses on all aspects of laboratory management, the emphasis is placed on pursuing university level research and cultivating a strong learning environment for all laboratory staff and researchers. This uLab is working on developing cheap blood tests, studying drug delivery problems for CRISPR-Cas9, and using genetics to study autoimmune disorders such as multiple sclerosis. Principal Investigators in this group will be tasked with the largest ever expansion of ULABs’ infrastructure, oversee the implementation of industry grade research protocols for all projects, and will drive multiple research projects forward.",
