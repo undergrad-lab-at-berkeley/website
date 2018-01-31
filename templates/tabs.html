@@ -1,0 +1,127 @@
+{% extends "base.html" %}
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    border: none;
+    background-color: #A9A9A9;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    background-color: #A9A9A9;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: none;
+    border-top: none;
+}
+</style>
+</head>
+
+
+{% block body %}
+
+<section class="align-middle" style="font-size:2em; margin:0 2em">
+  <h2 style="text-align: center">{{lab_jobs["full_name"]}} Job Openings </h2>
+
+<p> Select a job category below. All new student opportunities are listed under "New Students". Other sections are listed by project. </p>
+
+<!-- <div class="tab">
+  <button class="btn btn-primary btn-sm" style="color: white; background: #47b475;" onclick="openCity(event, 'London')">London</button>
+  <button class="btn btn-primary btn-sm" style="color: white; background: #47b475;" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="btn btn-primary btn-sm" style="color: white; background: #47b475;" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div> -->
+
+<div class="tab">
+  {% for job_category in lab_jobs["job_categories"].keys() %}
+    <button class="btn btn-primary btn-lg" style="color: white; background: #A9A9A9;" onclick="openCity(event, '{{ job_category }}')"> {{ job_category }} </button>
+  {% endfor %}
+</div>
+
+{% for job_category in lab_jobs["job_categories"].keys() %}
+  <div style="padding: 1em 1em; text-align: left" id="{{ job_category }}" class="tabcontent">
+    {% for job in lab_jobs["job_categories"][job_category].keys() %}
+
+      <center>
+        <a href={{ lab_jobs["job_categories"][job_category][job]["link"] }} class="list-group-item list-group-item-action">
+        <div style="display: inline-block">{{ job }}</div>
+        </a>
+      </center>
+
+      <div style="padding: 1em 1em; text-align: left">
+        <p style="font-size:16px">Application Deadline: {{ lab_jobs["job_categories"][job_category][job]['deadline'] }}</p>
+        <p style="font-size:16px">{{ lab_jobs["job_categories"][job_category][job]['description'] }}</p>
+        <p style="font-size:16px">{{ lab_jobs["job_categories"][job_category][job]['qualifications'] }}</p>
+        <p style="font-size:16px">{{ lab_jobs["job_categories"][job_category][job]['commitment'] }}</p>
+        <p style="font-size:16px">{{ lab_jobs["job_categories"][job_category][job]['perks'] }}</p>
+      </div>
+
+       <center>
+        <a type="button" href={{ lab_jobs["job_categories"][job_category][job]["link"] }} class="btn btn-primary btn-sm" style="color: white; background: #47b475;">
+          Apply
+        </a>
+      </center>
+
+    {% endfor %}
+  </div>
+{% endfor %}
+
+<!-- <div id="London" class="tabcontent">
+  <h3>London</h3>
+  <p>London is the capital city of England.</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3>Paris</h3>
+  <p>Paris is the capital of France.</p> 
+</div>
+
+<div id="Tokyo" class="tabcontent">
+  <h3>Tokyo</h3>
+  <p>Tokyo is the capital of Japan.</p>
+</div> -->
+
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+</script>
+     
+</section>
+{% endblock %}

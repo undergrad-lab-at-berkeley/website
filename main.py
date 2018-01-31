@@ -15,8 +15,9 @@ navProjects = [
 
 navLabs = [
     {
-        "url": "/labs/{}".format(x),
-        "name": content.labs[x]["navbar"]
+        "url": "/projects/{0}-ulab".format(content.labs[x]["short_name"]),
+        "app-url": "/labs/{}".format(content.labs[x]["short_name"]),
+        "name": content.labs[x]["full_name"]
     } for x in content.labs
 ][:]
 
@@ -69,6 +70,12 @@ def aboutus():
 def getStudent(category="Statistical Modeling and Deep Learning"):
     return render_template("new-student.html", student=content.student, jobCategory=category)
 
+@app.route("/software-jobs")
+@app.route("/software-jobs/<category>")
+def getSoftware(category="ATG"):
+    return render_template("software-jobs.html", software_jobs=content.software_jobs, jobCategory=category)
+
+
 @app.route("/corporate-jobs")
 @app.route("/corporate-jobs/<category>")
 def getCorporate(category="ATG"):
@@ -76,14 +83,16 @@ def getCorporate(category="ATG"):
 
 @app.route("/lab")
 @app.route("/lab/<name>")
+@app.route("/lab/<name>/<category>")
 @app.route("/labs")
 @app.route("/labs/<name>")
-def lab(name="placeholder"):
+@app.route("/labs/<name>/<category>")
+def lab(name="placeholder", category = "Lab Management"):
     global labs
     if name not in labs:
         labs[name] = content.labs[name].copy()
     #     labs[name]['img'] = url_for('static', filename=labs[name]['img'])
-    return render_template("labs.html", content=labs[name])
+    return render_template("labs.html", lab_jobs=labs[name], jobCategory=category)
 
 @app.route("/project")
 @app.route("/project/<name>")
@@ -97,9 +106,16 @@ def project(name="placeholder"):
     return render_template("projects.html", content=projects[name])
 
 @app.route("/ulab-jobs")
-@app.route("/jobs/<category>")
-def getJobs(category="Computer Science"):
-    return render_template("job-board.html", jobs=content.jobs, jobCategory=category)
+def getJobs():
+    return render_template("job-landing-page.html", labs=content.labs)
+
+@app.route("/lab-jobs")
+@app.route("/lab-jobs/<name>")
+def getTabs(name = "aerospace"):
+    global labs
+    if name not in labs:
+        labs[name] = content.labs[name].copy()
+    return render_template("tabs.html", lab_name=name, lab_jobs=labs[name])
 
 @app.route("/join-page")
 @app.route("/join-page/<category>")

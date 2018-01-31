@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block body %}
+<section class="align-middle" style="font-size:1.5em; margin:0 2em">
+  <h3 style="text-align: center"> Select a uLab below to learn more about it (and see current openings) </h3>
+  {% for lab in labs.keys() %}
+    <center>
+      <a href= {{ "/projects/{0}-ulab".format(labs[lab]["short_name"]) }}> {{ labs[lab]["full_name"] }} </a>
+      <br>
+      <br>
+    </center>
+  {% endfor %}
+</section>
+{% endblock %}

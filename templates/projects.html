@@ -14,7 +14,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <h3 class="uppercase mb0">Our Groups</h3>
+                <h3 class="uppercase mb0">Our uLabs</h3>
             </div>
         </div>
 
@@ -30,23 +30,21 @@
 
                     <img class="mb24" alt="Post Image" src="{{ content['img'] }}">
                     <div class="post-title">
-                        <span class="label">{{content['date']}}</span>
+                        <!-- <span class="label">{{content['date']}}</span> -->
                         <h4 class="inline-block">{{content['title']}}</h4>
                     </div>
                     <ul class="post-meta">
                         <li>
-                            <i class="ti-bookmark"></i>
-                            <span>Research by
-                                {% for person in content['team'] %}
-                                    <b>{{person}}</b>
-                                    {% if not loop.last %}, {% endif %}
-                                {% endfor %}
+                            <span> 
+                                <a type="button" href={{ content['app-url'] }} class="btn btn-primary btn-sm" style="color: white; background: #47b475;">
+                                    Job Openings
+                                </a>
                             </span>
                         </li>
                         {% if content['has_mentor'] %}
                         <li>
                             <i class="ti-user"></i>
-                            <span>Mentored by <b>{{content['mentor']}}</b>
+                            <span>Lead by <b>{{content['mentor']}}</b>
                             </span>
                         </li>
                         {% endif %}
