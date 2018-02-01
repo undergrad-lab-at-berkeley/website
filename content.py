@@ -132,7 +132,7 @@ research = {
                     """,
     },
 }
-foundersOrder = ["Joshua Hug", "AMIT AKULA", "MRINALINI SUGOSH", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
+foundersOrder = ["Joshua Hug", "Amit Akula", "MRINALINI SUGOSH", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 founders = {
     # "placeholder": {
     #     "title": "placeholder",
