@@ -144,7 +144,7 @@ research = {
                     """,
     },
 }
-foundersOrder = ["Joshua Hug", "AMIT AKULA", "MRINALINI SUGOSH", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
+foundersOrder = ["Joshua Hug", "Amit Akula", "MRINALINI SUGOSH", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 founders = {
     # "placeholder": {
     #     "title": "placeholder",
@@ -159,7 +159,7 @@ founders = {
         "linkedin": "",
         "bio": """Alex is currently pursuing a Ph.D. at Stanford University. Alex is extremely passionate about undergraduate research; he worked in Paul Alivisatos's Lab on liquid electron microscopy, the Cohen lab on imaging protein movement, and was also an intern at LBNL. He will continue to advise and work with ULAB.""",
     },
-    "AMIT AKULA": {
+    "Amit Akula": {
         "title": "Cofounder",
         "img": "img/team/amit_akula.jpg",
         "personal": "",
@@ -207,11 +207,11 @@ advisors = {
         "img": "img/team/josh_hug.jpg",
         "bio": """Joshua Hug is a teaching professor at Berkeley and previously a lecturer for Computer Science at Princeton University. He completed his PhD in EECS at UC Berkeley in 2011. His primary research interest is in learning at scale and he has developed large scalable teaching models for CS61B and CS188. His passion for finding new and better ways to educate students led him to advise and support ULAB.""",
     },
-    # "Alex Powers": {
-    #     "title": "Cofounder",
-    #     "img": "img/team/alex_power.jpg",
-    #     "bio": """Alex is currently pursuing a Ph.D. at Stanford University. Alex is extremely passionate about undergraduate research; he worked in Paul Alivisatos's Lab on liquid electron microscopy, the Cohen lab on imaging protein movement, and was also an intern at LBNL. He will continue to advise and work with ULAB.""",
-    # },
+     "Alex Powers": {
+         "title": "Cofounder",
+         "img": "img/team/alex_power.jpg",
+         "bio": """Alex is currently pursuing a Ph.D. at Stanford University. Alex is extremely passionate about undergraduate research; he worked in Paul Alivisatos's Lab on liquid electron microscopy, the Cohen lab on imaging protein movement, and was also an intern at LBNL. He will continue to advise and work with ULAB.""",
+     },
     "Sean Burns": {
         "title": "Faculty Advisor",
         "img": "img/team/sean_burns.jpg",
@@ -234,6 +234,14 @@ team = {
     #     "linkedin": "https://www.linkedin.com/in/mrina24/",
     #     "bio": """Hey! Call me Mrina...I like jamming to spotify, trying all kinds of new foods, hoarding free swag, and spontaneously hanging out with friends :)"""
     # },
+    "Karina Yap": {
+        "img": "img/team/karina_yap.jpg",
+        "personal": "",
+        "github": "",
+        "linkedin": "",
+        "bio": """To be added"""
+    },
+
     "Riley McDanal": {
         "img": "img/team/riley_mcdanal.jpg",
         "personal": "",
