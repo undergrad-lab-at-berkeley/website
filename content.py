@@ -363,142 +363,134 @@ team = {
     # },
 }
 
-jobs = {
-    "Computer Science": {
-        "Laboratory Manager": {
-            "description": "The CS ULAB will be aided by lab managers who handle administrative logistics. Lab managers are responsible for coordinating with the mentors and other ULAB teams to ensure these projects run smoothly. In addition, lab managers will build and maintain partnerships with on campus labs to access instruments and equipment, in addition to overseeing training for all projects. Lab managers will also handle organizing research meetings and scheduling technical workshops, while also gathering student and staff feedback to improve the experience of ULAB.",
-            "qualifications": "Must be highly responsive. General interest in statistical modeling and deep learning is optional.",
-            "commitment": "Must be able to commit 4+ hours per week",
-            "perks": "Perks include involvement with cutting-edge ML research projects and leadership experience. Course Credit is Available. ",
-            "link": "https://goo.gl/forms/l6nDfZtIU8Bth3uh1",
-            "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
-                     },
-        "Data Science Mentor": {
-            "description": "Identifying nuclei allows researchers to identify individual cells in a sample and easily underlying biological processes at work. Automating this process can shorten the 10 years it takes for each new drug to come to market. This project will walk students through the deep learning stack and apply machine learning techniques to medical imaging. Students will be utilizing computer vision techniques and data science tools to identify nuclei in a given dataset. Mentor responsibilities include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
-            "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, Linear algebra, and Deep Learning. Additional qualifications include experience with Python numerical tools (Numpy) and Data Science tools (Matplotlib, Jupyter Notebook). Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
-            "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
-            "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
-            "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
-            "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
-                     },
-        "Computer Vision Mentor": {
-            "description": "Artistic style for all of history has been inseparable from the content of the artist's creation. Now, with the magic of deep learning, we can separate and recombine the image content and style, reproduce famous painting styles on natural images. This project will walk students through the deep learning stack, reproducing the state-of-the-art style transfer results and exploring research directions. See: https://www.youtube.com/watch?v=xVJwwWQIQ1o. Mentor responsibilities will include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
-            "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, linear algebra, and deep learning. Additional qualifications include experience with Python numerical tools (Numpy) and Data science tools (Matplotlib, Jupyter Notebook). Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
-            "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
-            "perks": "Perks include involvement with research projects and leadership experience. Course credit is available.",
-            "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
-            "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
-                    },
-        "Natural Language Processing Mentor": {
-            "description": "Analysis of language-based data requires a deep understanding of natural language text and semantics, which is generally difficult tasks for computers. However, a number of statistical approaches have been shown to work well for sentiment analysis of text data. This project will involve automating the process of analyzing the helpfulness of Amazon reviews with the recent advances in deep learning models for NLP. Mentor responsibilities include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
-            "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, Linear algebra, and Deep Learning. Additional qualifications include experience with Python numerical tools (Numpy), Data Science tools (Matplotlib, Jupyter Notebook), and Scikit Learn. Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
-            "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
-            "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
-            "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
-            "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
-                      },
-    },
-        "Cognitive Science": {
-            "Mentor (Libet Experiment)": {
-                "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
-                "qualifications": "Familiarity with the Libet Exeriment + relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and CS 1) Knowledge of EEG theory and operation (preferred) 2) knowledge of general neuroanatomy and neurobio (psych 117, psych c127 are good), Basic CS Skills",
-                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
-                "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
-                "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
-                "deadline": "Rolling"
-            },
-            "Mentor (Mapping Neural Networks)": {
-                "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
-                "qualifications": "Relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and CS 1) knowledge of general neuroanatomy and neurobio (psych 117, psych c127 are good options) 2), CS requirements:CS61B, CS188 or equivalent",
-                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
-                "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
-                "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
-                "deadline": "Rolling"
-            },
-            "Mentor (Mapping Neural Networks)": {
-                "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
-                "qualifications": "Relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and/or CS",
-                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
-                "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
-                "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
-                "deadline": "Rolling"
-            },
-            "Lab Tech": {
-                "description": "Helps with logistics and running experiments for the lab",
-                "qualifications": "operate EEG OR operate MRI OR computer science expert (stat modeling and mapping of brain)",
-                "commitment": "~5 Hours/Week",
-                "perks": "Ability to help a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
-                "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
-                "deadline": "Rolling"
-            },
-        },
-        "Biology": {
-            "Pharmaceutical Scientist": {
-                "description": "ULAB is looking for a sophomore/junior Pharmaceutical Chemist who would enjoy replicating a known synthetic pathway for a natural product or pharmaceutical product under the mentorship of an experienced undergraduate mentor. You can expect to learn synthetic design, reaction setup, water-free techniques, product purification with column chromatography/Prep TLC, and product characterization with H/C13 NMR. The applicant should be interested in medicinal chemistry and have a rough idea of basic organic chemistry techniques, with exposure in at least introductory Organic Chemistry (Chem 3A/B or Chem 12A/B).",
-                "qualifications": "Applicant needs to have received a B or higher in an introductory Organic Chemistry course (12A, 3A or equivalent) and be enrolled (or have completed) a second semester Organic Chemistry course (12B, 3B or equivalent). Preferred majors: Chemistry, Chemical Biology, Chemical Engineering, Molecular Cell Biology, Bioengineering.",
-                "commitment": "Must have at least 8-12 hours per week to commit to ULAB.",
-                "perks": "Practice in designing synthetic projects, practice with process chemistry, experience with instructing and undergraduate management, course credit (if not already enrolled in lab).",
-                "link": "https://docs.google.com/forms/d/e/1FAIpQLScD6jFOYJeUJ_uYZ21PHMtk0Lp7ogN3FR_uNsQj1bi6b4j2rQ/viewform?usp=sf_link",
-                "deadline": "Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in, so apply sooner rather than later."
-                },
-            "Biotechnologist/Biotechnician": {
-                "description": "Biotechnologists/biotechnicians develop and implement new research projects. Set up instruments and laboratory equipment used to conduct and monitor experiments such as centrifuges, flasks and spectrophotometers. Should be able to use spectrophotometers, compound microscopes, and benchtop centrifuges. Be able to use tools to rearrange fragments of DNA and modify genetic material.",
-                "qualifications": "Taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), experience working in a research lab preferred, and experience in managing and using laboratory equipment. We do a lot of training in house so a willingness to learn new things is the biggest qualification! Preferable, but not required: Designed and ran a research project.",
-                "commitment": "6 - 10 hours a week (heavier at the beginning of the semester, lighter during midterm season)",
-                "perks": "Get access to machines such as temperature cyclers, centrifuges, microscopes, and additional machines! working with a group of like-minded researchers, course credit, free food, free swag, and building relationships with many research laboratories on campus.",
-                "link": "https://docs.google.com/forms/u/1/d/1n4XcFiNskeklRFyr9BkXDT_f4A3MPsHZqV5gkvwChDc/edit?usp=drive_web",
-                "deadline": "Rolling. While the priority application deadline is 2018.02.02, we are hiring people as the applications come in so apply sooner rather than later"
-            },
-            "Genetic Engineer": {
-                "description": "We are looking for an advanced undergraduate or grad student experienced with with MCB lab equipment and techniques including cell culture, primer design, PCR, cloning, transformation, protein expression, fluorescent microscopy, protein purification, and western blotting.  Capable applicants will have the opportunity to guide the efforts of inexperienced undergraduates looking for lab exposure.  Possible projects include expressing, isolating, and generating a crystal structure for proteins implicated in Multiple Sclerosis.",
-                "qualifications": "Qualified applicants will have taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), have experience working in a chemical biology/biochemistry/IB/MCB research lab, and using common laboratory equipment. We do a lot of training in house so a willingness to learn new things is the biggest qualification!",
-                "commitment": "6 - 10 hours a week (heavier at the beginning of the semester, lighter during midterm season)",
-                "perks": "Get access and more experience to machines such as temperature cyclers, centrifuges, and microscopes! Mentor a group of like-minded researchers, course credit, free food, and building relationships with many research laboratories on campus!",
-                "link": "https://goo.gl/forms/lfg21jlayFthbeNn1",
-                "deadline": "Applications accepted on a rolling basis"
-            },
-            "Medicinal Chemist": {
-                "description": "ULAB is looking for a research-experienced undergraduate or graduate Medicinal Chemist capable of executing synthetic procedures and who is interested in learning how to guide less-experienced undergraduates through a natural product or pharmaceutical product synthesis pathway. Knowledge of purification techniques (column chromatography, recrystallization, HPLC) is required. Experience with heterocyclic chemical synthesis/being enrolled in Chemistry 114/214 would be highly preferred.",
-                "qualifications": "If the applicant is a UC Berkeley undergraduate, they should have received a B or higher in an introductory Organic Chemistry course (12A, 3A or equivalent) and be enrolled (or have completed) a second semester Organic Chemistry course (12B, 3B or equivalent). Applicant must have research experience performing synthesis either in an academic or professional setting.",
-                "commitment": "Must have at least 8-12 hours per week to commit to ULAB.",
-                "perks": "Practice in designing synthetic projects, practice with process chemistry, experience instructing and undergraduate management, course credit, free food, and building relationships with many research laboratories on campus.",
-                "link": "https://docs.google.com/forms/d/e/1FAIpQLSfo9Q8I7RdJxs5-Q7qEWmD-20n2AnaCjZ5THRZwSCvUFNvtOg/viewform?usp=sf_link",
-                "deadline": "Rolling. While the priority application deadline is February 2, 2018, we are recruiting people as the applications come in, so apply sooner for a better chance!"
-            },
-            "Clinical Research Scientist": {
-                "description": "ULAB is looking for a driven Clinical Research Scientist capable of executing and/or learning procedures relevant to clinical applications. Our main interest is setting up a blood test that will be used to analyze patient blood samples. We are interested in recruiting clinical research scientists who have Biology/Chemistry lab experience and can teach undergraduates skills that might be conducive to doing clinical research and diagnostics.",
-                "qualifications": "If the applicant is a UC Berkeley undergraduate, they should have received a B or higher in an introductory Biology course (Bio 1A, Bio 1AL) and be enrolled (or have completed) additional relevant coursework (Chem 12A, Chem 12B, MCB 110, MCB 110L, etc.) Applicant must have research experience in an academic or professional setting.",
-                "commitment": "Must have at least 8-12 hours per week to commit to ULAB.",
-                "perks": "Practice in clinical design, learning techniques associated with diagnosing blood, potentially formal training from UCSF experts in phlebotomy, experience instructing and undergraduate management, course credit (if not already enrolled in lab).",
-                "link": "https://docs.google.com/forms/d/e/1FAIpQLSdAQ9nLD4iAAJ-0hobLz2unvITRhxNGZbX8nLSDyK5-bo0G5g/viewform?usp=sf_link",
-                "deadline": "Rolling. While the priority application deadline is February 2, 2018, we are recruiting people as the applications come in, so apply sooner for a better chance!"
-                },
-        },
-        "Physics": {
-            "Condensed Matter Mentor": {
-                "description": "We're looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
-                "qualifications": "You must have previous research experience, preferably relating to semiconductor physics or solid state physics. However, familiarity with our specific research topics is not required.",
-                "commitment": "5-6 hours per week",
-                "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
-                "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
-                "deadline": "Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner for a better chance."
-            },
-            "Astronomy Mentor": {
-                "description": "We are looking to hire undergraduates to mentor small groups of students as they perform astrophysics and astronomy experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include black hole detection and exoplanets.",
-                "qualifications": "You must have previous research experience in astronomy or astrophysics. Some coding experience is also necessary.",
-                "commitment": "5-6 hours per week",
-                "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
-                "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
-                "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled."
-            },
-             "Lab Manager": {
-                "description": "We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
-                "commitment": "4-6 hrs per week",
-                "perks": "This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
-                "link": "https://goo.gl/forms/N1U1MXdoRizd2g883",
-                "deadline": "We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
-            },
-        },
+# jobs = {
+#     "Computer Science": {
+#         "Laboratory Manager": {
+#             "description": "The CS ULAB will be aided by lab managers who handle administrative logistics. Lab managers are responsible for coordinating with the mentors and other ULAB teams to ensure these projects run smoothly. In addition, lab managers will build and maintain partnerships with on campus labs to access instruments and equipment, in addition to overseeing training for all projects. Lab managers will also handle organizing research meetings and scheduling technical workshops, while also gathering student and staff feedback to improve the experience of ULAB.",
+#             "qualifications": "Must be highly responsive. General interest in statistical modeling and deep learning is optional.",
+#             "commitment": "Must be able to commit 4+ hours per week",
+#             "perks": "Perks include involvement with cutting-edge ML research projects and leadership experience. Course Credit is Available. ",
+#             "link": "https://goo.gl/forms/l6nDfZtIU8Bth3uh1",
+#             "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+#                      },
+#         "Data Science Mentor": {
+#             "description": "Identifying nuclei allows researchers to identify individual cells in a sample and easily underlying biological processes at work. Automating this process can shorten the 10 years it takes for each new drug to come to market. This project will walk students through the deep learning stack and apply machine learning techniques to medical imaging. Students will be utilizing computer vision techniques and data science tools to identify nuclei in a given dataset. Mentor responsibilities include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
+#             "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, Linear algebra, and Deep Learning. Additional qualifications include experience with Python numerical tools (Numpy) and Data Science tools (Matplotlib, Jupyter Notebook). Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
+#             "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
+#             "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
+#             "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
+#             "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+#                      },
+#         "Computer Vision Mentor": {
+#             "description": "Artistic style for all of history has been inseparable from the content of the artist's creation. Now, with the magic of deep learning, we can separate and recombine the image content and style, reproduce famous painting styles on natural images. This project will walk students through the deep learning stack, reproducing the state-of-the-art style transfer results and exploring research directions. See: https://www.youtube.com/watch?v=xVJwwWQIQ1o. Mentor responsibilities will include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
+#             "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, linear algebra, and deep learning. Additional qualifications include experience with Python numerical tools (Numpy) and Data science tools (Matplotlib, Jupyter Notebook). Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
+#             "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
+#             "perks": "Perks include involvement with research projects and leadership experience. Course credit is available.",
+#             "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
+#             "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+#                     },
+#         "Natural Language Processing Mentor": {
+#             "description": "Analysis of language-based data requires a deep understanding of natural language text and semantics, which is generally difficult tasks for computers. However, a number of statistical approaches have been shown to work well for sentiment analysis of text data. This project will involve automating the process of analyzing the helpfulness of Amazon reviews with the recent advances in deep learning models for NLP. Mentor responsibilities include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
+#             "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, Linear algebra, and Deep Learning. Additional qualifications include experience with Python numerical tools (Numpy), Data Science tools (Matplotlib, Jupyter Notebook), and Scikit Learn. Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
+#             "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
+#             "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
+#             "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
+#             "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+#                       },
+#     },
+#         "Cognitive Science": {
+#             "Mentor (Libet Experiment)": {
+#                 "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+#                 "qualifications": "Familiarity with the Libet Exeriment + relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and CS 1) Knowledge of EEG theory and operation (preferred) 2) knowledge of general neuroanatomy and neurobio (psych 117, psych c127 are good), Basic CS Skills",
+#                 "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+#                 "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+#                 "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+#                 "deadline": "Rolling"
+#             },
+#             "Mentor (Mapping Neural Networks)": {
+#                 "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+#                 "qualifications": "Relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and CS 1) knowledge of general neuroanatomy and neurobio (psych 117, psych c127 are good options) 2), CS requirements:CS61B, CS188 or equivalent",
+#                 "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+#                 "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+#                 "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+#                 "deadline": "Rolling"
+#             },
+#             "Mentor (Mapping Neural Networks)": {
+#                 "description": "Update lab staff weekly to deliver team progress reports and meet as necessary. Coordinate weekly meetings with student teams in order to provide mentoring and advice towards the development of research projects. Communicate regularly with students in order to determine progress and issues, setting up any formal reporting methods as necessary. Assist in the development of field-specific workshops. In conjunction with other lab staff, assess student curricular development through the evaluation of short turn-ins and assignments. Provide contact info for field experts for consulting and help foster connections with labs.",
+#                 "qualifications": "Relevant reserach experience (at least one semester) and coursework in some of the following areas: psychology, cognitive science, and/or CS",
+#                 "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+#                 "perks": "Ability to direct a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+#                 "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+#                 "deadline": "Rolling"
+#             },
+#             "Lab Tech": {
+#                 "description": "Helps with logistics and running experiments for the lab",
+#                 "qualifications": "operate EEG OR operate MRI OR computer science expert (stat modeling and mapping of brain)",
+#                 "commitment": "~5 Hours/Week",
+#                 "perks": "Ability to help a student-run reserach project; Opportunities to meet researchers from other labs on campus through liason meetings; Social events and community of passionate researchers. Course Credit is Available. ",
+#                 "link": "https://goo.gl/forms/jCvPLlBLhCFhsuDf1",
+#                 "deadline": "Rolling"
+#             },
+#         },
+#         "Biology": {
+#             "Pharmaceutical Scientist": {
+#                 "description": "ULAB is looking for a sophomore/junior Pharmaceutical Chemist who would enjoy replicating a known synthetic pathway for a natural product or pharmaceutical product under the mentorship of an experienced undergraduate mentor. You can expect to learn synthetic design, reaction setup, water-free techniques, product purification with column chromatography/Prep TLC, and product characterization with H/C13 NMR. The applicant should be interested in medicinal chemistry and have a rough idea of basic organic chemistry techniques, with exposure in at least introductory Organic Chemistry (Chem 3A/B or Chem 12A/B).",
+#                 "qualifications": "Applicant needs to have received a B or higher in an introductory Organic Chemistry course (12A, 3A or equivalent) and be enrolled (or have completed) a second semester Organic Chemistry course (12B, 3B or equivalent). Preferred majors: Chemistry, Chemical Biology, Chemical Engineering, Molecular Cell Biology, Bioengineering.",
+#                 "commitment": "Must have at least 8-12 hours per week to commit to ULAB.",
+#                 "perks": "Practice in designing synthetic projects, practice with process chemistry, experience with instructing and undergraduate management, course credit (if not already enrolled in lab).",
+#                 "link": "https://docs.google.com/forms/d/e/1FAIpQLScD6jFOYJeUJ_uYZ21PHMtk0Lp7ogN3FR_uNsQj1bi6b4j2rQ/viewform?usp=sf_link",
+#                 "deadline": "Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in, so apply sooner rather than later."
+#                 },
+#             "Biotechnologist/Biotechnician": {
+#                 "description": "Biotechnologists/biotechnicians develop and implement new research projects. Set up instruments and laboratory equipment used to conduct and monitor experiments such as centrifuges, flasks and spectrophotometers. Should be able to use spectrophotometers, compound microscopes, and benchtop centrifuges. Be able to use tools to rearrange fragments of DNA and modify genetic material.",
+#                 "qualifications": "Taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), experience working in a research lab preferred, and experience in managing and using laboratory equipment. We do a lot of training in house so a willingness to learn new things is the biggest qualification! Preferable, but not required: Designed and ran a research project.",
+#                 "commitment": "6 - 10 hours a week (heavier at the beginning of the semester, lighter during midterm season)",
+#                 "perks": "Get access to machines such as temperature cyclers, centrifuges, microscopes, and additional machines! working with a group of like-minded researchers, course credit, free food, free swag, and building relationships with many research laboratories on campus.",
+#                 "link": "https://docs.google.com/forms/u/1/d/1n4XcFiNskeklRFyr9BkXDT_f4A3MPsHZqV5gkvwChDc/edit?usp=drive_web",
+#                 "deadline": "Rolling. While the priority application deadline is 2018.02.02, we are hiring people as the applications come in so apply sooner rather than later"
+#             },
+#             "Genetic Engineer": {
+#                 "description": "We are looking for an advanced undergraduate or grad student experienced with with MCB lab equipment and techniques including cell culture, primer design, PCR, cloning, transformation, protein expression, fluorescent microscopy, protein purification, and western blotting.  Capable applicants will have the opportunity to guide the efforts of inexperienced undergraduates looking for lab exposure.  Possible projects include expressing, isolating, and generating a crystal structure for proteins implicated in Multiple Sclerosis.",
+#                 "qualifications": "Qualified applicants will have taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), have experience working in a chemical biology/biochemistry/IB/MCB research lab, and using common laboratory equipment. We do a lot of training in house so a willingness to learn new things is the biggest qualification!",
+#                 "commitment": "6 - 10 hours a week (heavier at the beginning of the semester, lighter during midterm season)",
+#                 "perks": "Get access and more experience to machines such as temperature cyclers, centrifuges, and microscopes! Mentor a group of like-minded researchers, course credit, free food, and building relationships with many research laboratories on campus!",
+#                 "link": "https://goo.gl/forms/lfg21jlayFthbeNn1",
+#                 "deadline": "Applications accepted on a rolling basis"
+#             },
+#             "Medicinal Chemist": {
+#                 "description": "ULAB is looking for a research-experienced undergraduate or graduate Medicinal Chemist capable of executing synthetic procedures and who is interested in learning how to guide less-experienced undergraduates through a natural product or pharmaceutical product synthesis pathway. Knowledge of purification techniques (column chromatography, recrystallization, HPLC) is required. Experience with heterocyclic chemical synthesis/being enrolled in Chemistry 114/214 would be highly preferred.",
+#                 "qualifications": "If the applicant is a UC Berkeley undergraduate, they should have received a B or higher in an introductory Organic Chemistry course (12A, 3A or equivalent) and be enrolled (or have completed) a second semester Organic Chemistry course (12B, 3B or equivalent). Applicant must have research experience performing synthesis either in an academic or professional setting.",
+#                 "commitment": "Must have at least 8-12 hours per week to commit to ULAB.",
+#                 "perks": "Practice in designing synthetic projects, practice with process chemistry, experience instructing and undergraduate management, course credit, free food, and building relationships with many research laboratories on campus.",
+#                 "link": "https://docs.google.com/forms/d/e/1FAIpQLSfo9Q8I7RdJxs5-Q7qEWmD-20n2AnaCjZ5THRZwSCvUFNvtOg/viewform?usp=sf_link",
+#                 "deadline": "Rolling. While the priority application deadline is February 2, 2018, we are recruiting people as the applications come in, so apply sooner for a better chance!"
+#             },
+#             "Clinical Research Scientist": {
+#                 "description": "ULAB is looking for a driven Clinical Research Scientist capable of executing and/or learning procedures relevant to clinical applications. Our main interest is setting up a blood test that will be used to analyze patient blood samples. We are interested in recruiting clinical research scientists who have Biology/Chemistry lab experience and can teach undergraduates skills that might be conducive to doing clinical research and diagnostics.",
+#                 "qualifications": "If the applicant is a UC Berkeley undergraduate, they should have received a B or higher in an introductory Biology course (Bio 1A, Bio 1AL) and be enrolled (or have completed) additional relevant coursework (Chem 12A, Chem 12B, MCB 110, MCB 110L, etc.) Applicant must have research experience in an academic or professional setting.",
+#                 "commitment": "Must have at least 8-12 hours per week to commit to ULAB.",
+#                 "perks": "Practice in clinical design, learning techniques associated with diagnosing blood, potentially formal training from UCSF experts in phlebotomy, experience instructing and undergraduate management, course credit (if not already enrolled in lab).",
+#                 "link": "https://docs.google.com/forms/d/e/1FAIpQLSdAQ9nLD4iAAJ-0hobLz2unvITRhxNGZbX8nLSDyK5-bo0G5g/viewform?usp=sf_link",
+#                 "deadline": "Rolling. While the priority application deadline is February 2, 2018, we are recruiting people as the applications come in, so apply sooner for a better chance!"
+#                 },
+#         },
+#         "Physics": {
+#             "Condensed Matter Mentor": {
+#                 "description": "We're looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
+#                 "qualifications": "You must have previous research experience, preferably relating to semiconductor physics or solid state physics. However, familiarity with our specific research topics is not required.",
+#                 "commitment": "5-6 hours per week",
+#                 "perks": "In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
+#                 "link": "https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
+#                 "deadline": "Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner for a better chance."
+#             },
+#              "Lab Manager": {
+#                 "description": "We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
+#                 "commitment": "4-6 hrs per week",
+#                 "perks": "This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
+#                 "link": "https://goo.gl/forms/N1U1MXdoRizd2g883",
+#                 "deadline": "We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
+#             },
+#         },
         # "ULAB Executive Team": {
         #     "Graphic Designer": {
         #         "description": "TBD",
@@ -518,32 +510,32 @@ jobs = {
         #         "deadline": "TBD",
         #     },
         # },
-    "Engineering": {
-            "Design (CAD) Mentor": {
-                "description": "Meets with PI every week and discuss progess during the week and makes plans for future weeks. Communicates with all other mentors about the process and achievement in the lab research. Guides students to a safe design with Bio-E mentor. Must be present during mentee's research session.",
-                "qualifications": "Proficient with AutoCAD and Solidworks. Preferably taken E128. Can help students with sketching 2D and 3D design and stress analysis. Ability to use ANSYS is also preferred.",
-                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
-                "perks": "",
-                "link": "##",
-                "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled.",
-            },
-            "Physiology Mentor": {
-                "description": "Meets with PI every week and discuss progess during the week and makes plans for future weeks. Guides mentees through the experiment. Must be present during mentee's research session. Must help with design that deals with machine human interaction and optimal way to design project with comfort. Communicates with all other mentors about the process and achievement in the lab research. Works with Design mentor with interaction with design and human body, where pressure is applied etc.",
-                "qualifications": "User experience is necessary.",
-                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
-                "perks": "",
-                "link": "##",
-                "deadline": "We will review applications on a rolling basis until February 1st or until all our positions have been filled.",
-            },
-            "Material Mentor": {
-                "description": "Meets with PI every week and discuss progress during the week, and make plans for future weeks. Guides mentees through the experiment. Must be present during mentee's research session. Must help with material selection considering mechanical and chemical properties of materials. Helps mentees to understand failure criteria and safety factors. Ensures safety of the project and failure criteria setup.",
-                "qualifications": "Material Science major preferred. Must understand safety factor and work on multiple projects on material selection (for example, Mechanical Property of Materials, ME108).",
-                "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
-                "perks": "",
-                "link": "##",
-                "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled.",
-            },
-        },
+    # "Engineering": {
+    #         "Design (CAD) Mentor": {
+    #             "description": "Meets with PI every week and discuss progess during the week and makes plans for future weeks. Communicates with all other mentors about the process and achievement in the lab research. Guides students to a safe design with Bio-E mentor. Must be present during mentee's research session.",
+    #             "qualifications": "Proficient with AutoCAD and Solidworks. Preferably taken E128. Can help students with sketching 2D and 3D design and stress analysis. Ability to use ANSYS is also preferred.",
+    #             "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+    #             "perks": "",
+    #             "link": "##",
+    #             "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled.",
+    #         },
+    #         "Physiology Mentor": {
+    #             "description": "Meets with PI every week and discuss progess during the week and makes plans for future weeks. Guides mentees through the experiment. Must be present during mentee's research session. Must help with design that deals with machine human interaction and optimal way to design project with comfort. Communicates with all other mentors about the process and achievement in the lab research. Works with Design mentor with interaction with design and human body, where pressure is applied etc.",
+    #             "qualifications": "User experience is necessary.",
+    #             "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+    #             "perks": "",
+    #             "link": "##",
+    #             "deadline": "We will review applications on a rolling basis until February 1st or until all our positions have been filled.",
+    #         },
+    #         "Material Mentor": {
+    #             "description": "Meets with PI every week and discuss progress during the week, and make plans for future weeks. Guides mentees through the experiment. Must be present during mentee's research session. Must help with material selection considering mechanical and chemical properties of materials. Helps mentees to understand failure criteria and safety factors. Ensures safety of the project and failure criteria setup.",
+    #             "qualifications": "Material Science major preferred. Must understand safety factor and work on multiple projects on material selection (for example, Mechanical Property of Materials, ME108).",
+    #             "commitment": "~5 Hours/Week + additional time as needed once projects are underway",
+    #             "perks": "",
+    #             "link": "##",
+    #             "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled.",
+    #         },
+    #     },
         # "Partnerships and Analytics": {
         #     "Liaison": {
         #         "description": "TBD",
@@ -579,7 +571,7 @@ jobs = {
         #     },
         # },
 
-}
+#}
 
 corporate = {
 
@@ -594,10 +586,10 @@ corporate = {
         },
 
     "Operations": {
-            "Computational Scientist": {
-                "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
-                "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
-                "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
+            "Operations Team Member": {
+                "description": "",
+                "qualifications": "",
+                "perks": "",
                 "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
                 "deadline": "February 3rd, 2018",
             },
@@ -607,17 +599,17 @@ corporate = {
             "Computational Scientist": {
                 "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
                 "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
-                "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
+                "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meetings with clients, & attending fun social events.",
                 "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
                 "deadline": "February 3rd, 2018",
             },
         },
 
     "Finance": {
-            "Computational Scientist": {
-                "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
-                "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
-                "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
+            "Finance Manager": {
+                "description": "",
+                "qualifications": "",
+                "perks": "",
                 "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
                 "deadline": "February 3rd, 2018",
             },
@@ -651,8 +643,8 @@ software_jobs = {
 student = {
     "Statistical Modeling and Deep Learning": {
             "New Student Researcher": {
-                "description": "Computational scientists will be expected to attend weekly lab staff meetings and meet with students during project group meetings. In addition, computational scientists will hold office hours on their own time to help students with coding modules and software questions. As a computational scientist, you will also be working with our software division to obtain and learn how to use scientific software.",
-                "commitment": "Time commitment inludes 6-9 hours a week developing with one's designated team.",
+                "description": "",
+                "commitment": "",
                 "link": "https://docs.google.com/forms/d/e/1FAIpQLSelh2HtqamgGb37HGAALDEGi7v2OdOZnCsNNoV-rUk9TCQL2w/viewform?usp=sf_link",
                 "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled. After filling out an application, you will be contacted to set up an interview within a few days.",
             },
@@ -724,14 +716,6 @@ labs = {
                         "perks": u"In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
                         "link": u"https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
                         "deadline": u"Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner for a better chance."
-                    },
-                    "Astronomy Mentor": {
-                        "description": u"We are looking to hire undergraduates to mentor small groups of students as they perform astrophysics and astronomy experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include black hole detection and exoplanets.",
-                        "qualifications": u"You must have previous research experience in astronomy or astrophysics. Some coding experience is also necessary.",
-                        "commitment": u"5-6 hours per week",
-                        "perks": u"In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
-                        "link": u"https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
-                        "deadline": u"We will review applications on a rolling basis until February 1st, or until all our positions have been filled."
                     },
                 },
                 "Lab Management": {
