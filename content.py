@@ -69,10 +69,10 @@ research = {
                         <li>(Optional engineering goal) Develop a device which reads input brain data and uses said data to serve as a control of a mechanical or virtual system.</li>
                     </ul>
 
-                    <h4> What do join us? </h4>
+                    <h4> Want to join us? </h4>
 
-                    You can learn more about opportunities for students (of all years) <a href=/lab-jobs/cogsci> here </a>.
-                    """,
+                    We currently have all of our positions filled for this semester, if you would like to be considered for a role in our lab next semester, please fill out this form: <a href="https://goo.gl/forms/AmdIpxRSXQUPdQHv2"> Click here</a> 
+                """
     },
     "ml-ulab": {
         "date": "17 Nov, 2017",
@@ -83,7 +83,7 @@ research = {
         "team": ["Sam Good", "Makena Fetzer"],
         "has_mentor": False,
         "mentor": "Amit Akula",
-        "content": """To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/ml> here </a>  """,
+        "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/ml> here </a> ",
 
     },
     "medicine-ulab": {
@@ -95,7 +95,7 @@ research = {
         "team": ["Moriel Dror", "Aubrianne Milton"],
         "has_mentor": False,
         "mentor": "Alex Powers",
-        "content": """To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/medicine> here </a>  """,
+        "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/medicine> here </a>  ",
 
     },
     "genetics-ulab": {
@@ -108,7 +108,6 @@ research = {
         "has_mentor": False,
         "mentor": "",
         "content": """
-
                     <h4>Motivation</h4>
 
                     <p> 
