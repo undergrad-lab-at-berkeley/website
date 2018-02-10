@@ -587,11 +587,12 @@ corporate = {
 
     "Operations": {
             "Operations Team Member": {
-                "description": "",
-                "qualifications": "",
-                "perks": "",
-                "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
-                "deadline": "February 3rd, 2018",
+                "description": u"As our organization grows, operations have become increasingly complex, making it necessary to devote considerable time to ensuring communication lines and general operations stay functional. An operations team member would be responsible for ensuring that documentation stays updated and that labs are meeting all requirements and making progress with their projects.",
+                "qualifications": u"Operations background or interest and basic coding experience is preferred. Strong communication and organizational skills.",
+                "commitment": u"Time commitment is roughly 3-5 hours per week.",
+                "perks": u"Course credit is available.",
+                "link": u"https://goo.gl/forms/OcIEQgLkYyxJaZlk1",
+                "deadline": u"Rolling",
             },
         },
 
@@ -601,17 +602,18 @@ corporate = {
                 "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
                 "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meetings with clients, & attending fun social events.",
                 "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
-                "deadline": "February 3rd, 2018",
+                "deadline": "Rolling",
             },
         },
 
     "Finance": {
             "Finance Manager": {
-                "description": "",
-                "qualifications": "",
-                "perks": "",
-                "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
-                "deadline": "February 3rd, 2018",
+                "description": u"As our organization grows and finds needs for more funds, we find that that we also require staff to help us effectively manage these funds. The Finance Manager would be responsible for allocating organization funds, managing fund requests, and generally being aware of grant application pipelines.",
+                "qualifications": u"Accounting background or interested is preferred. Proficiency with Microsoft Excel is required.",
+                "commitment": u"Time commitment is roughly 3-5 hours per week.",
+                "perks": u"Perks include gaining experience with fund management for large organizations. Course credit is available.",
+                "link": u"https://goo.gl/forms/6fqjYf118ntbBL3h1",
+                "deadline": u"Rolling",
             },
         },
 
@@ -724,14 +726,14 @@ labs = {
                         "qualifications": u"Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
                         "perks": u"Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
                         "link": u"https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
-                        "deadline": u"February 3rd, 2018",
+                        "deadline": u"Rolling",
                     },
                     "Lab Manager": {
                         "description": u"We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
                         "commitment": u"4-6 hrs per week",
                         "perks": u"This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
-                        "link": u"https://goo.gl/forms/N1U1MXdoRizd2g883",
-                        "deadline": u"We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                        "link": u"https://goo.gl/forms/CUbvVJ1RQhCp06us1",
+                        "deadline": u"Rolling"
                     },
                 },
             },
