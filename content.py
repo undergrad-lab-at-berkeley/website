@@ -980,6 +980,14 @@ labs = {
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdfawgkUoV3cxLPN2rNnYL-skuWhEAFBf6aBKdC4bbyrBuwsA/viewform",
                         "deadline": u"We'll review applications on a rolling basis until February 6th, or until all our positions have been filled."
                     },
+                     "Medicinal Chemist": {
+                        "description": u"ULAB is looking for a research-experienced undergraduate or graduate “Medicinal Chemist” capable of executing synthetic procedures, and who is interested in learning how to guide less experienced undergraduates through a natural product or pharmaceutical product synthesis pathway. Knowledge of purification techniques (column chromatography, recrystallization, HPLC) is required. Experience with heterocyclic chemical synthesis/being enrolled in Chemistry 114/214 would be highly preferred.",
+                        "commitment": u"Must have at least 8 - 12 hours per week to commit to ULAB.",
+                        "qualifications": u"If the applicant is a UC Berkeley undergraduate, he/she should have received a B or higher in an introductory Organic Chemistry course (12A, 3A or equivalent) and be enrolled (or have completed) a second semester Organic Chemistry course (12B, 3B or equivalent). Applicant must have research experience performing synthesis either in an academic or professional setting.",
+                        "perks": u"Practice in designing synthetic projects, practice with process chemistry, experience instructing and undergraduate management, course credit, free food, and building relationships with many research laboratories on campus!",
+                        "link": u"https://goo.gl/forms/H9C9mzdkL1vTjTk53",
+                        "deadline": u"Rolling. While the priority application deadline is February 2, 2018, we are recruiting people as the applications come in so apply sooner for a better chance!"
+                    },
 
                 },
 
