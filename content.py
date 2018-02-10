@@ -71,7 +71,7 @@ research = {
 
                     <h4> Want to join us? </h4>
 
-                    We currently have all of our positions filled for this semester, if you would like to be considered for a role in our lab next semester, please fill out this form: <a href="https://goo.gl/forms/AmdIpxRSXQUPdQHv2"> Click here</a> 
+                    We currently have all of our positions filled for this semester, if you would like to be considered for a role in our lab next semester, please fill out this form: <a href="https://goo.gl/forms/AmdIpxRSXQUPdQHv2"> Click here</a>
                 """
     },
     "ml-ulab": {
@@ -110,14 +110,14 @@ research = {
         "content": """
                     <h4>Motivation</h4>
 
-                    <p> 
-                        The educational aim of this group is to prepare students to tackle the hardest problems in molecular biology. There are two difficulties in starting research in molecular biology. 
-                        The primary challenge is access to common laboratory equipment. 
+                    <p>
+                        The educational aim of this group is to prepare students to tackle the hardest problems in molecular biology. There are two difficulties in starting research in molecular biology.
+                        The primary challenge is access to common laboratory equipment.
                         Without common access to equipment (such as PCR, Gel Electrophoresis, etc.), many students find themselves unable to contribute to any part of lab operations.
                         Some of the students we surveyed cited lack of access to laboratory equipment as a primary reason for why they were unable to train themseleves for wet laboratory positions.
                         This uLab is partnering with several biomedical research facilities on campus and at UCSF to provide access to all common laboratory equipment for students to be trained for all of the common technical procedures done in a molecular biology laboratory.
-                        The second difficulty is that "wet labs" by defintion are any research that is not primarily computational. The sheer breadth of research interests and techniques make it difficult for students to articulate how they envision participating in biology research. 
-                        Through partnerships with many laboratories on campus, and through a cadre of dedicated experienced student researchers, we guide students through a survey of major labs and techniques and help define what "wet laboratory research" they are most passionate about. 
+                        The second difficulty is that "wet labs" by defintion are any research that is not primarily computational. The sheer breadth of research interests and techniques make it difficult for students to articulate how they envision participating in biology research.
+                        Through partnerships with many laboratories on campus, and through a cadre of dedicated experienced student researchers, we guide students through a survey of major labs and techniques and help define what "wet laboratory research" they are most passionate about.
                     </p>
 
                     <br>
@@ -639,6 +639,27 @@ software_jobs = {
                 "deadline": "February 3rd, 2018",
             },
         },
+    "Research Team Software":{
+        "Physics and Astrophysics":{
+
+        },
+
+        "Cognitive Neuroscience and Medical Imaging":{
+
+        },
+
+        "Medicinal Chemistry and Clinical Research":{
+
+        },
+
+        "Genetic engineering and Molecular Biology":{
+
+        },
+
+        "Robotics and Aerospace Engineering":{
+
+        },
+    }
 }
 
 student = {
@@ -736,7 +757,7 @@ labs = {
                     },
                 },
             },
-            
+
         },
     "cogsci": {
             "img": u"img/labs/phsyicslabcover.jpg",
@@ -780,7 +801,7 @@ labs = {
                         "deadline": u"Rolling"
                         },
                 },
-            }, 
+            },
         },
      "medicine": {
             "img": u"img/labs/phsyicslabcover.jpg",
@@ -796,7 +817,7 @@ labs = {
                         "perks": u"Practice in clinical design, learning techniques associated with diagnosing blood, potentially formal training from UCSF experts in phlebotomy, experience instructing and undergraduate management, graded course credit (if not already enrolled in lab).",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdAQ9nLD4iAAJ-0hobLz2unvITRhxNGZbX8nLSDyK5-bo0G5g/viewform",
                         "deadline": u"Rolling. While the priority application deadline is 2018.02.06, we are recruiting people as the applications come in so apply sooner for a better chance!"
-                    },   
+                    },
 
                     "Clinical Research Liaison": {
                         "description": u"ULAB is looking for a driven Clinical Research Liaison who is able to communicate effectively in hopes of creating ULAB partnerships with other labs and companies. Must have strong communication to relay message to other team members about lab collaborations and their status/availability. He/she must be willing to create solid relationships that can be built on further down the road. They must also be willing to learn about the possible research methods and relay new methods back to the ULAB teams. Liaisons in our clinical research arm often communicate with hospitals, medical testing labs, and biology research laboratorys.",
@@ -805,9 +826,9 @@ labs = {
                         "perks": u"Involvement in the community of medicine, experience instructing and undergraduate management, graded course credit (if not already enrolled in lab). This individual will build an extensive network of contacts in research laboratories, clinical facilities, and other medical-related groups. Practice in clinical design, learning techniques associated with diagnosing blood, potentially formal training from UCSF experts in phlebotomy, experience instructing and undergraduate management, graded course credit (if not already enrolled in lab).",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdAQ9nLD4iAAJ-0hobLz2unvITRhxNGZbX8nLSDyK5-bo0G5g/viewform",
                         "deadline": u"Rolling. While the priority application deadline is 2018.02.06, we are recruiting people as the applications come in so apply sooner for a better chance!"
-                    },   
+                    },
 
-                }, 
+                },
 
                 "Medicinal Chemistry": {
                     "Pharmaceutical Scientist": {
@@ -875,7 +896,7 @@ labs = {
                     "Operations Director": {
                         "description": u"The Operations Director drives the laboratory forward. Managing a large group of individuals in a research setting requires constantly collecting feedback, managing a large program calendar, scheduling the use of complex equipment, certifying and training new members in technical and fundamental research skills, and documenting research results. A typical uLab has several active projects so the operations director is charged with ensuring that the laboratory is running smoothly, developing analytic tools to document and communicate research results at scale, and general operational management. This job is ideal for students wanting management experience and the unique opportunity to run a research laboratory.",
                         "commitment": u"5 - 8 hrs per week",
-                        "qualifications":u"While the fundamental operational responsibilities require organizational experience and strong interpersonal skills, we are looking for a candidate that above all else is constantly adapting to new challenges. If you’d like to learn analytical and operational tools to run organizations at scale, this is the job for you.",  
+                        "qualifications":u"While the fundamental operational responsibilities require organizational experience and strong interpersonal skills, we are looking for a candidate that above all else is constantly adapting to new challenges. If you’d like to learn analytical and operational tools to run organizations at scale, this is the job for you.",
                         "perks": u"Perks: access to laboratory space and several biomedical research facilities on campus, training in a diverse array of capabilities (from CRIPS-Cas9 to computational genomics), working directly with multiple research laboratories, and working with a networks of researchers spread across many different disciplines in the biological sciences. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeqQkt7fcXQ1yl0sv5_R76lejiMtSPbaNroRsQcF9TUOi56UQ/viewform",
                         "deadline": u"We'll review applications on a rolling basis until February 6th, or until all our positions have been filled."
@@ -893,7 +914,7 @@ labs = {
 
 
             },
-            
+
         },
     "genetics": {
             "short_name": u"genetics",
@@ -901,7 +922,7 @@ labs = {
             "navbar": u"Genetic Engineering and Molecular Biology",
             "job_categories": {
                 "Genetic Engineering": {
-                    
+
                     "Molecular Biologist (Genetic Engineer)": {
                         "description": u"We are looking for an advanced undergraduate or grad student experienced with with MCB lab equipment and techniques including cell culture, primer design, PCR, cloning, transformation, protein expression, fluorescent microscopy, protein purification, and western blotting.  Capable applicants will have the opportunity to guide the efforts of inexperienced undergraduates looking for lab exposure.  Possible projects include expressing, isolating, and generating a crystal structure for proteins implicated in Multiple Sclerosis.",
                         "qualifications": u"Qualified applicants will have taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), have experience working in a chemical biology/biochemistry/IB/MCB research lab, and using common laboratory equipment. We do a lot of training in house so a willingness to learn new things is the biggest qualification!",
@@ -918,7 +939,7 @@ labs = {
                         "perks": u"Practice in clinical design, learning techniques associated with diagnosing blood, potentially formal training from UCSF experts in phlebotomy, experience instructing and undergraduate management, graded course credit (if not already enrolled in lab).",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdAQ9nLD4iAAJ-0hobLz2unvITRhxNGZbX8nLSDyK5-bo0G5g/viewform",
                         "deadline": u"Rolling. While the priority application deadline is 2018.02.06, we are recruiting people as the applications come in so apply sooner for a better chance!"
-                    },                   
+                    },
 
 
                 },
@@ -998,7 +1019,7 @@ labs = {
                 },
 
             },
-            
+
         },
 
     "aerospace": {
@@ -1133,7 +1154,7 @@ labs = {
             "full_name": "Statistical Modeling and Deep Learning",
             "navbar": "Statistical Modeling and Deep Learning",
             "job_categories": {
-                
+
 
                 "Research Jobs": {
                     "Data Science Mentor": {

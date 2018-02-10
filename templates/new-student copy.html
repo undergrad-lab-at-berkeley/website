@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block body %}
+<section class="align-middle" style="font-size:2em; margin:0 2em">
+  <h1 style="text-align: center">Join ULAB Today!</h1>
+
+  <div class="container">
+    <div class="row"><!-- col-md-10 col-md-offset-1 -->
+        <div class="col-sm-12 text-center">
+          <div class="tabbed-content button-tabs">
+            <ul class="tabs">
+              {% for category in student.keys() %}
+              <li>
+                  <div class="tab-title">
+                      <span>{{ category }}</span>
+                  </div>
+                  <div class="tab-content col-md-10 col-md-offset-1">
+                    <h2>{{ category }} </h2>
+                    <div class="list-group">
+                      {% for s in student[category].keys() %}
+                      <a href={{ student[category][s]["link"] }} class="list-group-item list-group-item-action">
+                        <div style="display: inline-block">{{ s }}</div>
+
+                        <!-- <div class="progress">
+                          <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div> -->
+                      </a>
+                      <div style="padding: 1em 1em; text-align: left">
+                        <p style="font-size:16px">Application Deadline: {{ student[category][s]['deadline'] }}</p>
+                        <p style="font-size:16px">{{ student[category][s]['description'] }}</p>
+                        <p style="font-size:16px">{{ student[category][s]['qualifications'] }}</p>
+                        <p style="font-size:16px">{{ student[category][s]['commitment'] }}</p>
+                        <p style="font-size:16px">{{ student[category][s]['perks'] }}</p>
+                      </div>
+
+                      <a type="button" href={{ student[category][s]["link"] }} class="btn btn-primary btn-sm" style="color: white; background: #47b475;">
+                        Apply
+                      </a>
+                      {% endfor %}
+                    </div>
+                  </div>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+</section>
+{% endblock %}
