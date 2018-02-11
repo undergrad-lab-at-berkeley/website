@@ -381,7 +381,7 @@ team = {
 #             "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
 #                      },
 #         "Computer Vision Mentor": {
-#             "description": "Artistic style for all of history has been inseparable from the content of the artist's creation. Now, with the magic of deep learning, we can separate and recombine the image content and style, reproduce famous painting styles on natural images. This project will walk students through the deep learning stack, reproducing the state-of-the-art style transfer results and exploring research directions. See: https://www.youtube.com/watch?v=xVJwwWQIQ1o. Mentor responsibilities will include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
+#             "description": "Artistic style for all of history has been inseparable from the content of the artist's creation. Now, with the magic of deep learning, we can separate and recombine the image content and style, reproduce famous painting styles on natural images. This project will walk students through the deep learning stack, reproducing the state-of-the-art style transfer results and exploring research directions. See: https://www.youtube.com/watch?v=xVJwwWQlQ1o. Mentor responsibilities will include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
 #             "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, linear algebra, and deep learning. Additional qualifications include experience with Python numerical tools (Numpy) and Data science tools (Matplotlib, Jupyter Notebook). Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
 #             "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
 #             "perks": "Perks include involvement with research projects and leadership experience. Course credit is available.",
@@ -632,43 +632,155 @@ software_jobs = {
         },
     "Software Operations": {
             "Computational Scientist": {
-                "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
+                "description": """Nowadays nearly all branches of scientific research make use of computers in some way, and a basic degree of programming
+                    skill has become a necessity. As a computational scientist you will be helping others work with code related to their research projects and
+                    answer their questions about software. You will also work with our software division to acquire and learn to use scientific software. Certain
+                    labs have computational positions specific to them if you have an interest in a particular field of research and want to apply your
+                    computational skills there. To read more information about these lab-specific computational positions, visit their lab positions page.""",
+                "commitment": """Attendance of weekly lab staff meetings and project meetings with students is required. Computational scientists are expected
+                    to hold office hours for students to ask coding and software questions. Expect to spend 6-8 hours.""",
                 "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
                 "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
                 "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
                 "deadline": "February 3rd, 2018",
             },
         },
-    "Research Team Software":{
-        "Physics and Astrophysics":{
-
+    "Statistical Modeling and Deep Learning": {
+            "Data Science Mentor": {
+                "description": "Identifying nuclei allows researchers to identify individual cells in a sample and easily underlying biological processes at work. Automating this process can shorten the 10 years it takes for each new drug to come to market. This project will walk students through the deep learning stack and apply machine learning techniques to medical imaging. Students will be utilizing computer vision techniques and data science tools to identify nuclei in a given dataset. Mentor responsibilities include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
+                "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, Linear algebra, and Deep Learning. Additional qualifications include experience with Python numerical tools (Numpy) and Data Science tools (Matplotlib, Jupyter Notebook). Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
+                "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
+                "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available.",
+                "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
+                "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+            },
+            "Computer Vision Mentor": {
+                "description": "Artistic style for all of history has been inseparable from the content of the artist's creation. Now, with the magic of deep learning, we can separate and recombine the image content and style, reproduce famous painting styles on natural images. This project will walk students through the deep learning stack, reproducing the state-of-the-art style transfer results and exploring research directions. See: https://www.youtube.com/watch?v=xVJwwWQlQ1o. Mentor responsibilities will include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
+                "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, linear algebra, and deep learning. Additional qualifications include experience with Python numerical tools (Numpy) and Data science tools (Matplotlib, Jupyter Notebook). Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
+                "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
+                "perks": "Perks include involvement with research projects and leadership experience. Course credit is available.",
+                "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
+                "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+            },
+            "Natural Language Processing Mentor": {
+                "description": "Analysis of language-based data requires a deep understanding of natural language text and semantics, which is generally difficult tasks for computers. However, a number of statistical approaches have been shown to work well for sentiment analysis of text data. This project will involve automating the process of analyzing the helpfulness of Amazon reviews with the recent advances in deep learning models for NLP. Mentor responsibilities include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
+                "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, Linear algebra, and Deep Learning. Additional qualifications include experience with Python numerical tools (Numpy), Data Science tools (Matplotlib, Jupyter Notebook), and Scikit Learn. Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
+                "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
+                "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
+                "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+            },
+            "New Student Researcher": {
+                "description": "Computational scientists will be expected to attend weekly lab staff meetings and meet with students during project group meetings. In addition, computational scientists will hold office hours on their own time to help students with coding modules and software questions. As a computational scientist, you will also be working with our software division to obtain and learn how to use scientific software.",
+                "commitment": "Time commitment inludes 6-9 hours a week developing with one's designated team.",
+                "link": "https://docs.google.com/forms/d/e/1FAIpQLSelh2HtqamgGb37HGAALDEGi7v2OdOZnCsNNoV-rUk9TCQL2w/viewform?usp=sf_link",
+                "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled. After filling out an application, you will be contacted to set up an interview within a few days.",
+            },
+            "Laboratory Manager": {
+                "description": "The CS ULAB will be aided by lab managers who handle administrative logistics. Lab managers are responsible for coordinating with the mentors and other ULAB teams to ensure these projects run smoothly. In addition, lab managers will build and maintain partnerships with on campus labs to access instruments and equipment, in addition to overseeing training for all projects. Lab managers will also handle organizing research meetings and scheduling technical workshops, while also gathering student and staff feedback to improve the experience of ULAB.",
+                "qualifications": "Must be highly responsive. General interest in statistical modeling and deep learning is optional.",
+                "commitment": "Must be able to commit 4+ hours per week",
+                "perks": "Perks include involvement with cutting-edge ML research projects and leadership experience. Course Credit is Available. ",
+                "link": "https://goo.gl/forms/l6nDfZtIU8Bth3uh1",
+                "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+            },
         },
-
-        "Cognitive Neuroscience and Medical Imaging":{
-
+    "Visualization": {
+            "Graphic Designer/Animator": {
+                "description": """The Visualization ULAB is looking for people with experience in graphic design and/or animation. As a graphic designer,
+                    you will primarily be tasked with making promotional materials for ULAB such as fliers and images used for presentations. Addtionally,
+                    you may work to refine the design and layout of our website. If you so choose, you may also be using your skills to help the other labs
+                    communicate their work by rendering biological molecules, generating physical simulations, or visualizing their research in some other
+                    way.""",
+                "qualifications": """Can vary depending on the work you want to do. For general design work, experience in Photoshop or comparable
+                    image editor is necessary. For all cases, previous work/demonstration of your skill set is needed.""",
+                "commitment": """Time commitment can be variable but expect 3+ hours per week.""",
+                "perks": """Perks: An opportunity to help research come to life in a visual fashion, possible contacts to outside organizations or animation
+                    studios.""",
+                "link": "https://docs.google.com/forms/d/e/1FAIpQLScBNQ3hPquCZbPxBgeQF0OKSX6EeQ7-nMftj7IVzd5jVamWOg/viewform",
+                "deadline": "Rolling",
+            },
         },
-
-        "Medicinal Chemistry and Clinical Research":{
-
-        },
-
-        "Genetic engineering and Molecular Biology":{
-
-        },
-
-        "Robotics and Aerospace Engineering":{
-
-        },
-    }
 }
 
 student = {
     "Statistical Modeling and Deep Learning": {
             "New Student Researcher": {
-                "description": "",
-                "commitment": "",
-                "link": "https://docs.google.com/forms/d/e/1FAIpQLSelh2HtqamgGb37HGAALDEGi7v2OdOZnCsNNoV-rUk9TCQL2w/viewform?usp=sf_link",
-                "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled. After filling out an application, you will be contacted to set up an interview within a few days.",
+                "description": u"""As a new student researcher, you will receive guidance from our mentors on conducting research at the university
+                    level and work in small teams on cutting-edge machine learning projects. These projects range from analyzing the helpfulness of Amazon
+                    reviews to transferring the distinctive style of famous artists to other images. The first half of the semester will be spent learning
+                    to use the necessary tools, while the second half will be spent on exploring and reproducing research results.""",
+                "qualifications": u"""While applicants do not need prior machine learning experience, they must be willing to put in the time to learn new
+                    skills and apply them to research.""",
+                "commitment": u"""Student researchers will be expected to meet with their mentors once a week.""",
+                "link": u"https://docs.google.com/forms/d/e/1FAIpQLSelh2HtqamgGb37HGAALDEGi7v2OdOZnCsNNoV-rUk9TCQL2w/viewform?usp=sf_link",
+                "deadline": u"Rolling",
+            },
+        },
+
+    "Robotics and Aerospace Engineering": {
+            "Design Engineer": {
+                "description": u"ULAB is looking for an undergraduate who would enjoy conceptualizing solutions for design problems associated with the construction of a spacesuit, such as 3D mockups for gloves or integrating features into the suit. Before the preliminary design, designers would research and do some analysis about the stimulatory environment and air-tightness mechanism. Additionally, you will make brief sketches fitting the design requirements and technical range, and you will create the 3D model by Creo or Solidworks and manufacture it by 3D printing or other methods. Thus, you will be working with Yutin Zhan to create a fully immersive environment within the suit, especially making gloves that feel like they do not exist.",
+                "qualifications": u"Qualified applicants must have experience with Solidworks, Autodesk Fusion 360, and 3DS (render animations), along with the ability to think outside the box with a high degree of creativity. E 128 is strongly recommended for this position. Applicants should also have an understanding of basic solid mechanics, a how stress works, and user research or human-centered design. Lastly, quiet sketch and 3D modeling skills would be very helpful.",
+                "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available.",
+                "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeS4MKnxArOMYIx1Nw3x0zSvOYdBzP5UWk5fGBaUtyisVhMew/viewform",
+                "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+            },
+
+            "Controls (Sensory Integration) Engineer": {
+                "description": u"ULAB is looking for an undergraduate who would enjoy designing a controller for force-enhancing space gloves and integrating other necessary sensors for an astronaut suit. The sensor system will be primarily used to collect data on the astronaut’s physiology, keeping him/her in an ideal state, while monitoring the outside conditions. This system will be the astronaut’s “Sixth Sense,” so to speak, when they are out working on the martian environment. Thus, you will be prototyping with 3D-printed parts and working with Minglong Li and Stanley Chang to research, test, and analyze the design use in relation to the function of the elements in the system.",
+                "qualifications": u"Qualified applicants must have some experience with microcontrollers and control algorithms. Applicants must have also taken a few controls classes, and while not necessarily required, it is recommended that they have also taken ME 102A or ME 107. Additionally, EECS and Mechanical Engineering students are highly encouraged to apply.",
+                "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available.",
+                "link": u"https://docs.google.com/forms/d/e/1FAIpQLSc-s6QSK-7AGqDv3DWwXntq23faybT9DLLPlUtOjmvKxeTxiQ/viewform",
+                "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+            },
+
+            "Materials and Thermal Specialist": {
+                "description": u"We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
+                "qualifications": u"Qualified applicants must have some experience with mechanical and thermal properties of materials. Applicants must have also taken a few material properties classes, and while not necessarily required, it is recommended that they have also taken ME 108 or CE 60. Additionally, Material Science students and Mechanical Engineering are highly encouraged to apply.",
+                "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available.",
+                "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeyRnYobvwxiogaSu4OujPMvCnlmmRJ2h0cDFxb0_wpV4AhVg/viewform",
+                "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+            },
+        },
+
+    "Development": {
+            "Liaison": {
+                "description": u"""Many of ULAB's key functions are reliant on partnerships with other laboratories and groups. Without forming relationships
+                    with these outside organizations, we would simply not be able to obtain the equipment or the training needed to conduct research. For this
+                    reason, we are looking for anyone who is interested in helping our researchers reach out to other groups, finding points of contact,
+                    and maintaining friendly relations with other organizations on campus, particularly research labs. You will act as the face of ULAB,
+                    arranging face-to-face meetings, building trust, and keeping track of our interactions with other organizations.""",
+                "qualifications": u"""Applicants should be people-oriented, professional and cordial in their interactions with others, and have
+                    excellent communication skills. Ability to work with teams and fulfill their requests is a must.""",
+                "perks": u"""Perks: The opporunity to network with professors and graduate students, as well as gain experience in the administrative workings of
+                    research organizations.""",
+                "link": u"https://docs.google.com/forms/d/e/1FAIpQLScHG1LaoHrVrhDNCbikGMBH6upfQW9hwkalfWUsAWHGM-F5yA/viewform",
+                "deadline": u"Rolling",
+            },
+            "Fundraiser": {
+                "description": u"""Research is not exactly a cheap endeavor, and as a result ULAB is looking for people who are entrepreneurially-minded and
+                    are willing to come up with ideas for raising the funds necessary for conducting research and the day-to-day operations of the organization.
+                    Additionally, you will likely help with seeking grants and writing proposals to help fund research projects.""",
+                "qualifications": u"""Ideally applicants should have previous experience with raising money for student organizations and be comfortable
+                    with reaching out to outside organizations. Knowledge of writing grant proposals is a plus.""",
+                "perks": u"""Perks: Administrative experience in a complex organization and experience in obtaining funds for research.""",
+                "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdleSkDzfN8fBRH9em5_Rs9hr_pwVq8ux_RZY5P3EZQgfpAog/viewform",
+                "deadline": u"Rolling",
+            },
+        },
+
+    "Operations": {
+            "Operations Analyst": {
+                "description": u"""Operations analysts are responsible for helping to manage the growing complexity of ULAB as a organization by ensuring that
+                    the various labs remain in contact with the front office and that all documentation is kept up to date. Additionally, analysts will help
+                    keep communication lines functional and identify possible areas that could run more efficiently. In general, analysts will also keep track
+                    of the projects that labs are working on and whether they are going smoothly.""",
+                "qualifications": u"""A background or interest in operations is strongly preferred, as is basic knowledge of coding. Applicants should be
+                    well-organized, able to communicate well, and detail-oreinted.""",
+                "perks": u"""Perks: Logistical experience in maintaining a research organization, course credit is available.""",
+                "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdqDBTozuwY5aT8bHKkfPQIjWEh5_6smyl809fDVvSPqd_S4Q/viewform",
+                "deadline": u"Rolling",
             },
         },
 }
@@ -676,13 +788,12 @@ student = {
 join_infoOrder = ["1st Year", "2nd Year", "Upperclassman", "Graduate Student"]
 join_info = {
     "1st Year": {
-            "Software Developer Application": {
+            "New Student": {
                 "description": "Undergraduate Labs @ Berkeley's core mission is to train UC Berkeley's newest members so they are prepared to tackle some of the hardest research challenges on campus. To do this, new students (Freshmen and Junior Transfers) work as researchers within our student-run research laboratories. We design all of our research projects based on the interests of new students and to relate to the work being done on campus. That way, working in a uLab as a researcher in your first year allows you to explore what you are passionate about while simultaneously training for a research position at a professional research laboratory on campus.",
                 "qualifications": "Further, each uLab has dedicated staff composed of 2nd years, upper-division students, and graduate students. These staff members (1) guide students on their research projects, (2) provide advising for their next research opportunity, (3) provide extensive training on fundamental and technical research skills, and (4) arrange for experiential opportunities such as lab tours and coffee chats with graduate students.",
                 "commitment": "While the projects have already been set up for Spring 2018, we have many openings in our uLabs for students, ranging from studying the habitability of exoplanets to modeling neurodegeneration in multiple sclerosis patients over time. Click on the button below to see our current openings for new students.",
                 "link": "/new-student",
-                "linktext": "Student Researcher",
-                "deadline": "February 3rd, 2018",
+                "linktext": "New Student Positions",
             },
         },
      "2nd Year": {
@@ -695,7 +806,8 @@ join_info = {
                 "linktext": "Research Jobs",
                 "link2": "/corporate-jobs",
                 "linktext2": "Operations and Executive Jobs",
-                "deadline": "Applications accepted on a rolling basis"
+                "link3": "/software-jobs",
+                "linktext3": "Computational Jobs",
             },
         },
     "Upperclassman": {
@@ -707,7 +819,8 @@ join_info = {
                 "linktext": "Research Jobs",
                 "link2": "/corporate-jobs",
                 "linktext2": "Operations and Executive Jobs",
-                "deadline": "Applications accepted on a rolling basis"
+                "link3": "/software-jobs",
+                "linktext3": "Computational Jobs",
             },
         },
     "Graduate Student": {
@@ -718,7 +831,8 @@ join_info = {
                 "linktext": "Research Jobs",
                 "link2": "/corporate-jobs",
                 "linktext2": "Operations and Executive Jobs",
-                "deadline": "Applications accepted on a rolling basis"
+                "link3": "/software-jobs",
+                "linktext3": "Computational Jobs",
             },
         },
 }
@@ -751,7 +865,7 @@ labs = {
                     "Lab Manager": {
                         "description": u"We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
                         "commitment": u"4-6 hrs per week",
-                        "perks": u"This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
+                        "perks": u"This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches. You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
                         "link": u"https://goo.gl/forms/CUbvVJ1RQhCp06us1",
                         "deadline": u"Rolling"
                     },
@@ -1108,9 +1222,6 @@ labs = {
                 },
 
                 "New Student Positions": {
-                    "To Be Posted": {
-                    },
-
                     "Design Engineer": {
                         "description": u"ULAB is looking for an undergraduate who would enjoy conceptualizing solutions for design problems associated with the construction of a spacesuit, such as 3D mockups for gloves or integrating features into the suit. Before the preliminary design, designers would research and do some analysis about the stimulatory environment and air-tightness mechanism. Additionally, you will make brief sketches fitting the design requirements and technical range, and you will create the 3D model by Creo or Solidworks and manufacture it by 3D printing or other methods. Thus, you will be working with Yutin Zhan to create a fully immersive environment within the suit, especially making gloves that feel like they do not exist.",
                         "qualifications": u"Qualified applicants must have experience with Solidworks, Autodesk Fusion 360, and 3DS (render animations), along with the ability to think outside the box with a high degree of creativity. E 128 is strongly recommended for this position. Applicants should also have an understanding of basic solid mechanics, a how stress works, and user research or human-centered design. Lastly, quiet sketch and 3D modeling skills would be very helpful.",
@@ -1166,7 +1277,7 @@ labs = {
                         "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
                                  },
                     "Computer Vision Mentor": {
-                        "description": "Artistic style for all of history has been inseparable from the content of the artist's creation. Now, with the magic of deep learning, we can separate and recombine the image content and style, reproduce famous painting styles on natural images. This project will walk students through the deep learning stack, reproducing the state-of-the-art style transfer results and exploring research directions. See: https://www.youtube.com/watch?v=xVJwwWQIQ1o. Mentor responsibilities will include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
+                        "description": "Artistic style for all of history has been inseparable from the content of the artist's creation. Now, with the magic of deep learning, we can separate and recombine the image content and style, reproduce famous painting styles on natural images. This project will walk students through the deep learning stack, reproducing the state-of-the-art style transfer results and exploring research directions. See: https://www.youtube.com/watch?v=xVJwwWQlQ1o. Mentor responsibilities will include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
                         "qualifications": "Must be highly responsive and able to pick up new tools quickly. Must have familiarity with Python, linear algebra, and deep learning. Additional qualifications include experience with Python numerical tools (Numpy) and Data science tools (Matplotlib, Jupyter Notebook). Preferable qualifications include experience with Deep Learning tools (Keras or Tensorflow or Pytorch).",
                         "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
                         "perks": "Perks include involvement with research projects and leadership experience. Course credit is available.",

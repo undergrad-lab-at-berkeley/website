@@ -123,7 +123,7 @@ def getJoin(category="1st Year"):
     f=open("log.txt",'w')
     f.write("banana \n" )
     f.close()
-    return render_template("join-page.html", join=content.join_info, jobCategory=category)
+    return render_template("join-page.html", join=content.join_info, jobCategory=category, joinOrder=content.join_infoOrder)
 
 @app.route("/bootcamp")
 def bootcamp():

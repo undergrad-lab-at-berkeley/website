@@ -9,7 +9,7 @@
         <div class="col-sm-12 text-center">
           <div class="tabbed-content button-tabs">
             <ul class="tabs">
-              {% for category in join.keys() %}
+              {% for category in joinOrder %}
               <li>
                   <div class="tab-title">
                       <span>{{ category }}</span>
@@ -36,6 +36,9 @@
                       </a>
                       <a type="button" href={{ join[category][j]["link2"] }} class="btn btn-primary btn-sm" style="color: white; background: #47b475;">
                         {{ join[category][j]["linktext2"] }}
+                      </a>
+                      <a type="button" href={{ join[category][j]["link3"] }} class="btn btn-primary btn-sm" style="color: white; background: #47b475;">
+                        {{ join[category][j]["linktext3"] }}
                       </a>
                       {% endfor %}
                     </div>
