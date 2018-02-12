@@ -627,7 +627,7 @@ software_jobs = {
                 "commitment": "Time commitment inludes 90 minutes a week of mandatory meeting with the rest of the ATG group in addition to 6-9 hours a week developing with one's designated team.",
                 "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
                 "link": "https://goo.gl/forms/kiQXLwG1JOrZkWHR2",
-                "deadline": "February 3rd, 2018",
+                "deadline": "Rolling",
             },
         },
     "Software Operations": {
@@ -638,11 +638,11 @@ software_jobs = {
                     labs have computational positions specific to them if you have an interest in a particular field of research and want to apply your
                     computational skills there. To read more information about these lab-specific computational positions, visit their lab positions page.""",
                 "commitment": """Attendance of weekly lab staff meetings and project meetings with students is required. Computational scientists are expected
-                    to hold office hours for students to ask coding and software questions. Expect to spend 6-8 hours.""",
+                    to hold office hours for students to ask coding and software questions. Expect to spend 6-8 hours per week.""",
                 "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
                 "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
                 "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
-                "deadline": "February 3rd, 2018",
+                "deadline": "Rolling",
             },
         },
     "Statistical Modeling and Deep Learning": {
