@@ -580,7 +580,7 @@ corporate = {
                 "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
                 "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
                 "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
-                "deadline": "February 3rd, 2018",
+                "deadline": "Feb 21st",
             },
         },
 
@@ -652,7 +652,7 @@ software_jobs = {
                 "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
                 "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available.",
                 "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
-                "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+                "deadline": "We will review applications on a rolling basis until Feb 21st or until all our positions have been filled."
             },
             "Computer Vision Mentor": {
                 "description": "Artistic style for all of history has been inseparable from the content of the artist's creation. Now, with the magic of deep learning, we can separate and recombine the image content and style, reproduce famous painting styles on natural images. This project will walk students through the deep learning stack, reproducing the state-of-the-art style transfer results and exploring research directions. See: https://www.youtube.com/watch?v=xVJwwWQlQ1o. Mentor responsibilities will include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
@@ -660,7 +660,7 @@ software_jobs = {
                 "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
                 "perks": "Perks include involvement with research projects and leadership experience. Course credit is available.",
                 "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
-                "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+                "deadline": "We will review applications on a rolling basis until Feb 21st or until all our positions have been filled."
             },
             "Natural Language Processing Mentor": {
                 "description": "Analysis of language-based data requires a deep understanding of natural language text and semantics, which is generally difficult tasks for computers. However, a number of statistical approaches have been shown to work well for sentiment analysis of text data. This project will involve automating the process of analyzing the helpfulness of Amazon reviews with the recent advances in deep learning models for NLP. Mentor responsibilities include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
@@ -668,13 +668,13 @@ software_jobs = {
                 "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
                 "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
                 "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
-                "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+                "deadline": "We will review applications on a rolling basis until Feb 21st or until all our positions have been filled."
             },
             "New Student Researcher": {
                 "description": "Computational scientists will be expected to attend weekly lab staff meetings and meet with students during project group meetings. In addition, computational scientists will hold office hours on their own time to help students with coding modules and software questions. As a computational scientist, you will also be working with our software division to obtain and learn how to use scientific software.",
                 "commitment": "Time commitment inludes 6-9 hours a week developing with one's designated team.",
                 "link": "https://docs.google.com/forms/d/e/1FAIpQLSelh2HtqamgGb37HGAALDEGi7v2OdOZnCsNNoV-rUk9TCQL2w/viewform?usp=sf_link",
-                "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled. After filling out an application, you will be contacted to set up an interview within a few days.",
+                "deadline": "We will review applications on a rolling basis until Feb 21st, or until all our positions have been filled. After filling out an application, you will be contacted to set up an interview within a few days.",
             },
             "Laboratory Manager": {
                 "description": "The CS ULAB will be aided by lab managers who handle administrative logistics. Lab managers are responsible for coordinating with the mentors and other ULAB teams to ensure these projects run smoothly. In addition, lab managers will build and maintain partnerships with on campus labs to access instruments and equipment, in addition to overseeing training for all projects. Lab managers will also handle organizing research meetings and scheduling technical workshops, while also gathering student and staff feedback to improve the experience of ULAB.",
@@ -682,7 +682,7 @@ software_jobs = {
                 "commitment": "Must be able to commit 4+ hours per week",
                 "perks": "Perks include involvement with cutting-edge ML research projects and leadership experience. Course Credit is Available. ",
                 "link": "https://goo.gl/forms/l6nDfZtIU8Bth3uh1",
-                "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+                "deadline": "We will review applications on a rolling basis until Feb 21st or until all our positions have been filled."
             },
         },
     "Visualization": {
@@ -724,7 +724,7 @@ student = {
                 "qualifications": u"Qualified applicants must have experience with Solidworks, Autodesk Fusion 360, and 3DS (render animations), along with the ability to think outside the box with a high degree of creativity. E 128 is strongly recommended for this position. Applicants should also have an understanding of basic solid mechanics, a how stress works, and user research or human-centered design. Lastly, quiet sketch and 3D modeling skills would be very helpful.",
                 "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available.",
                 "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeS4MKnxArOMYIx1Nw3x0zSvOYdBzP5UWk5fGBaUtyisVhMew/viewform",
-                "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+                "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner rather than later.",
             },
 
             "Controls (Sensory Integration) Engineer": {
@@ -732,7 +732,7 @@ student = {
                 "qualifications": u"Qualified applicants must have some experience with microcontrollers and control algorithms. Applicants must have also taken a few controls classes, and while not necessarily required, it is recommended that they have also taken ME 102A or ME 107. Additionally, EECS and Mechanical Engineering students are highly encouraged to apply.",
                 "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available.",
                 "link": u"https://docs.google.com/forms/d/e/1FAIpQLSc-s6QSK-7AGqDv3DWwXntq23faybT9DLLPlUtOjmvKxeTxiQ/viewform",
-                "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+                "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner rather than later.",
             },
 
             "Materials and Thermal Specialist": {
@@ -740,7 +740,7 @@ student = {
                 "qualifications": u"Qualified applicants must have some experience with mechanical and thermal properties of materials. Applicants must have also taken a few material properties classes, and while not necessarily required, it is recommended that they have also taken ME 108 or CE 60. Additionally, Material Science students and Mechanical Engineering are highly encouraged to apply.",
                 "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available.",
                 "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeyRnYobvwxiogaSu4OujPMvCnlmmRJ2h0cDFxb0_wpV4AhVg/viewform",
-                "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+                "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner rather than later.",
             },
         },
 
@@ -851,7 +851,7 @@ labs = {
                         "commitment": u"5-6 hours per week",
                         "perks": u"In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
                         "link": u"https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
-                        "deadline": u"Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner for a better chance."
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner for a better chance."
                     },
                 },
                 "Lab Management": {
@@ -930,7 +930,7 @@ labs = {
                         "commitment": u"6 - 10 hours a week (heavier at the beginning of the semester, lighter during midterm season)",
                         "perks": u"Practice in clinical design, learning techniques associated with diagnosing blood, potentially formal training from UCSF experts in phlebotomy, experience instructing and undergraduate management, graded course credit (if not already enrolled in lab).",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdAQ9nLD4iAAJ-0hobLz2unvITRhxNGZbX8nLSDyK5-bo0G5g/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is 2018.02.06, we are recruiting people as the applications come in so apply sooner for a better chance!"
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner for a better chance!"
                     },
 
                     "Clinical Research Liaison": {
@@ -939,7 +939,7 @@ labs = {
                         "commitment": u"6 - 10 hours a week (heavier at the beginning of the semester, lighter during midterm season)",
                         "perks": u"Involvement in the community of medicine, experience instructing and undergraduate management, graded course credit (if not already enrolled in lab). This individual will build an extensive network of contacts in research laboratories, clinical facilities, and other medical-related groups. Practice in clinical design, learning techniques associated with diagnosing blood, potentially formal training from UCSF experts in phlebotomy, experience instructing and undergraduate management, graded course credit (if not already enrolled in lab).",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdAQ9nLD4iAAJ-0hobLz2unvITRhxNGZbX8nLSDyK5-bo0G5g/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is 2018.02.06, we are recruiting people as the applications come in so apply sooner for a better chance!"
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner for a better chance!"
                     },
 
                 },
@@ -951,7 +951,7 @@ labs = {
                         "commitment": u"6 - 8 hours per week",
                         "perks": u"Practice in designing synthetic projects, practice with process chemistry, experience with instructing and undergraduate management, graded course credit (if not already enrolled in lab).",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLScD6jFOYJeUJ_uYZ21PHMtk0Lp7ogN3FR_uNsQj1bi6b4j2rQ/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner rather than later"
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner rather than later"
                     },
 
                     "Medicinal Chemist": {
@@ -960,7 +960,7 @@ labs = {
                         "commitment": u"5-6 hours per week",
                         "perks": u"Practice in designing synthetic projects, practice with process chemistry, experience instructing and undergraduate management, course credit, free food, and building relationships with many research laboratories on campus!",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSfo9Q8I7RdJxs5-Q7qEWmD-20n2AnaCjZ5THRZwSCvUFNvtOg/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner for a better chance."
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner for a better chance."
                     },
 
                 },
@@ -973,7 +973,7 @@ labs = {
                         "qualifications":u"Taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), experience working in a research lab preferred, and experience in managing and using laboratory equipment. We do a lot of training in house so a willingness to learn new things is the biggest qualification! Preferable, but not required: Designed and ran a research project.",
                         "perks": u"Perks: Get access to machines such as temperature cyclers, centrifuges, microscopes, and additional machines! working with a group of like-minded researchers, course credit, free food, free swag, and building relationships with many research laboratories on campus.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSefl6cD-_ohvJtMu0aU93OlaUfSPqU16BLb5B8_z1agxj2C_A/viewform",
-                        "deadline": u"We'll review applications on a rolling basis until February 6th, or until all our positions have been filled."
+                        "deadline": u"We'll review applications on a rolling basis until Feb 21st, or until all our positions have been filled."
                     },
 
                      "Physical Chemist/Molecular Imaging Specialist": {
@@ -982,7 +982,7 @@ labs = {
                         "qualifications": u"Must have taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), experience working in a research lab is preferred, and experience in managing and using laboratory equipment (ex: imaging live and fixed biological samples such as, various confocal microscopes, multiphoton intravital microscope, slide scanners and live cell imaging microscopes)",
                         "perks": u"Perks: Access to machines such as temperature cyclers, centrifuges, microscopes, and additional machines! working with a group of like-minded researchers, course credit, free food, free swag, and building relationships with many research laboratories on campus.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSfgykXMsOxnU_065CcfezoAd0bDz_qRy2YXq6zWczW-bGltTA/viewform?usp=sf_link",
-                        "deadline": u"Rolling. While the priority application deadline is 2018.02.02, we are hiring people as the applications come in so apply sooner rather than later"
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are hiring people as the applications come in so apply sooner rather than later"
                     },
 
                      "Bioinformatics (Computational) Scientist": {
@@ -991,7 +991,7 @@ labs = {
                         "qualifications":u"Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills. As this position is focused on biology, talented biology students with experience with BLAST, Genomic Databases, and other computational tools will also be considered and prioritized.",
                         "perks": u"Perks: access to laboratory space and several biomedical research facilities on campus, training in a diverse array of capabilities (from CRIPS-Cas9 to computational genomics), working directly with multiple research laboratories, and working with a networks of researchers spread across many different disciplines in the biological sciences. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdfawgkUoV3cxLPN2rNnYL-skuWhEAFBf6aBKdC4bbyrBuwsA/viewform",
-                        "deadline": u"We'll review applications on a rolling basis until February 6th, or until all our positions have been filled."
+                        "deadline": u"We'll review applications on a rolling basis until Feb 21st, or until all our positions have been filled."
                     },
 
                 },
@@ -1013,7 +1013,7 @@ labs = {
                         "qualifications":u"While the fundamental operational responsibilities require organizational experience and strong interpersonal skills, we are looking for a candidate that above all else is constantly adapting to new challenges. If you’d like to learn analytical and operational tools to run organizations at scale, this is the job for you.",
                         "perks": u"Perks: access to laboratory space and several biomedical research facilities on campus, training in a diverse array of capabilities (from CRIPS-Cas9 to computational genomics), working directly with multiple research laboratories, and working with a networks of researchers spread across many different disciplines in the biological sciences. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeqQkt7fcXQ1yl0sv5_R76lejiMtSPbaNroRsQcF9TUOi56UQ/viewform",
-                        "deadline": u"We'll review applications on a rolling basis until February 6th, or until all our positions have been filled."
+                        "deadline": u"We'll review applications on a rolling basis until Feb 21st, or until all our positions have been filled."
                     },
 
                      "Lab Manager": {
@@ -1022,7 +1022,7 @@ labs = {
                         "qualifications":u"As different research projects require a diverse array of new equipment, a willingness to rapidly learn how to maintain and operate equipment is a must. This position is often a great leadership opportunity for students looking to learn how to run a laboratory. Strong organizational skills, fluency in technical analysis, and interpersonal skills often characterize the best laboratory managers. This particular laboratory manager should ideally have experience with common wet laboratory techniques (PCR, Gel Electrophoresis, etc.) and experience managing or working in a molecular biology laboratory.",
                         "perks": u"Perks: access to laboratory space and several biomedical research facilities on campus, training in a diverse array of capabilities (from CRIPS-Cas9 to computational genomics), working directly with multiple research laboratories, and working with a networks of researchers spread across many different disciplines in the biological sciences. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeyU_l98S5F9wNRrDq6iJMfvfyni64uiAr56ndYefotJ_zdDg/viewform",
-                        "deadline": u"We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                        "deadline": u"We'll review applications on a rolling basis until Feb 21st, or until all our positions have been filled."
                     },
                 },
 
@@ -1043,7 +1043,7 @@ labs = {
                         "commitment": u"6 - 10 hours a week (heavier at the beginning of the semester, lighter during midterm season)",
                         "perks": u"Get access and more experience to machines such as temperature cyclers, centrifuges, and microscopes! Mentor a group of like-minded researchers, course credit, free food, and building relationships with many research laboratories on campus!",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLScsLqQANMG9CoyFaovxPd4Dh_s_x9bfzmwUBNxnKTxGF7e9lA/viewform?usp=sf_link",
-                        "deadline": u"Rolling. While the priority application deadline is February 6th, we are recruiting people as the applications come in so apply sooner for a better chance."
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner for a better chance."
                     },
 
                     "Clinical Research Scientist": {
@@ -1052,7 +1052,7 @@ labs = {
                         "commitment": u"6 - 10 hours a week (heavier at the beginning of the semester, lighter during midterm season)",
                         "perks": u"Practice in clinical design, learning techniques associated with diagnosing blood, potentially formal training from UCSF experts in phlebotomy, experience instructing and undergraduate management, graded course credit (if not already enrolled in lab).",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdAQ9nLD4iAAJ-0hobLz2unvITRhxNGZbX8nLSDyK5-bo0G5g/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is 2018.02.06, we are recruiting people as the applications come in so apply sooner for a better chance!"
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner for a better chance!"
                     },
 
 
@@ -1075,7 +1075,7 @@ labs = {
                         "qualifications": u"While the fundamental operational responsibilities require organizational experience and strong interpersonal skills, we are looking for a candidate that above all else is constantly adapting to new challenges. If you’d like to learn analytical and operational tools to run organizations at scale, this is the job for you.",
                         "perks": u"Perks: access to laboratory space and several biomedical research facilities on campus, training in a diverse array of capabilities (from CRIPS-Cas9 to computational genomics), working directly with multiple research laboratories, and working with a networks of researchers spread across many different disciplines in the biological sciences. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeqQkt7fcXQ1yl0sv5_R76lejiMtSPbaNroRsQcF9TUOi56UQ/viewform",
-                        "deadline": u"We'll review applications on a rolling basis until February 6th, or until all our positions have been filled."
+                        "deadline": u"We'll review applications on a rolling basis until Feb 21st, or until all our positions have been filled."
                     },
 
                      "Lab Manager": {
@@ -1084,7 +1084,7 @@ labs = {
                         "qualifications": u"As different research projects require a diverse array of new equipment, a willingness to rapidly learn how to maintain and operate equipment is a must. This position is often a great leadership opportunity for students looking to learn how to run a laboratory. Strong organizational skills, fluency in technical analysis, and interpersonal skills often characterize the best laboratory managers. This particular laboratory manager should ideally have experience with common wet laboratory techniques (PCR, Gel Electrophoresis, etc.) and experience managing or working in a molecular biology laboratory.",
                         "perks": u"Perks: access to laboratory space and several biomedical research facilities on campus, training in a diverse array of capabilities (from CRIPS-Cas9 to computational genomics), working directly with multiple research laboratories, and working with a networks of researchers spread across many different disciplines in the biological sciences. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeyU_l98S5F9wNRrDq6iJMfvfyni64uiAr56ndYefotJ_zdDg/viewform",
-                        "deadline": u"We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                        "deadline": u"We'll review applications on a rolling basis until Feb 21st, or until all our positions have been filled."
                     },
                 },
 
@@ -1096,7 +1096,7 @@ labs = {
                         "qualifications": u"Taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), experience working in a research lab preferred, and experience in managing and using laboratory equipment. We do a lot of training in house so a willingness to learn new things is the biggest qualification! Preferable, but not required: Designed and ran a research project.",
                         "perks": u"Perks: Get access to machines such as temperature cyclers, centrifuges, microscopes, and additional machines! working with a group of like-minded researchers, course credit, free food, free swag, and building relationships with many research laboratories on campus. ",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSefl6cD-_ohvJtMu0aU93OlaUfSPqU16BLb5B8_z1agxj2C_A/viewform",
-                        "deadline": u"We'll review applications on a rolling basis until February 6th, or until all our positions have been filled."
+                        "deadline": u"We'll review applications on a rolling basis until Feb 21st, or until all our positions have been filled."
                     },
 
                      "Physical Chemist/Molecular Imaging Specialist": {
@@ -1105,7 +1105,7 @@ labs = {
                         "qualifications": u"Must have taken a wet laboratory class on campus (Biology 1AL, 1B, Chemistry 1AL, 3AL, 4A, 4B, etc.), experience working in a research lab is preferred, and experience in managing and using laboratory equipment (ex: imaging live and fixed biological samples such as, various confocal microscopes, multiphoton intravital microscope, slide scanners and live cell imaging microscopes)",
                         "perks": u"Perks: Access to machines such as temperature cyclers, centrifuges, microscopes, and additional machines! working with a group of like-minded researchers, course credit, free food, free swag, and building relationships with many research laboratories on campus.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSfgykXMsOxnU_065CcfezoAd0bDz_qRy2YXq6zWczW-bGltTA/viewform?usp=sf_link",
-                        "deadline": u"Rolling. While the priority application deadline is 2018.02.02, we are hiring people as the applications come in so apply sooner rather than later"
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are hiring people as the applications come in so apply sooner rather than later"
                     },
 
                      "Bioinformatics (Computational) Scientist": {
@@ -1114,7 +1114,7 @@ labs = {
                         "qualifications": u"Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills. As this position is focused on biology, talented biology students with experience with BLAST, Genomic Databases, and other computational tools will also be considered and prioritized.",
                         "perks": u"Perks: access to laboratory space and several biomedical research facilities on campus, training in a diverse array of capabilities (from CRIPS-Cas9 to computational genomics), working directly with multiple research laboratories, and working with a networks of researchers spread across many different disciplines in the biological sciences. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdfawgkUoV3cxLPN2rNnYL-skuWhEAFBf6aBKdC4bbyrBuwsA/viewform",
-                        "deadline": u"We'll review applications on a rolling basis until February 6th, or until all our positions have been filled."
+                        "deadline": u"We'll review applications on a rolling basis until Feb 21st, or until all our positions have been filled."
                     },
                      "Medicinal Chemist": {
                         "description": u"ULAB is looking for a research-experienced undergraduate or graduate “Medicinal Chemist” capable of executing synthetic procedures, and who is interested in learning how to guide less experienced undergraduates through a natural product or pharmaceutical product synthesis pathway. Knowledge of purification techniques (column chromatography, recrystallization, HPLC) is required. Experience with heterocyclic chemical synthesis/being enrolled in Chemistry 114/214 would be highly preferred.",
@@ -1122,7 +1122,7 @@ labs = {
                         "qualifications": u"If the applicant is a UC Berkeley undergraduate, he/she should have received a B or higher in an introductory Organic Chemistry course (12A, 3A or equivalent) and be enrolled (or have completed) a second semester Organic Chemistry course (12B, 3B or equivalent). Applicant must have research experience performing synthesis either in an academic or professional setting.",
                         "perks": u"Practice in designing synthetic projects, practice with process chemistry, experience instructing and undergraduate management, course credit, free food, and building relationships with many research laboratories on campus!",
                         "link": u"https://goo.gl/forms/H9C9mzdkL1vTjTk53",
-                        "deadline": u"Rolling. While the priority application deadline is February 2, 2018, we are recruiting people as the applications come in so apply sooner for a better chance!"
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner for a better chance!"
                     },
 
                 },
@@ -1148,7 +1148,7 @@ labs = {
                         "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSfhsAUtqEhPHR231b9ZACkGrKMza3Tbi0hfJRZyhHgTcUoVnQ/viewform?usp=sf_link",
                         "commitment": u"10 hours per week",
-                        "deadline": u"The priority deadline is February 6th, 2018. We place most applicants at the beginning of the semester. We will place applicants for next semester at the end of this semester. Exceptional candidates are always considered.",
+                        "deadline": u"The priority deadline is Feb 21st, 2018. We place most applicants at the beginning of the semester. We will place applicants for next semester at the end of this semester. Exceptional candidates are always considered.",
                     },
 
                     "Laboratory Manager": {
@@ -1157,7 +1157,7 @@ labs = {
                         "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeyU_l98S5F9wNRrDq6iJMfvfyni64uiAr56ndYefotJ_zdDg/viewform",
                         "commitment": u"10 hours per week",
-                        "deadline": u"February 6th, 2018 (or until all positions are filled)",
+                        "deadline": u"Feb 21st, 2018 (or until all positions are filled)",
                     },
 
                 },
@@ -1168,7 +1168,7 @@ labs = {
                         "commitment": u"5-6 hours per week",
                         "perks": u"In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
                         "link": u"https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
-                        "deadline": u"Rolling. While the priority application deadline is February 2nd, we are recruiting people as the applications come in so apply sooner for a better chance."
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner for a better chance."
                     },
                     "Astronomy Mentor": {
                         "description": u"We are looking to hire undergraduates to mentor small groups of students as they perform astrophysics and astronomy experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include black hole detection and exoplanets.",
@@ -1176,14 +1176,14 @@ labs = {
                         "commitment": u"5-6 hours per week",
                         "perks": u"In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
                         "link": u"https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
-                        "deadline": u"We will review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                        "deadline": u"We will review applications on a rolling basis until Feb 21st, or until all our positions have been filled."
                     },
                      "Lab Manager": {
                         "description": u"We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
                         "commitment": u"4-6 hrs per week",
                         "perks": u"This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
                         "link": u"https://goo.gl/forms/N1U1MXdoRizd2g883",
-                        "deadline": u"We'll review applications on a rolling basis until February 1st, or until all our positions have been filled."
+                        "deadline": u"We'll review applications on a rolling basis until Feb 21st, or until all our positions have been filled."
                     },
                 },
                 "Mars Spacesuit": {
@@ -1192,7 +1192,7 @@ labs = {
                         "qualifications": u"Qualified applicants must have a basic knowledge of MATLAB, ROS, and Arduino. Applicants must have also taken a few controls classes, and while not necessarily required, it is recommended that they have also taken EE C106A. Additionally, EECS and Mechanical Engineering students are highly encouraged to apply. The best applicant is one who is willing to learn.",
                         "perks": u"Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLScsw1tE6PYN3oLJ18rDtwdzqpY8emmDULTnErsZVOzP_tPv9A/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner rather than later.",
                     },
 
                     "Design Engineer": {
@@ -1200,7 +1200,7 @@ labs = {
                         "qualifications": u"Qualified applicants must have experience with Solidworks, Autodesk Fusion 360, and 3DS (render animations), along with the ability to think outside the box with a high degree of creativity. E 128 is strongly recommended for this position. Applicants should also have an understanding of basic solid mechanics, a how stress works, and user research or human-centered design. Lastly, quiet sketch and 3D modeling skills would be very helpful.",
                         "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeS4MKnxArOMYIx1Nw3x0zSvOYdBzP5UWk5fGBaUtyisVhMew/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner rather than later.",
                     },
 
                     "Controls (Sensory Integration) Engineer": {
@@ -1208,7 +1208,7 @@ labs = {
                         "qualifications": u"Qualified applicants must have some experience with microcontrollers and control algorithms. Applicants must have also taken a few controls classes, and while not necessarily required, it is recommended that they have also taken ME 102A or ME 107. Additionally, EECS and Mechanical Engineering students are highly encouraged to apply.",
                         "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSc-s6QSK-7AGqDv3DWwXntq23faybT9DLLPlUtOjmvKxeTxiQ/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner rather than later.",
                     },
 
                     "Materials and Thermal Specialist": {
@@ -1216,7 +1216,7 @@ labs = {
                         "qualifications": u"Qualified applicants must have some experience with mechanical and thermal properties of materials. Applicants must have also taken a few material properties classes, and while not necessarily required, it is recommended that they have also taken ME 108 or CE 60. Additionally, Material Science students and Mechanical Engineering are highly encouraged to apply.",
                         "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeyRnYobvwxiogaSu4OujPMvCnlmmRJ2h0cDFxb0_wpV4AhVg/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner rather than later.",
                     },
 
                 },
@@ -1227,7 +1227,7 @@ labs = {
                         "qualifications": u"Qualified applicants must have experience with Solidworks, Autodesk Fusion 360, and 3DS (render animations), along with the ability to think outside the box with a high degree of creativity. E 128 is strongly recommended for this position. Applicants should also have an understanding of basic solid mechanics, a how stress works, and user research or human-centered design. Lastly, quiet sketch and 3D modeling skills would be very helpful.",
                         "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeS4MKnxArOMYIx1Nw3x0zSvOYdBzP5UWk5fGBaUtyisVhMew/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner rather than later.",
                     },
 
                     "Controls (Sensory Integration) Engineer": {
@@ -1235,7 +1235,7 @@ labs = {
                         "qualifications": u"Qualified applicants must have some experience with microcontrollers and control algorithms. Applicants must have also taken a few controls classes, and while not necessarily required, it is recommended that they have also taken ME 102A or ME 107. Additionally, EECS and Mechanical Engineering students are highly encouraged to apply.",
                         "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSc-s6QSK-7AGqDv3DWwXntq23faybT9DLLPlUtOjmvKxeTxiQ/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner rather than later.",
                     },
 
                     "Materials and Thermal Specialist": {
@@ -1243,7 +1243,7 @@ labs = {
                         "qualifications": u"Qualified applicants must have some experience with mechanical and thermal properties of materials. Applicants must have also taken a few material properties classes, and while not necessarily required, it is recommended that they have also taken ME 108 or CE 60. Additionally, Material Science students and Mechanical Engineering are highly encouraged to apply.",
                         "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeyRnYobvwxiogaSu4OujPMvCnlmmRJ2h0cDFxb0_wpV4AhVg/viewform",
-                        "deadline": u"Rolling. While the priority application deadline is February 1st, we are recruiting people as the applications come in so apply sooner rather than later.",
+                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner rather than later.",
                     },
 
                 },
@@ -1274,7 +1274,7 @@ labs = {
                         "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
                         "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
                         "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
-                        "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+                        "deadline": "We will review applications on a rolling basis until Feb 21st or until all our positions have been filled."
                                  },
                     "Computer Vision Mentor": {
                         "description": "Artistic style for all of history has been inseparable from the content of the artist's creation. Now, with the magic of deep learning, we can separate and recombine the image content and style, reproduce famous painting styles on natural images. This project will walk students through the deep learning stack, reproducing the state-of-the-art style transfer results and exploring research directions. See: https://www.youtube.com/watch?v=xVJwwWQlQ1o. Mentor responsibilities will include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
@@ -1282,7 +1282,7 @@ labs = {
                         "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
                         "perks": "Perks include involvement with research projects and leadership experience. Course credit is available.",
                         "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
-                        "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+                        "deadline": "We will review applications on a rolling basis until Feb 21st or until all our positions have been filled."
                                 },
                     "Natural Language Processing Mentor": {
                         "description": "Analysis of language-based data requires a deep understanding of natural language text and semantics, which is generally difficult tasks for computers. However, a number of statistical approaches have been shown to work well for sentiment analysis of text data. This project will involve automating the process of analyzing the helpfulness of Amazon reviews with the recent advances in deep learning models for NLP. Mentor responsibilities include working with PIs to design tutorials for projects, working with PIs to ensure success and development of research projects, holding tutorials for students, and working with student teams to provide mentoring and advice towards the development of research projects.",
@@ -1290,7 +1290,7 @@ labs = {
                         "commitment": "6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
                         "perks": "Perks include involvement with research projects and leadership experience. Course Credit is Available. ",
                         "link": "https://goo.gl/forms/r9u4BYopImEkV3Yw1",
-                        "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+                        "deadline": "We will review applications on a rolling basis until Feb 21st or until all our positions have been filled."
                                   },
                 },
 
@@ -1299,7 +1299,7 @@ labs = {
                         "description": "Computational scientists will be expected to attend weekly lab staff meetings and meet with students during project group meetings. In addition, computational scientists will hold office hours on their own time to help students with coding modules and software questions. As a computational scientist, you will also be working with our software division to obtain and learn how to use scientific software.",
                         "commitment": "Time commitment inludes 6-9 hours a week developing with one's designated team.",
                         "link": "https://docs.google.com/forms/d/e/1FAIpQLSelh2HtqamgGb37HGAALDEGi7v2OdOZnCsNNoV-rUk9TCQL2w/viewform?usp=sf_link",
-                        "deadline": "We will review applications on a rolling basis until February 1st, or until all our positions have been filled. After filling out an application, you will be contacted to set up an interview within a few days.",
+                        "deadline": "We will review applications on a rolling basis until Feb 21st, or until all our positions have been filled. After filling out an application, you will be contacted to set up an interview within a few days.",
                     },
                 },
 
@@ -1310,7 +1310,7 @@ labs = {
                         "commitment": "Must be able to commit 4+ hours per week",
                         "perks": "Perks include involvement with cutting-edge ML research projects and leadership experience. Course Credit is Available. ",
                         "link": "https://goo.gl/forms/l6nDfZtIU8Bth3uh1",
-                        "deadline": "We will review applications on a rolling basis until Jan 30th or until all our positions have been filled."
+                        "deadline": "We will review applications on a rolling basis until Feb 21st or until all our positions have been filled."
                     },
                 },
             },
