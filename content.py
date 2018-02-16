@@ -671,8 +671,8 @@ software_jobs = {
                 "deadline": "We will review applications on a rolling basis until Feb 21st or until all our positions have been filled."
             },
             "New Student Researcher": {
-                "description": "Computational scientists will be expected to attend weekly lab staff meetings and meet with students during project group meetings. In addition, computational scientists will hold office hours on their own time to help students with coding modules and software questions. As a computational scientist, you will also be working with our software division to obtain and learn how to use scientific software.",
-                "commitment": "Time commitment inludes 6-9 hours a week developing with one's designated team.",
+                "description": "New Students (Freshman or Junior Transfers) are the on-the-ground reserachers. We we will train you on contemporary machine learning techniques and motivated students who complete the initial training will be given a university-level reserach project. We work with several labs on campus so we try to place motivated students for research positions on campus for their Sophomore (or Senior) years.",
+                "commitment": "Time commitment inludes 9 - 12 hours a week developing with one's designated team.",
                 "link": "https://docs.google.com/forms/d/e/1FAIpQLSelh2HtqamgGb37HGAALDEGi7v2OdOZnCsNNoV-rUk9TCQL2w/viewform?usp=sf_link",
                 "deadline": "We will review applications on a rolling basis until Feb 21st, or until all our positions have been filled. After filling out an application, you will be contacted to set up an interview within a few days.",
             },
