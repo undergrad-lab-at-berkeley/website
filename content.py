@@ -1162,21 +1162,29 @@ labs = {
 
                 },
                 "General Positions": {
-                    "Condensed Matter Mentor": {
-                        "description": u"We're looking to hire undergraduates to mentor small groups of students as they perform condensed matter experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include superconductivity and graphene deposition.",
-                        "qualifications": u"You must have previous research experience, preferably relating to semiconductor physics or solid state physics. However, familiarity with our specific research topics is not required.",
-                        "commitment": u"5-6 hours per week",
-                        "perks": u"In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
-                        "link": u"https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
-                        "deadline": u"Rolling. While the priority application deadline is Feb 21st, we are recruiting people as the applications come in so apply sooner for a better chance."
+                    "Software Engineer": {
+                        "description": u"Aerospace Engineering and Robotics are both rich fields that use their own set of software tools. Further, common engineering projects require specialized technical design tools such as CAD. Software Engineerings in the Robotics and Aerospace Lab develop custom capabilities, and work with industry standards, to analyze and implement real engineering systems. Current projects invovle the design of a Martian Spacesuit Glove, Autonomous Drone Navigation, and novel control systems for quadcopters.",
+                        "qualifications": u"Knowledge of the material covered in EE 16A and CS 61A is preferred. We general take students that have a demonstrated interest in software engineering, in particular when their interest is related to robotics or aerospace engineering.",
+                        "commitment": u"6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
+                        "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
+                        "link": u"https://docs.google.com/forms/d/e/1FAIpQLSfv1MDryeN4VnsYgQwNNEbVyKIhvrXor9RjsWIgYjp6-iUH_Q/viewform",
+                        "deadline": u"Rolling. While the priority application deadline is February 28th, we are recruiting people as the applications come in so apply sooner rather than later."
                     },
-                    "Astronomy Mentor": {
-                        "description": u"We are looking to hire undergraduates to mentor small groups of students as they perform astrophysics and astronomy experiments. As a mentor, you will attend weekly meetings with the laboratory staff and students. You will also communicate with the students to answer questions, supervise experiments, and report on progress. As this is a student-run lab, you will be mentoring students on their own independent research projects. Current research interests include black hole detection and exoplanets.",
-                        "qualifications": u"You must have previous research experience in astronomy or astrophysics. Some coding experience is also necessary.",
-                        "commitment": u"5-6 hours per week",
-                        "perks": u"In addition to professional and technical development workshops, you will have the opportunity to network with professors and graduate students on campus. Course credit is available, and you can receive up to four units.",
-                        "link": u"https://goo.gl/forms/ViPPKHgrl9VPPdUn2",
-                        "deadline": u"We will review applications on a rolling basis until Feb 21st, or until all our positions have been filled."
+                    "Product Design Engineer": {
+                        "description": u"Product Design Engineers will work on all ULAB Projects to implement real engineering systems. From designing the glove controllor to building aerodynamic systems, designers will work in industry standards (AutoCAD, SolidWorks, etc.) to deisgn, prototype, and build products. Engineers often get experience with various sensors, 3D printers, controllers, and other core mechanical and electrical tools",
+                        "qualifications": u"Having machine shop training, knowledge of AutoCAD, Solidworks, and MATLAB are all prefereable. Knowledge of finite element analysis is highly desired.",
+                        "commitment": u"6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
+                        "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
+                        "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdmg7BntRkyqAVgQw7qvwFkLnbXVBenEh_mh9_slYg_BoRydQ/viewform",
+                        "deadline": u"Rolling. While the priority application deadline is February 28th, we are recruiting people as the applications come in so apply sooner rather than later."
+                    },
+                    "Control Engineer": {
+                        "description": u"The Control Engineer is responsible for the design and ultimate performance of electrical and electronic controls of highly complex system. For our glove controlled quadcopter project, Calibrate different type of sensors and collect data to our 'hand motion library.' They will also apply basic control to those electronic devices such as TV, lights, drones, VR headsets and instruments.",
+                        "qualifications": u"Taken (or taking) at least one control classes: ME 132, ME C134(EE C106A), ME 131, and ME 135, or EE 128. Strong fundamental knowledge of MATLAB or LABVIEW. Other desired qualifications include: took 102A or know basic knowledge about sensors, some experience with micro controller or motion controller card, and haven taken at least one project class or having experience in research lab",
+                        "commitment": u"6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
+                        "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
+                        "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdmg7BntRkyqAVgQw7qvwFkLnbXVBenEh_mh9_slYg_BoRydQ/viewform",
+                        "deadline": u"Rolling. While the priority application deadline is February 28th, we are recruiting people as the applications come in so apply sooner rather than later."
                     },
                      "Lab Manager": {
                         "description": u"We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
@@ -1249,12 +1257,29 @@ labs = {
                 },
 
                 "Autonomous Drones": {
-                    "To Be Posted": {
-                        "description": "To Be Posted.",
-                        "qualifications": "To Be Posted.",
-                        "perks": "To Be Posted",
-                        "link": "#",
-                        "deadline": "TBA",
+                    "Software Engineer": {
+                        "description": u"Aerospace Engineering and Robotics are both rich fields that use their own set of software tools. Further, common engineering projects require specialized technical design tools such as CAD. Software Engineerings in the Robotics and Aerospace Lab develop custom capabilities, and work with industry standards, to analyze and implement real engineering systems. Current projects invovle the design of a Martian Spacesuit Glove, Autonomous Drone Navigation, and novel control systems for quadcopters.",
+                        "qualifications": u"Knowledge of the material covered in EE 16A and CS 61A is preferred. We general take students that have a demonstrated interest in software engineering, in particular when their interest is related to robotics or aerospace engineering.",
+                        "commitment": u"6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
+                        "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
+                        "link": u"https://docs.google.com/forms/d/e/1FAIpQLSfv1MDryeN4VnsYgQwNNEbVyKIhvrXor9RjsWIgYjp6-iUH_Q/viewform",
+                        "deadline": u"Rolling. While the priority application deadline is February 28th, we are recruiting people as the applications come in so apply sooner rather than later."
+                    },
+                    "Product Design Engineer": {
+                        "description": u"Product Design Engineers will work on all ULAB Projects to implement real engineering systems. From designing the glove controllor to building aerodynamic systems, designers will work in industry standards (AutoCAD, SolidWorks, etc.) to deisgn, prototype, and build products. Engineers often get experience with various sensors, 3D printers, controllers, and other core mechanical and electrical tools",
+                        "qualifications": u"Having machine shop training, knowledge of AutoCAD, Solidworks, and MATLAB are all prefereable. Knowledge of finite element analysis is highly desired.",
+                        "commitment": u"6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
+                        "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
+                        "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdmg7BntRkyqAVgQw7qvwFkLnbXVBenEh_mh9_slYg_BoRydQ/viewform",
+                        "deadline": u"Rolling. While the priority application deadline is February 28th, we are recruiting people as the applications come in so apply sooner rather than later."
+                    },
+                    "Control Engineer": {
+                        "description": u"The Control Engineer is responsible for the design and ultimate performance of electrical and electronic controls of highly complex system. For our glove controlled quadcopter project, Calibrate different type of sensors and collect data to our 'hand motion library.' They will also apply basic control to those electronic devices such as TV, lights, drones, VR headsets and instruments.",
+                        "qualifications": u"Taken (or taking) at least one control classes: ME 132, ME C134(EE C106A), ME 131, and ME 135, or EE 128. Strong fundamental knowledge of MATLAB or LABVIEW. Other desired qualifications include: took 102A or know basic knowledge about sensors, some experience with micro controller or motion controller card, and haven taken at least one project class or having experience in research lab",
+                        "commitment": u"6 hours per week minimum, including 1 weekly meeting with students and 1 weekly meeting with PIs",
+                        "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
+                        "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdmg7BntRkyqAVgQw7qvwFkLnbXVBenEh_mh9_slYg_BoRydQ/viewform",
+                        "deadline": u"Rolling. While the priority application deadline is February 28th, we are recruiting people as the applications come in so apply sooner rather than later."
                     },
                 },
             },
