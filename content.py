@@ -615,7 +615,33 @@ corporate = {
                 "deadline": u"Rolling",
             },
         },
-
+        "Computational Scientist": {
+            "description": """Nowadays nearly all branches of scientific research make use of computers in some way, and a basic degree of programming
+                skill has become a necessity. As a computational scientist you will be helping others work with code related to their research projects and
+                answer their questions about software. You will also work with our software division to acquire and learn to use scientific software. Certain
+                labs have computational positions specific to them if you have an interest in a particular field of research and want to apply your
+                computational skills there. To read more information about these lab-specific computational positions, visit their lab positions page.""",
+            "commitment": """Attendance of weekly lab staff meetings and project meetings with students is required. Computational scientists are expected
+                to hold office hours for students to ask coding and software questions. Expect to spend 6-8 hours per week.""",
+            "qualifications": "Computational scientists should have at least some coding experience. Recommended coursework includes CS 61A, CS 61B, and Math 54/EE 16A. Data science courses are also useful. Outside experience and internships can replace coursework. We are looking for creative problem solvers with good analytical skills.",
+            "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
+            "link": "https://goo.gl/forms/SOmJC45WKGzFtmsJ3",
+            "deadline": "Rolling",
+        },
+        "Graphic Designer/Animator": {
+            "description": """The Visualization ULAB is looking for people with experience in graphic design and/or animation. As a graphic designer,
+                you will primarily be tasked with making promotional materials for ULAB such as fliers and images used for presentations. Addtionally,
+                you may work to refine the design and layout of our website. If you so choose, you may also be using your skills to help the other labs
+                communicate their work by rendering biological molecules, generating physical simulations, or visualizing their research in some other
+                way.""",
+            "qualifications": """Can vary depending on the work you want to do. For general design work, experience in Photoshop or comparable
+                image editor is necessary. For all cases, previous work/demonstration of your skill set is needed.""",
+            "commitment": """Time commitment can be variable but expect 3+ hours per week.""",
+            "perks": """Perks: An opportunity to help research come to life in a visual fashion, possible contacts to outside organizations or animation
+                studios.""",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLScBNQ3hPquCZbPxBgeQF0OKSX6EeQ7-nMftj7IVzd5jVamWOg/viewform",
+            "deadline": "Rolling",
+        },
 }
 
 software_jobs = {
