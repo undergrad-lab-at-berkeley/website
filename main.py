@@ -1,7 +1,7 @@
 import os
 from flask import Flask, render_template, url_for, redirect
 import content
-# from api import googleSheetAPI as sheetAPI
+from api import handler
 
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
@@ -146,6 +146,17 @@ def bootcamp():
             team[name]['img'] = url_for('static', filename=team[name]['img'])
 
     return render_template("bootcamp.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
+
+# Handling post requests for service engine
+@app.route("/service-engine", methods = ['GET', 'POST'])
+def service_handler():
+    if request.method == 'GET':
+        return render_template("404.html"), 204
+    if request.method == 'POST':
+        # insert handler code here
+        data = request.get_json()
+        handler.handle(data)
+        return render_template('404.html'), 204
 
 ##################### Error Handling #####################
 @app.errorhandler(404)
