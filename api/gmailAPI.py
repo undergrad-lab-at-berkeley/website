@@ -12,6 +12,12 @@ import base64
 from email.mime.text import MIMEText
 from apiclient import errors
 
+try:
+    import argparse
+    flags = argparse.ArgumentParser(parents=[tools.argparser]).parse_args()
+except ImportError:
+    flags = None
+
 # try:
 #     import argparse
 #     parser = argparse.ArgumentParser(parents=[tools.argparser])
