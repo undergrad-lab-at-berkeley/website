@@ -12,13 +12,13 @@ import base64
 from email.mime.text import MIMEText
 from apiclient import errors
 
-try:
-    import argparse
-    parser = argparse.ArgumentParser(parents=[tools.argparser])
-    parser.add_argument('args', nargs=argparse.REMAINDER)
-    flags = parser.parse_args()
-except ImportError:
-    flags = None
+# try:
+#     import argparse
+#     parser = argparse.ArgumentParser(parents=[tools.argparser])
+#     parser.add_argument('args', nargs=argparse.REMAINDER)
+#     flags = parser.parse_args()
+# except ImportError:
+#     flags = None
 
 # If modifying these scopes, delete your previously saved credentials
 # at ~/.credentials/gmail-python-quickstart.json
