@@ -1,5 +1,5 @@
 import os
-from flask import Flask, render_template, url_for, redirect
+from flask import Flask, render_template, url_for, redirect, request
 import content
 from api import handler
 
