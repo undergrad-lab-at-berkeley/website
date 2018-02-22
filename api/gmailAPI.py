@@ -16,6 +16,7 @@ try:
     import argparse
     parser = argparse.ArgumentParser(parents=[tools.argparser])
     parser.add_argument('args', nargs=argparse.REMAINDER)
+    parser.add_argument('w')
     flags = parser.parse_args()
 except ImportError:
     flags = None
