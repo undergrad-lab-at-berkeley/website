@@ -11,7 +11,7 @@ def get_lab_jobs(lab):
 # Given INPUT_DICT and set ENTRIES, returns new dict with items from INPUT_DICT that match the keys indicated by ENTRIES
 def filter_dict(input_dict, entries):
     # Compares INPUT_DICT keys with set ENTRIES, matching keys are used in a dictionary comprehension
-    return {k: input_dict[k] for k in input_dict.keys() & entries}
+    return {k: input_dict[k] for k in input_dict.keys() if k in entries}
 
 research = {
     "aerospace-ulab": {
