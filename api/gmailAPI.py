@@ -15,7 +15,7 @@ from apiclient import errors
 # If modifying these scopes, delete your previously saved credentials
 # at ~/.credentials/gmail-python-quickstart.json
 SCOPES = 'https://www.googleapis.com/auth/gmail.send'
-CLIENT_SECRET_FILE = 'client_secret.json'
+CLIENT_SECRET_FILE = '/myapp/src/api/client_secret.json'
 APPLICATION_NAME = 'Task Request Automation Emailer'
 
 
