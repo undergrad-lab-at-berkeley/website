@@ -12,23 +12,6 @@ import base64
 from email.mime.text import MIMEText
 from apiclient import errors
 
-try:
-    import argparse
-    parser = argparse.ArgumentParser(parents=[tools.argparser])
-    parser.add_argument('args', nargs=argparse.REMAINDER)
-    parser.add_argument('w')
-    flags = parser.parse_args()
-except ImportError:
-    flags = None
-
-# try:
-#     import argparse
-#     parser = argparse.ArgumentParser(parents=[tools.argparser])
-#     parser.add_argument('args', nargs=argparse.REMAINDER)
-#     flags = parser.parse_args()
-# except ImportError:
-#     flags = None
-
 # If modifying these scopes, delete your previously saved credentials
 # at ~/.credentials/gmail-python-quickstart.json
 SCOPES = 'https://www.googleapis.com/auth/gmail.send'
@@ -50,17 +33,16 @@ def get_credentials():
     if not os.path.exists(credential_dir):
         os.makedirs(credential_dir)
     credential_path = os.path.join(credential_dir,
-                                   'gmail-python-quickstart.json')
+                                   'gmail-python.json')
 
     store = Storage(credential_path)
     credentials = store.get()
     if not credentials or credentials.invalid:
         flow = client.flow_from_clientsecrets(CLIENT_SECRET_FILE, SCOPES)
         flow.user_agent = APPLICATION_NAME
-        if flags:
-            credentials = tools.run_flow(flow, store)
-        else: # Needed only for compatibility with Python 2.6
-            credentials = tools.run(flow, store)
+
+        credentials = tools.run_flow(flow, store)
+
         print('Storing credentials to ' + credential_path)
     return credentials
 
@@ -113,4 +95,4 @@ def send_email(sender, to, subject, msg_text):
     service = discovery.build('gmail', 'v1', http=http)
 
     msg = create_message(sender, to, subject, msg_text)
-    return send_message(service, sender, msg) #send_message(service, "me", msg)
+    return send_message(service, sender, msg)
