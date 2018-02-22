@@ -598,12 +598,12 @@ corporate = {
 
     "Operations": {
             "Operations Team Member": {
-                "description": "As our organization grows, operations have become increasingly complex, making it necessary to devote considerable time to ensuring communication lines and general operations stay functional. An operations team member would be responsible for ensuring that documentation stays updated and that labs are meeting all requirements and making progress with their projects.",
-                "qualifications": "Operations background or interest and basic coding experience is preferred. Strong communication and organizational skills.",
-                "commitment": "Time commitment is roughly 3-5 hours per week.",
-                "perks": "Course credit is available.",
-                "link": "https://goo.gl/forms/OcIEQgLkYyxJaZlk1",
-                "deadline": "Rolling",
+                "description": u"As our organization grows, operations have become increasingly complex, making it necessary to devote considerable time to ensuring communication lines and general operations stay functional. An operations team member would be responsible for ensuring that documentation stays updated and that labs are meeting all requirements and making progress with their projects.",
+                "qualifications": u"Operations background or interest and basic coding experience is preferred. Strong communication and organizational skills.",
+                "commitment": u"Time commitment is roughly 3-5 hours per week.",
+                "perks": u"Course credit is available.",
+                "link": u"https://goo.gl/forms/OcIEQgLkYyxJaZlk1",
+                "deadline": u"Rolling",
             },
             "Operations Analyst": {
                 "description": """Operations analysts are responsible for helping to manage the growing complexity of ULAB as a organization by ensuring that
