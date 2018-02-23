@@ -5,6 +5,8 @@ import flask
 import google.oauth2.credentials
 import google_auth_oauthlib.flow
 
+import logging
+
 # This variable specifies the name of a file that contains the OAuth 2.0
 # information for this application, including its client_id and client_secret.
 CLIENT_SECRETS_FILE = "/home/u/ul/ulab/myapp/src/api/client_secret.json" # /home/u/ul/ulab/myapp/src/api/client_secret.json
@@ -58,6 +60,7 @@ def finish_auth(service):
 
         # Use the authorization server's response to fetch the OAuth 2.0 tokens.
         authorization_response = flask.request.url
+        logging.warn(authorization_response)
         flow.fetch_token(authorization_response=authorization_response)
 
         # Store credentials in the session.
