@@ -1,0 +1,74 @@
+import hashlib
+import os
+
+import flask
+import requests
+import google.oauth2.credentials
+import google_auth_oauthlib.flow
+
+# This variable specifies the name of a file that contains the OAuth 2.0
+# information for this application, including its client_id and client_secret.
+CLIENT_SECRETS_FILE = "/home/u/ul/ulab/myapp/src/api/client_secret.json" # /home/u/ul/ulab/myapp/src/api/client_secret.json
+
+service_dict = {
+    "gmail": ['https://www.googleapis.com/auth/gmail.send', 'https://ulab.berkeley.edu/oauth2callback/gmail']
+}
+
+def begin_auth(service):
+    if service == "gmail":
+        SCOPES = service_dict["gmail"][0]
+        REDIRECT = service_dict["gmail"][1]
+
+    # Use the client_secret.json file to identify the application requesting
+    # authorization. The client ID (from that file) and access scopes are required.
+    flow = google_auth_oauthlib.flow.Flow.from_client_secrets_file(
+        CLIENT_SECRETS_FILE,
+        scopes=SCOPES)
+    # Indicate where the API server will redirect the user after the user completes
+    # the authorization flow. The redirect URI is required.
+    flow.redirect_uri = REDIRECT
+
+    # Generate URL for request to Google's OAuth 2.0 server.
+    # Use kwargs to set optional request parameters.
+    authorization_url, state = flow.authorization_url(
+        # Enable offline access so that you can refresh an access token without
+        # re-prompting the user for permission. Recommended for web server apps.
+        access_type='offline',
+        # State is used for verifying the authorization request
+        state=hashlib.sha256(os.urandom(1024)).hexdigest(),
+        # Enable incremental authorization. Recommended as a best practice.
+        include_granted_scopes='true')
+
+    flask.session['state'] = state
+
+    return flask.redirect(authorization_url)
+
+def finish_auth(service):
+    if service == "gmail":
+        SCOPES = service_dict["gmail"][0]
+        REDIRECT = service_dict["gmail"][1]
+
+    # Specify the state when creating the flow in the callback so that it can
+    # verified in the authorization server response.
+    state = flask.session['state']
+
+    if flask.request.args.get('state', '') != flask.session['state']:
+        response = make_response(json.dumps('Invalid state parameter.'), 401)
+        response.headers['Content-Type'] = 'application/json'
+        return response
+    else:
+        flow = google_auth_oauthlib.flow.Flow.from_client_secrets_file(
+            CLIENT_SECRETS_FILE, scopes=SCOPES, state=state)
+        flow.redirect_uri = flask.url_for('auth_callback', service=service, _external=True)
+
+        # Use the authorization server's response to fetch the OAuth 2.0 tokens.
+        authorization_response = flask.request.url
+        flow.fetch_token(authorization_response=authorization_response)
+
+        # Store credentials in the session.
+        # ACTION ITEM: In a production app, you likely want to save these
+        #              credentials in a persistent database instead.
+        credentials = flow.credentials
+        flask.session['credentials'] = credentials_to_dict(credentials)
+
+        return render_template('404.html'), 204

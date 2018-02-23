@@ -1,10 +1,13 @@
 import os
-from flask import Flask, render_template, url_for, redirect, request
 import content
-from api import handler
+
+from flask import Flask, render_template, url_for, redirect, request
+
+from api import handler, oauth2
 
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
+app.secret_key = 'dev'
 
 navProjects = [
     {
@@ -153,10 +156,21 @@ def service_handler():
     if request.method == 'GET':
         return render_template("404.html"), 204
     if request.method == 'POST':
-        # insert handler code here
         data = request.get_json()
         handler.handle(data)
         return render_template('404.html'), 204
+
+@app.route("/oauth2callback/<service>")
+def auth_callback(service=None):
+    if not service:
+        return render_template('404.html'), 204
+    return oauth2.finish_auth(service)
+
+@app.route("/auth/<service>")
+def auth_service(service=None):
+    if not service:
+        return render_template('404.html'), 204
+    return oauth2.begin_auth(service)
 
 ##################### Error Handling #####################
 @app.errorhandler(404)
