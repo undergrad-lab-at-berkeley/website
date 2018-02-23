@@ -5,8 +5,6 @@ import flask
 import google.oauth2.credentials
 import google_auth_oauthlib.flow
 
-import logging
-
 # This variable specifies the name of a file that contains the OAuth 2.0
 # information for this application, including its client_id and client_secret.
 CLIENT_SECRETS_FILE = "/home/u/ul/ulab/myapp/src/api/client_secret.json" # /home/u/ul/ulab/myapp/src/api/client_secret.json
