@@ -60,7 +60,9 @@ def finish_auth(service):
 
         # Use the authorization server's response to fetch the OAuth 2.0 tokens.
         authorization_response = flask.request.url
-        logging.warning(authorization_response)
+        # flask.request.url should be https://
+        authorization_response = authorization_response.replace("http://", "https://")
+
         flow.fetch_token(authorization_response=authorization_response)
 
         # Store credentials in the session.
