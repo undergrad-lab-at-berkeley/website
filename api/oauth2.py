@@ -66,4 +66,4 @@ def finish_auth(service):
         credentials = flow.credentials
         flask.session['credentials'] = credentials_to_dict(credentials)
 
-        return flask.redirect(flask.url_for('index', _external=True, _scheme='https'))
+        return flask.redirect('https://ulab.berkeley.edu/')
