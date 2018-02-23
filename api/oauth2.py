@@ -50,7 +50,7 @@ def finish_auth(service):
     state = flask.session['state']
 
     if flask.request.args.get('state', '') != flask.session['state']:
-        return render_template('404.html'), 404
+        flask.abort(401)
     else:
         flow = google_auth_oauthlib.flow.Flow.from_client_secrets_file(
             CLIENT_SECRETS_FILE, scopes=SCOPES, state=state)
