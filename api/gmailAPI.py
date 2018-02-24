@@ -54,7 +54,7 @@ def send_message(service, user_id, message):
 def send_email(sender, to, subject, msg_text):
     """Uses Gmail API to create and then send an email.
     """
-     # Load credentials from the session.
+    # Load credentials from the session.
     credentials = google.oauth2.credentials.Credentials(**flask.session['credentials'])
 
     http = credentials.authorize(httplib2.Http())

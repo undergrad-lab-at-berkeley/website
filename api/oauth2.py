@@ -7,7 +7,7 @@ import google_auth_oauthlib.flow
 
 # This variable specifies the name of a file that contains the OAuth 2.0
 # information for this application, including its client_id and client_secret.
-CLIENT_SECRETS_FILE = "/home/u/ul/ulab/myapp/src/api/client_secret.json" # /home/u/ul/ulab/myapp/src/api/client_secret.json
+CLIENT_SECRETS_FILE = "/home/u/ul/ulab/myapp/src/api/client_secret.json"
 
 service_dict = {
     "gmail": ['https://www.googleapis.com/auth/gmail.send']
@@ -22,8 +22,7 @@ def credentials_to_dict(credentials):
           'scopes': credentials.scopes}
 
 def begin_auth(service):
-    if service == "gmail":
-        SCOPES = service_dict["gmail"]
+    SCOPES = service_dict[service]
 
     # Use the client_secret.json file to identify the application requesting
     # authorization. The client ID (from that file) and access scopes are required.
@@ -50,8 +49,7 @@ def begin_auth(service):
     return flask.redirect(authorization_url)
 
 def finish_auth(service):
-    if service == "gmail":
-        SCOPES = service_dict["gmail"]
+    SCOPES = service_dict[service]
 
     # Specify the state when creating the flow in the callback so that it can
     # verified in the authorization server response.
@@ -66,7 +64,7 @@ def finish_auth(service):
 
         # Use the authorization server's response to fetch the OAuth 2.0 tokens.
         authorization_response = flask.request.url
-        # flask.request.url should be https://
+        # flask.request.url should use https://
         authorization_response = authorization_response.replace("http://", "https://")
 
         flow.fetch_token(authorization_response=authorization_response)

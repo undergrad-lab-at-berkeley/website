@@ -1,9 +1,8 @@
-import os
-import content
-
 from flask import Flask, render_template, url_for, redirect, request
-
-from api import handler, oauth2
+import content
+from api import oauth2
+import handler
+from passlib.hash import argon2
 
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
@@ -41,9 +40,6 @@ def utility_processor1():
 
 @app.route("/")
 def index():
-    f=open("log.txt",'w')
-    f.write("test \n" )
-    f.close()
     return render_template("main-page.html")
 
 @app.route("/aboutus")
@@ -155,10 +151,14 @@ def bootcamp():
 def service_handler():
     if request.method == 'GET':
         return render_template("404.html"), 204
-    if request.method == 'POST':
-        data = request.get_json()
-        handler.handle(data)
-        return render_template('404.html'), 204
+    else:
+        auth = request.authorization
+        if auth.username == "gform" and argon2.verify(auth.password, '$argon2i$v=19$m=512,t=2,p=2$YiyltJby3jvnnBMipPQeow$p9gD0N2ALbdOspN9IMFM9g'):
+            data = request.get_json()
+            handler.handle(data)
+            return render_template('404.html'), 204
+        else:
+            abort(401)
 
 @app.route("/oauth2callback/<service>")
 def auth_callback(service=None):
