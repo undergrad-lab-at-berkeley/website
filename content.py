@@ -1053,7 +1053,7 @@ labs = {
                         "description": u" Laboratory Managers are responsible for running the uLabs safely and efficiently. The manager is the principal custodian for all laboratory equipment and oversees the equipment and logistical needs for all laboratory equipment used throughout the uLab. In addition to developing trainings for students to safely use equipment, laboratory managers often acquire new equipment and work on operating a variety of sophisticated equipment as part of their research and operational duties. The manager in this uLab will work with machine shop equipment, state-of-the-art software design tools, and industry standards such as Arduinos.",
                         "qualifications": u"As different research projects require a diverse array of new equipment, a willingness to rapidly learn how to maintain and operate equipment is a must. This position is often a great leadership opportunity for students looking to learn how to run a laboratory. Strong organizational skills, fluency in technical analysis, and interpersonal skills often characterize the best laboratory managers. This particular laboratory manager should ideally have experience with prototyping equipment, MATLAB, CAD, and other core technical design tools.",
                         "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
-                        "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeyU_l98S5F9wNRrDq6iJMfvfyni64uiAr56ndYefotJ_zdDg/viewform",
+                        "link": u"https://goo.gl/forms/yFFnOYrgpp75jU4B2",
                         "commitment": u"10 hours per week",
                         "deadline": u"Feb 21st, 2018 (or until all positions are filled)",
                     },
@@ -1083,13 +1083,6 @@ labs = {
                         "perks": u"Perks: Working with a NASA Astronaut, paid access to Jacobs Hall and several other engineering facilities, direct research experience with two research laboratories, and the ability to work a diverse group of engineers. We also have several contacts at NASA and other Engineering organizations for those seeking opportunities in industry. Course credit is available and the possibility of a stipend for individuals willing to put in significant time in developing the uLab.",
                         "link": u"https://docs.google.com/forms/d/e/1FAIpQLSdmg7BntRkyqAVgQw7qvwFkLnbXVBenEh_mh9_slYg_BoRydQ/viewform",
                         "deadline": u"Rolling. While the priority application deadline is February 28th, we are recruiting people as the applications come in so apply sooner rather than later."
-                    },
-                     "Lab Manager": {
-                        "description": u"We are looking to hire lab managers for our physics lab. You will be assisting our operations director in the day-to-day running of the lab.  You will also work on building and maintaining partnerships with labs on campus by networking with and pitching to graduate students and professors. You will help maintain equipment, staff, and student rosters. You will also assist with other operations-related ventures such as grant writing, room bookings, and organizing Google Drive files.",
-                        "commitment": u"4-6 hrs per week",
-                        "perks": u"This is a fantastic opportunity to get involved with scientific research on a more administrative level, while networking with faculty members and learning how to do scientific pitches.You will have access to professional and technical development workshops. Course credit is available, and you can receive up to four units.",
-                        "link": u"https://goo.gl/forms/N1U1MXdoRizd2g883",
-                        "deadline": u"We'll review applications on a rolling basis until Feb 21st, or until all our positions have been filled."
                     },
                 },
                 "Mars Spacesuit": {
