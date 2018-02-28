@@ -1324,7 +1324,7 @@ software_jobs_order.sort()
 software_jobs = {
 
     "Advanced Technologies Group": {
-        "Software Developer": {
+        "Software Development Engineer": {
             "description": "The Advanced Technologies Group is a branch of ULAB \
             that was launched upon the realization that our labs \
             spent way too much time on building the tools they need for their \
