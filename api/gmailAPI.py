@@ -1,12 +1,13 @@
 import httplib2
 import googleapiclient.discovery
+import google.oauth2.credentials
 import flask
+import json
 
 # Modules needed for emailing
 import base64
 from email.mime.text import MIMEText
 from apiclient import errors
-
 
 def create_message(sender, to, subject, message_text):
     """Create a message for an email.
@@ -44,23 +45,19 @@ def send_message(service, user_id, message):
                     .execute())
         print('Message Id: {}'.format(message['id']))
 
-        flask.session['credentials'] = credentials_to_dict(credentials)
-
         return message
     except errors.HttpError as error:
         print('An error occurred: {}'.format(error))
 
 
-def send_email(sender, to, subject, msg_text):
+def send_email(sender, to, subject, msg_text, credentials):
     """Uses Gmail API to create and then send an email.
     """
     # Load credentials from the session.
-    credentials = google.oauth2.credentials.Credentials(**flask.session['credentials'])
+    if credentials and credentials.valid:
+        service = googleapiclient.discovery.build('gmail', 'v1', credentials=credentials)
 
-    http = credentials.authorize(httplib2.Http())
-    service = googleapiclient.discovery.build('gmail', 'v1', http=http)
-
-    msg = create_message(sender, to, subject, msg_text)
-    return send_message(service, sender, msg) #send_message(service, "me", msg)
+        msg = create_message(sender, to, subject, msg_text)
+        return send_message(service, sender, msg) #send_message(service, "me", msg)
 
 # send_email("eucbital@berkeley.edu", "eucbital@berkeley.edu", "The Body of the Damned", "Let this be a message")

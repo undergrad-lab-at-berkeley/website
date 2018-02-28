@@ -1,16 +1,21 @@
 import hashlib
+import httplib2
 import os
-
+import requests
 import flask
+
 import google.oauth2.credentials
 import google_auth_oauthlib.flow
+import googleapiclient.discovery
+
+os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1'
 
 # This variable specifies the name of a file that contains the OAuth 2.0
 # information for this application, including its client_id and client_secret.
-CLIENT_SECRETS_FILE = "/home/u/ul/ulab/myapp/src/api/client_secret.json"
+CLIENT_SECRETS_FILE = "api/client_secret.json" # "/home/u/ul/ulab/myapp/src/api/client_secret.json"
 
 service_dict = {
-    "gmail": ['https://www.googleapis.com/auth/gmail.send']
+    "gmail": ['https://www.googleapis.com/auth/gmail.send', 'email'] # 'profile' 'https://www.googleapis.com/auth/gmail.readonly' # 'email'
 }
 
 def credentials_to_dict(credentials):
@@ -31,7 +36,7 @@ def begin_auth(service):
         scopes=SCOPES)
     # Indicate where the API server will redirect the user after the user completes
     # the authorization flow. The redirect URI is required.
-    flow.redirect_uri = flask.url_for('auth_callback', service=service, _external=True, _scheme='https')
+    flow.redirect_uri = flask.url_for('auth_callback', service=service, _external=True, _scheme='http')
 
     # Generate URL for request to Google's OAuth 2.0 server.
     # Use kwargs to set optional request parameters.
@@ -48,6 +53,11 @@ def begin_auth(service):
 
     return flask.redirect(authorization_url)
 
+def dump(obj):
+   for attr in dir(obj):
+       if hasattr( obj, attr ):
+           print( "obj.%s = %s" % (attr, getattr(obj, attr)))
+
 def finish_auth(service):
     SCOPES = service_dict[service]
 
@@ -60,12 +70,12 @@ def finish_auth(service):
     else:
         flow = google_auth_oauthlib.flow.Flow.from_client_secrets_file(
             CLIENT_SECRETS_FILE, scopes=SCOPES, state=state)
-        flow.redirect_uri = flask.url_for('auth_callback', service=service, _external=True, _scheme='https')
+        flow.redirect_uri = flask.url_for('auth_callback', service=service, _external=True, _scheme='http')
 
         # Use the authorization server's response to fetch the OAuth 2.0 tokens.
         authorization_response = flask.request.url
         # flask.request.url should use https://
-        authorization_response = authorization_response.replace("http://", "https://")
+        # authorization_response = authorization_response.replace("http://", "https://")
 
         flow.fetch_token(authorization_response=authorization_response)
 
@@ -73,6 +83,13 @@ def finish_auth(service):
         # ACTION ITEM: In a production app, you likely want to save these
         #              credentials in a persistent database instead.
         credentials = flow.credentials
-        flask.session['credentials'] = credentials_to_dict(credentials)
 
-        return flask.redirect('https://ulab.berkeley.edu/')
+        oauth2_service = googleapiclient.discovery.build('oauth2', 'v2', credentials=credentials)
+        user_info = oauth2_service.userinfo().get().execute()
+        email = user_info['email']
+
+        # requests.post('https://accounts.google.com/o/oauth2/revoke',
+        #     params={'token': credentials.token},
+        #     headers = {'content-type': 'application/x-www-form-urlencoded'})
+
+        return credentials, email
