@@ -1325,12 +1325,44 @@ software_jobs = {
 
     "Advanced Technologies Group": {
         "Software Developer": {
-            "description": "We are launching a group this semester in ULAB designated towards working with different projects from labs, campus clubs, and industrial partners. As a member of this team, you'll be working with the best on technologies like drones, web, blockchain, machine learning, and mobile development. As a member of this team, you'll get valuable industrial experience and networking. Anything that our client requests, you'll be working on it.",
-            "qualifications": "MUST have taken CS 61B",
-            "commitment": "Time commitment inludes 90 minutes a week of mandatory meeting with the rest of the ATG group in addition to 6-9 hours a week developing with one's designated team.",
-            "perks": "Membership perks include working with other developers with experience in all kinds of technologies, working on new technologies, visiting labs, having meeting with clients, & attending fun social events.",
+            "description": "The Advanced Technologies Group is a branch of ULAB \
+            that was launched upon the realization that our labs \
+            spent way too much time on building the tools they need for their \
+            experiments. What if we separate the engineering from the science? \
+            ATG is dedicated to doing just that. They design custom computational \
+            capabilities to tackle complex research problems for labs on the UC Berkeley campus. \
+            The group supports various research groups on campus as well as ULAB's \
+            student-run research laboratories. Students will have the unique \
+            opportunity to solve computational problems in other fields such as \
+            astrophysics or cognitive neuroscience. Developers work on small teams \
+            on custom software capabilities. Projects typically last a few weeks so \
+            developers usually get the opportunity to work on multiple projects \
+            throughout the uLab and other organizations on campus. \
+            Past projects include automating access to uLab \
+            infrastructure using the Google Drive API and writing an analytical \
+            engine to process logistical requests. Future projects include \
+            visualization of exoplanets, simulating control systems for a glove \
+            to work on a Martian spacesuit, entrepreneurial projects and more. \
+            \n This group is designed for students who are interested in becoming \
+            software engineers or who are interested in learning practical \
+            programming skills. Teams often build web tools, mobile applications, \
+            and work on projects directly related to work done in industry.",
+
+            "qualifications": "Qualifications: Proficiency in at least one programming language",
+
+            "commitment": "Time commitment includes 90 minutes a week of mandatory \
+             meeting with the rest of the ATG group in addition to 6-9 hours a week \
+             developing with one's designated pod.",
+
+            "perks": "Membership perks include working with other developers with \
+            experience in all kinds of technologies, training with the smartest \
+            people on campus, attending private workshops, working on new technologies, \
+            visiting labs, having meeting with clients, & attending fun social events.",
+
             "link": "https://goo.gl/forms/kiQXLwG1JOrZkWHR2",
-            "deadline": "Rolling",
+
+            "deadline": "Applicants will be reviewed and admitted in weekly batches for this semester only. \
+            ULAB ATG will get more exclusive from next semester onwards due to limited resources.",
         },
     },
 
