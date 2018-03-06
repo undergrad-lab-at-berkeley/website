@@ -989,7 +989,7 @@ software_jobs = {
         },
 
         "Operations Officer": {
-            "description": """The ATG Operations Officer drives the sub-organization forward. Managing a large
+            "description": u"""The ATG Operations Officer drives the sub-organization forward. Managing a large
                 group of individuals in a research setting requires constantly collecting feedback, managing a
                 large program calendar, scheduling the use of complex equipment, certifying and training new members
                 in technical and fundamental research skills, and documenting research results. With ULAB Advanced
@@ -1000,12 +1000,12 @@ software_jobs = {
                 branch has emphasis is on software development, the Operations Officer will be responsible for expanding
                 the scope of existing programs to fit the needs of the client.""",
 
-            "qualifications": """Qualifications: While the fundamental operational responsibilities require organizational
+            "qualifications": u"""Qualifications: While the fundamental operational responsibilities require organizational
                 experience and strong interpersonal skills, we are looking for a candidate that above all else is constantly
                 adapting to new challenges. If you’d like to learn analytical and operational tools to run organizations at
                 scale, this is the job for you.""",
 
-            "commitment": """Expect to commit 5-10 hours/week. As an Operations Officer of the ATG branch of ULAB, your
+            "commitment": u"""Expect to commit 5-10 hours/week. As an Operations Officer of the ATG branch of ULAB, your
                 responsibilities for maintaining software that could be used by the other uLabs and outside clients include:
                 (1) Reporting, as an ATG Operations Officer, directly to your executive director regarding anything related to ATG.
                 (2) Working with several ATG executives on maintaining the sub-organization’s culture.
@@ -1013,14 +1013,14 @@ software_jobs = {
                 expected to write the code yourself.
                 (4) Coming to the meetings that are not necessarily at a fixed time (we need you to have a semi-flexible schedule).""",
 
-            "perks": """In addition to being in the ULab organization (with perks including socials and research
+            "perks": u"""In addition to being in the ULab organization (with perks including socials and research
                 experience), as a member of the ATG department, you will be given additional workshops, career-building
                 activities and leadership experience. Since the ATG collaborates with many other departments and plans to
                 expand and collaborate with other clubs, there will also be many networking opportunities.""",
 
-            "link": "https://docs.google.com/forms/d/e/1FAIpQLSeqQkt7fcXQ1yl0sv5_R76lejiMtSPbaNroRsQcF9TUOi56UQ/viewform",
+            "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeqQkt7fcXQ1yl0sv5_R76lejiMtSPbaNroRsQcF9TUOi56UQ/viewform",
 
-            "deadline": "Rolling"
+            "deadline": u"Rolling"
         },
     },
 
