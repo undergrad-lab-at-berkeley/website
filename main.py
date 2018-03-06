@@ -1,35 +1,10 @@
+import os
+from flask import Flask, render_template, url_for, redirect, request
 import content
-
-from flask import Flask, render_template, url_for, redirect, request, abort
-from flask_sqlalchemy import SQLAlchemy
-from passlib.hash import argon2
-from api import oauth2
-import handler
-import json
-import google.oauth2.credentials
-
+from api import handler
 
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///tokens.db'
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-app.secret_key = 'dev'
-
-db = SQLAlchemy(app)
-
-class Credential(db.Model):
-    email = db.Column(db.String(254), primary_key=True)
-    access_token = db.Column(db.String(120), unique=True, nullable=False)
-    refresh_token = db.Column(db.String(45), unique=True, nullable=False)
-
-def update(cred):
-    item = Credential.query.get(cred.email)
-    if item:
-        db.session.delete(item)
-        db.session.add(cred)
-    else:
-        db.session.add(cred)
-    db.session.commit()
 
 navProjects = [
     {
@@ -174,53 +149,10 @@ def bootcamp():
 def service_handler():
     if request.method == 'GET':
         return render_template("404.html"), 204
-    else:
-        auth = request.authorization
-        if auth.username == "gform" and argon2.verify(auth.password, '$argon2i$v=19$m=512,t=2,p=2$YiyltJby3jvnnBMipPQeow$p9gD0N2ALbdOspN9IMFM9g'):
-            data = request.get_json()
-            handler.handle(data)
-            return render_template('404.html'), 204
-        else:
-            abort(401)
-
-@app.route("/oauth2callback/<service>")
-def auth_callback(service=None):
-    if not service:
-        return render_template('404.html'), 204
-    credentials, email = oauth2.finish_auth(service)
-    cred = Credential(email=email, refresh_token=credentials.refresh_token)
-    update(cred)
-    return redirect(url_for('index'))
-
-@app.route("/auth/<service>")
-def auth_service(service=None):
-    if not service:
-        return render_template('404.html'), 204
-    return oauth2.begin_auth(service)
-
-@app.route("/test")
-def test():
-    from api import gmailAPI as gmail
-    cred = Credential.query.get('eucbital@berkeley.edu')
-    if not cred:
-        abort(404)
-
-    with open('api/client_secret.json') as json_data:
-        d = json.load(json_data)
-
-    client_id = d["web"]["client_id"]
-    client_secret = d["web"]["client_secret"]
-    token_uri = d["web"]["token_uri"]
-
-    credentials = google.oauth2.credentials.Credentials(
-        None,
-        refresh_token=cred.refresh_token,
-        client_id=client_id,
-        client_secret=client_secret,
-        token_uri=token_uri)
-
-    gmail.send_email('eucbital@berkeley.edu', 'eucbital@berkeley.edu', 'i hate you', 'end thyself', credentials)
-    abort(404)
+    if request.method == 'POST':
+        data = request.get_json()
+        handler.handle(data)
+    return render_template('404.html'), 204
 
 ##################### Error Handling #####################
 @app.errorhandler(404)
