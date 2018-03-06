@@ -1,7 +1,7 @@
 import os
-from flask import Flask, render_template, url_for, redirect
+from flask import Flask, render_template, url_for, redirect, request
 import content
-# from api import googleSheetAPI as sheetAPI
+from api import handler
 
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
@@ -38,9 +38,6 @@ def utility_processor1():
 
 @app.route("/")
 def index():
-    f=open("log.txt",'w')
-    f.write("test \n" )
-    f.close()
     return render_template("main-page.html")
 
 @app.route("/aboutus")
@@ -73,7 +70,7 @@ def getStudent(category="Statistical Modeling and Deep Learning"):
 @app.route("/software-jobs")
 @app.route("/software-jobs/<category>")
 def getSoftware(category="ATG"):
-    return render_template("software-jobs.html", software_jobs=content.software_jobs, jobCategory=category, jobsOrder=content.software_jobs_order)
+    return render_template("software-jobs.html", software_jobs=content.software_jobs, jobCategory=category)
 
 
 @app.route("/corporate-jobs")
@@ -146,6 +143,16 @@ def bootcamp():
             team[name]['img'] = url_for('static', filename=team[name]['img'])
 
     return render_template("bootcamp.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
+
+# Handling post requests for service engine
+@app.route("/service-engine", methods = ['GET', 'POST'])
+def service_handler():
+    if request.method == 'GET':
+        return render_template("404.html"), 204
+    if request.method == 'POST':
+        data = request.get_json()
+        handler.handle(data)
+    return render_template('404.html'), 204
 
 ##################### Error Handling #####################
 @app.errorhandler(404)
