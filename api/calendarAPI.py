@@ -102,7 +102,7 @@ def make_event(summary, location, description, dateTime, recurrence, attendees):
     """
     invitations = []
     for i in attendees:
-        invitations.append("{'email' :" + i + "}")
+        invitations.append({'email' : i})
 
     repeat = "RRULE:"
     if "FREQ" in recurrence.keys():
@@ -120,7 +120,7 @@ def make_event(summary, location, description, dateTime, recurrence, attendees):
         'timeZone': 'America/Los_Angeles',
       },
       'end': {
-        'dateTime': '2016-09-28T17:00:00-07:00',
+        'dateTime': '2018-03-07T18:00:00-20:00',
         'timeZone': 'America/Los_Angeles',
       },
       'recurrence': [
@@ -135,6 +135,7 @@ def make_event(summary, location, description, dateTime, recurrence, attendees):
         ],
       },
     }
-    service.events().insert(calendarId='primary', body=event)
+    event = service.events().insert(calendarId='primary', body=event).execute()
+    print('Event created: %s' % (event.get('htmlLink')))
 
-make_event("test", "test", "test", "2018-03-07T18:00:00-07:00",{}, ["kavid.vaidya@gmail.com"])
+make_event("test", "test", "test", "2018-03-07T18:00:00-19:00",{}, ["kavid.vaidya@gmail.com"])
