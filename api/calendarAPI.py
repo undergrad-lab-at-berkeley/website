@@ -50,7 +50,7 @@ def get_credentials():
         print('Storing credentials to ' + credential_path)
     return credentials
 
-def make_event(summary, location, description="", dateTime, recurrence, attendees):
+def make_event(summary, location, description, dateTime, recurrence, attendees):
     """
     All the input is string, except attendees, which is a list of stings and
     recurrence, which is a dictionary of string(keys) and string(details).
@@ -105,11 +105,11 @@ def make_event(summary, location, description="", dateTime, recurrence, attendee
         invitations.append("{'email' :" + i + "}")
 
     repeat = "RRULE:"
-    if recurrence["FREQ"]":
+    if "FREQ" in recurrence.keys():
         repeat += "FREQ:" + recurrence["FREQ"]
-    if recurrence["COUNT"]":
+    if "COUNT" in recurrence.keys():
         repeat += "COUNT:" + recurrence["COUNT"]
-    if recurrence["INTERVAL"]":
+    if "INTERVAL" in recurrence.keys():
         repeat += "INTERVAL:" + recurrence["INTERVAL"]
     event = {
       'summary': summary,
@@ -137,5 +137,4 @@ def make_event(summary, location, description="", dateTime, recurrence, attendee
     }
     service.events().insert(calendarId='primary', body=event)
 
-if __name__ == '__main__':
-    main()
+make_event("test", "test", "test", "2018-03-07T18:00:00-07:00",{}, ["kavid.vaidya@gmail.com"])
