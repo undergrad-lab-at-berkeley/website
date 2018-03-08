@@ -108,7 +108,7 @@ def make_event(summary, location, description, startDateTime, endDateTime, recur
     if "FREQ" in recurrence.keys():
         repeat += "FREQ=" +recurrence["FREQ"] + ';'
     if "COUNT" in recurrence.keys():
-        repeat += "COUNT=" + '='+ recurrence["COUNT"] + ';'
+        repeat += "COUNT=" + recurrence["COUNT"] + ';'
     if "INTERVAL" in recurrence.keys():
         repeat += "INTERVAL=" + recurrence["INTERVAL"] + ';'
     event = {
@@ -138,7 +138,9 @@ def make_event(summary, location, description, startDateTime, endDateTime, recur
         event.update({'recurrence':[
           repeat
         ]})
-    event = service.events().insert(calendarId='primary', body=event).execute()
+    obj = service.events().insert(calendarId='primary', body=event)
+    event = obj.execute()
+    obj.sendNotifications = True
     print('Event created: %s' % (event.get('htmlLink')))
 
 make_event("test", "test", "test", "2018-03-08T18:00:00-08:00", "2018-03-08T19:00:00-08:00", {"FREQ": "DAILY"}, ["kavid.vaidya@berkeley.edu"])
