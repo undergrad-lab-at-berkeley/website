@@ -123,7 +123,6 @@ def make_event(summary, location, description, startDateTime, endDateTime, recur
         'dateTime': endDateTime,
         'timeZone': 'America/Los_Angeles',
       },
-
       'attendees': invitations,
       'reminders': {
         'useDefault': False,
@@ -138,7 +137,9 @@ def make_event(summary, location, description, startDateTime, endDateTime, recur
         event.update({'recurrence':[
           repeat
         ]})
-    event = service.events().insert(calendarId='primary', body=event).execute()
+    event = service.events().insert(calendarId='primary', body=event)
+    event.sendNotifications = True
+    event = event.execute()
     print('Event created: %s' % (event.get('htmlLink')))
 
 make_event("test", "test", "test", "2018-03-08T18:00:00-08:00", "2018-03-08T19:00:00-08:00", {"FREQ": "DAILY"}, ["kavid.vaidya@berkeley.edu"])
