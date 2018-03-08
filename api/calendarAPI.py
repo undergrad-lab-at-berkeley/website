@@ -50,7 +50,7 @@ def get_credentials():
         print('Storing credentials to ' + credential_path)
     return credentials
 
-def make_event(summary, location, description, dateTime, recurrence, attendees):
+def make_event(summary, location, description, startDateTime, endDateTime, recurrence, attendees):
     """
     All the input is string, except attendees, which is a list of stings and
     recurrence, which is a dictionary of string(keys) and string(details).
@@ -106,26 +106,24 @@ def make_event(summary, location, description, dateTime, recurrence, attendees):
 
     repeat = "RRULE:"
     if "FREQ" in recurrence.keys():
-        repeat += "FREQ:" + recurrence["FREQ"]
+        repeat += "FREQ=" +recurrence["FREQ"] + ';'
     if "COUNT" in recurrence.keys():
-        repeat += "COUNT:" + recurrence["COUNT"]
+        repeat += "COUNT=" + '='+ recurrence["COUNT"] + ';'
     if "INTERVAL" in recurrence.keys():
-        repeat += "INTERVAL:" + recurrence["INTERVAL"]
+        repeat += "INTERVAL=" + recurrence["INTERVAL"] + ';'
     event = {
       'summary': summary,
       'location': location,
       'description': description,
       'start': {
-        'dateTime': dateTime,
+        'dateTime': startDateTime,
         'timeZone': 'America/Los_Angeles',
       },
       'end': {
-        'dateTime': '2018-03-07T18:00:00-20:00',
+        'dateTime': endDateTime,
         'timeZone': 'America/Los_Angeles',
       },
-      'recurrence': [
-        repeat
-      ],
+
       'attendees': invitations,
       'reminders': {
         'useDefault': False,
@@ -135,7 +133,12 @@ def make_event(summary, location, description, dateTime, recurrence, attendees):
         ],
       },
     }
+    if len(repeat) != 6:
+        print("kavi")
+        event.update({'recurrence':[
+          repeat
+        ]})
     event = service.events().insert(calendarId='primary', body=event).execute()
     print('Event created: %s' % (event.get('htmlLink')))
 
-make_event("test", "test", "test", "2018-03-07T18:00:00-19:00",{}, ["kavid.vaidya@gmail.com"])
+make_event("test", "test", "test", "2018-03-08T18:00:00-08:00", "2018-03-08T19:00:00-08:00", {"FREQ": "DAILY"}, ["kavid.vaidya@berkeley.edu"])
