@@ -984,7 +984,7 @@ labs = {
                             adapting to new challenges. If you’d like to learn analytical and operational tools to run organizations at
                             scale, this is the job for you.""",
 
-                        "commitment": u"""Expect to commit 5-10 hours/week. As an Operations Director of the ATG branch of ULAB, your
+                        u"commitment": u"""Expect to commit 5-10 hours/week. As an Operations Director of the ATG branch of ULAB, your
                             responsibilities for maintaining software that could be used by the other uLabs and outside clients include:
                             (1) Reporting, as an ATG Operations Director, directly to your executive director regarding anything related to ATG.
                             (2) Working with several ATG executives on maintaining the sub-organization’s culture.
