@@ -329,6 +329,19 @@ corporate = {
                 "link": "https://docs.google.com/forms/d/e/1FAIpQLSdqDBTozuwY5aT8bHKkfPQIjWEh5_6smyl809fDVvSPqd_S4Q/viewform",
                 "deadline": "Rolling",
             },
+
+            "Operations Manager for Advanced Technologies Group" : {
+                "description" : "The ATG Operations Officer drives the sub-organization forward. Managing a large group of individuals in a research setting requires constantly collecting feedback, managing a large program calendar, scheduling the use of complex equipment, certifying and training new members in technical and fundamental research skills, and documenting research results. With ULAB Advanced Technologies Group  having several active projects, the operations officer is charged with ensuring that ATG operations  are running smoothly, developing analytic tools to document and communicate research results at scale, and general operational management. This job is ideal for students wanting management experience and the unique opportunity to run a research and development group. While the branch has emphasis is on software development, the Operations Officer will be responsible for expanding the scope of existing programs to fit the needs of the client.",
+                "commitment" : """ Reporting, as an ATG Operations Officer, directly to your executive director regarding anything related to ATG.
+                    s
+                    1. Working with several ATG executives on maintaining the sub-organization’s culture.
+                    2. Hiring students with relevant skills and delegating tasks to them. As an ATG Operations Officer, you are not expected to write the code yourself.
+                    3. Coming to the meetings that are not necessarily at a fixed time (we need you to have a semi-flexible schedule).""",
+                "qualifications" : "While fundamental organizational experience and strong interpersonal skills are required to lead and hire a team, we are looking for candidates that have basic knowledge in coding (particularly in Python and HTML), rudimentary know-hows of Unix operations and familiarity with basic libraries like Numpy. ",
+                "perks" : "In addition to being in the ULab organization (with perks including socials and research experience), as a member of the ATG department, you will be given additional workshops, career-building activities and leadership experience. Since the ATG collaborates with many other departments and plans to expand and collaborate with other clubs, there will also be many networking opportunities.",
+                "link" : "https://goo.gl/forms/A1jiLVn1YZ7wvmMf2",
+                "deadline" : "rolling",
+            }
         },
 
     "Development": {
@@ -953,6 +966,28 @@ labs = {
                     "perks" : "In addition to being in the ULab organization (with perks including socials and research experience), as a member of the ATG department, you will be given additional workshops, career-building activities and leadership experience. Since the ATG collaborates with many other departments and plans to expand and collaborate with other clubs, there will also be many networking opportunities."
                     "link" : "https://goo.gl/forms/A1jiLVn1YZ7wvmMf2"
                     "deadline" : "rolling"
+                }
+            }
+        }
+    }
+
+    "ATG" : {
+        "short_name" : "ATG",
+        "full_name" : "Advanced Technologies Group",
+        "navbar" : "Advanced Technologies Group",
+        "job_categories" : {
+            "Lab Management" : {
+                "Operations Manager for Advanced Technologies Group" : {
+                    "description" : "The ATG Operations Officer drives the sub-organization forward. Managing a large group of individuals in a research setting requires constantly collecting feedback, managing a large program calendar, scheduling the use of complex equipment, certifying and training new members in technical and fundamental research skills, and documenting research results. With ULAB Advanced Technologies Group  having several active projects, the operations officer is charged with ensuring that ATG operations  are running smoothly, developing analytic tools to document and communicate research results at scale, and general operational management. This job is ideal for students wanting management experience and the unique opportunity to run a research and development group. While the branch has emphasis is on software development, the Operations Officer will be responsible for expanding the scope of existing programs to fit the needs of the client.",
+                    "commitment" : """ Reporting, as an ATG Operations Officer, directly to your executive director regarding anything related to ATG.
+                        s
+                        1. Working with several ATG executives on maintaining the sub-organization’s culture.
+                        2. Hiring students with relevant skills and delegating tasks to them. As an ATG Operations Officer, you are not expected to write the code yourself.
+                        3. Coming to the meetings that are not necessarily at a fixed time (we need you to have a semi-flexible schedule).""",
+                    "qualifications" : "While fundamental organizational experience and strong interpersonal skills are required to lead and hire a team, we are looking for candidates that have basic knowledge in coding (particularly in Python and HTML), rudimentary know-hows of Unix operations and familiarity with basic libraries like Numpy. ",
+                    "perks" : "In addition to being in the ULab organization (with perks including socials and research experience), as a member of the ATG department, you will be given additional workshops, career-building activities and leadership experience. Since the ATG collaborates with many other departments and plans to expand and collaborate with other clubs, there will also be many networking opportunities.",
+                    "link" : "https://goo.gl/forms/A1jiLVn1YZ7wvmMf2",
+                    "deadline" : "rolling",
                 }
             }
         }
