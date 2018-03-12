@@ -340,18 +340,6 @@ corporate = {
                 "link": "https://docs.google.com/forms/d/e/1FAIpQLSdqDBTozuwY5aT8bHKkfPQIjWEh5_6smyl809fDVvSPqd_S4Q/viewform",
                 "deadline": "Rolling",
             },
-
-            "Operations Manager for Advanced Technologies Group" : {
-                "description" : "The ATG Operations Officer drives the sub-organization forward. Managing a large group of individuals in a research setting requires constantly collecting feedback, managing a large program calendar, scheduling the use of complex equipment, certifying and training new members in technical and fundamental research skills, and documenting research results. With ULAB Advanced Technologies Group  having several active projects, the operations officer is charged with ensuring that ATG operations  are running smoothly, developing analytic tools to document and communicate research results at scale, and general operational management. This job is ideal for students wanting management experience and the unique opportunity to run a research and development group. While the branch has emphasis is on software development, the Operations Officer will be responsible for expanding the scope of existing programs to fit the needs of the client.",
-                "commitment" : """ Reporting, as an ATG Operations Officer, directly to your executive director regarding anything related to ATG.
-                    1. Working with several ATG executives on maintaining the sub-organization’s culture.
-                    2. Hiring students with relevant skills and delegating tasks to them. As an ATG Operations Officer, you are not expected to write the code yourself.
-                    3. Coming to the meetings that are not necessarily at a fixed time (we need you to have a semi-flexible schedule).""",
-                "qualifications" : "While fundamental organizational experience and strong interpersonal skills are required to lead and hire a team, we are looking for candidates that have basic knowledge in coding (particularly in Python and HTML), rudimentary know-hows of Unix operations and familiarity with basic libraries like Numpy. ",
-                "perks" : "In addition to being in the ULab organization (with perks including socials and research experience), as a member of the ATG department, you will be given additional workshops, career-building activities and leadership experience. Since the ATG collaborates with many other departments and plans to expand and collaborate with other clubs, there will also be many networking opportunities.",
-                "link" : "https://goo.gl/forms/A1jiLVn1YZ7wvmMf2",
-                "deadline" : "rolling",
-            }
         },
 
     "Development": {
@@ -984,7 +972,7 @@ labs = {
                             adapting to new challenges. If you’d like to learn analytical and operational tools to run organizations at
                             scale, this is the job for you.""",
 
-                        u"commitment": u"""Expect to commit 5-10 hours/week. As an Operations Director of the ATG branch of ULAB, your
+                        "commitment": u"""Expect to commit 5-10 hours/week. As an Operations Director of the ATG branch of ULAB, your
                             responsibilities for maintaining software that could be used by the other uLabs and outside clients include:
                             (1) Reporting, as an ATG Operations Director, directly to your executive director regarding anything related to ATG.
                             (2) Working with several ATG executives on maintaining the sub-organization’s culture.
@@ -1005,7 +993,7 @@ labs = {
 
                 "Software": {
                     "Software Development Engineer": {
-                        u"description": "The Advanced Technologies Group is a branch of ULAB \
+                        "description": "The Advanced Technologies Group is a branch of ULAB \
                         that was launched upon the realization that our labs \
                         spent way too much time on building the tools they need for their \
                         experiments. What if we separate the engineering from the science? \
@@ -1028,20 +1016,20 @@ labs = {
                         programming skills. Teams often build web tools, mobile applications, \
                         and work on projects directly related to work done in industry.",
 
-                        u"qualifications": "Qualifications: Proficiency in at least one programming language",
+                        "qualifications": "Qualifications: Proficiency in at least one programming language",
 
-                        u"commitment": "Time commitment includes 90 minutes a week of mandatory \
+                        "commitment": "Time commitment includes 90 minutes a week of mandatory \
                          meeting with the rest of the ATG group in addition to 6-9 hours a week \
                          developing with one's designated pod.",
 
-                        u"perks": "Membership perks include working with other developers with \
+                        "perks": "Membership perks include working with other developers with \
                         experience in all kinds of technologies, training with the smartest \
                         people on campus, attending private workshops, working on new technologies, \
                         visiting labs, having meeting with clients, & attending fun social events.",
 
-                        u"link": "https://goo.gl/forms/kiQXLwG1JOrZkWHR2",
+                        "link": "https://goo.gl/forms/kiQXLwG1JOrZkWHR2",
 
-                        u"deadline": "Applicants will be reviewed and admitted in weekly batches for this semester only. \
+                        "deadline": "Applicants will be reviewed and admitted in weekly batches for this semester only. \
                         ULAB ATG will get more exclusive from next semester onwards due to limited resources.",
                     },
                 },
@@ -1096,4 +1084,4 @@ student = {
 
 # Add ATG operations director to corporate jobs dict
 
-# corporate["Advanced Technologies Group"] = filter_dict(get_lab_jobs("atg"), {"Operations Director"})
+corporate["Advanced Technologies Group"] = filter_dict(get_lab_jobs("atg"), {"Operations Director"})
