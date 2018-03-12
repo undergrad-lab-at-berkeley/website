@@ -1009,16 +1009,16 @@ software_jobs = {
             ULAB ATG will get more exclusive from next semester onwards due to limited resources.",
         },
 
-        "Operations Officer": {
-            "description": u"""The ATG Operations Officer drives the sub-organization forward. Managing a large
+        "Operations Director": {
+            "description": u"""The ATG Operations Director drives the sub-organization forward. Managing a large
                 group of individuals in a research setting requires constantly collecting feedback, managing a
                 large program calendar, scheduling the use of complex equipment, certifying and training new members
                 in technical and fundamental research skills, and documenting research results. With ULAB Advanced
-                Technologies Group  having several active projects, the operations officer is charged with ensuring
+                Technologies Group  having several active projects, the operations director is charged with ensuring
                 that ATG operations  are running smoothly, developing analytic tools to document and communicate
                 research results at scale, and general operational management. This job is ideal for students wanting
                 management experience and the unique opportunity to run a research and development group. While the
-                branch has emphasis is on software development, the Operations Officer will be responsible for expanding
+                branch has emphasis is on software development, the Operations Director will be responsible for expanding
                 the scope of existing programs to fit the needs of the client.""",
 
             "qualifications": u"""Qualifications: While the fundamental operational responsibilities require organizational
@@ -1026,11 +1026,11 @@ software_jobs = {
                 adapting to new challenges. If you’d like to learn analytical and operational tools to run organizations at
                 scale, this is the job for you.""",
 
-            "commitment": u"""Expect to commit 5-10 hours/week. As an Operations Officer of the ATG branch of ULAB, your
+            "commitment": u"""Expect to commit 5-10 hours/week. As an Operations Director of the ATG branch of ULAB, your
                 responsibilities for maintaining software that could be used by the other uLabs and outside clients include:
-                (1) Reporting, as an ATG Operations Officer, directly to your executive director regarding anything related to ATG.
+                (1) Reporting, as an ATG Operations Director, directly to your executive director regarding anything related to ATG.
                 (2) Working with several ATG executives on maintaining the sub-organization’s culture.
-                (3) Hiring students with relevant skills and delegating tasks to them. As an ATG Operations Officer, you are not
+                (3) Hiring students with relevant skills and delegating tasks to them. As an ATG Operations Director, you are not
                 expected to write the code yourself.
                 (4) Coming to the meetings that are not necessarily at a fixed time (we need you to have a semi-flexible schedule).""",
 

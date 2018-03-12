@@ -70,7 +70,7 @@ def getStudent(category="Statistical Modeling and Deep Learning"):
 @app.route("/software-jobs")
 @app.route("/software-jobs/<category>")
 def getSoftware(category="ATG"):
-    return render_template("software-jobs.html", software_jobs=content.software_jobs, jobCategory=category)
+    return render_template("software-jobs.html", software_jobs=content.software_jobs, jobCategory=category, jobsOrder=content.software_jobs_order)
 
 
 @app.route("/corporate-jobs")
