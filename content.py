@@ -1005,7 +1005,7 @@ labs = {
 
                 "Software": {
                     "Software Development Engineer": {
-                        "description": "The Advanced Technologies Group is a branch of ULAB \
+                        u"description": "The Advanced Technologies Group is a branch of ULAB \
                         that was launched upon the realization that our labs \
                         spent way too much time on building the tools they need for their \
                         experiments. What if we separate the engineering from the science? \
@@ -1028,20 +1028,20 @@ labs = {
                         programming skills. Teams often build web tools, mobile applications, \
                         and work on projects directly related to work done in industry.",
 
-                        "qualifications": "Qualifications: Proficiency in at least one programming language",
+                        u"qualifications": "Qualifications: Proficiency in at least one programming language",
 
-                        "commitment": "Time commitment includes 90 minutes a week of mandatory \
+                        u"commitment": "Time commitment includes 90 minutes a week of mandatory \
                          meeting with the rest of the ATG group in addition to 6-9 hours a week \
                          developing with one's designated pod.",
 
-                        "perks": "Membership perks include working with other developers with \
+                        u"perks": "Membership perks include working with other developers with \
                         experience in all kinds of technologies, training with the smartest \
                         people on campus, attending private workshops, working on new technologies, \
                         visiting labs, having meeting with clients, & attending fun social events.",
 
-                        "link": "https://goo.gl/forms/kiQXLwG1JOrZkWHR2",
+                        u"link": "https://goo.gl/forms/kiQXLwG1JOrZkWHR2",
 
-                        "deadline": "Applicants will be reviewed and admitted in weekly batches for this semester only. \
+                        u"deadline": "Applicants will be reviewed and admitted in weekly batches for this semester only. \
                         ULAB ATG will get more exclusive from next semester onwards due to limited resources.",
                     },
                 },
@@ -1096,4 +1096,4 @@ student = {
 
 # Add ATG operations director to corporate jobs dict
 
-corporate["Advanced Technologies Group"] = filter_dict(get_lab_jobs("atg"), {"Operations Director"})
+# corporate["Advanced Technologies Group"] = filter_dict(get_lab_jobs("atg"), {"Operations Director"})
