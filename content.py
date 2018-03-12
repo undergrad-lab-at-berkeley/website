@@ -154,6 +154,17 @@ research = {
 
                     """,
     },
+    "ATG-ulab": {
+        "date": "12 March, 2018",
+        "app-url": "/lab-jobs/atg",
+        "navbar": "Community Analysis",
+        "img": "img/project/human-circuit.jpg",
+        "title": "Advanced Technologies Group",
+        # "team": ["Sam Good", "Makena Fetzer"],
+        # "has_mentor": False,
+        # "mentor": "Amit Akula",
+        "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/atg> here </a> ",
+    },
 }
 foundersOrder = ["Joshua Hug", "Amit Akula", "MRINALINI SUGOSH", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 founders = {
@@ -333,7 +344,6 @@ corporate = {
             "Operations Manager for Advanced Technologies Group" : {
                 "description" : "The ATG Operations Officer drives the sub-organization forward. Managing a large group of individuals in a research setting requires constantly collecting feedback, managing a large program calendar, scheduling the use of complex equipment, certifying and training new members in technical and fundamental research skills, and documenting research results. With ULAB Advanced Technologies Group  having several active projects, the operations officer is charged with ensuring that ATG operations  are running smoothly, developing analytic tools to document and communicate research results at scale, and general operational management. This job is ideal for students wanting management experience and the unique opportunity to run a research and development group. While the branch has emphasis is on software development, the Operations Officer will be responsible for expanding the scope of existing programs to fit the needs of the client.",
                 "commitment" : """ Reporting, as an ATG Operations Officer, directly to your executive director regarding anything related to ATG.
-                    s
                     1. Working with several ATG executives on maintaining the sub-organization’s culture.
                     2. Hiring students with relevant skills and delegating tasks to them. As an ATG Operations Officer, you are not expected to write the code yourself.
                     3. Coming to the meetings that are not necessarily at a fixed time (we need you to have a semi-flexible schedule).""",
@@ -896,7 +906,7 @@ labs = {
         },
 
     "ml": {
-            "short_name":"ml",
+            "short_name": "ml",
             "full_name": "Statistical Modeling and Deep Learning",
             "navbar": "Statistical Modeling and Deep Learning",
             "job_categories": {
@@ -950,49 +960,93 @@ labs = {
             },
         },
 
-        "ATG" : {
-        "short_name" : "ATG",
-        "full_name" : "Advanced Technologies Group",
-        "navbar" : "Advanced Technologies Group",
-        "job_categories" : {
-            "Lab Management" : {
-                "Operations Manager" : {
-                    "description" : "The ATG Operations Officer drives the sub-organization forward. Managing a large group of individuals in a research setting requires constantly collecting feedback, managing a large program calendar, scheduling the use of complex equipment, certifying and training new members in technical and fundamental research skills, and documenting research results. With ULAB Advanced Technologies Group  having several active projects, the operations officer is charged with ensuring that ATG operations  are running smoothly, developing analytic tools to document and communicate research results at scale, and general operational management. This job is ideal for students wanting management experience and the unique opportunity to run a research and development group. While the branch has emphasis is on software development, the Operations Officer will be responsible for expanding the scope of existing programs to fit the needs of the client.",
-                    "commitment" : u""" Reporting, as an ATG Operations Officer, directly to your executive director regarding anything related to ATG.
-                        sWorking with several ATG executives on maintaining the sub-organization’s culture.
-                        Hiring students with relevant skills and delegating tasks to them. As an ATG Operations Officer,, you are not expected to write the code yourself.
-                        coming to the meetings that are not necessarily at a fixed time (we need you to have a semi-flexible schedule)."""
-                    "qualifications" : "While fundamental organizational experience and strong interpersonal skills are required to lead and hire a team, we are looking for candidates that have basic knowledge in coding (particularly in Python and HTML), rudimentary know-hows of Unix operations and familiarity with basic libraries like Numpy. "
-                    "perks" : "In addition to being in the ULab organization (with perks including socials and research experience), as a member of the ATG department, you will be given additional workshops, career-building activities and leadership experience. Since the ATG collaborates with many other departments and plans to expand and collaborate with other clubs, there will also be many networking opportunities."
-                    "link" : "https://goo.gl/forms/A1jiLVn1YZ7wvmMf2"
-                    "deadline" : "rolling"
-                }
-            }
-        }
-    }
+    "atg" : {
+	        "short_name" : "ATG",
+	        "full_name" : "Advanced Technologies Group",
+	        "navbar" : "Advanced Technologies Group",
+	        "job_categories" : {
 
-    "ATG" : {
-        "short_name" : "ATG",
-        "full_name" : "Advanced Technologies Group",
-        "navbar" : "Advanced Technologies Group",
-        "job_categories" : {
-            "Lab Management" : {
-                "Operations Manager for Advanced Technologies Group" : {
-                    "description" : "The ATG Operations Officer drives the sub-organization forward. Managing a large group of individuals in a research setting requires constantly collecting feedback, managing a large program calendar, scheduling the use of complex equipment, certifying and training new members in technical and fundamental research skills, and documenting research results. With ULAB Advanced Technologies Group  having several active projects, the operations officer is charged with ensuring that ATG operations  are running smoothly, developing analytic tools to document and communicate research results at scale, and general operational management. This job is ideal for students wanting management experience and the unique opportunity to run a research and development group. While the branch has emphasis is on software development, the Operations Officer will be responsible for expanding the scope of existing programs to fit the needs of the client.",
-                    "commitment" : """ Reporting, as an ATG Operations Officer, directly to your executive director regarding anything related to ATG.
-                        s
-                        1. Working with several ATG executives on maintaining the sub-organization’s culture.
-                        2. Hiring students with relevant skills and delegating tasks to them. As an ATG Operations Officer, you are not expected to write the code yourself.
-                        3. Coming to the meetings that are not necessarily at a fixed time (we need you to have a semi-flexible schedule).""",
-                    "qualifications" : "While fundamental organizational experience and strong interpersonal skills are required to lead and hire a team, we are looking for candidates that have basic knowledge in coding (particularly in Python and HTML), rudimentary know-hows of Unix operations and familiarity with basic libraries like Numpy. ",
-                    "perks" : "In addition to being in the ULab organization (with perks including socials and research experience), as a member of the ATG department, you will be given additional workshops, career-building activities and leadership experience. Since the ATG collaborates with many other departments and plans to expand and collaborate with other clubs, there will also be many networking opportunities.",
-                    "link" : "https://goo.gl/forms/A1jiLVn1YZ7wvmMf2",
-                    "deadline" : "rolling",
-                }
-            }
-        }
-    }
+	            "Operations" : {
+	                "Operations Director": {
+                        "description": u"""The ATG Operations Director drives the sub-organization forward. Managing a large
+                            group of individuals in a research setting requires constantly collecting feedback, managing a
+                            large program calendar, scheduling the use of complex equipment, certifying and training new members
+                            in technical and fundamental research skills, and documenting research results. With ULAB Advanced
+                            Technologies Group  having several active projects, the operations director is charged with ensuring
+                            that ATG operations  are running smoothly, developing analytic tools to document and communicate
+                            research results at scale, and general operational management. This job is ideal for students wanting
+                            management experience and the unique opportunity to run a research and development group. While the
+                            branch has emphasis is on software development, the Operations Director will be responsible for expanding
+                            the scope of existing programs to fit the needs of the client.""",
 
+                        "qualifications": u"""Qualifications: While the fundamental operational responsibilities require organizational
+                            experience and strong interpersonal skills, we are looking for a candidate that above all else is constantly
+                            adapting to new challenges. If you’d like to learn analytical and operational tools to run organizations at
+                            scale, this is the job for you.""",
+
+                        "commitment": u"""Expect to commit 5-10 hours/week. As an Operations Director of the ATG branch of ULAB, your
+                            responsibilities for maintaining software that could be used by the other uLabs and outside clients include:
+                            (1) Reporting, as an ATG Operations Director, directly to your executive director regarding anything related to ATG.
+                            (2) Working with several ATG executives on maintaining the sub-organization’s culture.
+                            (3) Hiring students with relevant skills and delegating tasks to them. As an ATG Operations Director, you are not
+                            expected to write the code yourself.
+                            (4) Coming to the meetings that are not necessarily at a fixed time (we need you to have a semi-flexible schedule).""",
+
+                        "perks": u"""In addition to being in the ULab organization (with perks including socials and research
+                            experience), as a member of the ATG department, you will be given additional workshops, career-building
+                            activities and leadership experience. Since the ATG collaborates with many other departments and plans to
+                            expand and collaborate with other clubs, there will also be many networking opportunities.""",
+
+                        "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeqQkt7fcXQ1yl0sv5_R76lejiMtSPbaNroRsQcF9TUOi56UQ/viewform",
+
+                        "deadline": u"Rolling"
+                    },
+	            },
+
+                "Software": {
+                    "Software Development Engineer": {
+                        "description": "The Advanced Technologies Group is a branch of ULAB \
+                        that was launched upon the realization that our labs \
+                        spent way too much time on building the tools they need for their \
+                        experiments. What if we separate the engineering from the science? \
+                        ATG is dedicated to doing just that. They design custom computational \
+                        capabilities to tackle complex research problems for labs on the UC Berkeley campus. \
+                        The group supports various research groups on campus as well as ULAB's \
+                        student-run research laboratories. Students will have the unique \
+                        opportunity to solve computational problems in other fields such as \
+                        astrophysics or cognitive neuroscience. Developers work on small teams \
+                        on custom software capabilities. Projects typically last a few weeks so \
+                        developers usually get the opportunity to work on multiple projects \
+                        throughout the uLab and other organizations on campus. \
+                        Past projects include automating access to uLab \
+                        infrastructure using the Google Drive API and writing an analytical \
+                        engine to process logistical requests. Future projects include \
+                        visualization of exoplanets, simulating control systems for a glove \
+                        to work on a Martian spacesuit, entrepreneurial projects and more. \
+                        \n This group is designed for students who are interested in becoming \
+                        software engineers or who are interested in learning practical \
+                        programming skills. Teams often build web tools, mobile applications, \
+                        and work on projects directly related to work done in industry.",
+
+                        "qualifications": "Qualifications: Proficiency in at least one programming language",
+
+                        "commitment": "Time commitment includes 90 minutes a week of mandatory \
+                         meeting with the rest of the ATG group in addition to 6-9 hours a week \
+                         developing with one's designated pod.",
+
+                        "perks": "Membership perks include working with other developers with \
+                        experience in all kinds of technologies, training with the smartest \
+                        people on campus, attending private workshops, working on new technologies, \
+                        visiting labs, having meeting with clients, & attending fun social events.",
+
+                        "link": "https://goo.gl/forms/kiQXLwG1JOrZkWHR2",
+
+                        "deadline": "Applicants will be reviewed and admitted in weekly batches for this semester only. \
+                        ULAB ATG will get more exclusive from next semester onwards due to limited resources.",
+                    },
+                },
+	        },
+    	},
 }
 
 software_jobs_order = ["Advanced Technologies Group", "Software Operations", "Visualization", "Statistical Modeling and Deep Learning",
@@ -1002,83 +1056,8 @@ software_jobs_order.sort()
 
 software_jobs = {
 
-    "Advanced Technologies Group": {
-        "Software Development Engineer": {
-            "description": "The Advanced Technologies Group is a branch of ULAB \
-            that was launched upon the realization that our labs \
-            spent way too much time on building the tools they need for their \
-            experiments. What if we separate the engineering from the science? \
-            ATG is dedicated to doing just that. They design custom computational \
-            capabilities to tackle complex research problems for labs on the UC Berkeley campus. \
-            The group supports various research groups on campus as well as ULAB's \
-            student-run research laboratories. Students will have the unique \
-            opportunity to solve computational problems in other fields such as \
-            astrophysics or cognitive neuroscience. Developers work on small teams \
-            on custom software capabilities. Projects typically last a few weeks so \
-            developers usually get the opportunity to work on multiple projects \
-            throughout the uLab and other organizations on campus. \
-            Past projects include automating access to uLab \
-            infrastructure using the Google Drive API and writing an analytical \
-            engine to process logistical requests. Future projects include \
-            visualization of exoplanets, simulating control systems for a glove \
-            to work on a Martian spacesuit, entrepreneurial projects and more. \
-            \n This group is designed for students who are interested in becoming \
-            software engineers or who are interested in learning practical \
-            programming skills. Teams often build web tools, mobile applications, \
-            and work on projects directly related to work done in industry.",
-
-            "qualifications": "Qualifications: Proficiency in at least one programming language",
-
-            "commitment": "Time commitment includes 90 minutes a week of mandatory \
-             meeting with the rest of the ATG group in addition to 6-9 hours a week \
-             developing with one's designated pod.",
-
-            "perks": "Membership perks include working with other developers with \
-            experience in all kinds of technologies, training with the smartest \
-            people on campus, attending private workshops, working on new technologies, \
-            visiting labs, having meeting with clients, & attending fun social events.",
-
-            "link": "https://goo.gl/forms/kiQXLwG1JOrZkWHR2",
-
-            "deadline": "Applicants will be reviewed and admitted in weekly batches for this semester only. \
-            ULAB ATG will get more exclusive from next semester onwards due to limited resources.",
-        },
-
-        "Operations Director": {
-            "description": u"""The ATG Operations Director drives the sub-organization forward. Managing a large
-                group of individuals in a research setting requires constantly collecting feedback, managing a
-                large program calendar, scheduling the use of complex equipment, certifying and training new members
-                in technical and fundamental research skills, and documenting research results. With ULAB Advanced
-                Technologies Group  having several active projects, the operations director is charged with ensuring
-                that ATG operations  are running smoothly, developing analytic tools to document and communicate
-                research results at scale, and general operational management. This job is ideal for students wanting
-                management experience and the unique opportunity to run a research and development group. While the
-                branch has emphasis is on software development, the Operations Director will be responsible for expanding
-                the scope of existing programs to fit the needs of the client.""",
-
-            "qualifications": u"""Qualifications: While the fundamental operational responsibilities require organizational
-                experience and strong interpersonal skills, we are looking for a candidate that above all else is constantly
-                adapting to new challenges. If you’d like to learn analytical and operational tools to run organizations at
-                scale, this is the job for you.""",
-
-            "commitment": u"""Expect to commit 5-10 hours/week. As an Operations Director of the ATG branch of ULAB, your
-                responsibilities for maintaining software that could be used by the other uLabs and outside clients include:
-                (1) Reporting, as an ATG Operations Director, directly to your executive director regarding anything related to ATG.
-                (2) Working with several ATG executives on maintaining the sub-organization’s culture.
-                (3) Hiring students with relevant skills and delegating tasks to them. As an ATG Operations Director, you are not
-                expected to write the code yourself.
-                (4) Coming to the meetings that are not necessarily at a fixed time (we need you to have a semi-flexible schedule).""",
-
-            "perks": u"""In addition to being in the ULab organization (with perks including socials and research
-                experience), as a member of the ATG department, you will be given additional workshops, career-building
-                activities and leadership experience. Since the ATG collaborates with many other departments and plans to
-                expand and collaborate with other clubs, there will also be many networking opportunities.""",
-
-            "link": u"https://docs.google.com/forms/d/e/1FAIpQLSeqQkt7fcXQ1yl0sv5_R76lejiMtSPbaNroRsQcF9TUOi56UQ/viewform",
-
-            "deadline": u"Rolling"
-        },
-    },
+    "Advanced Technologies Group":
+        filter_dict(get_lab_jobs("atg"), {"Software Development Engineer"}),
 
     "Software Operations":
         filter_dict(corporate["Development"], {"Computational Scientist"}),
@@ -1117,4 +1096,4 @@ student = {
 
 # Add ATG operations director to corporate jobs dict
 
-corporate["Advanced Technologies Group"] = filter_dict(software_jobs["Advanced Technologies Group"], {"Operations Officer"})
+corporate["Advanced Technologies Group"] = filter_dict(get_lab_jobs("atg"), {"Operations Director"})
