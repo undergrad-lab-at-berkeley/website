@@ -154,6 +154,23 @@ def service_handler():
         handler.handle(data)
     return render_template('404.html'), 204
 
+# ULAB Organization Chart
+@app.route("/org-chart")
+def org_chart():
+    return render_template("TreeDiagram.html")
+
+# Timeline Tool - NOT READY FOR DEPLOYMENT YET
+# @app.route("/upcoming-events")
+# def timelinePage():
+#      return render_template("timelineUI.html")
+#
+# @app.route("/events", methods=['POST'])
+# def events():
+#      SID = request.form['inputSID']
+#      tl = get_events(get_groups(SID))
+#      event_titles = ["Event " + str(i+1) for i in range(len(tl))]
+#      return render_template("events.html", timeline=tl, events=event_titles)
+
 ##################### Error Handling #####################
 @app.errorhandler(404)
 def page_not_found(e):
