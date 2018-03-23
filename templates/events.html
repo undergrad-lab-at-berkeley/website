@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="icon" href="static/img/logo.png">
+
+    <title>Your Upcoming Events</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="static/css/signin.css" rel="stylesheet">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    .footer {
+       position: fixed;
+       left: 0;
+       bottom: 0;
+       width: 100%;
+       background-color: #272727;
+       color: #ffffff;
+       text-align: center;
+    }
+    </style>
+  </head>
+
+  {% block body %}
+  <section class="align-middle" style="font-size:em; margin:0 2em">
+    <img class="align-middle" src="static/img/logo.png" alt="Ulab Icon" width="175" height="72">
+    <h1 style="text-align: center">Your Upcoming Events</h1>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 text-center">
+          {% for event in events %}
+          <li>
+            <div>
+              <h2 class="font-weight-normal text-white" style="font-size:40px"> {{ event }} </h2>
+              <div class="list-group">
+                <div style="padding: 1em 1em; text-align: left">
+                  <p style="font-size:24px; color:white; text-align:center">{{ timeline[event]['summary'] }}</p>
+                  <p style="font-size:16px; color:white">{{ timeline[event]['date_time'] }}</p>
+                  <p style="font-size:16px; color:white">{{ timeline[event]['location'] }}</p>
+                  <p style="font-size:16px; color:white">{{ timeline[event]['description'] }}</p>
+                  <p style="font-size:16px; color:white">{{ timeline[event]['link'] }}</p>
+                </div>
+              </div>
+            </div>
+          </li>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </section>
+  {% endblock %}
+  <div class="footer">
+    <p>&copy; 2018-2019</p>
+  </div>
+</html>

@@ -2,6 +2,7 @@ import os
 from flask import Flask, render_template, url_for, redirect, request
 import content
 from api import handler
+from timeline_tool_new import get_groups, get_events
 
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
@@ -159,17 +160,18 @@ def service_handler():
 def org_chart():
     return render_template("TreeDiagram.html")
 
-# Timeline Tool - NOT READY FOR DEPLOYMENT YET
-# @app.route("/upcoming-events")
-# def timelinePage():
-#      return render_template("timelineUI.html")
-#
-# @app.route("/events", methods=['POST'])
-# def events():
-#      SID = request.form['inputSID']
-#      tl = get_events(get_groups(SID))
-#      event_titles = ["Event " + str(i+1) for i in range(len(tl))]
-#      return render_template("events.html", timeline=tl, events=event_titles)
+#Timeline Tool - NOT READY FOR DEPLOYMENT YET
+@app.route("/upcoming-events")
+def timelinePage():
+     return render_template("timelineUI.html")
+
+@app.route("/events", methods=['POST'])
+def events():
+     SID = request.form['inputSID']
+     groups = get_groups(SID)
+     tl = get_events(groups)
+     event_titles = ["Event " + str(i+1) for i in range(len(tl))]
+     return render_template("events.html", timeline=tl, events=event_titles)
 
 ##################### Error Handling #####################
 @app.errorhandler(404)
