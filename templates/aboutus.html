@@ -16,7 +16,7 @@
                 <h3 class="uppercase mb0">About Us</h3>
             </div>
         </div>
-        
+
     </div>
 </section>
 
@@ -68,7 +68,7 @@
                                                                 {% if (founders[person]['linkedin'] == '') and (founders[person]['github'] == '') and (founders[person]['personal'] == '') %}
                                                                 <div class="mb16"></div>
                                                                 {% endif %}
-                                                            </div> 
+                                                            </div>
                                                         </div>
                                                         <p class="mb0">
                                                             {{ founders[person]['bio'] }}
@@ -80,7 +80,7 @@
                                             </div>
                                             {% endif %}
 
-                                        {% endfor %}     
+                                        {% endfor %}
                                     </div>
                                 </div>
                             </li>
@@ -112,7 +112,7 @@
                                             </div>
                                             {% endif %}
 
-                                        {% endfor %}     
+                                        {% endfor %}
                                     </div>
                                 </div>
                             </li>
@@ -145,7 +145,7 @@
                                                                 {% if (team[person]['linkedin'] == '') and (team[person]['github'] == '') and (team[person]['personal'] == '') %}
                                                                 <div class="mb16"></div>
                                                                 {% endif %}
-                                                            </div> 
+                                                            </div>
                                                         </div>
                                                         <p class="mb0">
                                                             {{ team[person]['bio'] }}
@@ -157,7 +157,7 @@
                                             </div>
                                             {% endif %}
 
-                                        {% endfor %} 
+                                        {% endfor %}
                                     </p>
                                 </div>
                             </li>
@@ -184,6 +184,20 @@
 
                                 </div>
                             </li>
+                            <li>
+                                <div class="tab-title">
+                                    <span>Organizational Details</span>
+                                </div>
+                                <div class="tab-content col-md-10 col-md-offset-1" style="text-align: left">
+                                    <h4>Online Calendar</h4>
+                                      <p>The ULAB calendar can be viewed <a href="https://calendar.google.com/calendar/embed?src=berkeley.edu_u7ffo9gvmuo9ijovg6vcjf07v4%40group.calendar.google.com&ctz=America%2FLos_Angeles">here</a>.</p>
+                                      <p>If you use Google Calendar you can also easily add it to your own personal calendar by clicking on the “+Google Calendar” button in the bottom right-hand corner.</p>
+                                      <img alt="Pic" src="{{ url_for('static', filename='img/google-calendar.png') }}" style="height: 200pt; padding: 5px; margin-top: 10px;  margin-bottom: 30px">
+
+                                    <h4>Organizational Chart</h4>
+                                      <p>The ULAB organizational chart can be viewed <a href="/org-chart">here</a>.</p>
+                                </div>
+                            </li>
                         </ul>
                     </div>
                     <!--end of button tabs-->
@@ -193,6 +207,6 @@
         </div>
         <!--end of container-->
     </section>
-    
-</section>	
+
+</section>
 {% endblock %}
