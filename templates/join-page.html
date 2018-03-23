@@ -10,7 +10,7 @@
           <div class="tabbed-content button-tabs">
             <ul class="tabs">
               {% for category in joinOrder %}
-              <li>
+              <li {% if category == joinOrder[0] %} class="active" {% endif %} >
                   <div class="tab-title">
                       <span>{{ category }}</span>
                   </div>
