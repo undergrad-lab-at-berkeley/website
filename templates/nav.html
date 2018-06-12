@@ -1,4 +1,15 @@
 {% block navbar %}
+<!-- <div class="nav">
+    <nav class="absolute">
+
+    </nav>
+</div> -->
+<style>
+    .indented {
+      padding-left: 40pt;
+      padding-right: 0pt;
+    }
+</style>
 <div class="nav-container">
     <nav class="absolute">
         <div class="nav-bar">
@@ -7,6 +18,7 @@
                     <img class="logo logo-light" alt="Foundry" src="{{ url_for('static', filename='img/logo.png') }}">
                     <img class="logo logo-dark" alt="Foundry" src="{{ url_for('static', filename='img/logo.png') }}">
                 </a>
+                <b class="indented">This website is currently under construction. We apologize for any inconveniences.</b>
             </div>
             <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
                 <i class="ti-menu"></i>
