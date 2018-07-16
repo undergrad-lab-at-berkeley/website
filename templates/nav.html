@@ -9,16 +9,19 @@
       padding-left: 40pt;
       padding-right: 0pt;
     }
+    .menu > li ul{
+      width: 350px;
+    }
 </style>
 <div class="nav-container">
     <nav class="absolute">
         <div class="nav-bar">
-            <div class="module left">
+            <div class="module left" style="padding-right:3px">
                 <a href="/">
-                    <img class="logo logo-light" alt="Foundry" src="{{ url_for('static', filename='img/logo.png') }}">
-                    <img class="logo logo-dark" alt="Foundry" src="{{ url_for('static', filename='img/logo.png') }}">
+                    <img class="logo logo-light" alt="Foundry" src="{{ url_for('static', filename='img/logos/logo_general.png') }}">
+                    <img class="logo logo-dark" alt="Foundry" src="{{ url_for('static', filename='img/logos/logo_general.png') }}">
+                    Undergraduate Lab @ Berkeley
                 </a>
-                <b class="indented">This website is currently under construction. We apologize for any inconveniences.</b>
             </div>
             <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
                 <i class="ti-menu"></i>

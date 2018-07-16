@@ -462,6 +462,7 @@ join_info = {
 labs = {
     "physics": {
             "img": u"img/labs/phsyicslabcover.jpg",
+            "logo" : u"static/img/logos/logo_physics.png",
             "short_name": u"physics",
             "full_name": u"Physics and Astrophysics",
             "navbar": u"Physics",
@@ -497,6 +498,7 @@ labs = {
         },
     "cogsci": {
             "img": u"img/labs/phsyicslabcover.jpg",
+            "logo" : u"static/img/logos/logo_cog_sci.png",
             "short_name": u"cogsci",
             "full_name": u"Cognitive Neuroscience and Medical Imaging",
             "navbar": u"Cog_Sci",
@@ -539,8 +541,9 @@ labs = {
                 },
             },
         },
-     "medicine": {
+    "medicine": {
             "img": u"img/labs/phsyicslabcover.jpg",
+            "logo" : u"static/img/logos/logo_physics.png",
             "short_name": u"medicine",
             "full_name": u"Medicinal Chemistry and Clinical Research",
             "navbar": u"Medicinal Chemistry and Clinical Research",
@@ -653,6 +656,7 @@ labs = {
         },
 
     "genetics": {
+            "logo" : u"static/img/logos/logo_bio.png",
             "short_name": u"genetics",
             "full_name": u"Genetic Engineering and Molecular Biology",
             "navbar": u"Genetic Engineering and Molecular Biology",
@@ -752,6 +756,7 @@ labs = {
         },
 
     "aerospace": {
+            "logo" : u"static/img/logos/logo_robotics_aero.png",
             "short_name":"aerospace",
             "full_name": "Robotics and Aerospace Engineering",
             "navbar": "Robotics and Aerospace Engineering",
@@ -894,6 +899,7 @@ labs = {
         },
 
     "ml": {
+            "logo" : u"static/img/logos/logo_stat_ml.png",
             "short_name": "ml",
             "full_name": "Statistical Modeling and Deep Learning",
             "navbar": "Statistical Modeling and Deep Learning",
@@ -949,6 +955,7 @@ labs = {
         },
 
     "atg" : {
+            "logo" : u"static/img/logos/logo_atg.png",
 	        "short_name" : "ATG",
 	        "full_name" : "Advanced Technologies Group",
 	        "navbar" : "Advanced Technologies Group",
