@@ -39,6 +39,10 @@ def utility_processor1():
 def index():
     return render_template("index.html", labs=content.labs.items())
 
+@app.route("/test")
+def test():
+    return render_template("lab.html", lab=content.labs['physics'])
+
 @app.route("/aboutus")
 def aboutus():
     global founders
