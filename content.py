@@ -56,7 +56,7 @@ research = {
         "title": "Cognitive Neuroscience and Medical Imaging uLab",
         "team": ["Vera Wang", "Yiming Ding", "Muying Chen", "Bansi Parekh"],
         "has_mentor": False,
-        "mentor": "Amit Akula",
+        "mentor": "TBD",
         "content": """
                     <h4>Research Questions</h4>
                     <ul class='bullets'>
@@ -94,7 +94,7 @@ research = {
         "title": "Statistical Modeling and Deep Learning",
         "team": ["Sam Good", "Makena Fetzer"],
         "has_mentor": False,
-        "mentor": "Amit Akula",
+        "mentor": "TBD",
         "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/ml> here </a> ",
 
     },
@@ -166,7 +166,7 @@ research = {
         "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/atg> here </a> ",
     },
 }
-foundersOrder = ["Joshua Hug", "Amit Akula", "MRINALINI SUGOSH", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
+foundersOrder = ["Joshua Hug", "MRINALINI SUGOSH", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 founders = {
     # "placeholder": {
     #     "title": "placeholder",
@@ -181,14 +181,14 @@ founders = {
         "linkedin": "",
         "bio": """Alex is currently pursuing a Ph.D. at Stanford University. Alex is extremely passionate about undergraduate research; he worked in Paul Alivisatos's Lab on liquid electron microscopy, the Cohen lab on imaging protein movement, and was also an intern at LBNL. He will continue to advise and work with ULAB.""",
     },
-    "Amit Akula": {
-        "title": "Cofounder",
-        "img": "img/team/amit_akula.jpg",
-        "personal": "",
-        "github": "",
-        "linkedin": "",
-        "bio": """Amit does research at UCSF on algorithms for MRI processing and previously worked in the Goldberg lab on surgical robotics. He has served as an RA, community leadership assistant, and TA. In these pursuits, he has strived to develop new, more effective teaching methods and workshops. His close connections with the Residence Hall programs enabled the partnership between the programs.""",
-    },
+    # "Amit Akula": {
+    #     "title": "Cofounder",
+    #     "img": "img/team/amit_akula.jpg",
+    #     "personal": "",
+    #     "github": "",
+    #     "linkedin": "",
+    #     "bio": """Amit does research at UCSF on algorithms for MRI processing and previously worked in the Goldberg lab on surgical robotics. He has served as an RA, community leadership assistant, and TA. In these pursuits, he has strived to develop new, more effective teaching methods and workshops. His close connections with the Residence Hall programs enabled the partnership between the programs.""",
+    # },
     "MRINALINI SUGOSH": {
         "title": "Chief Operations Officer",
         "img": "img/team/mrinalini_sugosh.jpg",
@@ -278,13 +278,13 @@ team = {
         "linkedin": "",
         "bio": """I'm a Minnesotan-turned-Californian girl with many, many interests and I am incredibly indecisive. I am happiest when I am outdoors whether it is walking, swimming, hiking, biking, or just lounging around. I adore nature, animals, and sunshine! My family and friends are super important to me, but I'm also always down to meet new people and try new things."""
     },
-    "Amit Akula": {
-        "img": "img/team/amit_akula.jpg",
-        "personal": "",
-        "github": "",
-        "linkedin": "",
-        "bio": """I started Berkeley pre-law, pre-med, and engineering because I actually had no idea what I wanted to do. That made Berkeley so much more fun! I worked at the Rent Board. Taught 61B three times. Hiked to abandoned factories across the Golden Gate Bridge. Finally, I found that I was passionate about helping people solve complex problems. Also I'm a better cook than Dylan.""",
-    },
+    # "Amit Akula": {
+    #     "img": "img/team/amit_akula.jpg",
+    #     "personal": "",
+    #     "github": "",
+    #     "linkedin": "",
+    #     "bio": """I started Berkeley pre-law, pre-med, and engineering because I actually had no idea what I wanted to do. That made Berkeley so much more fun! I worked at the Rent Board. Taught 61B three times. Hiked to abandoned factories across the Golden Gate Bridge. Finally, I found that I was passionate about helping people solve complex problems. Also I'm a better cook than Dylan.""",
+    # },
     "Phat Pham": {
         "img": "img/team/phat_pham.jpg",
         "personal": "",

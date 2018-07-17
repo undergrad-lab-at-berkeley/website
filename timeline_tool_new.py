@@ -103,12 +103,12 @@ def get_events(my_groups):
         print()
     return timeline
 
-        # start = event['start'].get('dateTime', event['start'].get('date'))
-        # end = event['end'].get('dateTime', event['end'].get('date)'))
-        # print(event["summary"])
-        # print('Date & Time:', start[0:10], start[11:25], '-', end[0:10], end[11:25])
-        # print('Description:', event["description"])
-        # print()
+#         start = event['start'].get('dateTime', event['start'].get('date'))
+#         end = event['end'].get('dateTime', event['end'].get('date)'))
+#         print(event["summary"])
+#         print('Date & Time:', start[0:10], start[11:25], '-', end[0:10], end[11:25])
+#         print('Description:', event["description"])
+#         print()
 
 # if __name__ == "__main__":
 #     SID = int(sys.argv[1])
