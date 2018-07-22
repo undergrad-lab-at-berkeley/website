@@ -65,21 +65,20 @@ def aboutus():
 
     return render_template("aboutus.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
 
-@app.route("/new-student")
-@app.route("/new-student/<category>")
-def getStudent(category="Statistical Modeling and Deep Learning"):
-    return render_template("new-student.html", student=content.student, jobCategory=category)
-
-@app.route("/software-jobs")
-@app.route("/software-jobs/<category>")
-def getSoftware(category="ATG"):
-    return render_template("software-jobs.html", software_jobs=content.software_jobs, jobCategory=category, jobsOrder=content.software_jobs_order)
-
-
-@app.route("/corporate-jobs")
-@app.route("/corporate-jobs/<category>")
-def getCorporate(category="ATG"):
-    return render_template("corporate-jobs.html", corporate=content.corporate, jobCategory=category)
+# @app.route("/new-student")
+# @app.route("/new-student/<category>")
+# def getStudent(category="Statistical Modeling and Deep Learning"):
+#     return render_template("new-student.html", student=content.student, jobCategory=category)
+#
+# @app.route("/software-jobs")
+# @app.route("/software-jobs/<category>")
+# def getSoftware(category="ATG"):
+#     return render_template("software-jobs.html", software_jobs=content.software_jobs, jobCategory=category, jobsOrder=content.software_jobs_order)
+#
+# @app.route("/corporate-jobs")
+# @app.route("/corporate-jobs/<category>")
+# def getCorporate(category="ATG"):
+#     return render_template("corporate-jobs.html", corporate=content.corporate, jobCategory=category)
 
 @app.route("/lab")
 @app.route("/lab/<name>")
@@ -94,28 +93,28 @@ def lab(name="placeholder", category = "Lab Management"):
     #     labs[name]['img'] = url_for('static', filename=labs[name]['img'])
     return render_template("labs.html", lab_jobs=labs[name], jobCategory=category)
 
-@app.route("/project")
-@app.route("/project/<name>")
-@app.route("/projects")
-@app.route("/projects/<name>")
-def project(name="placeholder"):
-    global projects
-    if name not in projects:
-        projects[name] = content.research[name].copy()
-        projects[name]['img'] = url_for('static', filename=projects[name]['img'])
-    return render_template("projects.html", content=projects[name])
+# @app.route("/project")
+# @app.route("/project/<name>")
+# @app.route("/projects")
+# @app.route("/projects/<name>")
+# def project(name="placeholder"):
+#     global projects
+#     if name not in projects:
+#         projects[name] = content.research[name].copy()
+#         projects[name]['img'] = url_for('static', filename=projects[name]['img'])
+#     return render_template("projects.html", content=projects[name])
 
-@app.route("/ulab-jobs")
-def getJobs():
-    return render_template("job-landing-page.html", labs=content.labs)
-
-@app.route("/lab-jobs")
-@app.route("/lab-jobs/<name>")
-def getTabs(name = "aerospace"):
-    global labs
-    if name not in labs:
-        labs[name] = content.labs[name].copy()
-    return render_template("tabs.html", lab_name=name, lab_jobs=labs[name])
+# @app.route("/ulab-jobs")
+# def getJobs():
+#     return render_template("job-landing-page.html", labs=content.labs)
+#
+# @app.route("/lab-jobs")
+# @app.route("/lab-jobs/<name>")
+# def getTabs(name = "aerospace"):
+#     global labs
+#     if name not in labs:
+#         labs[name] = content.labs[name].copy()
+#     return render_template("tabs.html", lab_name=name, lab_jobs=labs[name])
 
 @app.route("/join-page")
 @app.route("/join-page/<category>")
