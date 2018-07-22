@@ -31,10 +31,21 @@ research = {
         "navbar": "Automated Weed Removal",
         "img": "img/project/exoplanet.jpg",
         "title": "Physics and Astrophysics uLab",
-        "team": ["ULAB"],
+        "team": ["Arjun Savel"],
+        "staff-info": {
+            "Arjun Savel": {
+                "title": "Research Director",
+                "email": "asavel@berkeley.edu",
+                "linkedin": "https://www.linkedin.com/in/arjun-s-234859b4/",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            }
+        },
         "has_mentor": False,
         "mentor": "",
-        "content": u"""
+        "content": """
                         <h4>Astrophysics</h4>
                             <p>The Astrophysics branch of uLab provides an academic outlet for first-year students with an interest in space physics, exoplanets, cosmology, and much more, regardless of their intended majors. While Astrophysics uLab functions as a gateway to classes and research opportunities for those who decide to pursue astrophysics research in the future, those who do not will leave the program with the benefits of a broad range of academic skills, research experience, and an heightened understanding of basic astrophysics.</p>
                             <p>In this sense, uLab welcomes passionate students more than anything else. From those determining their interest in a major to those to those already sure, uLab Astrophysics is a great place to improve research paper literacy, experimental design and computer programming skills, in addition to participating in the epicenter of important interdisciplinary discoveries.</p>
@@ -54,32 +65,115 @@ research = {
         "navbar": "Cognitive Neuroscience and Medical Imaging uLab",
         "img": "img/project/mind-reading.png",
         "title": "Cognitive Neuroscience and Medical Imaging uLab",
-        "team": ["Vera Wang", "Yiming Ding", "Muying Chen", "Bansi Parekh"],
-        "has_mentor": False,
-        "mentor": "TBD",
+        "team": ["Riley McDanal", "Annelise Meyer", "Hareen Seerha", "Valerie Burleigh", "Stephanie Chang", "Adam Bittenson", "Allie Morehouse"],
+        "staff-info": {
+            "Riley McDanal": {
+                "title": "Research Director",
+                "email": "rileymcdanal@berkeley.edu or cogsci.ulab@berkeley.edu",
+                "linkedin": "www.linkedin.com/in/riley-mcdanal",
+                "facebook": "facebook.com/riley.mcdanal",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Annelise Meyer": {
+                "title": "Vice Research Director",
+                "email": "annelise.meyer@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Hareen Seerha": {
+                "title": "Lab Manager",
+                "email": "",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Valerie Burleigh": {
+                "title": "Operations Director",
+                "email": "",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Stephanie Chang": {
+                "title": "Vice Operations Director",
+                "email": "stephanieychang@berkeley.edu",
+                "linkedin": "www.linkedin.com/in/stephanie-chang-a97457155/",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Adam Bittenson": {
+                "title": "Finance Director",
+                "email": "",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Allie Morehouse": {
+                "title": "Curriculum and Advising Director",
+                "email": "amorehouse@berkeley.edu",
+                "linkedin": "www.linkedin.com/in/allison-morehouse-6bb63a139/",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Colin Jindra": {
+                "title": "Lead Mentor",
+                "email": "cjindra@berkeley.edu",
+                "linkedin": "https://www.linkedin.com/in/colin-jindra-17114a142/",
+                "facebook": "https://www.facebook.com/colin.jindra",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            }
+        },
+        "has_mentor": True,
+        "mentor": "Colin Jindra",
         "content": """
                     <h4>Lab Overview</h4>
-                    Founded in Fall 2017 by Jenna Martin and Riley McDanal, the CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles in the lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities.
+                    <p>Founded Fall 2017: Jenna Martin and Riley McDanal, with a vision of offering an experience that benefits all undergraduates in the research community.
+                    </p>
+                    <p>As part of ULAB, CogSci Lab’s mission is to offer an experience that benefits all undergraduates in the research community: experienced researchers can attain leadership roles in the lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. 
+                    </p>
 
                     <h4>Current Staff</h4>
+
+                    <br />
+                    <h4>Projects</h4>
+                    Our 2017-2018 research:
                     <ul class='bullets'>
-                        <li>(Beta) Replicate the Libet Experiment (1983) with fMRI (Lau et al 2004)</li>
-                        <li>Replicate the Haggard Experiment (2009) or a related experiment</li>
-                        <li>Use an open-source dataset to learn how to visualize fMRI data over multiple time-points and understand standard fMRI visualization techniques.</li>
-                        <div style="padding-left:50px">
+                        <li>Neural atrophication</li>
+                        <li>Language processing</li>
+                        <li>Unconsciousness and decision-making</li>
 
-                            <li>One possible location to find open-source fMRI data-set is <a href="https://openfmri.org/dataset/", target="_blank">here</a>.</li>
-
-                            <li>Be able to justify fMRI results with clinical neuroscience and be able to use segmentation algorithms to track neuronal activation at a macro-structural level in the brain.</li>
-
-                        </div>
-                        <li>(Beta) Design a novel research experiment analyzing fMRI data for a patient undergoing a specific task. Submit the raw data for this experiment as a data-set for <a href="https://openfmri.org/contact/" target="_blank">OpenfMRI</a> and write a poster/talk describing the results of this project.</li>
-                        <li>(Optional engineering goal) Develop a device which reads input brain data and uses said data to serve as a control of a mechanical or virtual system.</li>
+                    <br />
+                    Projects for 2018-2019:
+                    <br />
+                    TBD
                     </ul>
 
                     <h4> Want to join us? </h4>
 
-                    We currently have all of our positions filled for this semester, if you would like to be considered for a role in our lab next semester, please fill out this form: <a href="https://goo.gl/forms/AmdIpxRSXQUPdQHv2"> Click here</a>
+                    We're currently looking to fill mentor and research postions for this semester, if you would like to be considered for a role in our lab next semester, please fill out the respective form: 
+
+                    <br /> 
+                    <a href="https://goo.gl/forms/CP88XEos8anrlNwl2"> Mentor Application</a> 
+                    <br /> 
+                    <a href="https://goo.gl/forms/7DAT9Tq1JESJWZG53"> Student Researcher Application</a>
+
                 """
     },
     "stat-ulab": {
@@ -155,11 +249,62 @@ research = {
         "app-url": "/lab-jobs/ops",
         "navbar": "Operations Lab",
         "img": "",
-        "title": "",
-        "team": ["ULAB"],
+        "title": "Operations and Publicity",
+        "team": ["Yasmeen Musthafa", "Min Young Kim", "Catherine Livelo", "Justin Gerwien"],
+        "staff-info": {
+            "Yasmeen Musthafa": {
+                "title": "Director of Operations",
+                "email": "yasmeenm@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Min Young Kim": {
+                "title": "",
+                "email": "Minyoung.kim@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Catherine Livelo": {
+                "title": "Curriculum Developer/ Biology Lab Leader",
+                "email": "catherinelivelo@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Justin Gerwien": {
+                "title": "Engineering Task Force",
+                "email": "justingerwien@berkeley.edu",
+                "linkedin": "linkedin.com/in/justin-gerwien-781b05106",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            }
+        },
         "has_mentor": False,
         "mentor": "",
-        "content": """To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/aerospace> here </a.  """,
+        "content": """
+                    <h4>Publicity/Partnership Team</h4>
+
+                    <p>
+                    Our team works to reach out to other campus organizations and resources in order to recruit a more diverse group of students and let students be aware of the opportunities ULAB provides. 
+                    In partnership, we strive to work together with other research organizations for undergraduate students to create a network of available resources to help students. 
+                    By publicizing ULAB to incoming freshmen who are looking to develop basic research skills and to other undergraduates with leadership opportunities, 
+                    we want to allow more students to gain valuable experiences that will help their undergraduate carrier both professionally and personally.
+                    </p>
+
+                    <h4>Current Staff</h4>
+
+                    """,
+                    
     },
     "ATG-ulab": {
         "date": "12 March, 2018",
@@ -167,9 +312,74 @@ research = {
         "navbar": "Community Analysis",
         "img": "img/project/human-circuit.jpg",
         "title": "Advanced Technologies Group",
-        # "team": ["", ""],
-        # "has_mentor": False,
-        # "mentor": "",
+        "team": ["Dillon Eskandar", "Neil Toledo", "Cibi Pari", "David Liu", "Kavi Vaidya", "Charlie Zhang", "Albert Huang"],
+        "staff-info": {
+            "Dillion Eskandar": {
+                "title": "Director of Advanced Technologies Group",
+                "email": "dilloneskandar@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Neil Toledo": {
+                "title": "Deputy Director of Advanced Technologies Group",
+                "email": "ntoledo@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Cibi Pari": {
+                "title": "Deputy Director of Technology",
+                "email": "cibi.pari@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "David Liu": {
+                "title": "Deputy Director of External Affairs",
+                "email": "daveliu@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Kavi Vaidya": {
+                "title": "Deputy Director of Finance",
+                "email": "kavid.vaidya@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Charlie Zhang": {
+                "title": "Deputy Director of Design",
+                "email": "eucbital@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            },
+            "Albert Huang": {
+                "title": "",
+                "email": "albert168@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal website": "",
+                "img": ""
+            }
+        },
+        "has_mentor": False,
+        "mentor": "",
         "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/atg> here </a> ",
     },
 }
