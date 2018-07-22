@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Given the string LAB, pulls all of the jobs (uncategorized) from that lab in the LABS dict. Returns a dict
+# # Given the string LAB, pulls all of the jobs (uncategorized) from that lab in the LABS dict. Returns a dict
 # def get_lab_jobs(lab):
 #     output = {}
 #     categories = labs[lab]["job_categories"]
@@ -278,7 +278,8 @@ team = {
         "github": "",
         "linkedin": "",
         "bio": """"""
-    }
+    },
+
     # "Amit Akula": {
     #     "img": "img/team/amit_akula.jpg",
     #     "personal": "",
@@ -296,7 +297,7 @@ team = {
     # },
     "Mrinalini Sugosh": {
         "img": "",
-        "position": "Director of Finance"
+        "position": "Director of Finance",
         "personal": "",
         "github": "",
         "linkedin": "",
@@ -505,46 +506,46 @@ software_jobs_order = ["Advanced Technologies Group", "Software Operations", "Vi
     "Cognitive Neuroscience and Medical Imaging", "Physics and Astrophysics"]
 software_jobs_order.sort()
 
-software_jobs = {
+# software_jobs = {
 
-    "Advanced Technologies Group":
-        filter_dict(get_lab_jobs("atg"), {"Software Development Engineer"}),
+#     "Advanced Technologies Group":
+#         filter_dict(get_lab_jobs("atg"), {"Software Development Engineer"}),
 
-    "Software Operations":
-        filter_dict(corporate["Development"], {"Computational Scientist"}),
-    "Visualization":
-        filter_dict(corporate["Development"], {"Graphic Designer/Animator"}),
+#     "Software Operations":
+#         filter_dict(corporate["Development"], {"Computational Scientist"}),
+#     "Visualization":
+#         filter_dict(corporate["Development"], {"Graphic Designer/Animator"}),
 
-    "Statistical Modeling and Deep Learning":
-        get_lab_jobs("ml"),
-    "Genetic Engineering and Molecular Biology":
-        filter_dict(get_lab_jobs("genetics"), {"Bioinformatics (Computational) Scientist"}),
-    "Robotics and Aerospace Engineering":
-        filter_dict(get_lab_jobs("aerospace"),
-            {"Controls (Robotics) Engineer", "Controls (Sensory Integration Engineer", "Control Engineer", "Software Engineer"}),
-    "Medicinal Chemistry and Clinical Research":
-        filter_dict(get_lab_jobs("medicine"), {"Bioinformatics (Computational) Scientist"}),
-    "Cognitive Neuroscience and Medical Imaging":
-        filter_dict(get_lab_jobs("cogsci"), {"Lab Tech"}),
-    "Physics and Astrophysics":
-        filter_dict(get_lab_jobs("physics"), {"Computational Scientist"}),
-}
+#     "Statistical Modeling and Deep Learning":
+#         get_lab_jobs("ml"),
+#     "Genetic Engineering and Molecular Biology":
+#         filter_dict(get_lab_jobs("genetics"), {"Bioinformatics (Computational) Scientist"}),
+#     "Robotics and Aerospace Engineering":
+#         filter_dict(get_lab_jobs("aerospace"),
+#             {"Controls (Robotics) Engineer", "Controls (Sensory Integration Engineer", "Control Engineer", "Software Engineer"}),
+#     "Medicinal Chemistry and Clinical Research":
+#         filter_dict(get_lab_jobs("medicine"), {"Bioinformatics (Computational) Scientist"}),
+#     "Cognitive Neuroscience and Medical Imaging":
+#         filter_dict(get_lab_jobs("cogsci"), {"Lab Tech"}),
+#     "Physics and Astrophysics":
+#         filter_dict(get_lab_jobs("physics"), {"Computational Scientist"}),
+# }
 
-student = {
+# student = {
 
-    "Statistical Modeling and Deep Learning":
-        filter_dict(get_lab_jobs("ml"), {"New Student Researcher"}),
+#     "Statistical Modeling and Deep Learning":
+#         filter_dict(get_lab_jobs("ml"), {"New Student Researcher"}),
 
-    "Robotics and Aerospace Engineering":
-        labs["aerospace"]["job_categories"]["New Student Positions"],
+#     "Robotics and Aerospace Engineering":
+#         labs["aerospace"]["job_categories"]["New Student Positions"],
 
-    "Development":
-        filter_dict(corporate["Development"], {"Liaison", "Fundraiser"}),
+#     "Development":
+#         filter_dict(corporate["Development"], {"Liaison", "Fundraiser"}),
 
-    "Operations":
-        filter_dict(corporate["Operations"], {"Operations Analyst"}),
-}
+#     "Operations":
+#         filter_dict(corporate["Operations"], {"Operations Analyst"}),
+# }
 
-# Add ATG operations director to corporate jobs dict
+# # Add ATG operations director to corporate jobs dict
 
-corporate["Advanced Technologies Group"] = filter_dict(get_lab_jobs("atg"), {"Operations Director"})
+# corporate["Advanced Technologies Group"] = filter_dict(get_lab_jobs("atg"), {"Operations Director"})
