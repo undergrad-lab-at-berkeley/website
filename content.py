@@ -510,14 +510,9 @@ team = {
     }
 }
 
-labs = {
-    "physics": {
-            "logo" : u"static/img/logos/logo_physics.png",
-            "short_name": u"physics",
-            "full_name": u"Physics and Astrophysics",
-            "navbar": u"Physics",
-            "status": ""},
+lab_ordering = ['cogsci','physics','atg','ops','bio','stat','aerospace']
 
+labs = {
     "cogsci": {
             "logo" : u"static/img/logos/logo_cog_sci.png",
             "short_name": u"cogsci",
@@ -525,20 +520,27 @@ labs = {
             "navbar": u"Cog_Sci",
             "status": ""},
 
-    "atg" : {
+    "physics": {
+            "logo" : u"static/img/logos/logo_physics.png",
+            "short_name": u"physics",
+            "full_name": u"Physics and Astrophysics",
+            "navbar": u"Physics",
+            "status": ""},
+
+    "atg": {
             "logo" : u"static/img/logos/logo_atg.png",
 	        "short_name" : "ATG",
 	        "full_name" : "Advanced Technologies Group",
 	        "navbar" : "Advanced Technologies Group",
             "status": ""},
 
-    "ops" : {
+    "ops": {
             "logo" : "",
             "short_name" : "ops",
 	        "full_name" : "Operations and Publicity",
 	        "navbar" : "Operations and Publicity",
             "status": ""},
-
+    # Coming Soon
     "bio": {
             "logo" : u"static/img/logos/logo_bio.png",
             "short_name": u"genetics",
@@ -546,6 +548,7 @@ labs = {
             "navbar": u"Genetic Engineering and Molecular Biology",
             "status": "Coming Soon!"},
 
+    # To be Determined
     "stat": {
             "logo" : u"static/img/logos/logo_stat_ml.png",
             "short_name": "stat",
