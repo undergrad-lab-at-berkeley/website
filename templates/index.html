@@ -4,44 +4,90 @@
   <br/>
   <div class="container">
     <div class="row" style="display:flex; justify-content:center">
-      <h1> Welcome to Research! :) </h1>
+      <h1> Welcome to Research! </h1>
     </div>
     <div class="row" style="display:flex; justify-content:center">
       <p style="width:67%">
-        &emsp;&emsp;&emsp;&emsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit quis libero eu iaculis. Donec a turpis placerat, mattis erat aliquet, semper diam. Donec magna nisl, blandit pellentesque vehicula in, egestas eget est. Phasellus molestie, tellus in euismod lobortis, quam ligula rhoncus sapien, vitae laoreet eros lorem vulputate dui. Donec blandit neque non neque ullamcorper semper. Sed maximus varius est lobortis finibus. Nunc eu sapien dui. Donec aliquam, massa nec suscipit tincidunt, augue massa vulputate metus, quis euismod odio nisi et erat.
+        We believe that every student interested in participating in research at Berkeley should have the opportunity to do so. We are committed to individually helping new students find research on campus, developing student-led research projects, and connecting &amp; supporting students already involved in research.
+
       </p>
     </div>
   </div>
-  <div class="container">
+
+<div class="container">
       <div class="row" style="display:flex; justify-content:center">
         <h1> Our Labs </h1>
       </div>
-      {% for k,v in labs %}
-      
-          {% if loop.index % 4 == 1 %}
-          <div class="row justify-content-center" style="display:flex;justify-content:center">
-          {% endif %}
-          
-            <div class="col-md-2">
-              <div class="image-tile outer-title text-center">
-                <a href=#>
-                  <img src="{{ v['logo'] }}">
-                </a>
-                <div class="title">
-                  <h6 class="uppercase mb0"> {{ v['full_name'] }}</h6>
-                </div>
+
+      <div class="row" style="display:flex; justify-content:center">
+      {% for lab_key in lab_ordering[0:4] %}
+        <div class="col-md-2">
+            <div class="image-tile outer-title text-center">
+              <a href=#>
+                <img src="{{ content_labs[lab_key]['logo'] }}">
+              </a>
+              <div class="title">
+                <h6 class="uppercase mb0"> {{ content_labs[lab_key]['full_name'] }}</h6>
               </div>
             </div>
-
-          {% if loop.index % 4 == 0 %}
-          </div>
-          {% endif %}
-
+        </div>
       {% endfor %}
-  </div>
-  <style>
+      </div>
+      
+</div>
+
+<div class="container">
+      {% for lab_key in lab_ordering[4:5] %}
+      <div class="row" style="display:flex; justify-content:center">
+        <h4> Coming Soon </h4>
+      </div>
+      <div class="row" style="display:flex; justify-content:center">
+        <div class="col-md-2">
+          <div class="image-tile outer-title text-center">
+            <a href=#>
+              <img src="{{ content_labs[lab_key]['logo'] }}">
+            </a>
+            <div class="title">
+              <h6 class="uppercase mb0"> {{ content_labs[lab_key]['full_name'] }}</h6>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+</div>
+
+<div class="container">
+        <div class="row" style="display:flex; justify-content:center">
+        <h4> Under Development </h4>
+        </div>
+        <div class="row" style="display:flex; justify-content:center">
+        {% for lab_key in lab_ordering[5:] %}
+          <div class="col-md-2">
+            <div class="image-tile outer-title text-center">
+              <a href=#>
+                <img src="{{ content_labs[lab_key]['logo'] }}">
+              </a>
+              <div class="title">
+                <h6 class="uppercase mb0"> {{ content_labs[lab_key]['full_name'] }}</h6>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+        </div>
+        
+</div>
+
+   <style>
     body {
       background-color: white;
+    }
+    .center-div {
+      display: flex;
+      justify-content: center;
+    }
+    .center-div > img {
+      height:300px;
+      width:300px;
     }
   </style>
 {% endblock %}

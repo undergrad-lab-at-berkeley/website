@@ -37,7 +37,7 @@ def utility_processor1():
 
 @app.route("/")
 def index():
-    return render_template("index.html", labs=content.labs.items())
+    return render_template("index.html", content_labs = content.labs, lab_ordering=content.lab_ordering)
 
 @app.route("/test")
 def test():
