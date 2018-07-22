@@ -82,7 +82,7 @@ research = {
                     We currently have all of our positions filled for this semester, if you would like to be considered for a role in our lab next semester, please fill out this form: <a href="https://goo.gl/forms/AmdIpxRSXQUPdQHv2"> Click here</a>
                 """
     },
-    "ml-ulab": {
+    "cs-ulab": {
         "date": "17 Nov, 2017",
         "app-url": "/lab-jobs/ml",
         "navbar": "Community Analysis",
