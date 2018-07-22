@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 
 # Given the string LAB, pulls all of the jobs (uncategorized) from that lab in the LABS dict. Returns a dict
-def get_lab_jobs(lab):
-    output = {}
-    categories = labs[lab]["job_categories"]
-    for k in categories:
-        output.update(categories[k])
-    return output
+# def get_lab_jobs(lab):
+#     output = {}
+#     categories = labs[lab]["job_categories"]
+#     for k in categories:
+#         output.update(categories[k])
+#     return output
 
 # Given INPUT_DICT and set ENTRIES, returns new dict with items from INPUT_DICT that match the keys indicated by ENTRIES
 def filter_dict(input_dict, entries):
@@ -238,8 +238,9 @@ advisors = {
 }
 
 team = {
-    "Karina Yap": {
-        "img": "img/team/karina_yap.jpg",
+    "Arjun Savel": {
+        "img": "",
+        "position": "Research Director: Physics and Astrophysics",
         "personal": "",
         "github": "",
         "linkedin": "",
@@ -248,6 +249,7 @@ team = {
 
     "Riley McDanal": {
         "img": "img/team/riley_mcdanal.jpg",
+        "position": "Research Director: Cognitive Science and Medical Imaging",
         "personal": "",
         "github": "",
         "linkedin": "",
@@ -255,25 +257,28 @@ team = {
     },
     "Min Young Kim": {
         "img": "img/team/min_young_kim.jpg",
+        "position": "Publicity Director",
         "personal": "",
         "github": "",
         "linkedin": "https://www.linkedin.com/in/min-young-kim-93281211a/",
         "bio": """I love listening to music and spend too much money on different concerts. While I also enjoy watching movies, I usually get too lazy to go to a movie theater to actually watch any of them, so I most likely will not get your movie references."""
     },
-    "May Myat Mon": {
-        "img": "img/team/may_myat_mon.jpg",
+    "Yasmeen Musthafa": {
+        "img": "",
+        "position": "Operations Director",
         "personal": "",
         "github": "",
         "linkedin": "",
-        "bio": """Hello! My name is May Myat Mon but you can call me Margaret. I enjoy spending quality time with my family and friends. Aside from academics, I love playing badminton and watching movies! :) """
+        "bio": """"""
     },
-    "Madeleine Weiser": {
-        "img": "img/team/madeleine_weiser.jpg",
+    "Yasmeen Musthafa": {
+        "img": "",
+        "position": "Operations Director",
         "personal": "",
         "github": "",
         "linkedin": "",
-        "bio": """I'm a Minnesotan-turned-Californian girl with many, many interests and I am incredibly indecisive. I am happiest when I am outdoors whether it is walking, swimming, hiking, biking, or just lounging around. I adore nature, animals, and sunshine! My family and friends are super important to me, but I'm also always down to meet new people and try new things."""
-    },
+        "bio": """"""
+    }
     # "Amit Akula": {
     #     "img": "img/team/amit_akula.jpg",
     #     "personal": "",
@@ -281,27 +286,22 @@ team = {
     #     "linkedin": "",
     #     "bio": """I started Berkeley pre-law, pre-med, and engineering because I actually had no idea what I wanted to do. That made Berkeley so much more fun! I worked at the Rent Board. Taught 61B three times. Hiked to abandoned factories across the Golden Gate Bridge. Finally, I found that I was passionate about helping people solve complex problems. Also I'm a better cook than Dylan.""",
     # },
-    "Phat Pham": {
-        "img": "img/team/phat_pham.jpg",
-        "personal": "",
-        "github": "https://github.com/phatlast96",
-        "linkedin": "https://www.linkedin.com/in/phamphat/",
-        "bio": """A web and mobile developer with an interest in machine learning. Sometimes, I like to open up a good book while sitting in my hammock and drinking a cup of hot tea. Other times, I like to be wild amongst my group of friends. Not much of a partier, but I'll light up your intellectual mind. Always had a bad habit of signing up for more things than I can handle.""",
-    },
-    "Michael Oshiro": {
-        "img": "img/team/michael_oshiro.jpg",
+
+    # "Phat Pham": {
+    #     "img": "img/team/phat_pham.jpg",
+    #     "personal": "",
+    #     "github": "https://github.com/phatlast96",
+    #     "linkedin": "https://www.linkedin.com/in/phamphat/",
+    #     "bio": """A web and mobile developer with an interest in machine learning. Sometimes, I like to open up a good book while sitting in my hammock and drinking a cup of hot tea. Other times, I like to be wild amongst my group of friends. Not much of a partier, but I'll light up your intellectual mind. Always had a bad habit of signing up for more things than I can handle.""",
+    # },
+    "Mrinalini Sugosh": {
+        "img": "",
+        "position": "Director of Finance"
         "personal": "",
         "github": "",
         "linkedin": "",
         "bio": """Outside of Physics and Math, some of my hobbies include exploring new places, game design, and cooking. I particularly enjoy spicier cuisines like Indian and Thai. """,
-    },
-    "Khang Nguyen": {
-        "img": "img/team/khang_nguyen.jpg",
-        "personal": "",
-        "github": "",
-        "linkedin": "",
-        "bio": """Born and raised in Houston, Texas! When I'm in Berkeley, it's all studying and hard work but when I'm at home, I indulge myself in some video games and Twitch. Aside from video games, listening to music and finding new music is one of my go-to hobbies for when I have nothing to do. If you're trying to find some relaxing music, try Hammock, Stars of the Lid, or Explosions in the Sky :)""",
-    },
+    }
 }
 
 corporate = {
@@ -497,8 +497,8 @@ labs = {
             "short_name" : "ops",
 	        "full_name" : "Operations and Publicity",
 	        "navbar" : "Operations and Publicity" }
-    }                                                                    
-}
+    }
+
 
 software_jobs_order = ["Advanced Technologies Group", "Software Operations", "Visualization", "Statistical Modeling and Deep Learning",
     "Genetic Engineering and Molecular Biology", "Robotics and Aerospace Engineering", "Medicinal Chemistry and Clinical Research",
