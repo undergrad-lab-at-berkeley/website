@@ -162,7 +162,7 @@ research = {
         "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/atg> here </a> ",
     },
 }
-foundersOrder = ["Joshua Hug", "MRINALINI SUGOSH", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
+foundersOrder = ["Joshua Hug", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 founders = {
     # "placeholder": {
     #     "title": "placeholder",
@@ -185,7 +185,7 @@ founders = {
     #     "linkedin": "",
     #     "bio": """Amit does research at UCSF on algorithms for MRI processing and previously worked in the Goldberg lab on surgical robotics. He has served as an RA, community leadership assistant, and TA. In these pursuits, he has strived to develop new, more effective teaching methods and workshops. His close connections with the Residence Hall programs enabled the partnership between the programs.""",
     # },
-    "Mrilnalani Sugosh": {
+    "Mrinalini Sugosh": {
         "title": "Chief Operations Officer",
         "img": "img/team/mrinalini_sugosh.jpg",
         "personal": "",
@@ -477,7 +477,7 @@ labs = {
 
     "bio": {
             "logo" : u"static/img/logos/logo_bio.png",
-            "short_name": u"bio",
+            "short_name": u"genetics",
             "full_name": u"Genetic Engineering and Molecular Biology",
             "navbar": u"Genetic Engineering and Molecular Biology" },
 

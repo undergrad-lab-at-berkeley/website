@@ -93,21 +93,21 @@ def lab(name="placeholder", category = "Lab Management"):
     #     labs[name]['img'] = url_for('static', filename=labs[name]['img'])
     return render_template("labs.html", lab_jobs=labs[name], jobCategory=category)
 
-# @app.route("/project")
-# @app.route("/project/<name>")
-# @app.route("/projects")
-# @app.route("/projects/<name>")
-# def project(name="placeholder"):
-#     global projects
-#     if name not in projects:
-#         projects[name] = content.research[name].copy()
-#         projects[name]['img'] = url_for('static', filename=projects[name]['img'])
-#     return render_template("projects.html", content=projects[name])
+@app.route("/project")
+@app.route("/project/<name>")
+@app.route("/projects")
+@app.route("/projects/<name>")
+def project(name="placeholder"):
+    global projects
+    if name not in projects:
+        projects[name] = content.research[name].copy()
+        projects[name]['img'] = url_for('static', filename=projects[name]['img'])
+    return render_template("projects.html", content=projects[name])
 
-# @app.route("/ulab-jobs")
-# def getJobs():
-#     return render_template("job-landing-page.html", labs=content.labs)
-#
+@app.route("/ulab-jobs")
+def getJobs():
+    return render_template("job-landing-page.html", labs=content.labs)
+
 # @app.route("/lab-jobs")
 # @app.route("/lab-jobs/<name>")
 # def getTabs(name = "aerospace"):
