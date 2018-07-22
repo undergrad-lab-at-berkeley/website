@@ -177,6 +177,7 @@ founders = {
         "linkedin": "",
         "bio": """Alex is currently pursuing a Ph.D. at Stanford University. Alex is extremely passionate about undergraduate research; he worked in Paul Alivisatos's Lab on liquid electron microscopy, the Cohen lab on imaging protein movement, and was also an intern at LBNL. He will continue to advise and work with ULAB.""",
     },
+
     # "Amit Akula": {
     #     "title": "Cofounder",
     #     "img": "img/team/amit_akula.jpg",
@@ -185,6 +186,7 @@ founders = {
     #     "linkedin": "",
     #     "bio": """Amit does research at UCSF on algorithms for MRI processing and previously worked in the Goldberg lab on surgical robotics. He has served as an RA, community leadership assistant, and TA. In these pursuits, he has strived to develop new, more effective teaching methods and workshops. His close connections with the Residence Hall programs enabled the partnership between the programs.""",
     # },
+
     "Mrinalini Sugosh": {
         "title": "Chief Operations Officer",
         "img": "img/team/mrinalini_sugosh.jpg",
@@ -216,7 +218,7 @@ founders = {
         "github": "",
         "linkedin": "",
         "bio": """Joshua Hug is a teaching professor at Berkeley and previously a lecturer for Computer Science at Princeton University. His primary research interest is in learning at scale and he has developed large scalable teaching models for CS61B and CS188. His passion for finding new and better ways to educate students led him to advise and support ULAB.""",
-    },
+    }
 }
 
 advisors = {
@@ -234,7 +236,7 @@ advisors = {
         "title": "Faculty Advisor",
         "img": "img/team/sean_burns.jpg",
         "bio": """Sean serves as the Director of the Office of Undergraduate Research and Scholarship (OURS) and has been involved with managing and founding organizations and services to assist undergraduate researchers in diverse communities. His own scholarship and teaching focuses on U.S. social movement history and the dynamic intersections of community activism, political education, and the remaking of the social imagination. He is enthusiastic about making ULAB a successful feature in the undergraduate research program ecosystem.""",
-    },
+    }
 }
 
 team = {
@@ -467,43 +469,50 @@ labs = {
             "logo" : u"static/img/logos/logo_physics.png",
             "short_name": u"physics",
             "full_name": u"Physics and Astrophysics",
-            "navbar": u"Physics" },
+            "navbar": u"Physics",
+            "status": ""},
 
     "cogsci": {
             "logo" : u"static/img/logos/logo_cog_sci.png",
             "short_name": u"cogsci",
             "full_name": u"Cognitive Neuroscience and Medical Imaging",
-            "navbar": u"Cog_Sci" },
-
-    "bio": {
-            "logo" : u"static/img/logos/logo_bio.png",
-            "short_name": u"genetics",
-            "full_name": u"Genetic Engineering and Molecular Biology",
-            "navbar": u"Genetic Engineering and Molecular Biology" },
-
-    "aerospace": {
-            "logo" : u"static/img/logos/logo_robotics_aero.png",
-            "short_name": "aerospace",
-            "full_name": "Robotics and Aerospace Engineering",
-            "navbar": "Robotics and Aerospace Engineering" },
-
-    "cs": {
-            "logo" : u"static/img/logos/logo_stat_ml.png",
-            "short_name": "cs",
-            "full_name": "Statistical Modeling and Deep Learning",
-            "navbar": "Statistical Modeling and Deep Learning" },
+            "navbar": u"Cog_Sci",
+            "status": ""},
 
     "atg" : {
             "logo" : u"static/img/logos/logo_atg.png",
 	        "short_name" : "ATG",
 	        "full_name" : "Advanced Technologies Group",
-	        "navbar" : "Advanced Technologies Group" },
+	        "navbar" : "Advanced Technologies Group",
+            "status": ""},
 
     "ops" : {
             "logo" : "",
             "short_name" : "ops",
 	        "full_name" : "Operations and Publicity",
-	        "navbar" : "Operations and Publicity" }
+	        "navbar" : "Operations and Publicity",
+            "status": ""},
+
+    "bio": {
+            "logo" : u"static/img/logos/logo_bio.png",
+            "short_name": u"genetics",
+            "full_name": u"Genetic Engineering and Molecular Biology",
+            "navbar": u"Genetic Engineering and Molecular Biology",
+            "status": "Coming Soon!"},
+
+    "cs": {
+            "logo" : u"static/img/logos/logo_stat_ml.png",
+            "short_name": "cs",
+            "full_name": "Statistical Modeling and Deep Learning",
+            "navbar": "Statistical Modeling and Deep Learning",
+            "status": "Under Development"},
+
+    "aerospace": {
+            "logo" : u"static/img/logos/logo_robotics_aero.png",
+            "short_name": "aerospace",
+            "full_name": "Robotics and Aerospace Engineering",
+            "navbar": "Robotics and Aerospace Engineering",
+            "status": "Under Development"}
     }
 
 

@@ -41,7 +41,7 @@ def index():
 
 @app.route("/test")
 def test():
-    return render_template("lab.html", lab=content.labs['physics'])
+    return render_template("home.html", lab=content.labs['physics'])
 
 @app.route("/aboutus")
 def aboutus():

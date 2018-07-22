@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block body %}
+  <br/>
+  <div class="container">
+    <div class="row center-div">
+      <img src={{ lab['logo'] }}>
+    </div>
+    <div class="row center-div">
+      <h1> Welcome to Research!</h1>
+    </div>
+    <div class="row center-div">
+      <p>
+        &emsp;&emsp;&emsp;&emsp;We believe that every student interested in participating in research at Berkeley should have the opportunity to do so. We are committed to individually helping new students find research on campus, developing student-led research projects, and connecting &amp; supporting students already involved in research.
+      </p>
+    </div>
+  </div>
+
+  <style>
+    body {
+      background-color: white;
+    }
+    .center-div {
+      display: flex;
+      justify-content: center;
+    }
+    .center-div > img {
+      height:300px;
+      width:300px;
+    }
+  </style>
+{% endblock %}
