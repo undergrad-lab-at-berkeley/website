@@ -12,13 +12,21 @@ navProjects = [
     } for x in content.research
 ][1:]
 
-navLabs = [
-    {
-        "url": "/projects/{0}-ulab".format(content.labs[x]["short_name"]),
+# navLabs = [
+#     {
+#         "url": "/projects/{0}-ulab".format(content.labs[x]["short_name"]),
+#         "app-url": "/labs/{}".format(content.labs[x]["short_name"]),
+#         "name": content.labs[x]["full_name"]
+#     } if content.labs[x]["status"] == '' for x in content.labs
+# ][:]
+
+navLabs = []
+for x in content.labs:
+    if content.labs[x]["status"] == '':
+        print(content.labs[x]["short_name"])
+        navLabs.append({"url": "/projects/{0}-ulab".format(content.labs[x]["short_name"]),
         "app-url": "/labs/{}".format(content.labs[x]["short_name"]),
-        "name": content.labs[x]["full_name"]
-    } for x in content.labs
-][:]
+        "name": content.labs[x]["full_name"]})
 
 # cache useful info to prevent reloading
 projects = dict()

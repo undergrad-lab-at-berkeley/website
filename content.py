@@ -14,17 +14,6 @@ def filter_dict(input_dict, entries):
     return {k: input_dict[k] for k in input_dict.keys() if k in entries}
 
 research = {
-    "aerospace-ulab": {
-        "date": "17 Nov, 2017",
-        "app-url": "/lab-jobs/aerospace",
-        "navbar": "Tiny Home Env. Impact",
-        "img": "img/project/mars-spacesuit-design.jpg",
-        "title": "Robotics and Aerospace Engineering uLab",
-        "team": ["ULAB"],
-        "has_mentor": False,
-        "mentor": "",
-        "content": """To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/aerospace> here </a.  """,
-    },
     "physics-ulab": {
         "date": "17 Nov, 2017",
         "app-url": "/lab-jobs/physics",
@@ -146,22 +135,12 @@ research = {
                     <h4>Lab Overview</h4>
                     <p>Founded in Fall 2017 by Jenna Martin and Riley McDanal, the CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities.
                     </p>
+                    <p>Last year, our lab worked on projects involving neural atrophication, language processing, consciousness and decision-making, but we are currently developing exciting research projects for the upcoming school year.
+                    </p>
 
                     <h4>Our Staff</h4>
 
                     <br />
-                    <h4>Projects</h4>
-                    Our 2017-2018 research:
-                    <ul class='bullets'>
-                        <li>Neural atrophication</li>
-                        <li>Language processing</li>
-                        <li>Unconsciousness and decision-making</li>
-
-                    <br />
-                    Projects for 2018-2019:
-                    <br />
-                    TBD
-                    </ul>
 
                     <h4> Want to join us? </h4>
 
@@ -174,136 +153,7 @@ research = {
 
                 """
     },
-    "stat-ulab": {
-        "date": "17 Nov, 2017",
-        "app-url": "/lab-jobs/ml",
-        "navbar": "Community Analysis",
-        "img": "img/project/human-circuit.jpg",
-        "title": "Statistical Modeling and Deep Learning",
-        "team": ["Sam Good", "Makena Fetzer"],
-        "has_mentor": False,
-        "mentor": "TBD",
-        "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/ml> here </a> ",
 
-    },
-    "medicine-ulab": {
-        "date": "17 Nov, 2017",
-        "app-url": "/lab-jobs/medicine",
-        "navbar": "Consumable Carcinogen",
-        "img": "img/project/bright-chemical-structures.jpg",
-        "title": "Medicinal Chemistry and Clinical Research uLab",
-        "team": ["Moriel Dror", "Aubrianne Milton"],
-        "has_mentor": False,
-        "mentor": "",
-        "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/medicine> here </a>  ",
-
-    },
-    "genetics-ulab": {
-        "date": "17 Nov, 2017",
-        "app-url": "/lab-jobs/genetics",
-        "navbar": "Public Health Group",
-        "img": "img/project/public-health-group.jpg",
-        "title": "Genetic Engineering and Molecular Biology uLab",
-        "team": ["ULAB"],
-        "has_mentor": False,
-        "mentor": "",
-        "content": """
-                    <h4>Motivation</h4>
-
-                    <p>
-                        The educational aim of this group is to prepare students to tackle the hardest problems in molecular biology. There are two difficulties in starting research in molecular biology.
-                        The primary challenge is access to common laboratory equipment.
-                        Without common access to equipment (such as PCR, Gel Electrophoresis, etc.), many students find themselves unable to contribute to any part of lab operations.
-                        Some of the students we surveyed cited lack of access to laboratory equipment as a primary reason for why they were unable to train themseleves for wet laboratory positions.
-                        This uLab is partnering with several biomedical research facilities on campus and at UCSF to provide access to all common laboratory equipment for students to be trained for all of the common technical procedures done in a molecular biology laboratory.
-                        The second difficulty is that "wet labs" by defintion are any research that is not primarily computational. The sheer breadth of research interests and techniques make it difficult for students to articulate how they envision participating in biology research.
-                        Through partnerships with many laboratories on campus, and through a cadre of dedicated experienced student researchers, we guide students through a survey of major labs and techniques and help define what "wet laboratory research" they are most passionate about.
-                    </p>
-
-                    <br>
-
-                    <p>
-                        The research aims of this uLab are in particular focused on synthetic chemistry, genomics (both computational and proteomics), and neurobiology (via medical imaging).
-                    </p>
-
-                    <h4>Research Questions</h4>
-
-                    <ul class="bullets">
-                        <li> What are novel drug delivery techniques used to deliver novel genetic therapies? </li>
-                        <li> How does your genetics play a role in the pathology of neurodegenerative diseases? </li>
-                        <li> What are the biological principles behind common blood tests? Can these tests be optimized to provide cheaper alternatives to the larger Berkeley area? </li>
-                        <li> What are common synthetic techniques used to construct drugs such as Claratin? </li>
-
-                    </ul>
-
-                    <h4> What do join us? </h4>
-
-                    Want to help construct the first student-run pharmacology group>? Want to contribute to the first student-run genetic engineering laboratory? You can learn more about opportunities for students (of all years) <a href=/lab-jobs/genetics> here </a>.
-
-                    """,
-    },
-    "ops-ulab": {
-        "date": "",
-        "app-url": "/lab-jobs/ops",
-        "navbar": "Operations Lab",
-        "img": "",
-        "title": "Operations and Publicity",
-        "team": ["Yasmeen Musthafa", "Min Young Kim", "Catherine Livelo", "Justin Gerwien"],
-        "has_mentor": False,
-        "mentor": "",
-        "staff-info": {
-            "Yasmeen Musthafa": {
-                "title": "Director of Operations",
-                "email": "yasmeenm@berkeley.edu",
-                "linkedin": "",
-                "facebook": "",
-                "github": "",
-                "personal": "",
-                "img": ""
-            },
-            "Min Young Kim": {
-                "title": "",
-                "email": "Minyoung.kim@berkeley.edu",
-                "linkedin": "",
-                "facebook": "",
-                "github": "",
-                "personal": "",
-                "img": ""
-            },
-            "Catherine Livelo": {
-                "title": "Curriculum Developer/ Biology Lab Leader",
-                "email": "catherinelivelo@berkeley.edu",
-                "linkedin": "",
-                "facebook": "",
-                "github": "",
-                "personal": "",
-                "img": ""
-            },
-            "Justin Gerwien": {
-                "title": "Engineering Task Force",
-                "email": "justingerwien@berkeley.edu",
-                "linkedin": "linkedin.com/in/justin-gerwien-781b05106",
-                "facebook": "",
-                "github": "",
-                "personal": "",
-                "img": ""
-            }
-        },
-        "content": """
-                    <h4>Publicity/Partnership Team</h4>
-
-                    <p>
-                    Our team works to reach out to other campus organizations and resources in order to recruit a more diverse group of students and let students be aware of the opportunities ULAB provides.
-                    In partnership, we strive to work together with other research organizations for undergraduate students to create a network of available resources to help students.
-                    By publicizing ULAB to incoming freshmen who are looking to develop basic research skills and to other undergraduates with leadership opportunities,
-                    we want to allow more students to gain valuable experiences that will help their undergraduate carrier both professionally and personally.
-                    </p>
-
-                    <h4>Current Staff</h4>
-
-                    """,
-
-    },
     "ATG-ulab": {
         "date": "12 March, 2018",
         "app-url": "/lab-jobs/atg",
@@ -380,6 +230,138 @@ research = {
         },
         "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/atg> here </a> ",
     },
+
+    "ops-ulab": {
+        "date": "",
+        "app-url": "/lab-jobs/ops",
+        "navbar": "Operations Lab",
+        "img": "",
+        "title": "Operations and Publicity",
+        "team": ["Yasmeen Musthafa", "Min Young Kim", "Catherine Livelo", "Justin Gerwien"],
+        "has_mentor": False,
+        "mentor": "",
+        "staff-info": {
+            "Yasmeen Musthafa": {
+                "title": "Director of Operations",
+                "email": "yasmeenm@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal": "",
+                "img": ""
+            },
+            "Min Young Kim": {
+                "title": "",
+                "email": "Minyoung.kim@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal": "",
+                "img": ""
+            },
+            "Catherine Livelo": {
+                "title": "Curriculum Developer/ Biology Lab Leader",
+                "email": "catherinelivelo@berkeley.edu",
+                "linkedin": "",
+                "facebook": "",
+                "github": "",
+                "personal": "",
+                "img": ""
+            },
+            "Justin Gerwien": {
+                "title": "Engineering Task Force",
+                "email": "justingerwien@berkeley.edu",
+                "linkedin": "linkedin.com/in/justin-gerwien-781b05106",
+                "facebook": "",
+                "github": "",
+                "personal": "",
+                "img": ""
+            }
+        },
+        "content": """
+                    <h4>Publicity/Partnership Team</h4>
+
+                    <p>
+                    Our team works to reach out to other campus organizations and resources in order to recruit a more diverse group of students and let students be aware of the opportunities ULAB provides.
+                    In partnership, we strive to work together with other research organizations for undergraduate students to create a network of available resources to help students.
+                    By publicizing ULAB to incoming freshmen who are looking to develop basic research skills and to other undergraduates with leadership opportunities,
+                    we want to allow more students to gain valuable experiences that will help their undergraduate carrier both professionally and personally.
+                    </p>
+
+                    <h4>Current Staff</h4>
+
+                    """,
+
+    },
+
+    "genetics-ulab": {
+        "date": "17 Nov, 2017",
+        "app-url": "/lab-jobs/genetics",
+        "navbar": "Public Health Group",
+        "img": "img/project/public-health-group.jpg",
+        "title": "Genetic Engineering and Molecular Biology uLab",
+        "team": ["ULAB"],
+        "has_mentor": False,
+        "mentor": "",
+        "content": """
+                    <h4>Motivation</h4>
+
+                    <p>
+                        The educational aim of this group is to prepare students to tackle the hardest problems in molecular biology. There are two difficulties in starting research in molecular biology.
+                        The primary challenge is access to common laboratory equipment.
+                        Without common access to equipment (such as PCR, Gel Electrophoresis, etc.), many students find themselves unable to contribute to any part of lab operations.
+                        Some of the students we surveyed cited lack of access to laboratory equipment as a primary reason for why they were unable to train themseleves for wet laboratory positions.
+                        This uLab is partnering with several biomedical research facilities on campus and at UCSF to provide access to all common laboratory equipment for students to be trained for all of the common technical procedures done in a molecular biology laboratory.
+                        The second difficulty is that "wet labs" by defintion are any research that is not primarily computational. The sheer breadth of research interests and techniques make it difficult for students to articulate how they envision participating in biology research.
+                        Through partnerships with many laboratories on campus, and through a cadre of dedicated experienced student researchers, we guide students through a survey of major labs and techniques and help define what "wet laboratory research" they are most passionate about.
+                    </p>
+
+                    <br>
+
+                    <p>
+                        The research aims of this uLab are in particular focused on synthetic chemistry, genomics (both computational and proteomics), and neurobiology (via medical imaging).
+                    </p>
+
+                    <h4>Research Questions</h4>
+
+                    <ul class="bullets">
+                        <li> What are novel drug delivery techniques used to deliver novel genetic therapies? </li>
+                        <li> How does your genetics play a role in the pathology of neurodegenerative diseases? </li>
+                        <li> What are the biological principles behind common blood tests? Can these tests be optimized to provide cheaper alternatives to the larger Berkeley area? </li>
+                        <li> What are common synthetic techniques used to construct drugs such as Claratin? </li>
+
+                    </ul>
+
+                    <h4> What do join us? </h4>
+
+                    Want to help construct the first student-run pharmacology group>? Want to contribute to the first student-run genetic engineering laboratory? You can learn more about opportunities for students (of all years) <a href=/lab-jobs/genetics> here </a>.
+
+                    """,
+    },
+
+    "stat-ulab": {
+        "date": "17 Nov, 2017",
+        "app-url": "/lab-jobs/ml",
+        "navbar": "Community Analysis",
+        "img": "img/project/human-circuit.jpg",
+        "title": "Statistical Modeling and Deep Learning",
+        "team": ["Sam Good", "Makena Fetzer"],
+        "has_mentor": False,
+        "mentor": "TBD",
+        "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/ml> here </a> ",
+    },
+
+    "aerospace-ulab": {
+        "date": "17 Nov, 2017",
+        "app-url": "/lab-jobs/aerospace",
+        "navbar": "Tiny Home Env. Impact",
+        "img": "img/project/mars-spacesuit-design.jpg",
+        "title": "Robotics and Aerospace Engineering uLab",
+        "team": ["ULAB"],
+        "has_mentor": False,
+        "mentor": "",
+        "content": """To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/aerospace> here </a.  """,
+    }
 }
 foundersOrder = ["Joshua Hug", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 founders = {
@@ -450,6 +432,16 @@ advisors = {
 }
 
 team = {
+    "Riley McDanal": {
+            "img": "img/team/riley_mcdanal.jpg",
+            "position": "Research Director: Cognitive Science and Medical Imaging",
+            "email": "",
+            "personal": "",
+            "github": "",
+            "linkedin": "",
+            "bio": """I like to sing out loud in my apartment despite the never-ending fear of my neighbors judging me. My homemade speciality is carbonara tacos. Also, I love psychology, politics, and really anything that gets me thinking. """
+    },
+
     "Arjun Savel": {
         "img": "",
         "position": "Research Director: Physics and Astrophysics",
@@ -460,24 +452,16 @@ team = {
         "bio": """To be added"""
     },
 
-    "Riley McDanal": {
-        "img": "img/team/riley_mcdanal.jpg",
-        "position": "Research Director: Cognitive Science and Medical Imaging",
+    "Dillon Eskandar": {
+        "img": "",
+        "position": "Director of Advanced Technologies Group",
         "email": "",
         "personal": "",
         "github": "",
         "linkedin": "",
-        "bio": """I like to sing out loud in my apartment despite the never-ending fear of my neighbors judging me. My homemade speciality is carbonara tacos. Also, I love psychology, politics, and really anything that gets me thinking. """
+        "bio": """"""
     },
-    "Min Young Kim": {
-        "img": "img/team/min_young_kim.jpg",
-        "position": "Publicity Director",
-        "email": "",
-        "personal": "",
-        "github": "",
-        "linkedin": "https://www.linkedin.com/in/min-young-kim-93281211a/",
-        "bio": """I love listening to music and spend too much money on different concerts. While I also enjoy watching movies, I usually get too lazy to go to a movie theater to actually watch any of them, so I most likely will not get your movie references."""
-    },
+
     "Yasmeen Musthafa": {
         "img": "",
         "position": "Operations Director",
@@ -487,14 +471,15 @@ team = {
         "linkedin": "",
         "bio": """"""
     },
-    "Dillon Eskandar": {
-        "img": "",
-        "position": "Director of Advanced Technologies Group",
+
+    "Min Young Kim": {
+        "img": "img/team/min_young_kim.jpg",
+        "position": "Publicity Director",
         "email": "",
         "personal": "",
         "github": "",
-        "linkedin": "",
-        "bio": """"""
+        "linkedin": "https://www.linkedin.com/in/min-young-kim-93281211a/",
+        "bio": """I love listening to music and spend too much money on different concerts. While I also enjoy watching movies, I usually get too lazy to go to a movie theater to actually watch any of them, so I most likely will not get your movie references."""
     },
 
     "Mrinalini Sugosh": {
