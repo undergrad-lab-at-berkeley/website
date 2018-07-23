@@ -20,7 +20,7 @@
                 <a href="/">
                     <img class="logo logo-light" alt="Foundry" src="{{ url_for('static', filename='img/logos/logo_general.png') }}">
                     <img class="logo logo-dark" alt="Foundry" src="{{ url_for('static', filename='img/logos/logo_general.png') }}">
-                    Undergraduate Lab @ Berkeley
+                    Undergraduate Laboratory @ Berkeley
                 </a>
             </div>
             <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
@@ -53,12 +53,18 @@
                             </ul> -->
                             <a href="#">Our Labs</a>
                             <ul>
+                                <!-- {% if 'priority' in data %}
+                                    <p>Priority: {{ data['priority'] }}</p>
+                                {% endif %} -->
+
                                 {% for lab in navLabs %}
-                                <li>
-                                    <a href="{{ lab['url'] }}">
-                                        <small>{{ lab['name'] }}</small>
-                                    </a>
-                                </li>
+                                    {% if '' in lab['status'] %}
+                                        <li>
+                                            <a href="{{ lab['url'] }}">
+                                                <small>{{ lab['name'] }}</small>
+                                            </a>
+                                        </li>
+                                    {% endif %}
                                 {% endfor %}
                             </ul>
               	         </li>

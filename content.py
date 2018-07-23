@@ -147,7 +147,7 @@ research = {
                     <p>Founded in Fall 2017 by Jenna Martin and Riley McDanal, the CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities.
                     </p>
 
-                    <h4>Current Staff</h4>
+                    <h4>Our Staff</h4>
 
                     <br />
                     <h4>Projects</h4>
@@ -165,7 +165,7 @@ research = {
 
                     <h4> Want to join us? </h4>
 
-                    We are currently looking to fill mentor and research postions for this semester, if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please send an email to <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>.
+                    We are currently looking to fill mentor and research postions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>.
 
                     <br />
                     <a href="https://goo.gl/forms/CP88XEos8anrlNwl2"> Mentor Application</a>
