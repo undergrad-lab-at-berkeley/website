@@ -32,6 +32,8 @@ research = {
         "img": "img/project/exoplanet.jpg",
         "title": "Physics and Astrophysics uLab",
         "team": ["Arjun Savel"],
+        "has_mentor": False,
+        "mentor": "",
         "staff-info": {
             "Arjun Savel": {
                 "title": "Research Director",
@@ -39,12 +41,10 @@ research = {
                 "linkedin": "https://www.linkedin.com/in/arjun-s-234859b4/",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             }
         },
-        "has_mentor": False,
-        "mentor": "",
         "content": """
                         <h4>Astrophysics</h4>
                             <p>The Astrophysics branch of uLab provides an academic outlet for first-year students with an interest in space physics, exoplanets, cosmology, and much more, regardless of their intended majors. While Astrophysics uLab functions as a gateway to classes and research opportunities for those who decide to pursue astrophysics research in the future, those who do not will leave the program with the benefits of a broad range of academic skills, research experience, and an heightened understanding of basic astrophysics.</p>
@@ -66,6 +66,8 @@ research = {
         "img": "img/project/mind-reading.png",
         "title": "Cognitive Neuroscience and Medical Imaging uLab",
         "team": ["Riley McDanal", "Annelise Meyer", "Hareen Seerha", "Valerie Burleigh", "Stephanie Chang", "Adam Bittenson", "Allie Morehouse"],
+        "has_mentor": False,
+        "mentor": "",
         "staff-info": {
             "Riley McDanal": {
                 "title": "Research Director",
@@ -73,7 +75,7 @@ research = {
                 "linkedin": "www.linkedin.com/in/riley-mcdanal",
                 "facebook": "facebook.com/riley.mcdanal",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Annelise Meyer": {
@@ -82,7 +84,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Hareen Seerha": {
@@ -91,7 +93,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Valerie Burleigh": {
@@ -100,7 +102,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Stephanie Chang": {
@@ -109,7 +111,7 @@ research = {
                 "linkedin": "www.linkedin.com/in/stephanie-chang-a97457155/",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Adam Bittenson": {
@@ -118,7 +120,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Allie Morehouse": {
@@ -127,7 +129,7 @@ research = {
                 "linkedin": "www.linkedin.com/in/allison-morehouse-6bb63a139/",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Colin Jindra": {
@@ -136,17 +138,13 @@ research = {
                 "linkedin": "https://www.linkedin.com/in/colin-jindra-17114a142/",
                 "facebook": "https://www.facebook.com/colin.jindra",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             }
         },
-        "has_mentor": True,
-        "mentor": "Colin Jindra",
         "content": """
                     <h4>Lab Overview</h4>
-                    <p>Founded Fall 2017: Jenna Martin and Riley McDanal, with a vision of offering an experience that benefits all undergraduates in the research community.
-                    </p>
-                    <p>As part of ULAB, CogSci Lab’s mission is to offer an experience that benefits all undergraduates in the research community: experienced researchers can attain leadership roles in the lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. 
+                    <p>Founded in Fall 2017 by Jenna Martin and Riley McDanal, the CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities.
                     </p>
 
                     <h4>Current Staff</h4>
@@ -167,11 +165,11 @@ research = {
 
                     <h4> Want to join us? </h4>
 
-                    We're currently looking to fill mentor and research postions for this semester, if you would like to be considered for a role in our lab next semester, please fill out the respective form: 
+                    We are currently looking to fill mentor and research postions for this semester, if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please send an email to <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>.
 
-                    <br /> 
-                    <a href="https://goo.gl/forms/CP88XEos8anrlNwl2"> Mentor Application</a> 
-                    <br /> 
+                    <br />
+                    <a href="https://goo.gl/forms/CP88XEos8anrlNwl2"> Mentor Application</a>
+                    <br />
                     <a href="https://goo.gl/forms/7DAT9Tq1JESJWZG53"> Student Researcher Application</a>
 
                 """
@@ -196,7 +194,7 @@ research = {
         "title": "Medicinal Chemistry and Clinical Research uLab",
         "team": ["Moriel Dror", "Aubrianne Milton"],
         "has_mentor": False,
-        "mentor": "Alex Powers",
+        "mentor": "",
         "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/medicine> here </a>  ",
 
     },
@@ -251,6 +249,8 @@ research = {
         "img": "",
         "title": "Operations and Publicity",
         "team": ["Yasmeen Musthafa", "Min Young Kim", "Catherine Livelo", "Justin Gerwien"],
+        "has_mentor": False,
+        "mentor": "",
         "staff-info": {
             "Yasmeen Musthafa": {
                 "title": "Director of Operations",
@@ -258,7 +258,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Min Young Kim": {
@@ -267,7 +267,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Catherine Livelo": {
@@ -276,7 +276,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Justin Gerwien": {
@@ -285,26 +285,24 @@ research = {
                 "linkedin": "linkedin.com/in/justin-gerwien-781b05106",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             }
         },
-        "has_mentor": False,
-        "mentor": "",
         "content": """
                     <h4>Publicity/Partnership Team</h4>
 
                     <p>
-                    Our team works to reach out to other campus organizations and resources in order to recruit a more diverse group of students and let students be aware of the opportunities ULAB provides. 
-                    In partnership, we strive to work together with other research organizations for undergraduate students to create a network of available resources to help students. 
-                    By publicizing ULAB to incoming freshmen who are looking to develop basic research skills and to other undergraduates with leadership opportunities, 
+                    Our team works to reach out to other campus organizations and resources in order to recruit a more diverse group of students and let students be aware of the opportunities ULAB provides.
+                    In partnership, we strive to work together with other research organizations for undergraduate students to create a network of available resources to help students.
+                    By publicizing ULAB to incoming freshmen who are looking to develop basic research skills and to other undergraduates with leadership opportunities,
                     we want to allow more students to gain valuable experiences that will help their undergraduate carrier both professionally and personally.
                     </p>
 
                     <h4>Current Staff</h4>
 
                     """,
-                    
+
     },
     "ATG-ulab": {
         "date": "12 March, 2018",
@@ -313,6 +311,8 @@ research = {
         "img": "img/project/human-circuit.jpg",
         "title": "Advanced Technologies Group",
         "team": ["Dillon Eskandar", "Neil Toledo", "Cibi Pari", "David Liu", "Kavi Vaidya", "Charlie Zhang", "Albert Huang"],
+        "has_mentor": False,
+        "mentor": "",
         "staff-info": {
             "Dillion Eskandar": {
                 "title": "Director of Advanced Technologies Group",
@@ -320,7 +320,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Neil Toledo": {
@@ -329,7 +329,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Cibi Pari": {
@@ -338,7 +338,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "David Liu": {
@@ -347,7 +347,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Kavi Vaidya": {
@@ -356,7 +356,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Charlie Zhang": {
@@ -365,7 +365,7 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             },
             "Albert Huang": {
@@ -374,12 +374,10 @@ research = {
                 "linkedin": "",
                 "facebook": "",
                 "github": "",
-                "personal website": "",
+                "personal": "",
                 "img": ""
             }
         },
-        "has_mentor": False,
-        "mentor": "",
         "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/atg> here </a> ",
     },
 }
