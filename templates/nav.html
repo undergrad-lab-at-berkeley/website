@@ -53,18 +53,12 @@
                             </ul> -->
                             <a href="#">Our Labs</a>
                             <ul>
-                                <!-- {% if 'priority' in data %}
-                                    <p>Priority: {{ data['priority'] }}</p>
-                                {% endif %} -->
-
                                 {% for lab in navLabs %}
-                                    {% if '' in lab['status'] %}
-                                        <li>
-                                            <a href="{{ lab['url'] }}">
-                                                <small>{{ lab['name'] }}</small>
-                                            </a>
-                                        </li>
-                                    {% endif %}
+                                    <li>
+                                        <a href="{{ lab['url'] }}">
+                                            <small>{{ lab['name'] }}</small>
+                                        </a>
+                                    </li>
                                 {% endfor %}
                             </ul>
               	         </li>
