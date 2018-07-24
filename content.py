@@ -35,18 +35,18 @@ research = {
             }
         },
         "content": """
-                        <h4>Astrophysics</h4>
-                            <p>The Astrophysics branch of uLab provides an academic outlet for first-year students with an interest in space physics, exoplanets, cosmology, and much more, regardless of their intended majors. While Astrophysics uLab functions as a gateway to classes and research opportunities for those who decide to pursue astrophysics research in the future, those who do not will leave the program with the benefits of a broad range of academic skills, research experience, and an heightened understanding of basic astrophysics.</p>
-                            <p>In this sense, uLab welcomes passionate students more than anything else. From those determining their interest in a major to those to those already sure, uLab Astrophysics is a great place to improve research paper literacy, experimental design and computer programming skills, in addition to participating in the epicenter of important interdisciplinary discoveries.</p>
-                            <p>The astrophysics branch currently supports two separate projects, the first being on exoplanetary atmospheric analysis. By using open-sourced data from NASA’s Kepler mission, the group plans to create an automated method of categorizing various exoplanet’s atmospheric compositions and habitability likelihood.</p>
-                            <p>The second of the astrophysics projects focuses on black holes. By comparing the results of an existing research paper making use of RELXILL with those calculated from the new FENRIR model, students will examine black hole spins and hone computational skills.</p>
-                        <h4>Condensed Matter</h4>
-                            <p>The Condensed Matter branch of uLab allows students with an interest in atomic and molecular physics to investigate the mechanical, electrical, magnetic, and optical properties of nanomaterials and nanostructures. Students who join the condensed matter team will learn about the various techniques and methods that are prevalent throughout the field. We work closely with research groups in the physics department. Current areas of research at Berkeley are quantum information, physics of nanomaterials, magnetism, quantum materials, optical properties, photoemission, superconductivity, and new materials. Our undergraduate mentors are involved in various condensed matter research groups, and can share their experience in the field as they guide students in their projects.</p>
-                            <p>Given the interdisciplinary nature of the field of condensed matter, students from various majors, such as physics, chemistry, biology, materials science and engineering are welcome to join. Students interested in developing applicable research skills, such as learning how to write research papers, being introduced to working in a laboratory environment, and professional development are invited to pursue independent research with our undergraduate mentors.</p>
-                            <p>The condensed matter branch of uLab is currently running projects in graphene deposition and high-temperature superconductors. In the graphene project, we compare two chemical vapor deposition techniques. Between both growth methods, we will compare the prevalence of surface defects and deformations in graphene, and the yield and quality of growth.
-                        <h4>Particle Physics</h4>
-                            <p>The uLab Particle Physics Group allows first-year students interested in particle, nuclear, and high-energy physics to learn about the research community at Berkeley while performing new research in fundamental physics. This semester, the particle physics group is investigating the possibility of active cosmic ray shielding using magnetic fields in order to reduce the noise in precision particle physics experiments. The group will be constructing a particle detector and measuring the reduction in particle intensity when different shielding designs are used. In the process, students will also learn about statistics and data analysis as well as software commonly used in the particle physics. An effective shield will allow the group to pursue other precision experiments without the interference of cosmic rays.</p>
-                        """,
+            <h4>Astrophysics</h4>
+                <p>The Astrophysics branch of uLab provides an academic outlet for first-year students with an interest in space physics, exoplanets, cosmology, and much more, regardless of their intended majors. While Astrophysics uLab functions as a gateway to classes and research opportunities for those who decide to pursue astrophysics research in the future, those who do not will leave the program with the benefits of a broad range of academic skills, research experience, and an heightened understanding of basic astrophysics.</p>
+                <p>In this sense, uLab welcomes passionate students more than anything else. From those determining their interest in a major to those to those already sure, uLab Astrophysics is a great place to improve research paper literacy, experimental design and computer programming skills, in addition to participating in the epicenter of important interdisciplinary discoveries.</p>
+                <p>The astrophysics branch currently supports two separate projects, the first being on exoplanetary atmospheric analysis. By using open-sourced data from NASA’s Kepler mission, the group plans to create an automated method of categorizing various exoplanet’s atmospheric compositions and habitability likelihood.</p>
+                <p>The second of the astrophysics projects focuses on black holes. By comparing the results of an existing research paper making use of RELXILL with those calculated from the new FENRIR model, students will examine black hole spins and hone computational skills.</p>
+            <h4>Condensed Matter</h4>
+                <p>The Condensed Matter branch of uLab allows students with an interest in atomic and molecular physics to investigate the mechanical, electrical, magnetic, and optical properties of nanomaterials and nanostructures. Students who join the condensed matter team will learn about the various techniques and methods that are prevalent throughout the field. We work closely with research groups in the physics department. Current areas of research at Berkeley are quantum information, physics of nanomaterials, magnetism, quantum materials, optical properties, photoemission, superconductivity, and new materials. Our undergraduate mentors are involved in various condensed matter research groups, and can share their experience in the field as they guide students in their projects.</p>
+                <p>Given the interdisciplinary nature of the field of condensed matter, students from various majors, such as physics, chemistry, biology, materials science and engineering are welcome to join. Students interested in developing applicable research skills, such as learning how to write research papers, being introduced to working in a laboratory environment, and professional development are invited to pursue independent research with our undergraduate mentors.</p>
+                <p>The condensed matter branch of uLab is currently running projects in graphene deposition and high-temperature superconductors. In the graphene project, we compare two chemical vapor deposition techniques. Between both growth methods, we will compare the prevalence of surface defects and deformations in graphene, and the yield and quality of growth.
+            <h4>Particle Physics</h4>
+                <p>The uLab Particle Physics Group allows first-year students interested in particle, nuclear, and high-energy physics to learn about the research community at Berkeley while performing new research in fundamental physics. This semester, the particle physics group is investigating the possibility of active cosmic ray shielding using magnetic fields in order to reduce the noise in precision particle physics experiments. The group will be constructing a particle detector and measuring the reduction in particle intensity when different shielding designs are used. In the process, students will also learn about statistics and data analysis as well as software commonly used in the particle physics. An effective shield will allow the group to pursue other precision experiments without the interference of cosmic rays.</p>
+            """,
     },
     "cogsci-ulab": {
         "date": "17 Nov, 2017",
@@ -62,7 +62,7 @@ research = {
                 "title": "Research Director",
                 "email": "rileymcdanal@berkeley.edu or cogsci.ulab@berkeley.edu",
                 "linkedin": "www.linkedin.com/in/riley-mcdanal",
-                "facebook": "facebook.com/riley.mcdanal",
+                "facebook": "www.facebook.com/riley.mcdanal",
                 "github": "",
                 "personal": "",
                 "img": ""
@@ -70,26 +70,26 @@ research = {
             "Annelise Meyer": {
                 "title": "Vice Research Director",
                 "email": "annelise.meyer@berkeley.edu",
-                "linkedin": "",
-                "facebook": "",
+                "linkedin": "www.linkedin.com/in/annelise-meyer/ ",
+                "facebook": "www.facebook.com/anna.meyer.16718 ",
                 "github": "",
                 "personal": "",
                 "img": ""
             },
             "Hareen Seerha": {
                 "title": "Lab Manager",
-                "email": "",
+                "email": "hareen_seerha@berkeley.edu",
                 "linkedin": "",
-                "facebook": "",
+                "facebook": "www.facebook.com/hareen.seerha",
                 "github": "",
                 "personal": "",
                 "img": ""
             },
             "Valerie Burleigh": {
                 "title": "Operations Director",
-                "email": "",
-                "linkedin": "",
-                "facebook": "",
+                "email": "valerie.burleigh@berkeley.edu",
+                "linkedin": "www.linkedin.com/in/valerieannburleigh/",
+                "facebook": "www.facebook.com/valerie.burleigh.3",
                 "github": "",
                 "personal": "",
                 "img": ""
@@ -105,9 +105,9 @@ research = {
             },
             "Adam Bittenson": {
                 "title": "Finance Director",
-                "email": "",
-                "linkedin": "",
-                "facebook": "",
+                "email": "abittenson@berkeley.edu",
+                "linkedin": "www.linkedin.com/in/adam-bittenson-368507163",
+                "facebook": "www.facebook.com/profile.php?id=100000579046414",
                 "github": "",
                 "personal": "",
                 "img": ""
