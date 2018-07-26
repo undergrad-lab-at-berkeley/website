@@ -1,0 +1,270 @@
+{% extends "base.html" %}
+
+{% block title %}
+    <title>About Us | Undergraduate Lab @ Berkeley</title>
+{% endblock %}
+
+{% block body %}
+  <br/>
+  <div class="container">
+    <div class="row center-div">
+      <h1> About Us </h1>
+    </div>
+    <div class="row center-div">
+      <div class="lab-content">
+        <div class="row"><!-- col-md-10 col-md-offset-1 -->
+                <div class="col-sm-12 text-center">
+                    <!-- <h4 class="uppercase mb80">Button Tabs</h4> -->
+                    <!-- <h3 class="uppercase color-primary mb40 mb-xs-24">ABOUT US</h3> -->
+                    <div class="tabbed-content button-tabs">
+                        <ul class="tabs">
+                            <li class="active">
+                                <div class="tab-title">
+                                    <span>Mission</span>
+                                </div>
+                                <div class="tab-content col-md-10 col-md-offset-1">
+                                    <p class="lead">
+                                        A productive and enjoyable undergraduate research experience at Berkeley requires a significant activation energy that deters many beginning students. This stems from a tendency for many programs to favor already experienced students and difficulty for new students in navigating a complex myriad of resources. Additionally, students who assist graduate mentors often do not get the chance to generate ideas themselves or interact with other undergraduate researchers in diverse fields.<br><br>ULAB proposes to create an undergraduate “research lab” to gently introduce new students to research at Berkeley as well as provide a social/mentoring experience for already advanced undergraduate researchers to learn from each other and develop professionally. “Lab members” will attend workshops on professional communications or reading research papers, go on tours of campus research labs, listen to talks by professors, and present on their own research work. The program is particularly aimed at students who are interested in research but might not be as aggressive or experienced to seek out these opportunities on their own – ULAB will be the catalyst to kickstart their Berkeley research careers.
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="tab-title">
+                                    <span>Founders</span>
+                                </div>
+                                <div class="tab-content">
+                                    <div class="container" style="padding-top: 50px">
+                                        {% for person in foundersOrder %}
+
+                                            {% if loop.index % 3 == 0 %}
+                                            <div class="row">
+                                            {% endif %}
+                                                <div class="col-md-4">
+                                                    <div class="image-tile outer-title text-center">
+                                                        <img alt="Pic" src="{{ founders[person]['img'] }}" class="profile-img">
+                                                        <div class="title">
+                                                            <h5 class="uppercase mb0">{{ person }}</h5>
+                                                            <!-- <span>{{ founders[person]['title'] }}</span> -->
+                                                            <div class="bio-icon">
+                                                                {% if not founders[person]['personal'] == '' %}
+                                                                    <span><a href="{{ founders[person]['personal'] }}" target="_blank"><i class="ti-world"></i></a></span>
+                                                                {% endif %}
+                                                                {% if not founders[person]['github'] == '' %}
+                                                                    <span><a href="{{ founders[person]['github'] }}" target="_blank"><i class="ti-github"></i></a></span>
+                                                                {% endif %}
+                                                                {% if not founders[person]['linkedin'] == '' %}
+                                                                    <span><a href="{{ founders[person]['linkedin'] }}" target="_blank"><i class="ti-linkedin"></i></a></span>
+                                                                {% endif %}
+                                                                {% if (founders[person]['linkedin'] == '') and (founders[person]['github'] == '') and (founders[person]['personal'] == '') %}
+                                                                <div class="mb16"></div>
+                                                                {% endif %}
+                                                            </div>
+                                                        </div>
+                                                        <p class="mb0">
+                                                            {{ founders[person]['bio'] }}
+                                                        </p>
+                                                    </div>
+                                                </div>
+
+                                            {% if loop.index % 3 == 0 %}
+                                            </div>
+                                            {% endif %}
+
+                                        {% endfor %}
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="tab-title">
+                                    <span>Advisors</span>
+                                </div>
+                                <div class="tab-content">
+                                    <div class="container" style="padding-top: 50px">
+                                        {% for person in advisors %}
+
+                                            {% if loop.index % 3 == 0 %}
+                                            <div class="row">
+                                            {% endif %}
+                                                <div class="col-md-4">
+                                                    <div class="image-tile outer-title text-center">
+                                                        <img alt="Pic" src="{{ advisors[person]['img'] }}" class="profile-img">
+                                                        <div class="title">
+                                                            <h5 class="uppercase mb0">{{ person }}</h5>
+                                                            <!-- <span>{{ advisors[person]['title'] }}</span> -->
+                                                        </div>
+                                                        <p class="mb0">
+                                                            {{ advisors[person]['bio'] }}
+                                                        </p>
+                                                    </div>
+                                                </div>
+
+                                            {% if loop.index % 3 == 0 %}
+                                            </div>
+                                            {% endif %}
+
+                                        {% endfor %}
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="tab-title">
+                                    <span>Leadership</span>
+                                </div>
+                                <div class="tab-content">
+                                    <p class="lead">
+                                        {% for person in team %}
+
+                                            {% if loop.index % 3 == 0 %}
+                                            <div class="row">
+                                            {% endif %}
+                                                <div class="col-md-4">
+                                                    <div class="image-tile outer-title text-center">
+                                                        <img alt="Pic" src="{{ team[person]['img'] }}" class="profile-img">
+                                                        <div class="title">
+                                                            <h5 class="uppercase mb0">{{ person }}</h5>
+                                                            <div class="bio-icon">
+                                                                {% if not team[person]['personal'] == '' %}
+                                                                    <span><a href="{{ team[person]['personal'] }}" target="_blank"><i class="ti-world"></i></a></span>
+                                                                {% endif %}
+                                                                {% if not team[person]['github'] == '' %}
+                                                                    <span><a href="{{ team[person]['github'] }}" target="_blank"><i class="ti-github"></i></a></span>
+                                                                {% endif %}
+                                                                {% if not team[person]['linkedin'] == '' %}
+                                                                    <span><a href="{{ team[person]['linkedin'] }}" target="_blank"><i class="ti-linkedin"></i></a></span>
+                                                                {% endif %}
+                                                                {% if (team[person]['linkedin'] == '') and (team[person]['github'] == '') and (team[person]['personal'] == '') %}
+                                                                <div class="mb16"></div>
+                                                                {% endif %}
+                                                            </div>
+                                                        </div>
+                                                        <p class="mb0">
+                                                            {{ team[person]['bio'] }}
+                                                        </p>
+                                                    </div>
+                                                </div>
+
+                                            {% if loop.index % 3 == 0 %}
+                                            </div>
+                                            {% endif %}
+
+                                        {% endfor %}
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="tab-title">
+                                    <span>Partners</span>
+                                </div>
+                                <div class="tab-content col-md-10 col-md-offset-1">
+                                    <!-- <p class="lead">
+                                        <img src="{{ url_for('static', filename='img/partner/partner1.png')}}">
+                                        <img src="{{ url_for('static', filename='img/partner/partner2.jpg')}}">
+                                        <img src="{{ url_for('static', filename='img/partner/partner3.jpg')}}">
+                                    </p> -->
+
+                                    <div class="col-md-4">
+                                        <img alt="Pic" src="{{ url_for('static', filename='img/partner/partner1.png') }}" style="height: 240px; max-width: 300px; padding: 15px">
+                                    </div>
+
+
+                                    <div class="col-md-4">
+                                        <img alt="Pic" src="{{ url_for('static', filename='img/partner/wise.png') }}" style="height: 100px; padding: 5px; margin-top: 75px;">
+                                    </div>
+
+
+                                   <!--  <div class="col-md-3"></div> -->
+                                    <div class="col-md-4">
+                                        <img alt="Pic" src="{{ url_for('static', filename='img/partner/bsj.png') }}" style="height: 100px; padding: 5px; margin-top: 75px">
+                                    </div>
+
+                                </div>
+                            </li>
+                            <li>
+                                <div class="tab-title">
+                                    <span>FAQs</span>
+                                </div>
+                                <div class="tab-content col-md-10 col-md-offset-1" style="text-align: left">
+                                    <ol>
+                                        <li>What are the preferred qualifications in a lab?
+                                            <ul type="disc">
+                                                <li>Executive Staff: posses strong research knowledge, think innovatively, able to be highly flexible, and work well without supervision; creative, dedicated, and comfortable with horizontal leadership</li>
+                                                <li>Mentors: posses some form of laboratory-based research experience; proficient in tutoring, solving social problems, and overseeing a group dynamic; innovative, creative, and well-versed in their subject area of choice</li>
+                                                <li>Mentees: posses a strong passion for their realm of research, a willingness to work hard even when innovative thinking is required, and responsibility in a group work environment.</li>
+                                            </ul>
+                                        </li>
+
+                                        <p></p>
+
+                                        <li>
+                                            How do you pick the projects?
+                                            <p>Typically, the leadership lets the mentors use their subject area of choice for their mentorship, with leadership approval and support. The mentees work with the mentor to develop a specific research question in the area of interest. These change each year.</p>
+                                        </li>
+                                        <li>
+                                            How does this help me advance my research career?
+                                            <p>Students can learn necessary skills and show their dedication to research in our year-long self-propelled research projects. Furthermore, we work with students to help them gain admittance to labs of their choice. Staff can gain leadership experience in a laboratory setting, often a rarity for undergraduates. For all members, there is opportunity for advancement to our executive team, including positions such as Research Director and Lab Manager, which we intend to shift each year to give this opportunity to the most students possible.</p>
+                                        </li>
+                                        <li>
+                                            What if I have a busy or strict schedule?
+                                            <p>This lab is for undergraduates by undergraduates. We work very hard to be accommodating to each of our members. Students are helped by mentors, mentors are helped by the executive team, and the executive team is helped by the Research Director and Lab Manager. We all work communally to shift work around as appropriate, and almost all meetings are flexible. Much of the lab’s work is done individually so that students and staff can fit their activities around their own schedules.</p>
+                                        </li>
+                                        <li>
+                                            Is ULAB right for me?
+                                            <p>Do you have a passion for research? For helping the more inexperienced/underrepresented students? For working on projects in your own area of interest? For working collaboratively? Are you comfortable having the responsibility of adding your own vision to whatever position you may hold? If yes, then this organization is for you.</p>
+                                        </li>
+                                    </ol>
+                                </div>
+                            </li>
+                            <!-- <li>
+                                <div class="tab-title">
+                                    <span>Organizational Details</span>
+                                </div>
+                                <div class="tab-content col-md-10 col-md-offset-1" style="text-align: left">
+                                    <h3>Online Calendar</h3>
+                                      <p class="lead">The ULAB calendar can be viewed <a href="https://calendar.google.com/calendar/embed?src=berkeley.edu_u7ffo9gvmuo9ijovg6vcjf07v4%40group.calendar.google.com&ctz=America%2FLos_Angeles">here</a>.</p>
+                                      <p class="lead">If you use Google Calendar, you can easily add it to your own personal calendar by clicking on the “+Google Calendar” button in the bottom right-hand corner.</p>
+                                      <img alt="Pic" src="{{ url_for('static', filename='img/google-calendar.png') }}" style="height: 200pt; padding: 5px; margin-top: 10px;  margin-bottom: 30px">
+
+                                    <h3>Organizational Chart</h3>
+                                      <p class="lead">The ULAB organizational chart can be viewed <a href="/org-chart">here</a>.</p>
+
+                                    <h3>Facebook Page</h3>
+                                      <p class="lead">All public ULAB events can be found on Facebook. You can subscribe to be notified of new events at <a href="https://www.facebook.com/ulab.berkeley/">www.facebook.com/ulab.berkeley/</a>. </p>
+                                      <p class="lead"> For detailed instructions about the process, click <a href="https://www.facebook.com/help/1076296042409786">here</a>. </p>
+                                </div>
+                            </li> -->
+                        </ul>
+                    </div>
+                    <!--end of button tabs-->
+                </div>
+            </div>
+            <!--end of row-->
+      </div>
+      <!--end of lab-content-->
+    </div>
+    <!--end of row center div-->
+  </div>
+  <!--end of container-->
+
+  <style>
+    body {
+      background-color: white;
+    }
+    .center-div {
+      display: flex;
+      justify-content: center;
+    }
+    .center-div > img {
+      height:300px;
+      width:300px;
+    }
+    .lab-content {
+      margin: 10px 50px;
+    }
+    .profile-img {
+      height: 240px;
+      max-width: 240px;
+      border-radius: 50%;
+    }
+  </style>
+
+{% endblock %}

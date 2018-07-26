@@ -1,53 +1,14 @@
 {% extends "base.html" %}
 
 {% block body %}
-<section class="align-middle" style="font-size:2em; margin:0 2em">
-  <h1 style="text-align: center">Join ULAB Today!</h1>
-
-  <div class="container">
-    <div class="row"><!-- col-md-10 col-md-offset-1 -->
-        <div class="col-sm-12 text-center">
-          <div class="tabbed-content button-tabs">
-
-<!--             <ul class="tabs">
-              {% for job_category in lab_jobs["job_categories"].keys() %}
-              <li>
-                  <div class="tab-title">
-                      <span>{{ job_category }}</span>
-                  </div>
-
-                    <div class="list-group">
-                      {% for job in lab_jobs["job_categories"][job_category].keys() %}
-                      <a href={{ lab_jobs["job_categories"][job_category][job]["link"] }} class="list-group-item list-group-item-action">
-                        <div style="display: inline-block">{{ job }}</div>
-                      </a>
-
-                      <div style="padding: 1em 1em; text-align: left">
-                        <p style="font-size:16px">Application Deadline: {{ lab_jobs["job_categories"][job_category][job]['deadline'] }}</p>
-                        <p style="font-size:16px">{{ lab_jobs["job_categories"][job_category][job]['description'] }}</p>
-                        <p style="font-size:16px">{{ lab_jobs["job_categories"][job_category][job]['qualifications'] }}</p>
-                        <p style="font-size:16px">{{ lab_jobs["job_categories"][job_category][job]['commitment'] }}</p>
-                        <p style="font-size:16px">{{ lab_jobs["job_categories"][job_category][job]['perks'] }}</p>
-                      </div>
-
-                      <a type="button" href={{ lab_jobs["job_categories"][job_category][job]["link"] }} class="btn btn-primary btn-sm" style="color: white; background: #47b475;">
-                        Apply
-                      </a>
-
-                      {% endfor %}
-                    </div>
-
-
-                  </div>
-              </li>
-              {% endfor %}
-            </ul> -->
-
-            
-          </div>
-        </div>
-      </div>
-    </div>
-
+<section class="align-middle" style="font-size:1.5em; margin:0 2em">
+  <h3 style="text-align: center"> Select a uLab below to learn more about it (and see current openings) </h3>
+  {% for lab in labs.keys() %}
+    <center>
+      <a href= {{ "/labs/{}".format(lab) }}> {{ labs[lab]["full_name"] }} </a>
+      <br>
+      <br>
+    </center>
+  {% endfor %}
 </section>
 {% endblock %}

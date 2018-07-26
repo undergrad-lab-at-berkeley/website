@@ -7,12 +7,12 @@
       <img src={{ lab['logo'] }}>
     </div>
     <div class="row center-div">
-      <h1> Welcome to Research! :) </h1>
+      <h1 class="lab-title"> {{ lab['full_name']}} </h1>
     </div>
     <div class="row center-div">
-      <p>
-        &emsp;&emsp;&emsp;&emsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit quis libero eu iaculis. Donec a turpis placerat, mattis erat aliquet, semper diam. Donec magna nisl, blandit pellentesque vehicula in, egestas eget est. Phasellus molestie, tellus in euismod lobortis, quam ligula rhoncus sapien, vitae laoreet eros lorem vulputate dui. Donec blandit neque non neque ullamcorper semper. Sed maximus varius est lobortis finibus. Nunc eu sapien dui. Donec aliquam, massa nec suscipit tincidunt, augue massa vulputate metus, quis euismod odio nisi et erat.
-      </p>
+      <div class="lab-content">
+        {{ lab['content']|safe }}
+      </div>
     </div>
   </div>
   
@@ -27,6 +27,12 @@
     .center-div > img {
       height:300px;
       width:300px;
+    }
+    .lab-title {
+      margin: 0px 50px;
+    }
+    .lab-content {
+      margin: 25px 50px;
     }
   </style>
 {% endblock %}
