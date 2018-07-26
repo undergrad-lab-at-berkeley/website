@@ -72,5 +72,4 @@ def internal_server_error(e):
 
 #################### Main App #####################
 if __name__ == "__main__":
-    # app.run(use_reloader=True, debug=True)
-    app.run()
+    app.run(use_reloader=True, debug=True)

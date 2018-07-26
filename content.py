@@ -602,7 +602,7 @@ labs = {
     },
 
     "aerospace": {
-            "logo" : u"static/img/logos/logo_robotics_aero.png",
+            "logo" : u"/static/img/logos/logo_robotics_aero.png",
             "short_name": "aerospace",
             "full_name": "Robotics and Aerospace Engineering",
             "navbar": "Robotics and Aerospace Engineering",
