@@ -27,7 +27,7 @@ def labs():
 @app.route("/labs/<name>")
 def lab(name=None):
     if name in content.labs.keys():
-        return render_template("lab.html", lab=content.labs[name])
+        return render_template("lab.html", lab=content.labs[name], members=members)
     else:
         return render_template('404.html'), 404
 

@@ -18,7 +18,7 @@ members = {
 
         "Riley McDanal": {
             "title": "Research Director",
-            "email": "rileymcdanal@berkeley.edu or cogsci.ulab@berkeley.edu",
+            "email": "rileymcdanal@berkeley.edu",
             "linkedin": "www.linkedin.com/in/riley-mcdanal",
             "facebook": "www.facebook.com/riley.mcdanal",
             "github": "",
@@ -101,11 +101,11 @@ members = {
         "Neil Toledo": {
             "title": "Deputy Director of Advanced Technologies Group",
             "email": "ntoledo@berkeley.edu",
-            "linkedin": "",
+            "linkedin": "https://www.linkedin.com/in/neil-toledo/",
             "facebook": "",
-            "github": "",
+            "github": "https://github.com/nnt1054",
             "personal": "",
-            "img": ""
+            "img": "img/team/neil_toledo.jpg"
         },
         "Cibi Pari": {
             "title": "Deputy Director of Technology",
@@ -154,7 +154,6 @@ members = {
         },
         "Yasmeen Musthafa": {
             "title": "Director of Operations",
-            "position": "Operations Director",
             "email": "yasmeenm@berkeley.edu",
             "linkedin": "",
             "facebook": "",
@@ -163,12 +162,12 @@ members = {
             "img": ""
         },
         "Min Young Kim": {
-            "img": "img/team/min_young_kim.jpg",
-            "position": "Publicity Director",
+            "title": "Publicity Director",
             "email": "Minyoung.kim@berkeley.edu",
             "personal": "",
             "github": "",
             "linkedin": "https://www.linkedin.com/in/min-young-kim-93281211a/",
+            "img": "img/team/min_young_kim.jpg",
             "bio": """I love listening to music and spend too much money on different concerts. While I also enjoy watching movies, I usually get too lazy to go to a movie theater to actually watch any of them, so I most likely will not get your movie references."""
         },
         "Catherine Livelo": {

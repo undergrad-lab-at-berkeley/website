@@ -9,11 +9,51 @@
     <div class="row center-div">
       <h1 class="lab-title"> {{ lab['full_name']}} </h1>
     </div>
+
     <div class="row center-div">
       <div class="lab-content">
-        {{ lab['content']|safe }}
+        <h4> {{ lab['content']['overview']['title'] | safe }}</h4>
+        <p> {{ lab['content']['overview']['text'] | safe }} </p>
+        <br/>
+
+        {% if lab['members']|length > 0 %}
+          <h4> Our Staff </h4>
+          <div class="row" style="display:flex; justify-content:center; flex-wrap:wrap;">
+          {% for person in lab['members'] %}
+
+                  <div class="col-md-3">
+                      <div class="image-tile outer-title text-center">
+                          <img alt="Pic" src="{{ url_for('static', filename=members[person]['img']) }}" class="profile-img">
+                          <div class="title">
+                              <h6 class="uppercase mb0">{{ person }} </h6>
+                              <h7> {{ members[person]['title'] }} </h7>
+                              <div class="bio-icon">
+                                  <span> {{ members[person]['email'] }} </span> <br/>
+                                  {% if not members[person]['personal'] == '' %}
+                                      <span><a href="{{ members[person]['personal'] }}" target="_blank"><i class="ti-world"></i></a></span>
+                                  {% endif %}
+                                  {% if not members[person]['github'] == '' %}
+                                      <span><a href="{{ members[person]['github'] }}" target="_blank"><i class="ti-github"></i></a></span>
+                                  {% endif %}
+                                  {% if not members[person]['linkedin'] == '' %}
+                                      <span><a href="{{ members[person]['linkedin'] }}" target="_blank"><i class="ti-linkedin"></i></a></span>
+                                  {% endif %}
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+          {% endfor %}
+          </div>
+          <br/>
+        {% endif %}
+
+        <h4> {{ lab['content']['join']['title'] | safe }} </h4>
+        <p> {{ lab['content']['join']['text'] | safe }} </p>
+        <br/>
       </div>
     </div>
+
   </div>
   
   <style>
@@ -33,6 +73,11 @@
     }
     .lab-content {
       margin: 25px 50px;
+    }
+    .profile-img {
+      height: 240px;
+      max-width: 240px;
+      border-radius: 50%;
     }
   </style>
 {% endblock %}
