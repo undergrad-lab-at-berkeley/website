@@ -1,6 +1,7 @@
 import os
 from flask import Flask, render_template, url_for, redirect, request
 from flask import abort
+from members import members
 import content
 import pdb
 
@@ -14,6 +15,9 @@ for x in content.labs:
             "url": "/labs/{}".format(x),
             "name": content.labs[x]["full_name"]
         })
+for member in members:
+    if not members[member]['img']:
+        members[member]['img'] = 'img/temp_pic.png'
 
 @app.route("/join-page")
 @app.route("/labs/")
@@ -33,32 +37,13 @@ def utility_processor1():
 
 @app.route("/")
 def index():
-    return render_template("index.html", labs=content.labs, lab_ordering=content.lab_ordering)
+    return render_template("index.html", labs=content.labs, lab_ordering=content.labOrder)
 
 @app.route("/about")
 def about():
-    founders = content.founders
-    for name in founders:
-        if founders[name]['img']:
-            founders[name]['img'] = url_for('static', filename=founders[name]['img'])
-        else:
-            founders[name]['img'] = url_for('static', filename='img/temp_pic.png')
-
-    advisors = content.advisors
-    for name in advisors:
-        if advisors[name]['img']:
-            advisors[name]['img'] = url_for('static', filename=advisors[name]['img'])
-        else:
-            advisors[name]['img'] = url_for('static', filename='img/temp_pic.png')
-
-    team = content.team
-
-    for name in team:
-        if team[name]['img']:
-            team[name]['img'] = url_for('static', filename=team[name]['img'])
-        else:
-            team[name]['img'] = url_for('static', filename='img/temp_pic.png')
-
+    founders = { name: members[name] for name in content.foundersOrder }
+    advisors = { name: members[name] for name in content.advisorsOrder }
+    team = { name: members[name] for name in content.teamOrder }
     return render_template("about.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
 
 ##################### Error Handling #####################

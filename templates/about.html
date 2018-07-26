@@ -41,7 +41,7 @@
                                             {% endif %}
                                                 <div class="col-md-4">
                                                     <div class="image-tile outer-title text-center">
-                                                        <img alt="Pic" src="{{ founders[person]['img'] }}" class="profile-img">
+                                                        <img alt="Pic" src="{{ url_for('static', filename=founders[person]['img']) }}" class="profile-img">
                                                         <div class="title">
                                                             <h5 class="uppercase mb0">{{ person }}</h5>
                                                             <!-- <span>{{ founders[person]['title'] }}</span> -->
@@ -87,7 +87,7 @@
                                             {% endif %}
                                                 <div class="col-md-4">
                                                     <div class="image-tile outer-title text-center">
-                                                        <img alt="Pic" src="{{ advisors[person]['img'] }}" class="profile-img">
+                                                        <img alt="Pic" src="{{ url_for('static', filename=advisors[person]['img']) }}" class="profile-img">
                                                         <div class="title">
                                                             <h5 class="uppercase mb0">{{ person }}</h5>
                                                             <!-- <span>{{ advisors[person]['title'] }}</span> -->
@@ -119,7 +119,7 @@
                                             {% endif %}
                                                 <div class="col-md-4">
                                                     <div class="image-tile outer-title text-center">
-                                                        <img alt="Pic" src="{{ team[person]['img'] }}" class="profile-img">
+                                                        <img alt="Pic" src="{{ url_for('static', filename=team[person]['img']) }}" class="profile-img">
                                                         <div class="title">
                                                             <h5 class="uppercase mb0">{{ person }}</h5>
                                                             <div class="bio-icon">

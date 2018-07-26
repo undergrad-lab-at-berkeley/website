@@ -27,9 +27,9 @@
               <a href="/labs/{{lab_key}}">
                 <img src="{{ labs[lab_key]['logo'] }}">
               </a>
-              <div class="title">
+              <a class="title" href="/labs/{{lab_key}}">
                 <h6 class="uppercase mb0"> {{ labs[lab_key]['full_name'] }}</h6>
-              </div>
+              </a>
             </div>
         </div>
       {% endfor %}
@@ -42,9 +42,9 @@
               <a href="/labs/{{lab_key}}">
                 <img src="{{ labs[lab_key]['logo'] }}">
               </a>
-              <div class="title">
+              <a class="title" href="/labs/{{lab_key}}">
                 <h6 class="uppercase mb0"> {{ labs[lab_key]['full_name']}} </h6>
-              </div>
+              </a>
               <div class="title">
                 <h6 class="uppercase mb0 red-title"> {{ "[{}]".format(labs[lab_key]['status']) }} </h6>
               </div>
