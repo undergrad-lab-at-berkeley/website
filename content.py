@@ -51,15 +51,22 @@ labs = {
             "full_name": u"Physics and Astrophysics",
             "navbar": u"Physics",
             "status": "Active",
-            "members": ["Arjun Savel"],
+            "members": ["Arjun Savel", "Kim Ambrocio", "Thomas Low"],
             "content": {
                 "overview": {
-                    "title": "Text",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "title": "Lab Overview",
+                    "text": """
+                        Founded in Fall 2017, the Physics and Astronomy Lab aims to make the transition into undergraduate physics and astrophysics research as seamless as possible. On a technical level, this involves introducing students in our group to underlying processes associated with research — namely, programming and performing statistical tests. Our program, however, extends beyond coursework. With the help of experienced undergraduate mentors, we guide students through research of their choosing over the course of an academic year, helping them to make sense of the current literature, isolate a feasible project, and execute it on a reasonable timescale. In doing so, we provide students with the opportunity to expand their interests and provide mentors with leadership roles within the research community. <br/>
+                        In the 2017-18 academic year, the Physics and Astronomy Lab ran five projects in astrophysics, condensed matter, and particle physics. We plan to run upward of seven projects in the coming year, with topics based on mentor experience and student interest.
+                    """
                 },
                 "join": {
                     "title": "Want to join us?",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "text": """
+                        In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
+                        <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Application </a> <br/>
+                        <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
+                    """
                 }
             }
     },
@@ -74,7 +81,7 @@ labs = {
             "content": {
                 "overview": {
                     "title": "Page Under Contstruction",
-                    "text": "You can learn more about opportunities for students (of all years) <a href=/lab-jobs/atg> here. </a>"
+                    "text": "You can learn more about opportunities for students (of all years) <a href=/labs> here. </a>"
                 },
                 "join": {
                     "title": "Want to join us?",
@@ -89,7 +96,8 @@ labs = {
 	        "full_name" : "Operations and Publicity",
 	        "navbar" : "Operations and Publicity",
             "status": "Active",
-            "members": ["Yasmeen Musthafa", "Min Young Kim", "Catherine Livelo", "Justin Gerwien"],
+            "members": ["Yasmeen Musthafa", "Min Young Kim", "Catherine Livelo", "Justin Gerwien", "Jesslyn Cabero",
+                        "Jessica Tin", "Marwat Al-Olefi"],
             "content": {
                 "overview": {
                     "title": "Publicity/Partnership Team",

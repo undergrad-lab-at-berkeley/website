@@ -5,6 +5,7 @@ members = {
         # TO DO:
             # Need to establish consistent schema for members
             # This file is to be eventually replaced by MySQL Database
+            # Schema is incorrect for some member entries
 
         # "Full Name": {
         #     "title": ...
@@ -88,7 +89,7 @@ members = {
             "personal": "",
             "img": ""
         },
-       "Dillon Eskandar": {    
+       "Dillon Eskandar": {
             "title": "Director of Advanced Technologies Group",
             "position": "Director of Advanced Technologies Group",
             "email": "dilloneskandar@berkeley.edu",
@@ -128,9 +129,9 @@ members = {
         "Kavi Vaidya": {
             "title": "Deputy Director of Finance",
             "email": "kavid.vaidya@berkeley.edu",
-            "linkedin": "",
-            "facebook": "",
-            "github": "",
+            "linkedin": "https://www.linkedin.com/in/kavivaidya/",
+            "facebook": "https://www.facebook.com/kavi.vaidya",
+            "github": "https://www.github.com/kavibvaidya",
             "personal": "",
             "img": ""
         },
@@ -139,7 +140,7 @@ members = {
             "email": "eucbital@berkeley.edu",
             "linkedin": "",
             "facebook": "",
-            "github": "",
+            "github": "https://github.com/chfzhang",
             "personal": "",
             "img": ""
         },
@@ -240,11 +241,55 @@ members = {
             "position": "Research Director: Physics and Astrophysics",
             "email": "asavel@berkeley.edu",
             "linkedin": "https://www.linkedin.com/in/arjun-s-234859b4/",
-            "facebook": "",
+            "facebook": "https://www.facebook.com/arjun.savel",
             "github": "",
             "personal": "",
             "img": "",
-            "bio": """To be added"""
+            "bio": ""
+        },
+        "Kim Ambrocio": {
+            "title": "Lab Manager",
+            "email": "ambrociokim@gmail.com",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": ""
+        },
+        "Thomas Low": {
+            "title": "Finance Chair",
+            "email": "thomaslow@berkeley.edu",
+            "linkedin": "https://www.linkedin.com/in/thomas-low-003018156/",
+            "facebook": "https://www.facebook.com/thomas.low.3781",
+            "github": "https://github.com/thomas-low",
+            "personal": "",
+            "img": ""
+        },
+        "Jesslyn Cabero": {
+            "title": "Social Media Manager",
+            "email": "jesslync@berkeley.edu",
+            "linkedin": "https://www.linkedin.com/in/jesslyn-cabero-a747bb131",
+            "facebook": "https://www.facebook.com/thomas.low.3781",
+            "github": "",
+            "personal": "",
+            "img": ""
+        },
+        "Jessica Tin": {
+            "title": "Graphic Designer",
+            "email": "jgytin@berkeley.edu",
+            "linkedin": "https://www.linkedin.com/in/jgytin/",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": ""
+        },
+        "Marwat Al-Olefi": {
+            "title": "Recruitment Chair",
+            "email": "Marwat.alolefi@gmail.com",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": ""
         }
-
 }
