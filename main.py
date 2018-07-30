@@ -17,7 +17,7 @@ for x in content.labs:
         })
 for member in members:
     if not members[member]['img']:
-        members[member]['img'] = 'img/temp_pic.png'
+        members[member]['img'] = 'img/logos/logo_general.png'
 
 @app.route("/join-page")
 @app.route("/labs/")

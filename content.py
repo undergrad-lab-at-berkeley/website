@@ -13,7 +13,7 @@ def filter_dict(input_dict, entries):
     # Compares INPUT_DICT keys with set ENTRIES, matching keys are used in a dictionary comprehension
     return {k: input_dict[k] for k in input_dict.keys() if k in entries}
 
-foundersOrder = ["Joshua Hug", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
+foundersOrder = ["Joshua Hug", "Amit Akula", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 advisorsOrder = ["Joshua Hug", "Alex Powers", "Sean Burns"]
 teamOrder = ['Riley McDanal', 'Arjun Savel', 'Dillon Eskandar', 'Yasmeen Musthafa', 'Min Young Kim', 'Mrinalini Sugosh']
 labOrder = ['cogsci','physics','atg','ops','bio','stat','aerospace']
@@ -80,12 +80,12 @@ labs = {
             "members": ["Dillon Eskandar", "Neil Toledo", "Cibi Pari", "David Liu", "Kavi Vaidya", "Charlie Zhang", "Albert Huang"],
             "content": {
                 "overview": {
-                    "title": "Page Under Contstruction",
-                    "text": "You can learn more about opportunities for students (of all years) <a href=/labs> here. </a>"
+                    "title": "Lab Overview",
+                    "text": "Founded by Phat Pham in Spring 2018, ULAB's Advanced Technologies Group (ATG) is an elite branch that was formed upon the realization that our labs spend way too much time building the tools they need for their experiments. What if we separate the engineering from the science? ATG is a full-blown organization dedicated to doing just that. More specifically, ATG is an augmented intelligence group that combines human-centered design, data science, and software development to help improve the efficiency of laboratories around the UC Berkeley campus and within ULAB itself. We are currently developing projects and curriculum for the upcoming semester in order to immerse students interested in software development immediately in the quickly-growing field."
                 },
                 "join": {
                     "title": "Want to join us?",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "text": """Come back soon to fill out applications for the upcoming semester and feel free to contact the director at <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a> if you would like to learn more about the Advanced Technologies Group."""
                 }
             },
     },
@@ -97,10 +97,10 @@ labs = {
 	        "navbar" : "Operations and Publicity",
             "status": "Active",
             "members": ["Yasmeen Musthafa", "Min Young Kim", "Catherine Livelo", "Justin Gerwien", "Jesslyn Cabero",
-                        "Jessica Tin", "Marwat Al-Olefi"],
+                        "Jessica Tin", "Marwat Al-Olefi", "Alan Pham", "Sunita Bohara"],
             "content": {
                 "overview": {
-                    "title": "Publicity/Partnership Team",
+                    "title": "Publicity/Partnerships Team",
                     "text": """
                         Our team works to reach out to other campus organizations and resources in order to recruit a more diverse group of students and let students be aware of the opportunities ULAB provides.
                         In partnership, we strive to work together with other research organizations for undergraduate students to create a network of available resources to help students.
@@ -111,7 +111,7 @@ labs = {
                 "join": {
                     "title": "Want to join us?",
                     "text": """
-                        If you are interested in joining our Operations and Publicity Team, a list of available positions and their descriptions are available at the link below.  To be considered, please also fill out the following form underneath.  If you have any more questions or would like to learn more about our team, please email <a href="cogsci.ulab@gmail.com">yasmeenm@berkeley.edu</a>. <br/>
+                        If you are interested in joining our Operations and Publicity Team, a list of available positions and their descriptions are available at the link below.  To be considered, please also fill out the following form underneath.  If you have any more questions or would like to learn more about our team, please email <a href="yasmeenm@berkeley.edu">yasmeenm@berkeley.edu</a>. <br/>
                         <a href="https://docs.google.com/document/d/e/2PACX-1vTwHJF2tisUNZ3yv3bPOyRZqCkhLBXQbsJ9sUvWz22kLq3Y81T0RnaqfN7pCeCeLDaPMtLhwUTu3qvS/pub"> Postitions </a> <br/>
                         <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScuj7uD-TF_2rsHOsHJLUlPOML2Dubbr9TnqGMCGmBcd3zdog%2Fviewform%3Fusp%3Dsf_link&h=AT0y-vYYen3mQcWXNZE6TKhZ8onkgkHxDxshgfkeCGasrrR-jTE6zb3xAIpZOBl18pkmZQDe6M2GapgomjG2Zvo_NDGeAkTQoTfqG16jR4VDmfopa5ab2gtyrwqPrfO8RqudUbdztXPGodqj"> Application </a>
                     """

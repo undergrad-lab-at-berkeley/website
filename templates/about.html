@@ -122,7 +122,9 @@
                                                         <img alt="Pic" src="{{ url_for('static', filename=team[person]['img']) }}" class="profile-img">
                                                         <div class="title">
                                                             <h5 class="uppercase mb0">{{ person }}</h5>
+                                                            <h7> {{ team[person]['position'] }} </h7>
                                                             <div class="bio-icon">
+                                                                <span> {{ team[person]['email'] }} </span> <br/>
                                                                 {% if not team[person]['personal'] == '' %}
                                                                     <span><a href="{{ team[person]['personal'] }}" target="_blank"><i class="ti-world"></i></a></span>
                                                                 {% endif %}
@@ -132,14 +134,11 @@
                                                                 {% if not team[person]['linkedin'] == '' %}
                                                                     <span><a href="{{ team[person]['linkedin'] }}" target="_blank"><i class="ti-linkedin"></i></a></span>
                                                                 {% endif %}
-                                                                {% if (team[person]['linkedin'] == '') and (team[person]['github'] == '') and (team[person]['personal'] == '') %}
-                                                                <div class="mb16"></div>
-                                                                {% endif %}
                                                             </div>
                                                         </div>
-                                                        <p class="mb0">
+                                                        <!-- <p class="mb0">
                                                             {{ team[person]['bio'] }}
-                                                        </p>
+                                                        </p> -->
                                                     </div>
                                                 </div>
 
