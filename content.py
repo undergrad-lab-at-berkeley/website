@@ -54,15 +54,15 @@ labs = {
             "members": ["Arjun Savel", "Kim Ambrocio", "Thomas Low"],
             "content": {
                 "overview": {
-                    "title": "Lab Overview",
-                    "text": """
+                    "title": u"Lab Overview",
+                    "text": u"""
                         Founded in Fall 2017, the Physics and Astronomy Lab aims to make the transition into undergraduate physics and astrophysics research as seamless as possible. On a technical level, this involves introducing students in our group to underlying processes associated with research — namely, programming and performing statistical tests. Our program, however, extends beyond coursework. With the help of experienced undergraduate mentors, we guide students through research of their choosing over the course of an academic year, helping them to make sense of the current literature, isolate a feasible project, and execute it on a reasonable timescale. In doing so, we provide students with the opportunity to expand their interests and provide mentors with leadership roles within the research community. <br/>
                         In the 2017-18 academic year, the Physics and Astronomy Lab ran five projects in astrophysics, condensed matter, and particle physics. We plan to run upward of seven projects in the coming year, with topics based on mentor experience and student interest.
                     """
                 },
                 "join": {
-                    "title": "Want to join us?",
-                    "text": """
+                    "title": u"Want to join us?",
+                    "text": u"""
                         In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
                         <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Application </a> <br/>
                         <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
