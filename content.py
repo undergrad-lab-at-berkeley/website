@@ -22,7 +22,7 @@ labs = {
     "cogsci": {
             "logo" : u"/static/img/logos/logo_cog_sci.png",
             "short_name": u"cogsci",
-            "full_name": u"Cognitive Neuroscience and Medical Imaging",
+            "full_name": u"Psychology and Cognitive Sciences",
             "navbar": u"Cog_Sci",
             "status": "Active",
             "members": ["Riley McDanal", "Annelise Meyer", "Hareen Seerha", "Valerie Burleigh", "Stephanie Chang", "Adam Bittenson", "Allie Morehouse"],
@@ -30,7 +30,7 @@ labs = {
                 "overview": {
                     "title": "Lab Overview",
                     "text": """
-                        Founded in Fall 2017 by Jenna Martin and Riley McDanal, the CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. </br>
+                        Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. </br>
                         Last year, our lab worked on projects involving neural atrophication, language processing, consciousness and decision-making, but we are currently developing exciting research projects for the upcoming school year.
                         """
                 },
@@ -48,7 +48,7 @@ labs = {
     "physics": {
             "logo" : u"/static/img/logos/logo_physics.png",
             "short_name": u"physics",
-            "full_name": u"Physics and Astrophysics",
+            "full_name": u"Physics and Astronomy",
             "navbar": u"Physics",
             "status": "Active",
             "members": ["Arjun Savel", "Kim Ambrocio", "Thomas Low"],
