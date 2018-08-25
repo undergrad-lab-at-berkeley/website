@@ -3,12 +3,35 @@
 {% block body %}
 <section class="align-middle" style="font-size:1.5em; margin:0 2em">
   <h3 style="text-align: center"> Select a uLab below to learn more about it (and see current openings) </h3>
-  {% for lab in labs.keys() %}
+  <center>
+    <a href= {{ "/labs/{}".format(labs["cogsci"]) }}> {{ labs["cogsci"]["full_name"] }} </a> (<a href="https://goo.gl/forms/CP88XEos8anrlNwl2" style="color:#666">Mentor Application</a>) (<a href="https://goo.gl/forms/7DAT9Tq1JESJWZG53" style="color:#666">Student Researcher Application</a>)
+    <br>
+    <br>
+    <a href= {{ "/labs/{}".format(labs["physics"]) }}> {{ labs["physics"]["full_name"] }} </a> (<a href="https://goo.gl/forms/G3russO6DYIITCss2" style="color:#666">Staff Application</a>) (<a href="https://goo.gl/forms/iraCqlmh8CsYuWG03" style="color:#666">Student Researcher Application</a>)
+    <br>
+    <br>
+    <a href= {{ "/labs/{}".format(labs["atg"]) }}> {{ labs["atg"]["full_name"] }}
+    <br>
+    <br>
+    <a href= {{ "/labs/{}".format(labs["ops"]) }}> {{ labs["ops"]["full_name"] }} </a> (<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScuj7uD-TF_2rsHOsHJLUlPOML2Dubbr9TnqGMCGmBcd3zdog%2Fviewform%3Fusp%3Dsf_link&h=AT0y-vYYen3mQcWXNZE6TKhZ8onkgkHxDxshgfkeCGasrrR-jTE6zb3xAIpZOBl18pkmZQDe6M2GapgomjG2Zvo_NDGeAkTQoTfqG16jR4VDmfopa5ab2gtyrwqPrfO8RqudUbdztXPGodqj" style="color:#666">Application</a>)
+    <br>
+    <br>
+    <a href= {{ "/labs/{}".format(labs["bio"]) }}> {{ labs["bio"]["full_name"] }}
+    <br>
+    <br>
+    <a href= {{ "/labs/{}".format(labs["stat"]) }}> {{ labs["stat"]["full_name"] }}
+    <br>
+    <br>
+    <a href= {{ "/labs/{}".format(labs["aerospace"]) }}> {{ labs["aerospace"]["full_name"] }}
+    <br>
+    <br>
+  </center>
+  <!-- {% for lab in labs.keys() %}
     <center>
       <a href= {{ "/labs/{}".format(lab) }}> {{ labs[lab]["full_name"] }} </a>
       <br>
       <br>
     </center>
-  {% endfor %}
+  {% endfor %} -->
 </section>
 {% endblock %}

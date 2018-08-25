@@ -64,7 +64,7 @@ labs = {
                     "title": u"Want to join us?",
                     "text": u"""
                         In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
-                        <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Application </a> <br/>
+                        <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Researcher Application </a> <br/>
                         <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
                     """
                 }
