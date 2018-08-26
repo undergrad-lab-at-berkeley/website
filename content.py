@@ -31,7 +31,10 @@ labs = {
                     "title": "Lab Overview",
                     "text": """
                         Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. </br>
-                        Last year, our lab worked on projects involving neural atrophication, language processing, consciousness and decision-making, but we are currently developing exciting research projects for the upcoming school year.
+                        <p></p>
+                        Last year, our lab worked on projects involving neural atrophication, language processing, consciousness and decision-making, but we are currently developing exciting research projects for the upcoming school year. </br>
+                        <p></p>
+                        <a href="https://docs.google.com/document/d/1pF77DMo5xloQzDGaxCoTBN5WXO56pQfxsK0g6lF8Ac8/edit?usp=sharing"> Mentor Syllabus</a>
                         """
                 },
                 "join": {
@@ -43,7 +46,9 @@ labs = {
                         """
                 },
                 "calendar": {
-                """<<<Put the calendar link HERE:>>>"""
+                    "title": u"Calendar",
+                    "text": u"""Here is a general timeline for our lab during the Fall Semester. Exact days and times are subject to change.""",
+                    "object": """<iframe src="https://calendar.google.com/calendar/embed?src=17f15hlh7tuk2a4rtqa1odu9sk%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
                 }
             }
     },
@@ -70,6 +75,11 @@ labs = {
                         <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Researcher Application </a> <br/>
                         <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
                     """
+                },
+                "calendar": {
+                    "title": "",
+                    "text": "",
+                    "object": ""
                 }
             }
     },
@@ -89,6 +99,11 @@ labs = {
                 "join": {
                     "title": "Want to join us?",
                     "text": """Come back soon to fill out applications for the upcoming semester and feel free to contact the director at <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a> if you would like to learn more about the Advanced Technologies Group."""
+                },
+                "calendar": {
+                    "title": "",
+                    "text": "",
+                    "object": ""
                 }
             },
     },
@@ -118,6 +133,11 @@ labs = {
                         <a href="https://docs.google.com/document/d/e/2PACX-1vTwHJF2tisUNZ3yv3bPOyRZqCkhLBXQbsJ9sUvWz22kLq3Y81T0RnaqfN7pCeCeLDaPMtLhwUTu3qvS/pub"> Postitions </a> <br/>
                         <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScuj7uD-TF_2rsHOsHJLUlPOML2Dubbr9TnqGMCGmBcd3zdog%2Fviewform%3Fusp%3Dsf_link&h=AT0y-vYYen3mQcWXNZE6TKhZ8onkgkHxDxshgfkeCGasrrR-jTE6zb3xAIpZOBl18pkmZQDe6M2GapgomjG2Zvo_NDGeAkTQoTfqG16jR4VDmfopa5ab2gtyrwqPrfO8RqudUbdztXPGodqj"> Application </a>
                     """
+                },
+                "calendar": {
+                    "title": "",
+                    "text": "",
+                    "object": ""
                 }
             }
     },
@@ -137,6 +157,11 @@ labs = {
                 "join": {
                     "title": "",
                     "text": ""
+                },
+                "calendar": {
+                    "title": "",
+                    "text": "",
+                    "object": ""
                 }
             }
     },
@@ -157,6 +182,11 @@ labs = {
                 "join": {
                     "title": "",
                     "text": ""
+                },
+                "calendar": {
+                    "title": "",
+                    "text": "",
+                    "object": ""
                 }
             }
     },
@@ -176,6 +206,11 @@ labs = {
                 "join": {
                     "title": "",
                     "text": ""
+                },
+                "calendar": {
+                    "title": "",
+                    "text": "",
+                    "object": ""
                 }
             }
     }
