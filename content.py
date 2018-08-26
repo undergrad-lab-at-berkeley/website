@@ -122,8 +122,8 @@ labs = {
     "bio": {
             "logo" : u"/static/img/logos/logo_bio.png",
             "short_name": u"genetics",
-            "full_name": u"Genetic Engineering and Molecular Biology",
-            "navbar": u"Genetic Engineering and Molecular Biology",
+            "full_name": u"Public Health",
+            "navbar": u"Public Health",
             "status": "Coming Soon",
             "memebers": [],
             "content": {
@@ -142,9 +142,9 @@ labs = {
     "stat": {
             "logo" : u"/static/img/logos/logo_stat_ml.png",
             "short_name": "stat",
-            "full_name": "Statistical Modeling and Deep Learning",
-            "navbar": "Statistical Modeling and Deep Learning",
-            "status": "Under Development",
+            "full_name": "Data Science",
+            "navbar": "Data Science",
+            "status": "Coming Soon",
             "members": [],
             "content": {
                 "overview": {
