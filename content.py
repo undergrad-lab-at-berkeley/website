@@ -41,6 +41,9 @@ labs = {
                         <a href="https://goo.gl/forms/CP88XEos8anrlNwl2"> Mentor Application</a> <br/>
                         <a href="https://goo.gl/forms/7DAT9Tq1JESJWZG53"> Student Researcher Application</a>
                         """
+                },
+                "calendar": {
+                """<<<Put the calendar link HERE:>>>"""
                 }
             }
     },
