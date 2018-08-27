@@ -219,6 +219,15 @@ members = {
             "personal": "",
             "img": "img/staff/kaseywoo.jpg"
         },
+        "Neha Venkatesh": {
+            "title": "Data Science Lab Manager",
+            "email": "nehav@berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/nehavenkatesh.JPG"
+        },
         "Alex Powers": {
             "title": "Cofounder",
             "img": "img/team/alex_power.jpg",
@@ -323,7 +332,7 @@ members = {
         },
         "Marwat Al-Olefi": {
             "title": "Recruitment Chair",
-            "email": "Marwat.alolefi@gmail.com",
+            "email": "marwat.alolefi@gmail.com",
             "linkedin": "",
             "facebook": "",
             "github": "",

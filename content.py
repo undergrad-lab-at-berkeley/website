@@ -16,7 +16,7 @@ def filter_dict(input_dict, entries):
 foundersOrder = ["Joshua Hug", "Amit Akula", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 advisorsOrder = ["Joshua Hug", "Alex Powers", "Sean Burns"]
 teamOrder = ['Riley McDanal', 'Arjun Savel', 'Dillon Eskandar', 'Yasmeen Musthafa', 'Min Young Kim', 'Mrinalini Sugosh']
-labOrder = ['cogsci','physics','atg','ops','bio','stat','aerospace']
+labOrder = ['cogsci','physics','atg','ops','bio','data','aerospace']
 
 labs = {
     "cogsci": {
@@ -114,8 +114,8 @@ labs = {
 	        "full_name" : "Operations and Publicity",
 	        "navbar" : "Operations and Publicity",
             "status": "Active",
-            "members": ["Yasmeen Musthafa", "Min Young Kim", "Catherine Livelo", "Justin Gerwien", "Jesslyn Cabero",
-                        "Jessica Tin", "Marwat Al-Olefi", "Alan Pham", "Sunita Bohara"],
+            "members": ["Yasmeen Musthafa", "Min Young Kim", "Catherine Livelo", "Neha Venkatesh", "Alan Pham", "Justin Gerwien", "Jesslyn Cabero",
+                        "Jessica Tin", "Marwat Al-Olefi",  "Sunita Bohara", "Kasey Woo"],
             "content": {
                 "overview": {
                     "title": "Publicity/Partnerships Team",
@@ -166,9 +166,9 @@ labs = {
             }
     },
 
-    "stat": {
+    "data": {
             "logo" : u"/static/img/logos/logo_stat_ml.png",
-            "short_name": u"stat",
+            "short_name": u"data",
             "full_name": u"Data Science",
             "navbar": u"Data Science",
             "status": "Coming Soon",
