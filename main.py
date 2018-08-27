@@ -6,11 +6,7 @@ import content
 import pdb
 
 app = Flask(__name__)
-# app.config["TEMPLATES_AUTO_RELOAD"] = True
-app.config.update(
-    TEMPLATES_AUTO_RELOAD=True,
-    PREFERRED_URL_SCHEME='https'
-)
+app.config["TEMPLATES_AUTO_RELOAD"] = True
 
 navLabs = []
 for x in content.labs:
