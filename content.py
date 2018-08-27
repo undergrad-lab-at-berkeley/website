@@ -77,9 +77,9 @@ labs = {
                     """
                 },
                 "calendar": {
-                    "title": "",
-                    "text": "",
-                    "object": ""
+                    "title": u"Calendar",
+                    "text": u"""Here is a general timeline for our lab during the Fall Semester. Exact days and times are subject to change.""",
+                    "object": """<iframe src="https://calendar.google.com/calendar/embed?src=physics.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
                 }
             }
     },
@@ -166,12 +166,11 @@ labs = {
             }
     },
 
-    # To be Determined
     "stat": {
             "logo" : u"/static/img/logos/logo_stat_ml.png",
-            "short_name": "stat",
-            "full_name": "Data Science",
-            "navbar": "Data Science",
+            "short_name": u"stat",
+            "full_name": u"Data Science",
+            "navbar": u"Data Science",
             "status": "Coming Soon",
             "members": [],
             "content": {
@@ -180,8 +179,11 @@ labs = {
                     "text": ""
                 },
                 "join": {
-                    "title": "",
-                    "text": ""
+                    "title": u"Want to join us?",
+                    "text": u"""
+                        We are currently looking to fill mentor and research positions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="nehav@ulab.berkeley.edu">nehav@ulab.berkeley.edu</a>. <br/>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJcPpq_t0p32E2OwWhMw2y24ROi10jPbQBSAI4SND3gDflgA/viewform"> Mentor Application </a>
+                        """
                 },
                 "calendar": {
                     "title": "",
@@ -191,6 +193,7 @@ labs = {
             }
     },
 
+    # To Be Determined
     "aerospace": {
             "logo" : u"/static/img/logos/logo_robotics_aero.png",
             "short_name": "aerospace",

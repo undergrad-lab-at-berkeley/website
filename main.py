@@ -26,6 +26,9 @@ def labs():
 
 @app.route("/labs/<name>")
 def lab(name=None):
+    print('Length: ' + str(len(content.labs.keys())))
+    print(name)
+    print(content.labs.keys()) 
     if name in content.labs.keys():
         return render_template("lab.html", lab=content.labs[name], members=members)
     else:
