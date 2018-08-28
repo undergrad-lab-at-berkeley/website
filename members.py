@@ -143,7 +143,7 @@ members = {
             "facebook": "",
             "github": "https://github.com/chfzhang",
             "personal": "",
-            "img": "img/staff/charliezhang.jpg"
+            "img": "img/staff/charliezhang.png"
         },
         "Albert Huang": {
             "title": "Deputy Director of Internal Affairs",
