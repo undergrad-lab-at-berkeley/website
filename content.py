@@ -98,7 +98,9 @@ labs = {
                 },
                 "join": {
                     "title": "Want to join us?",
-                    "text": """Come back soon to fill out applications for the upcoming semester and feel free to contact the director at <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a> if you would like to learn more about the Advanced Technologies Group."""
+                    "text": """Fill out our application below and feel free to contact the director at <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a> if you would like to learn more about the Advanced Technologies Group. <br/>
+                        <a href="https://docs.google.com/forms/d/1OT6V7Hwtm8LpjtclCdMWSTp-qFekW5-eHcmyEwNkliQ/edit"> Software Developer Application</a>
+                            """
                 },
                 "calendar": {
                     "title": "",
