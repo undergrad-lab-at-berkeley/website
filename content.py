@@ -175,7 +175,7 @@ labs = {
             "members": [],
             "content": {
                 "overview": {
-                    "title": "This Lab is Under Development",
+                    "title": "Lab Overview Coming Soon!",
                     "text": ""
                 },
                 "join": {
