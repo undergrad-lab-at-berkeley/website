@@ -109,15 +109,15 @@ members = {
             "personal": "",
             "img": "img/team/neil_toledo.jpg"
         },
-        "Cibi Pari": {
-            "title": "Deputy Director of Technology",
-            "email": "cibi.pari@berkeley.edu",
-            "linkedin": "https://www.linkedin.com/in/cibi-pari/",
-            "facebook": "",
-            "github": "https://github.com/c-pari22",
-            "personal": "",
-            "img": ""
-        },
+        # "Cibi Pari": {
+        #     "title": "Deputy Director of Technology",
+        #     "email": "cibi.pari@berkeley.edu",
+        #     "linkedin": "https://www.linkedin.com/in/cibi-pari/",
+        #     "facebook": "",
+        #     "github": "https://github.com/c-pari22",
+        #     "personal": "",
+        #     "img": ""
+        # },
         "David Liu": {
             "title": "Deputy Director of External Affairs",
             "email": "daveliu@berkeley.edu",
@@ -143,7 +143,7 @@ members = {
             "facebook": "",
             "github": "https://github.com/chfzhang",
             "personal": "",
-            "img": ""
+            "img": "img/staff/charliezhang.jpg"
         },
         "Albert Huang": {
             "title": "Deputy Director of Internal Affairs",

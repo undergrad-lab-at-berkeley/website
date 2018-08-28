@@ -90,7 +90,7 @@ labs = {
 	        "full_name" : "Advanced Technologies Group",
 	        "navbar" : "Advanced Technologies Group",
             "status": "Active",
-            "members": ["Dillon Eskandar", "Neil Toledo", "Cibi Pari", "David Liu", "Kavi Vaidya", "Charlie Zhang", "Albert Huang"],
+            "members": ["Dillon Eskandar", "Neil Toledo", "David Liu", "Kavi Vaidya", "Charlie Zhang", "Albert Huang"],
             "content": {
                 "overview": {
                     "title": "Lab Overview",
