@@ -162,7 +162,7 @@ labs = {
                 },
                 "join": {
                     "title": "Want to join us?",
-                    "text": """"
+                    "text": """
                             Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about ATG, please send an email to <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a>. <br/>
                             """
 
@@ -198,7 +198,7 @@ labs = {
                 },
                 "join": {
                     "title": "Want to join us?",
-                    "text": """"
+                    "text": """
                             Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about our team, please send an email to <a href="yasmeenm@berkeley.edu">yasmeenm@berkeley.edu</a>. <br/>
                             """
 
