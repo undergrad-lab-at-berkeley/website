@@ -45,7 +45,9 @@
                 <h6 class="uppercase mb0"> {{ labs[lab_key]['full_name']}} </h6>
               </a>
               <div class="title">
-                <h6 class="uppercase mb0 red-title"> {{ "[{}]".format(labs[lab_key]['status']) }} </h6>
+                {% if lab_key == 'aerospace' %}
+                    <h6 class="uppercase mb0 red-title"> {{ "[{}]".format(labs[lab_key]['status']) }} </h6>
+                {% endif %}
               </div>
             </div>
         </div>
