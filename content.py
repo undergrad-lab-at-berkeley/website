@@ -15,7 +15,7 @@ def filter_dict(input_dict, entries):
 
 foundersOrder = ["Joshua Hug", "Amit Akula", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 advisorsOrder = ["Joshua Hug", "Alex Powers", "Sean Burns"]
-teamOrder = ['Riley McDanal', 'Arjun Savel', 'Dillon Eskandar', 'Yasmeen Musthafa', 'Min Young Kim', 'Mrinalini Sugosh']
+teamOrder = ['Riley McDanal', 'Arjun Savel', 'Catherine Livelo', 'Alan Pham', 'Dillon Eskandar', 'Yasmeen Musthafa', 'Min Young Kim', 'Mrinalini Sugosh']
 labOrder = ['cogsci','physics','atg','ops','bio','data','aerospace']
 
 labs = {
@@ -40,10 +40,14 @@ labs = {
                 "join": {
                     "title": "Want to join us?",
                     "text": """
-                        We are currently looking to fill mentor and research postions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
-                        <a href="https://goo.gl/forms/CP88XEos8anrlNwl2"> Mentor Application</a> <br/>
-                        <a href="https://goo.gl/forms/7DAT9Tq1JESJWZG53"> Student Researcher Application</a>
-                        """
+                            Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about our lab, please send an email to <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
+                            """
+
+                        # """
+                        # We are currently looking to fill mentor and research postions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
+                        # <a href="https://goo.gl/forms/CP88XEos8anrlNwl2"> Mentor Application</a> <br/>
+                        # <a href="https://goo.gl/forms/7DAT9Tq1JESJWZG53"> Student Researcher Application</a>
+                        # """
                 },
                 "calendar": {
                     "title": u"Calendar",
@@ -71,10 +75,14 @@ labs = {
                 "join": {
                     "title": u"Want to join us?",
                     "text": u"""
-                        In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
-                        <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Researcher Application </a> <br/>
-                        <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
-                    """
+                            Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about our lab, please send an email to <a href="asavel@berkeley.edu ">asavel@berkeley.edu </a>. <br/>
+                            """
+
+                    # u"""
+                    #     In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
+                    #     <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Researcher Application </a> <br/>
+                    #     <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
+                    # """
                 },
                 "calendar": {
                     "title": u"Calendar",
@@ -98,9 +106,13 @@ labs = {
                 },
                 "join": {
                     "title": "Want to join us?",
-                    "text": """Fill out our application below and feel free to contact the director at <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a> if you would like to learn more about the Advanced Technologies Group. <br/>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd22cFsyWXDVcjOFRSTuI0mrbGLfnHFHOmc5TPqLQmaQYGAtQ/viewform"> Software Developer Application</a>
+                    "text": """"
+                            Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about ATG, please send an email to <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a>. <br/>
                             """
+
+                        #     """Fill out our application below and feel free to contact the director at <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a> if you would like to learn more about the Advanced Technologies Group. <br/>
+                        # <a href="https://docs.google.com/forms/d/e/1FAIpQLSd22cFsyWXDVcjOFRSTuI0mrbGLfnHFHOmc5TPqLQmaQYGAtQ/viewform"> Software Developer Application</a>
+                        #     """
                 },
                 "calendar": {
                     "title": "",
@@ -130,11 +142,15 @@ labs = {
                 },
                 "join": {
                     "title": "Want to join us?",
-                    "text": """
-                        If you are interested in joining our Operations and Publicity Team, a list of available positions and their descriptions are available at the link below.  To be considered, please also fill out the following form underneath.  If you have any more questions or would like to learn more about our team, please email <a href="yasmeenm@berkeley.edu">yasmeenm@berkeley.edu</a>. <br/>
-                        <a href="https://docs.google.com/document/d/e/2PACX-1vTwHJF2tisUNZ3yv3bPOyRZqCkhLBXQbsJ9sUvWz22kLq3Y81T0RnaqfN7pCeCeLDaPMtLhwUTu3qvS/pub"> Postitions </a> <br/>
-                        <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScuj7uD-TF_2rsHOsHJLUlPOML2Dubbr9TnqGMCGmBcd3zdog%2Fviewform%3Fusp%3Dsf_link&h=AT0y-vYYen3mQcWXNZE6TKhZ8onkgkHxDxshgfkeCGasrrR-jTE6zb3xAIpZOBl18pkmZQDe6M2GapgomjG2Zvo_NDGeAkTQoTfqG16jR4VDmfopa5ab2gtyrwqPrfO8RqudUbdztXPGodqj"> Application </a>
-                    """
+                    "text": """"
+                            Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about our team, please send an email to <a href="yasmeenm@berkeley.edu">yasmeenm@berkeley.edu</a>. <br/>
+                            """
+
+                    # """
+                    #     If you are interested in joining our Operations and Publicity Team, a list of available positions and their descriptions are available at the link below.  To be considered, please also fill out the following form underneath.  If you have any more questions or would like to learn more about our team, please email <a href="yasmeenm@berkeley.edu">yasmeenm@berkeley.edu</a>. <br/>
+                    #     <a href="https://docs.google.com/document/d/e/2PACX-1vTwHJF2tisUNZ3yv3bPOyRZqCkhLBXQbsJ9sUvWz22kLq3Y81T0RnaqfN7pCeCeLDaPMtLhwUTu3qvS/pub"> Postitions </a> <br/>
+                    #     <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScuj7uD-TF_2rsHOsHJLUlPOML2Dubbr9TnqGMCGmBcd3zdog%2Fviewform%3Fusp%3Dsf_link&h=AT0y-vYYen3mQcWXNZE6TKhZ8onkgkHxDxshgfkeCGasrrR-jTE6zb3xAIpZOBl18pkmZQDe6M2GapgomjG2Zvo_NDGeAkTQoTfqG16jR4VDmfopa5ab2gtyrwqPrfO8RqudUbdztXPGodqj"> Application </a>
+                    # """
                 },
                 "calendar": {
                     "title": "",
@@ -145,20 +161,24 @@ labs = {
     },
     # Coming Soon
     "bio": {
-            "logo" : u"/static/img/logos/logo_bio.png",
+            "logo" : u"/static/img/logos/logo_public_health.png",
             "short_name": u"genetics",
             "full_name": u"Public Health",
             "navbar": u"Public Health",
-            "status": "Coming Soon",
-            "memebers": [],
+            "status": "Active",
+            "members": ["Catherine Livelo"],
             "content": {
                 "overview": {
-                    "title": "This Lab is Under Development",
+                    "title": "Lab Overview Coming Soon!",
                     "text": ""
                 },
                 "join": {
-                    "title": "",
-                    "text": ""
+                    "title": "Want to join us?",
+                    "text": """
+                    We are currently looking to fill mentor and research postions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="catherinelivelo@berkeley.edu">catherinelivelo@berkeley.edu</a>. <br/>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGrLPxuNpCTrT4wpxmaEiP-Bt_CA0F9YJgxl55D3Kjo-i9bA/viewform"> Mentor Application</a> <br/>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdLtsJQSAPmpVv6jdxsDWZMeeYLW_Dtnf95_VEO7KEkGc_Tzw/viewform"> Student Researcher Application</a>
+                    """
                 },
                 "calendar": {
                     "title": "",
@@ -169,12 +189,12 @@ labs = {
     },
 
     "data": {
-            "logo" : u"/static/img/logos/logo_stat_ml.png",
+            "logo" : u"/static/img/logos/logo_data.png",
             "short_name": u"data",
             "full_name": u"Data Science",
             "navbar": u"Data Science",
-            "status": "Coming Soon",
-            "members": [],
+            "status": "Active",
+            "members": ["Alan Pham", "Neha Venkatesh", "Justin Gerwien"],
             "content": {
                 "overview": {
                     "title": "Lab Overview Coming Soon!",
@@ -184,7 +204,8 @@ labs = {
                     "title": u"Want to join us?",
                     "text": u"""
                         We are currently looking to fill mentor and research positions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="nehav@ulab.berkeley.edu">nehav@ulab.berkeley.edu</a>. <br/>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJcPpq_t0p32E2OwWhMw2y24ROi10jPbQBSAI4SND3gDflgA/viewform"> Mentor Application </a>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJcPpq_t0p32E2OwWhMw2y24ROi10jPbQBSAI4SND3gDflgA/viewform"> Mentor Application </a> </br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhmRmtolJUOm-g1hplpT9ToHacCRg-oY-ag7r2SMRCBf7iXw/viewform"> Student Researcher Application</a>
                         """
                 },
                 "calendar": {

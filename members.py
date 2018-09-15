@@ -19,7 +19,7 @@ members = {
 
         "Riley McDanal": {
             "title": "Research Director",
-            "position": "Research Director: Cognitive Neuroscience",
+            "position": "Research Director: Psychology and Cognitive Sciences",
             "email": "rileymcdanal@berkeley.edu",
             "linkedin": "www.linkedin.com/in/riley-mcdanal",
             "facebook": "www.facebook.com/riley.mcdanal",
@@ -175,7 +175,8 @@ members = {
             "bio": """I love listening to music and spend too much money on different concerts. While I also enjoy watching movies, I usually get too lazy to go to a movie theater to actually watch any of them, so I most likely will not get your movie references."""
         },
         "Catherine Livelo": {
-            "title": "Curriculum Developer/Biology Lab Developer",
+            "position": "Research Director: Public Health",
+            "title": "Public Health Lab Director/Curriculum Developer",
             "email": "catherinelivelo@berkeley.edu",
             "linkedin": "",
             "facebook": "",
@@ -184,7 +185,7 @@ members = {
             "img": "img/staff/catherinelivelo.JPG"
         },
         "Justin Gerwien": {
-            "title": "Engineering Task Force",
+            "title": "Data Science Lab Manager/Engineering Task Force",
             "email": "justingerwien@berkeley.edu",
             "linkedin": "linkedin.com/in/justin-gerwien-781b05106",
             "facebook": "",
@@ -193,7 +194,8 @@ members = {
             "img": "img/staff/justingerwien.JPG"
         },
         "Alan Pham": {
-            "title": "Partnerships Manager",
+            "position": "Research Director: Data Science",
+            "title": "Data Science Lab Director",
             "email": "alanlepham@gmail.com",
             "linkedin": "",
             "facebook": "",
@@ -285,7 +287,7 @@ members = {
         },
         "Arjun Savel": {
             "title": "Research Director",
-            "position": "Research Director: Physics",
+            "position": "Research Director: Physics and Astronomy",
             "email": "asavel@berkeley.edu",
             "linkedin": "https://www.linkedin.com/in/arjun-s-234859b4/",
             "facebook": "https://www.facebook.com/arjun.savel",
