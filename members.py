@@ -25,7 +25,7 @@ members = {
             "facebook": "www.facebook.com/riley.mcdanal",
             "github": "",
             "personal": "",
-            "img": "img/staff/rileymcdanal.PNG"
+            "img": "img/staff/rileymcdanal.jpg"
         },
         "Annelise Meyer": {
             "title": "Vice Research Director",
@@ -98,7 +98,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "img": ""
+            "img": "img/team/dillon_eskandar.png"
         },
         "Neil Toledo": {
             "title": "Deputy Director of Advanced Technologies Group",
@@ -124,8 +124,8 @@ members = {
             "linkedin": "https://www.linkedin.com/in/david-liu-a3139775/",
             "facebook": "https://www.facebook.com/Dave.Liu.Here",
             "github": "https://github.com/daliu/",
-            "personal": "",
-            "img": ""
+            "personal": "https://daliu.github.io/",
+            "img": "img/team/dave_liu.png"
         },
         "Kavi Vaidya": {
             "title": "Deputy Director of Finance",
@@ -134,7 +134,8 @@ members = {
             "facebook": "https://www.facebook.com/kavi.vaidya",
             "github": "https://www.github.com/kavibvaidya",
             "personal": "",
-            "img": ""
+            "img": "img/team/kavi_vaidya.png",
+            "bio": "Programmer, Developer, Researcher."
         },
         "Charlie Zhang": {
             "title": "Deputy Director of Design",
@@ -143,7 +144,7 @@ members = {
             "facebook": "",
             "github": "https://github.com/chfzhang",
             "personal": "",
-            "img": "img/staff/charliezhang.png"
+            "img": "img/team/charlie_zhang.png"
         },
         "Albert Huang": {
             "title": "Deputy Director of Internal Affairs",
@@ -152,7 +153,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "img": ""
+            "img": "img/team/albert_huang.png"
         },
         "Yasmeen Musthafa": {
             "title": "Director of Operations",
@@ -171,8 +172,11 @@ members = {
             "personal": "",
             "github": "",
             "linkedin": "https://www.linkedin.com/in/min-young-kim-93281211a/",
-            "img": "img/staff/minyoungkimcopy.jpeg",
-            "bio": """I love listening to music and spend too much money on different concerts. While I also enjoy watching movies, I usually get too lazy to go to a movie theater to actually watch any of them, so I most likely will not get your movie references."""
+            "img": "img/staff/minyoungkim.jpg",
+            "bio": """I love listening to music and spend too much money on different concerts.
+                        While I also enjoy watching movies, I usually get too lazy to go to a
+                        movie theater to actually watch any of them, so I most likely will not
+                        get your movie references."""
         },
         "Catherine Livelo": {
             "position": "Research Director: Public Health",
@@ -182,7 +186,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "img": "img/staff/catherinelivelo.JPG"
+            "img": "img/staff/catherinelivelo.jpg"
         },
         "Justin Gerwien": {
             "title": "Data Science Lab Manager/Engineering Task Force",
@@ -191,7 +195,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "img": "img/staff/justingerwien.JPG"
+            "img": "img/staff/justingerwien.jpg"
         },
         "Alan Pham": {
             "position": "Research Director: Data Science",
@@ -201,7 +205,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "img": "img/staff/alanpham.jpg"
+            "img": ""
         },
         "Sunita Bohara": {
             "title": "Events Coordinator",
