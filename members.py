@@ -144,7 +144,7 @@ members = {
             "facebook": "",
             "github": "https://github.com/chfzhang",
             "personal": "",
-            "img": "img/team/charlie_zhang.png"
+            "img": ""
         },
         "Albert Huang": {
             "title": "Deputy Director of Internal Affairs",
@@ -186,7 +186,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "img": "img/staff/catherinelivelo.jpg"
+            "img": "img/staff/catherinelivelo.JPG"
         },
         "Justin Gerwien": {
             "title": "Data Science Lab Manager/Engineering Task Force",
@@ -195,7 +195,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "img": "img/staff/justingerwien.jpg"
+            "img": "img/staff/justingerwien.JPG"
         },
         "Alan Pham": {
             "position": "Research Director: Data Science",

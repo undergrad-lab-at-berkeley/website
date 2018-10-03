@@ -106,11 +106,9 @@ labs = {
                 },
                 "join": {
                     "title": "Want to join us?",
-                    "text": """
-                    We are currently looking to fill mentor and research postions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="catherinelivelo@berkeley.edu">catherinelivelo@berkeley.edu</a>. <br/>
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGrLPxuNpCTrT4wpxmaEiP-Bt_CA0F9YJgxl55D3Kjo-i9bA/viewform"> Mentor Application</a> <br/>
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdLtsJQSAPmpVv6jdxsDWZMeeYLW_Dtnf95_VEO7KEkGc_Tzw/viewform"> Student Researcher Application</a>
-                    """
+                    "text": u"""
+                            Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about our lab, please send an email to <a href="catherinelivelo@berkeley.edu">catherinelivelo@berkeley.edu</a>. <br/>
+                            """
                 },
                 "calendar": {
                     "title": "",
@@ -135,9 +133,8 @@ labs = {
                 "join": {
                     "title": u"Want to join us?",
                     "text": u"""
-                        We are currently looking to fill mentor and research positions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="nehav@ulab.berkeley.edu">nehav@ulab.berkeley.edu</a>. <br/>
+                        We are currently looking to fill mentor positions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="nehav@ulab.berkeley.edu">nehav@ulab.berkeley.edu</a>. <br/>
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJcPpq_t0p32E2OwWhMw2y24ROi10jPbQBSAI4SND3gDflgA/viewform"> Mentor Application </a> </br>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhmRmtolJUOm-g1hplpT9ToHacCRg-oY-ag7r2SMRCBf7iXw/viewform"> Student Researcher Application</a>
                         """
                 },
                 "calendar": {
