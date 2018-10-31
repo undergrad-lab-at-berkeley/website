@@ -69,6 +69,9 @@ labs = {
                     "title": u"Lab Overview",
                     "text": u"""
                         Founded in Fall 2017, the Physics and Astronomy Lab aims to make the transition into undergraduate physics and astrophysics research as seamless as possible. On a technical level, this involves introducing students in our group to underlying processes associated with research — namely, programming and performing statistical tests. Our program, however, extends beyond coursework. With the help of experienced undergraduate mentors, we guide students through research of their choosing over the course of an academic year, helping them to make sense of the current literature, isolate a feasible project, and execute it on a reasonable timescale. In doing so, we provide students with the opportunity to expand their interests and provide mentors with leadership roles within the research community. <br/>
+
+                        <br/>
+
                         In the 2017-18 academic year, the Physics and Astronomy Lab ran five projects in astrophysics, condensed matter, and particle physics. We plan to run upward of seven projects in the coming year, with topics based on mentor experience and student interest.
                     """
                 },
@@ -127,13 +130,22 @@ labs = {
             "members": ["Alan Pham", "Neha Venkatesh", "Justin Gerwien"],
             "content": {
                 "overview": {
-                    "title": "Lab Overview Coming Soon!",
-                    "text": ""
+                    "title": "Lab Overview",
+                    "text": """
+                        The Data Science Lab, started by Alan Pham in Fall 2018, is a great opportunity for students to conduct data science research by working on an interesting project, with guidance from experienced undergraduate mentors. It might seem difficult, but it’s actually very fun and easy, because of our unique way of providing students a gentle introduction to research. For mentors, this is a meaningful opportunity to lead aspiring researchers while getting to know what it might be like to lead a lab. <br/>
+
+                        <br/>
+
+                        Data science is becoming an increasingly important field, and the ability to understand, analyze, and clearly communicate data is valuable in any field, so we encourage everyone to study it. Projects can be about anything you choose, as long as it deals with data. Possible areas of interest could be education, business, technology, health, sports, sociology, government, etc. Basically, anything you learn about or observe in life can be analyzed with data science, so this is a great chance for students of all majors to explore any research topics of their interest. For example, you could investigate factors that increase risk for certain diseases, develop a predictive model for election results, or identify factors that increase school test scores. This is a very beneficial and worthwhile opportunity, and we hope you can join as a researcher or mentor. <br>
+
+                        <br/>
+
+                        Please don’t hesitate to contact us if you have any questions."""
                 },
                 "join": {
                     "title": u"Want to join us?",
                     "text": u"""
-                        We are currently looking to fill mentor positions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="nehav@ulab.berkeley.edu">nehav@ulab.berkeley.edu</a>. <br/>
+                        We are currently looking to fill mentor positions for this semester, so if you would like to be considered for a role in our lab, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="nehav@ulab.berkeley.edu">nehav@ulab.berkeley.edu</a>. <br/>
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJcPpq_t0p32E2OwWhMw2y24ROi10jPbQBSAI4SND3gDflgA/viewform"> Mentor Application </a> </br>
                         """
                 },

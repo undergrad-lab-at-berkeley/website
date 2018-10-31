@@ -200,12 +200,12 @@ members = {
         "Alan Pham": {
             "position": "Research Director: Data Science",
             "title": "Data Science Lab Director",
-            "email": "alanlepham@gmail.com",
+            "email": "alanlp@berkeley.edu",
             "linkedin": "",
             "facebook": "",
             "github": "",
             "personal": "",
-            "img": ""
+            "img": "img/staff/alanpham.jpg"
         },
         "Sunita Bohara": {
             "title": "Events Coordinator",
