@@ -131,7 +131,7 @@ labs = {
             "content": {
                 "overview": {
                     "title": "Lab Overview",
-                    "text": """
+                    "text": u"""
                         The Data Science Lab, started by Alan Pham in Fall 2018, is a great opportunity for students to conduct data science research by working on an interesting project, with guidance from experienced undergraduate mentors. It might seem difficult, but it’s actually very fun and easy, because of our unique way of providing students a gentle introduction to research. For mentors, this is a meaningful opportunity to lead aspiring researchers while getting to know what it might be like to lead a lab. <br/>
 
                         <br/>
