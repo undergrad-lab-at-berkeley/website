@@ -4,6 +4,7 @@ from flask import abort
 from members import members
 import content
 import pdb
+from flask_table import Table, Col, LinkCol
 
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
@@ -19,6 +20,22 @@ for member in members:
     if not members[member]['img']:
         members[member]['img'] = 'img/logos/logo_general.png'
 
+#Making the table
+# Declare your table
+class ItemTable(Table):
+    due_date = Col('Due Date')
+    topic = Col('Topic')
+    link = LinkCol("Link", 'single_item')
+
+# Get some objects
+class Item(object):
+    def __init__(self, due_date, topic, link):
+        self.due_date = due_date
+        self.topic = topic
+        self.link = link
+
+
+
 @app.route("/join-page")
 @app.route("/labs/")
 def labs():
@@ -27,6 +44,17 @@ def labs():
 @app.route("/labs/<name>")
 def lab(name=None):
     if name in content.labs.keys():
+        if "table" in content.labs[name]["content"]:
+            items = [Item('Name1', 'Description1', 'google.com'),
+            Item('Name2', 'Description2', 'google.com'),
+            Item('Name3', 'Description3', 'google.com')]
+            # Or, equivalently, some dicts
+            items = [dict(name='Name1', description='Description1'),
+            dict(name='Name2', description='Description2'),
+            dict(name='Name3', description='Description3')]
+            table = ItemTable(items)
+            return render_template("lab.html", lab=content.labs[name], members=members, table=table)
+
         return render_template("lab.html", lab=content.labs[name], members=members)
     else:
         return render_template('404.html'), 404

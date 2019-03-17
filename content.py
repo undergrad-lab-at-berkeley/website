@@ -87,6 +87,14 @@ labs = {
                     #     <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
                     # """
                 },
+                "table": {
+                    "rows": [
+                        {
+                            "col": ["test_date", "test_topic"],
+                            "link": "google.com",
+                        },
+                    ],
+                },
                 "calendar": {
                     "title": u"Calendar",
                     "text": u"""Here is a general timeline for our lab during the Fall Semester. Exact days and times are subject to change.""",

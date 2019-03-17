@@ -58,6 +58,13 @@
           {{ lab['content']['calendar']['object'] | safe }}
         </div>
 
+        {%if lab['content']['table']%}
+        <div class="schedule-table">
+          {{table}}
+
+        </div>
+        {%endif%}
+
       </div>
     </div>
 
@@ -86,5 +93,8 @@
       max-width: 240px;
       border-radius: 50%;
     }
+    table, th, td {
+  border: 1px solid black;
+  }
   </style>
 {% endblock %}
