@@ -15,7 +15,7 @@ def filter_dict(input_dict, entries):
 
 foundersOrder = ["Joshua Hug", "Amit Akula", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 advisorsOrder = ["Joshua Hug", "Alex Powers", "Sean Burns"]
-teamOrder = ['Riley McDanal', 'Arjun Savel', 'Catherine Livelo', 'Alan Pham', 'Dillon Eskandar', 'Yasmeen Musthafa', 'Min Young Kim', 'Mrinalini Sugosh']
+teamOrder = ['Riley McDanal', 'Catherine Livelo', 'Alan Pham', 'Dillon Eskandar', 'Yasmeen Musthafa', 'Min Young Kim', 'Mrinalini Sugosh']
 labOrder = ['cogsci','physics','bio','data','atg','ops','aerospace']
 
 labs = {
