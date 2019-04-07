@@ -60,7 +60,20 @@
 
         {%if lab['content']['table']%}
         <div class="schedule-table">
-          {{table}}
+            <table>
+              <tr>
+                <th>Topic</th>
+                <th>Due Date</th>
+                <th>Link</th>
+                {% for row in lab['content']['table']['rows']%}
+                <tr>
+                  <td>{{row['col'][0]}}</td>
+                  <td>{{row['col'][1]}}</td>
+                  <td> <a href={{row['link']}}> Kavi </a></td>
+                </tr>
+                {% endfor %}
+              </tr>
+            </table>
 
         </div>
         {%endif%}
@@ -94,7 +107,7 @@
       border-radius: 50%;
     }
     table, th, td {
-  border: 1px solid black;
+       border: 1px solid black;
   }
   </style>
 {% endblock %}

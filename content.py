@@ -91,7 +91,7 @@ labs = {
                     "rows": [
                         {
                             "col": ["test_date", "test_topic"],
-                            "link": "google.com",
+                            "link": "https://google.com",
                         },
                     ],
                 },
