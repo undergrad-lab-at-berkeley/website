@@ -20,22 +20,6 @@ for member in members:
     if not members[member]['img']:
         members[member]['img'] = 'img/logos/logo_general.png'
 
-# #Making the table
-# # Declare your table
-# class ItemTable(Table):
-#     due_date = Col('Due Date')
-#     topic = Col('Topic')
-#     link = LinkCol("Link", 'single_item')
-#
-# # Get some objects
-# class Item(object):
-#     def __init__(self, due_date, topic, link):
-#         self.due_date = due_date
-#         self.topic = topic
-#         self.link = link
-
-
-
 @app.route("/join-page")
 @app.route("/labs/")
 def labs():
