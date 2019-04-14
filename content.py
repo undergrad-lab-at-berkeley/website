@@ -90,8 +90,12 @@ labs = {
                 "table": {
                     "rows": [
                         {
-                            "col": ["test_date", "test_topic"],
-                            "link": "https://google.com",
+                            "col": ["Introduction to Python", "TBD"],
+                            "link": "http://datahub.berkeley.edu/user-redirect/interact?account=physicsulab&repo=cs-module-1-test&branch=master&path=cs-module-1.ipynb",
+                        },
+                        {
+                            "col": ["Introduction to Python II", "TBD"],
+                            "link": "http://datahub.berkeley.edu/user-redirect/interact?account=physicsulab&repo=cs-module-2&branch=master&path=",
                         },
                     ],
                 },

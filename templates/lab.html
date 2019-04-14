@@ -60,16 +60,16 @@
 
         {%if lab['content']['table']%}
         <div class="schedule-table">
-            <table>
+          <br>
+          <br>
+            <table align="center">
               <tr>
                 <th>Topic</th>
                 <th>Due Date</th>
-                <th>Link</th>
                 {% for row in lab['content']['table']['rows']%}
                 <tr>
-                  <td>{{row['col'][0]}}</td>
+                  <td><a href={{row['link']}} target="_blank"> {{row['col'][0]}} </a></td>
                   <td>{{row['col'][1]}}</td>
-                  <td> <a href={{row['link']}}> Kavi </a></td>
                 </tr>
                 {% endfor %}
               </tr>
@@ -106,7 +106,17 @@
       max-width: 240px;
       border-radius: 50%;
     }
+    th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color: #4CAF50;
+      color: white;
+    }
+    tr:nth-child(even){background-color: #f2f2f2;}
+    tr:hover {background-color: #ddd;}
     table, th, td {
+       padding: 10px;
        border: 1px solid black;
   }
   </style>
