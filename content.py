@@ -25,7 +25,7 @@ labs = {
             "full_name": u"Psychology and Cognitive Sciences",
             "navbar": u"Cog_Sci",
             "status": "Active",
-            "members": ["Riley McDanal", "Annelise Meyer", "Hareen Seerha", "Valerie Burleigh", "Stephanie Chang", "Adam Bittenson", "Allie Morehouse"],
+            "members": ["Hareen Seerha", "Shreeya Garg", "Rajan Parikh", "Lexi Zhou", "Ashish Ramesh", "Arushi Sahay", "Josephine Widjaja", "Samadi Karunasundera"],
             "content": {
                 "overview": {
                     "title": "Lab Overview",

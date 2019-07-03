@@ -27,59 +27,94 @@ members = {
             "personal": "",
             "img": "img/staff/rileymcdanal.jpg"
         },
-        "Annelise Meyer": {
-            "title": "Vice Research Director",
-            "email": "annelise.meyer@berkeley.edu",
-            "linkedin": "www.linkedin.com/in/annelise-meyer/ ",
-            "facebook": "www.facebook.com/anna.meyer.16718 ",
-            "github": "",
-            "personal": "",
-            "img": ""
-        },
+        # "Annelise Meyer": {
+        #     "title": "Vice Research Director",
+        #     "email": "annelise.meyer@berkeley.edu",
+        #     "linkedin": "www.linkedin.com/in/annelise-meyer/ ",
+        #     "facebook": "www.facebook.com/anna.meyer.16718 ",
+        #     "github": "",
+        #     "personal": "",
+        #     "img": ""
+        # },
         "Hareen Seerha": {
-            "title": "Lab Manager",
+            "title": "Research Director",
             "email": "hareen_seerha@berkeley.edu",
             "linkedin": "",
             "facebook": "www.facebook.com/hareen.seerha",
             "github": "",
             "personal": "",
-            "img": "img/staff/hareenseerha1.png"
+            "img": "img/staff/hareenseerha.jpg"
         },
-        "Valerie Burleigh": {
+        # "Valerie Burleigh": {
+        #     "title": "Operations Director",
+        #     "email": "valerie.burleigh@berkeley.edu",
+        #     "linkedin": "www.linkedin.com/in/valerieannburleigh/",
+        #     "facebook": "www.facebook.com/valerie.burleigh.3",
+        #     "github": "",
+        #     "personal": "",
+        #     "img": ""
+        # },
+        # "Stephanie Chang": {
+        #     "title": "Vice Operations Director",
+        #     "email": "stephanieychang@berkeley.edu",
+        #     "linkedin": "www.linkedin.com/in/stephanie-chang-a97457155/",
+        #     "facebook": "",
+        #     "github": "",
+        #     "personal": "",
+        #     "img": "img/staff/stephaniechang.jpg"
+        # },
+        # "Adam Bittenson": {
+        #     "title": "Finance Director",
+        #     "email": "abittenson@berkeley.edu",
+        #     "linkedin": "www.linkedin.com/in/adam-bittenson-368507163",
+        #     "facebook": "www.facebook.com/profile.php?id=100000579046414",
+        #     "github": "",
+        #     "personal": "",
+        #     "img": "img/staff/adambittenson.png"
+        # },
+        # "Allie Morehouse": {
+        #     "title": "Curriculum and Advising Director",
+        #     "email": "amorehouse@berkeley.edu",
+        #     "linkedin": "www.linkedin.com/in/allison-morehouse-6bb63a139/",
+        #     "facebook": "",
+        #     "github": "",
+        #     "personal": "",
+        #     "img": "img/staff/alliemorehouse.jpg"
+        # },
+        "Shreeya Garg": {
+            "title": "Lab Manager",
+            "email": "shreeyagarg@berkeley.edu",
+            "img": "img/staff/shreeyagarg.jpg"
+        },
+        "Rajan Parikh": {
+            "title": "Lab Manager",
+            "email": "rajanjparikh@berkeley.edu",
+            "img": "img/staff/rajanparikh.jpg"
+        },
+        "Lexi Zhou": {
             "title": "Operations Director",
-            "email": "valerie.burleigh@berkeley.edu",
-            "linkedin": "www.linkedin.com/in/valerieannburleigh/",
-            "facebook": "www.facebook.com/valerie.burleigh.3",
-            "github": "",
-            "personal": "",
-            "img": ""
+            "email": "lexizczh@berkeley.edu",
+            "img": "img/staff/lexizhou.jpg"
         },
-        "Stephanie Chang": {
-            "title": "Vice Operations Director",
-            "email": "stephanieychang@berkeley.edu",
-            "linkedin": "www.linkedin.com/in/stephanie-chang-a97457155/",
-            "facebook": "",
-            "github": "",
-            "personal": "",
-            "img": "img/staff/stephaniechang.jpg"
+        "Ashish Ramesh": {
+            "title": "Website Manager",
+            "email": "ashishrameshg@berkeley.edu",
+            "img": "img/staff/ashishramesh.jpg"
         },
-        "Adam Bittenson": {
+        "Arushi Sahay": {
+            "title": "Social Chair",
+            "email": "arushisahay@berkeley.edu",
+            "img": "img/staff/arushisahay.jpg"
+        },
+        "Josephine Widjaja": {
+            "title": "Editor-in-Chief",
+            "email": "josephine.widjaja@berkeley.edu",
+            "img": "img/staff/josephinewidjaja.jpg"
+        },
+        "Samadi Karunasundera": {
             "title": "Finance Director",
-            "email": "abittenson@berkeley.edu",
-            "linkedin": "www.linkedin.com/in/adam-bittenson-368507163",
-            "facebook": "www.facebook.com/profile.php?id=100000579046414",
-            "github": "",
-            "personal": "",
-            "img": "img/staff/adambittenson.png"
-        },
-        "Allie Morehouse": {
-            "title": "Curriculum and Advising Director",
-            "email": "amorehouse@berkeley.edu",
-            "linkedin": "www.linkedin.com/in/allison-morehouse-6bb63a139/",
-            "facebook": "",
-            "github": "",
-            "personal": "",
-            "img": "img/staff/alliemorehouse.jpg"
+            "email": "",
+            "img": ""
         },
         "Colin Jindra": {
             "title": "Lead Mentor",
