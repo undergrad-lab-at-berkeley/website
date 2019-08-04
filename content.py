@@ -39,20 +39,20 @@ labs = {
                 },
                 "join": {
                     "title": "Want to join us?",
-                    "text": """
-                            Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about our lab, please send an email to <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
-                            """
+                    "text":# """
+                           # Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about our lab, please send an email to <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
+                           # """
 
-                        # """
-                        # We are currently looking to fill mentor and research postions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
-                        # <a href="https://goo.gl/forms/CP88XEos8anrlNwl2"> Mentor Application</a> <br/>
-                        # <a href="https://goo.gl/forms/7DAT9Tq1JESJWZG53"> Student Researcher Application</a>
-                        # """
+                         """
+                         We are currently looking to fill mentor and research postions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
+                         <a href="https://forms.gle/VtgJqvsBJVKZjR2VA">Mentor Application</a> <br/>
+                         <a href="https://forms.gle/KRrDFnR5jBRZMqiT9">Student Researcher Application</a>
+                         """
                 },
                 "calendar": {
                     "title": u"Calendar",
                     "text": u"""Here is a general timeline for our lab during the Fall Semester. Exact days and times are subject to change.""",
-                    "object": """<iframe src="https://calendar.google.com/calendar/embed?src=17f15hlh7tuk2a4rtqa1odu9sk%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
+                    "object": """<iframe src="https://calendar.google.com/calendar/embed?src=cogsci.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
                 }
             }
     },

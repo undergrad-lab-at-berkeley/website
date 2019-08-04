@@ -98,7 +98,7 @@ members = {
         },
         "Ashish Ramesh": {
             "title": "Website Manager",
-            "email": "ashishrameshg@berkeley.edu",
+            "email": "ashishramesh@berkeley.edu",
             "img": "img/staff/ashishramesh.jpg"
         },
         "Arushi Sahay": {
