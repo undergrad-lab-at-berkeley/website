@@ -36,6 +36,10 @@
                             <!-- Modal Content -->
                             <div class="modal-content">
                                 <span class="close" data-modal="modal-{{person}}">&times;</span>
+                                <img 
+                                  alt="Pic" 
+                                  src="{{ url_for('static', filename=members[person]['img']) }}" 
+                                  class="modal-img">
                                 <div class="title">
                                     <h6 class="uppercase mb0">{{ person }} </h6>
                                     <h7> {{ members[person]['title'] }} </h7>
@@ -51,10 +55,39 @@
                                             <span><a href="{{ members[person]['linkedin'] }}" target="_blank"><i class="ti-linkedin"></i></a></span>
                                         {% endif %}
                                     </div>
+                                    {% if not members[person]['bio'] == '' %}
+                                      </br>
+                                      <p> {{ members[person]['bio'] | safe }}</p>
+                                    {% endif %}
                                 </div>
                             </div>
                           </div>
                           
+                          <!-- Script to Trigger Modal -->
+                          <script>
+                              // Get the modal
+                              var modal = document.getElementsByClassName("modal");
+                              // Get the image that opens the modal
+                              var img = document.getElementsByClassName("profile-img");
+                              // Get the <span> element that closes the modal
+                              var closeSpan = document.getElementsByClassName("close");
+                              
+                              // Control the Appearance of the Modal 
+                              for (var i = 0; i < img.length; i++) {
+                                var profileImg = img[i];
+                                // Opening the Modal
+                                profileImg.onclick = function() {
+                                  var thisModal = document.getElementById(this.dataset.modal);
+                                  thisModal.style.display = "block";
+                                };
+                                // Closing the Modal
+                                var thisClose = closeSpan[i];
+                                thisClose.onclick = function() {
+                                  var thisModal = document.getElementById(this.dataset.modal); //A higher-scoped version of this doesn't work
+                                  thisModal.style.display = "none";
+                                  };
+                              }
+                          </script>
 
                           <!-- Description -->
                           <div class="title">
@@ -79,31 +112,7 @@
 
           {% endfor %}
           </div>
-          <!-- Script to Trigger Modal -->
-          <script>
-              // Get the modal
-              var modal = document.getElementsByClassName("modal");
-              // Get the image that opens the modal
-              var img = document.getElementsByClassName("profile-img");
-              // Get the <span> element that closes the modal
-              var closeSpan = document.getElementsByClassName("close");
-              
-              // Control the Appearance of the Modal 
-              for (var i = 0; i < img.length; i++) {
-                var profileImg = img[i];
-                // Opening the Modal
-                profileImg.onclick = function() {
-                  var thisModal = document.getElementById(this.dataset.modal);
-                  thisModal.style.display = "block";
-                };
-                // Closing the Modal
-                var thisClose = closeSpan[i];
-                thisClose.onclick = function() {
-                  var thisModal = document.getElementById(this.dataset.modal); //A higher-scoped version of this doesn't work
-                  thisModal.style.display = "none";
-                  };
-              }
-          </script>
+          
           <br/>
         {% endif %}
 
@@ -198,6 +207,14 @@
       color: #000;
       text-decoration: none;
       cursor: pointer;
+    }
+    .modal-img {
+      height: 240px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      max-width: 240px;
     }
     th {
       padding-top: 12px;
