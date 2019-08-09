@@ -23,7 +23,40 @@
 
                   <div class="col-md-3">
                       <div class="image-tile outer-title text-center">
-                          <img alt="Pic" src="{{ url_for('static', filename=members[person]['img']) }}" class="profile-img">
+
+                          <!-- Image with Modal Box -->
+                          <img 
+                            alt="Pic" 
+                            src="{{ url_for('static', filename=members[person]['img']) }}" 
+                            class="profile-img"
+                            data-modal="modal-{{person}}">
+                          <!-- Modal Box -->
+                          <div id="modal-{{person}}" class="modal">
+                              
+                            <!-- Modal Content -->
+                            <div class="modal-content">
+                                <span class="close" data-modal="modal-{{person}}">&times;</span>
+                                <div class="title">
+                                    <h6 class="uppercase mb0">{{ person }} </h6>
+                                    <h7> {{ members[person]['title'] }} </h7>
+                                    <div class="bio-icon">
+                                        <span> {{ members[person]['email'] }} </span> <br/>
+                                        {% if not members[person]['personal'] == '' %}
+                                            <span><a href="{{ members[person]['personal'] }}" target="_blank"><i class="ti-world"></i></a></span>
+                                        {% endif %}
+                                        {% if not members[person]['github'] == '' %}
+                                            <span><a href="{{ members[person]['github'] }}" target="_blank"><i class="ti-github"></i></a></span>
+                                        {% endif %}
+                                        {% if not members[person]['linkedin'] == '' %}
+                                            <span><a href="{{ members[person]['linkedin'] }}" target="_blank"><i class="ti-linkedin"></i></a></span>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                            </div>
+                          </div>
+                          
+
+                          <!-- Description -->
                           <div class="title">
                               <h6 class="uppercase mb0">{{ person }} </h6>
                               <h7> {{ members[person]['title'] }} </h7>
@@ -40,11 +73,37 @@
                                   {% endif %}
                               </div>
                           </div>
+
                       </div>
                   </div>
 
           {% endfor %}
           </div>
+          <!-- Script to Trigger Modal -->
+          <script>
+              // Get the modal
+              var modal = document.getElementsByClassName("modal");
+              // Get the image that opens the modal
+              var img = document.getElementsByClassName("profile-img");
+              // Get the <span> element that closes the modal
+              var closeSpan = document.getElementsByClassName("close");
+              
+              // Control the Appearance of the Modal 
+              for (var i = 0; i < img.length; i++) {
+                var profileImg = img[i];
+                // Opening the Modal
+                profileImg.onclick = function() {
+                  var thisModal = document.getElementById(this.dataset.modal);
+                  thisModal.style.display = "block";
+                };
+                // Closing the Modal
+                var thisClose = closeSpan[i];
+                thisClose.onclick = function() {
+                  var thisModal = document.getElementById(this.dataset.modal); //A higher-scoped version of this doesn't work
+                  thisModal.style.display = "none";
+                  };
+              }
+          </script>
           <br/>
         {% endif %}
 
@@ -105,6 +164,40 @@
       height: 240px;
       max-width: 240px;
       border-radius: 50%;
+      transition: 0.3s;
+    }
+    .profile-img:hover {opacity: 0.5}
+    .modal {
+      display: none; /* Hidden by default */
+      position: fixed; 
+      z-index: 1; /* Sit on top */
+      padding-top: 100px; 
+      left: 0;
+      top: 0;
+      width: 100%; /* Full width */
+      height: 100%; /* Full height */
+      overflow: auto; /* Enable scroll if needed */
+      background-color: rgb(0,0,0); /* Fallback color */
+      background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    }
+    .modal-content {
+      background-color: #f2f2f2;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid black;
+      width: 80%;
+    }
+    .close {
+      color: #808080;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+    }
+    .close:hover,
+    .close:focus {
+      color: #000;
+      text-decoration: none;
+      cursor: pointer;
     }
     th {
       padding-top: 12px;
