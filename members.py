@@ -15,6 +15,7 @@ members = {
         #     "github": ...
         #     "personal": ...
         #     "img": ...
+        #     "bio": ...
         # }
 
         "Riley McDanal": {
@@ -43,6 +44,7 @@ members = {
             "facebook": "www.facebook.com/hareen.seerha",
             "github": "",
             "personal": "",
+            "bio": """ I am currently a 3rd year, majoring in Public Health and minoring In Global Poverty in Practice. I work in the Sudmant Lab and Kauffer Lab. The Sudmant Lab focuses on genomics and computational biology; my project is focused on somatic cell mutations. The Kauffer Lab focuses on brain trauma and aging; my project is focused on the effect albumin has on aging. In my free time, I love to try new food, workout, and explore the Bay Area with my friends. In the future, I hope to attend medical school and complete my bucket list item of visiting every continent in the world. """,
             "img": "img/staff/hareenseerha.jpg"
         },
         # "Valerie Burleigh": {
@@ -84,36 +86,71 @@ members = {
         "Shreeya Garg": {
             "title": "Lab Manager",
             "email": "shreeyagarg@berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "bio": """I am currently a junior, majoring in Microbial Biology and I have a minor in Global Public Health. I am an undergraduate researcher in the Will Lab. In the future, I hope attend either graduate school or medical school. In my free time, I love going diving and exploring more of the Bay.""",
             "img": "img/staff/shreeyagarg.jpg"
         },
         "Rajan Parikh": {
             "title": "Lab Manager",
             "email": "rajanjparikh@berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "bio": """I am currently a 3rd year majoring in Bioengineering. I am currently in the Chan Lab at UCSF, which investigates the pathophysiology and genetics of hearing loss associated with mutations in Connexin 26, the most commonly affected gene in congenital hearing loss.  My project focuses on sourcing and analyzing cochlear perilymph samples to assess diffusion concentrations of various hearing loss treatments. In my free time, I love to watch sports, play ultimate frisbee, read, and hike around the Bay Area.""",
             "img": "img/staff/rajanparikh.jpg"
         },
         "Lexi Zhou": {
             "title": "Operations Director",
             "email": "lexizczh@berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "bio": """My name is Lexi and I am a second year Cognitive Science and MCB major. My academic interest for now focuses on the evolution of the human brain and how some of the unique human capabilities play a role in it (e.g language). I am excited for all the great research ideas from all of you and an inspiring intellectual community that ULAB aims to foster.""",
             "img": "img/staff/lexizhou.jpg"
         },
         "Ashish Ramesh": {
             "title": "Website Manager",
             "email": "ashishramesh@berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "bio": """I am currently a second year majoring in Molecular and Cell Biology. I am most interested in different applications of biochemistry and biophysics. I joined ULAB as a mentee in Fall 2018, and am excited to see this year's projects!""",
             "img": "img/staff/ashishramesh.jpg"
         },
         "Arushi Sahay": {
             "title": "Social Chair",
             "email": "arushisahay@berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "bio": """Arushi is a 2nd year Molecular and Cell Biology major. She currently works as a lab assistant for the Dillin lab. Arushi is excited to be the social chair for the ULab CogSci board and looks forward to developing fun activities for the whole lab to enjoy.""",
             "img": "img/staff/arushisahay.jpg"
         },
         "Josephine Widjaja": {
             "title": "Editor-in-Chief",
             "email": "josephine.widjaja@berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "bio": """Josephine is a second-year chemical biology major. She is interested in research in the application of chemistry in a biological aspect. She joined ULAB as a mentee in Fall 2018 and is excited to start publishing ULAB work this spring!""",
             "img": "img/staff/josephinewidjaja.jpg"
         },
         "Samadi Karunasundera": {
             "title": "Finance Director",
             "email": "",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "bio": "",
             "img": ""
         },
         "Colin Jindra": {
