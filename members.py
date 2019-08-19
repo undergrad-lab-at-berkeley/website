@@ -335,6 +335,37 @@ members = {
             "img": "",
             "bio": ""
         },
+        "Savannah Perez-Piel": {
+            "title": "Research Director",
+            "position": "Research Director: Physics and Astronomy",
+            "email": "savannah_sky@berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/savannah_perez-piel.jpg",
+            "bio": ""
+        },
+        "Carrie Zuckerman": {
+            "title": "Lab Manager",
+            "email": "carriezuckerman@berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/carriezuckerman.jpg",
+            "bio": ""
+        },
+        "Yi Zhu": {
+            "title": "Lab Manager",
+            "email": "yi.zhu@berkeley.edu",
+            "linkedin": "https://www.linkedin.com/in/yi-j-zhu",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/yi_zhu.jpg",
+            "bio": ""
+        },
         "Kim Ambrocio": {
             "title": "Lab Manager",
             "email": "ambrociokim@gmail.com",

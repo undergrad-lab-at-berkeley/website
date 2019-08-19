@@ -63,7 +63,7 @@ labs = {
             "full_name": u"Physics and Astronomy",
             "navbar": u"Physics",
             "status": "Active",
-            "members": ["Arjun Savel", "Kim Ambrocio", "Thomas Low"],
+            "members": ["Savannah Perez-Piel", "Carrie Zuckerman", "Yi Zhu"],
             "content": {
                 "overview": {
                     "title": u"Lab Overview",
@@ -78,8 +78,10 @@ labs = {
                 "join": {
                     "title": u"Want to join us?",
                     "text": u"""
-                            Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about our lab, please send an email to <a href="asavel@berkeley.edu ">asavel@berkeley.edu </a>. <br/>
-                            """
+                         We are currently looking to fill mentor and research postions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="physics.ulab@gmail.com">physics.ulab@gmail.com</a>. <br/>
+                         <a href="https://forms.gle/58osqwHQmwtKnrbp7">Mentor Application</a> <br/>
+                         <a href="https://forms.gle/5vSiPVwjKyUfPuym6">Student Researcher Application</a>
+                         """
 
                     # u"""
                     #     In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
