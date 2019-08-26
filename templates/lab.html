@@ -146,6 +146,17 @@
         </div>
         {%endif%}
 
+        <!-- Past Papers Database Circle -->
+        {%if lab['content']['database']%}
+        <br>
+        <br>
+        <div class="database-circle">
+          <a class="database-link" href="{{ lab['content']['database']['link'] }}">
+            Database of Past Projects
+          </a>
+        </div>
+        {%endif%}
+
       </div>
     </div>
 
@@ -175,6 +186,25 @@
       border-radius: 50%;
       transition: 0.3s;
     }
+    .database-circle {
+      height: 240px;
+      max-width: 240px;
+      border-radius: 50%;
+      transition: 0.3s;
+      background-color: #46535e;
+      display: flex;
+      margin-left: auto;
+      margin-right: auto;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    .database-link {
+      color: #f2f2f2;
+      font-size: 24px;
+      font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    .database-circle:hover {opacity: 0.5}
     .profile-img:hover {opacity: 0.5}
     .modal {
       display: none; /* Hidden by default */

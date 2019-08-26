@@ -53,6 +53,9 @@ labs = {
                     "title": u"Calendar",
                     "text": u"""Here is a general timeline for our lab during the Fall Semester. Exact days and times are subject to change.""",
                     "object": """<iframe src="https://calendar.google.com/calendar/embed?src=cogsci.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
+                },
+                "database": {
+                    "link": "https://drive.google.com/open?id=1AU_fRlqby_U4Ll4guklRvnElStfsiS88"
                 }
             }
     },
