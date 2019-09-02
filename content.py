@@ -164,8 +164,9 @@ labs = {
                 "join": {
                     "title": u"Want to join us?",
                     "text": u"""
-                        We are currently looking to fill mentor positions for this semester, so if you would like to be considered for a role in our lab, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="nehav@ulab.berkeley.edu">nehav@ulab.berkeley.edu</a>. <br/>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJcPpq_t0p32E2OwWhMw2y24ROi10jPbQBSAI4SND3gDflgA/viewform"> Mentor Application </a> </br>
+                        We are currently looking to fill mentor and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email alanlp@berkeley.edu. <br/>
+                         <a href="https://forms.gle/TDe6YmYeKY3VkUNC6">Mentor Application</a> <br/>
+                         <a href="https://forms.gle/fT3hi9NpW2KUye9BA">Mentee Application</a>
                         """
                 },
                 "calendar": {
