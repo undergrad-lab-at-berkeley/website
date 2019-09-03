@@ -146,16 +146,27 @@
         </div>
         {%endif%}
 
-        <!-- Past Papers Database Circle -->
-        {%if lab['content']['database']%}
         <br>
         <br>
-        <div class="database-circle">
-          <a class="database-link" href="{{ lab['content']['database']['link'] }}">
-            Database of Past Projects
-          </a>
+        <div class="row center-div">
+          <!-- Past Papers Database Circle -->
+          {%if lab['content']['database']%}
+          <div class="database-circle">
+            <a class="database-link" href="{{ lab['content']['database']['link'] }}">
+              Database of Past Projects
+            </a>
+          </div>
+          {%endif%}
+
+          <!-- Modules Circle -->
+          {%if lab['content']['modules']%}
+          <div class="database-circle">
+            <a class="database-link" href="{{ lab['content']['modules']['link'] }}">
+              Modules
+            </a>
+          </div>
+          {%endif%}
         </div>
-        {%endif%}
 
       </div>
     </div>
@@ -188,7 +199,7 @@
     }
     .database-circle {
       height: 240px;
-      max-width: 240px;
+      width: 240px;
       border-radius: 50%;
       transition: 0.3s;
       background-color: #46535e;

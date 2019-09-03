@@ -56,6 +56,9 @@ labs = {
                 },
                 "database": {
                     "link": "https://drive.google.com/open?id=1AU_fRlqby_U4Ll4guklRvnElStfsiS88"
+                },
+                "modules": {
+                    "link": "https://drive.google.com/open?id=1YN6XcBvnLbGsTlXLyrnobdeeLiU50ovBPDo1lnnXDOY"
                 }
             }
     },
