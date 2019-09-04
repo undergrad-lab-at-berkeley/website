@@ -34,7 +34,7 @@ labs = {
                         <p></p>
                         Last year, our lab worked on projects involving neural atrophication, language processing, consciousness and decision-making, but we are currently developing exciting research projects for the upcoming school year. </br>
                         <p></p>
-                        <a href="https://docs.google.com/document/d/1pF77DMo5xloQzDGaxCoTBN5WXO56pQfxsK0g6lF8Ac8/edit?usp=sharing"> Mentor Syllabus</a>
+                        This year, we are following a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULAB executive team. Each group will get to pick studies in areas that interest them the most! This will also allow an opportunity for projects to be published! This year we will also have grad student support for all groups.
                         """
                 },
                 "join": {
