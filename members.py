@@ -114,7 +114,7 @@ members = {
             "img": "img/staff/lexizhou.jpg"
         },
         "Ashish Ramesh": {
-            "title": "Website Manager",
+            "title": "CS Director",
             "email": "ashishramesh@berkeley.edu",
             "linkedin": "",
             "facebook": "",
