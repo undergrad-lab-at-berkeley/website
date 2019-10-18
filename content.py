@@ -84,9 +84,7 @@ labs = {
                 "join": {
                     "title": u"Want to join us?",
                     "text": u"""
-                         We are currently looking to fill mentor and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="physics.ulab@gmail.com">physics.ulab@gmail.com</a>. <br/>
-                         <a href="https://forms.gle/58osqwHQmwtKnrbp7">Mentor Application</a> <br/>
-                         <a href="https://forms.gle/5vSiPVwjKyUfPuym6">Student Researcher Application</a>
+                         Thanks for your interest in ULAB! Applications are currently closed for the 2019-2020 year, so please check back in the Summer to apply for 2020-2021.
                          """
 
                     # u"""
@@ -95,22 +93,33 @@ labs = {
                     #     <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
                     # """
                 },
-                "table": {
-                    "rows": [
-                        {
-                            "col": ["Introduction to Python", "TBD"],
-                            "link": "http://datahub.berkeley.edu/user-redirect/interact?account=physicsulab&repo=cs-module-1-test&branch=master&path=cs-module-1.ipynb",
-                        },
-                        {
-                            "col": ["Introduction to Python II", "TBD"],
-                            "link": "http://datahub.berkeley.edu/user-redirect/interact?account=physicsulab&repo=cs-module-2&branch=master&path=",
-                        },
-                    ],
-                },
                 "calendar": {
                     "title": u"Calendar",
                     "text": u"""Here is a general timeline for our lab during the Fall Semester. Exact days and times are subject to change.""",
                     "object": """<iframe src="https://calendar.google.com/calendar/embed?src=physics.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
+                },
+                "database": {
+                    "link": "https://www.eposters.net/search/all/1/ulab"
+                },
+                "table": {
+                    "rows": [
+                        {
+                            "col": ["Introduction to Python", "10/16"],
+                            "link": "http://datahub.berkeley.edu/user-redirect/interact?account=physicsulab&repo=cs-module-1-test&branch=master&path=cs-module-1.ipynb",
+                        },
+                        {
+                            "col": ["Introduction to Python II", "11/01"],
+                            "link": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fphysicsulab%2Fcs-module-2.1&urlpath=tree%2Fcs-module-2.1%2F",
+                        },
+                        {
+                            "col": ["Project Proposal", "11/24"],
+                            "link": "https://www.overleaf.com/read/tdmbzjzgmgnx",
+                        },
+                        {
+                            "col": ["Project Proposal Check-In", "11/27"],
+                            "link": "https://docs.google.com/document/d/1RPmN3utQ3Ydgk_KuzEiCZDerI9tadnUnf3gwCpzLTN0/edit?usp=sharing",
+                        },
+                    ],
                 }
             }
     },
@@ -201,6 +210,12 @@ labs = {
                         #     """Fill out our application below and feel free to contact the director at <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a> if you would like to learn more about the Advanced Technologies Group. <br/>
                         # <a href="https://docs.google.com/forms/d/e/1FAIpQLSd22cFsyWXDVcjOFRSTuI0mrbGLfnHFHOmc5TPqLQmaQYGAtQ/viewform"> Software Developer Application</a>
                         #     """
+
+                        # u"""
+                        # We are currently looking to fill mentor and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email alanlp@berkeley.edu. <br/>
+                        #  <a href="https://forms.gle/TDe6YmYeKY3VkUNC6">Mentor Application</a> <br/>
+                        #  <a href="https://forms.gle/fT3hi9NpW2KUye9BA">Mentee Application</a>
+                        # """
                 },
                 "calendar": {
                     "title": "",
