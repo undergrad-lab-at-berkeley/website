@@ -112,6 +112,10 @@ labs = {
                             "link": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fphysicsulab%2Fcs-module-2.1&urlpath=tree%2Fcs-module-2.1%2F",
                         },
                         {
+                            "col": ["Introduction to Python III", "11/22"],
+                            "link": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fphysicsulab%2Fcs-module-2.2&urlpath=tree%2Fcs-module-2.2%2F",
+                        },
+                        {
                             "col": ["Project Proposal Check-In", "10/27"],
                             "link": "https://docs.google.com/document/d/1RPmN3utQ3Ydgk_KuzEiCZDerI9tadnUnf3gwCpzLTN0/edit?usp=sharing",
                         },
