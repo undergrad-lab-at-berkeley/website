@@ -20,10 +20,10 @@ for member in members:
     if not members[member]['img']:
         members[member]['img'] = 'img/logos/logo_general.png'
 
-@app.route("/join-page")
-@app.route("/labs/")
-def labs():
-    return render_template("labs.html", labs=content.labs)
+# @app.route("/join-page")
+# @app.route("/labs/")
+# def labs():
+#     return render_template("labs.html", labs=content.labs)
 
 @app.route("/labs/<name>")
 def lab(name=None):

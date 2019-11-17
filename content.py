@@ -13,10 +13,10 @@ def filter_dict(input_dict, entries):
     # Compares INPUT_DICT keys with set ENTRIES, matching keys are used in a dictionary comprehension
     return {k: input_dict[k] for k in input_dict.keys() if k in entries}
 
-foundersOrder = ["Joshua Hug", "Amit Akula", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
-advisorsOrder = ["Joshua Hug", "Alex Powers", "Sean Burns"]
-teamOrder = ['Riley McDanal', 'Catherine Livelo', 'Alan Pham', 'Dillon Eskandar', 'Yasmeen Musthafa', 'Min Young Kim', 'Mrinalini Sugosh']
-labOrder = ['cogsci','physics','bio','data','atg','ops','aerospace']
+foundersOrder = ["Riley McDanal", "Jenna Martin", "Arjun Savel", "Yasmeen Musthafa", "Catherine Livelo", "Alan Pham", "Joshua Hug", "Amit Akula", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
+advisorsOrder = ["Joshua Hug", "Arjun Savel", "Riley McDanal", "Sean Burns"]
+teamOrder = ['Hareen Seerha', 'Savannah Perez-Piel', 'Catherine Livelo', 'Alan Pham', 'Adam Bittenson']
+labOrder = ['cogsci','physics','bio','data']
 
 labs = {
     "cogsci": {
@@ -193,104 +193,104 @@ labs = {
             }
     },
 
-    "atg": {
-            "logo" : u"/static/img/logos/logo_atg.png",
-	        "short_name" : "ATG",
-	        "full_name" : "Advanced Technologies Group",
-	        "navbar" : "Advanced Technologies Group",
-            "status": "Active",
-            "members": ["Dillon Eskandar", "Neil Toledo", "David Liu", "Kavi Vaidya", "Charlie Zhang", "Albert Huang"],
-            "content": {
-                "overview": {
-                    "title": "Lab Overview",
-                    "text": "Founded by Phat Pham in Spring 2018, ULAB's Advanced Technologies Group (ATG) is an elite branch that was formed upon the realization that our labs spend way too much time building the tools they need for their experiments. What if we separate the engineering from the science? ATG is a full-blown organization dedicated to doing just that. More specifically, ATG is an augmented intelligence group that combines human-centered design, data science, and software development to help improve the efficiency of laboratories around the UC Berkeley campus and within ULAB itself. We are currently developing projects and curriculum for the upcoming semester in order to immerse students interested in software development immediately in the quickly-growing field."
-                },
-                "join": {
-                    "title": "Want to join us?",
-                    "text": """
-                            Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about ATG, please send an email to <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a>. <br/>
-                            """
-
-                        #     """Fill out our application below and feel free to contact the director at <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a> if you would like to learn more about the Advanced Technologies Group. <br/>
-                        # <a href="https://docs.google.com/forms/d/e/1FAIpQLSd22cFsyWXDVcjOFRSTuI0mrbGLfnHFHOmc5TPqLQmaQYGAtQ/viewform"> Software Developer Application</a>
-                        #     """
-
-                        # u"""
-                        # We are currently looking to fill mentor and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email alanlp@berkeley.edu. <br/>
-                        #  <a href="https://forms.gle/TDe6YmYeKY3VkUNC6">Mentor Application</a> <br/>
-                        #  <a href="https://forms.gle/fT3hi9NpW2KUye9BA">Mentee Application</a>
-                        # """
-                },
-                "calendar": {
-                    "title": "",
-                    "text": "",
-                    "object": ""
-                }
-            },
-    },
-
-    "ops": {
-            "logo" : u"/static/img/logos/logo_general.png",
-            "short_name" : "ops",
-	        "full_name" : "Operations and Publicity",
-	        "navbar" : "Operations and Publicity",
-            "status": "Active",
-            "members": ["Yasmeen Musthafa", "Min Young Kim", "Catherine Livelo", "Neha Venkatesh", "Alan Pham", "Justin Gerwien", "Jesslyn Cabero",
-                        "Jessica Tin", "Marwat Al-Olefi",  "Sunita Bohara", "Kasey Woo"],
-            "content": {
-                "overview": {
-                    "title": "Publicity/Partnerships Team",
-                    "text": """
-                        Our team works to reach out to other campus organizations and resources in order to recruit a more diverse group of students and let students be aware of the opportunities ULAB provides.
-                        In partnership, we strive to work together with other research organizations for undergraduate students to create a network of available resources to help students.
-                        By publicizing ULAB to incoming freshmen who are looking to develop basic research skills and to other undergraduates with leadership opportunities,
-                        we want to allow more students to gain valuable experiences that will help their undergraduate carrier both professionally and personally.
-                        """
-                },
-                "join": {
-                    "title": "Want to join us?",
-                    "text": """
-                            Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about our team, please send an email to <a href="yasmeenm@berkeley.edu">yasmeenm@berkeley.edu</a>. <br/>
-                            """
-
-                    # """
-                    #     If you are interested in joining our Operations and Publicity Team, a list of available positions and their descriptions are available at the link below.  To be considered, please also fill out the following form underneath.  If you have any more questions or would like to learn more about our team, please email <a href="yasmeenm@berkeley.edu">yasmeenm@berkeley.edu</a>. <br/>
-                    #     <a href="https://docs.google.com/document/d/e/2PACX-1vTwHJF2tisUNZ3yv3bPOyRZqCkhLBXQbsJ9sUvWz22kLq3Y81T0RnaqfN7pCeCeLDaPMtLhwUTu3qvS/pub"> Postitions </a> <br/>
-                    #     <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScuj7uD-TF_2rsHOsHJLUlPOML2Dubbr9TnqGMCGmBcd3zdog%2Fviewform%3Fusp%3Dsf_link&h=AT0y-vYYen3mQcWXNZE6TKhZ8onkgkHxDxshgfkeCGasrrR-jTE6zb3xAIpZOBl18pkmZQDe6M2GapgomjG2Zvo_NDGeAkTQoTfqG16jR4VDmfopa5ab2gtyrwqPrfO8RqudUbdztXPGodqj"> Application </a>
-                    # """
-                },
-                "calendar": {
-                    "title": "",
-                    "text": "",
-                    "object": ""
-                }
-            }
-    },
-
-    # To Be Determined
-    "aerospace": {
-            "logo" : u"/static/img/logos/logo_robotics_aero.png",
-            "short_name": "aerospace",
-            "full_name": "Robotics and Aerospace Engineering",
-            "navbar": "Robotics and Aerospace Engineering",
-            "status": "Under Development",
-            "team": [],
-            "content": {
-                "overview": {
-                    "title": "This Lab is Under Development",
-                    "text": ""
-                },
-                "join": {
-                    "title": "",
-                    "text": ""
-                },
-                "calendar": {
-                    "title": "",
-                    "text": "",
-                    "object": ""
-                }
-            }
-    }
+    # "atg": {
+    #         "logo" : u"/static/img/logos/logo_atg.png",
+	#         "short_name" : "ATG",
+	#         "full_name" : "Advanced Technologies Group",
+	#         "navbar" : "Advanced Technologies Group",
+    #         "status": "Active",
+    #         "members": ["Dillon Eskandar", "Neil Toledo", "David Liu", "Kavi Vaidya", "Charlie Zhang", "Albert Huang"],
+    #         "content": {
+    #             "overview": {
+    #                 "title": "Lab Overview",
+    #                 "text": "Founded by Phat Pham in Spring 2018, ULAB's Advanced Technologies Group (ATG) is an elite branch that was formed upon the realization that our labs spend way too much time building the tools they need for their experiments. What if we separate the engineering from the science? ATG is a full-blown organization dedicated to doing just that. More specifically, ATG is an augmented intelligence group that combines human-centered design, data science, and software development to help improve the efficiency of laboratories around the UC Berkeley campus and within ULAB itself. We are currently developing projects and curriculum for the upcoming semester in order to immerse students interested in software development immediately in the quickly-growing field."
+    #             },
+    #             "join": {
+    #                 "title": "Want to join us?",
+    #                 "text": """
+    #                         Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about ATG, please send an email to <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a>. <br/>
+    #                         """
+    #
+    #                     #     """Fill out our application below and feel free to contact the director at <a href="dilloneskandar@berkeley.edu">dilloneskandar@berkeley.edu</a> if you would like to learn more about the Advanced Technologies Group. <br/>
+    #                     # <a href="https://docs.google.com/forms/d/e/1FAIpQLSd22cFsyWXDVcjOFRSTuI0mrbGLfnHFHOmc5TPqLQmaQYGAtQ/viewform"> Software Developer Application</a>
+    #                     #     """
+    #
+    #                     # u"""
+    #                     # We are currently looking to fill mentor and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email alanlp@berkeley.edu. <br/>
+    #                     #  <a href="https://forms.gle/TDe6YmYeKY3VkUNC6">Mentor Application</a> <br/>
+    #                     #  <a href="https://forms.gle/fT3hi9NpW2KUye9BA">Mentee Application</a>
+    #                     # """
+    #             },
+    #             "calendar": {
+    #                 "title": "",
+    #                 "text": "",
+    #                 "object": ""
+    #             }
+    #         },
+    # },
+#
+    # "ops": {
+    #         "logo" : u"/static/img/logos/logo_general.png",
+    #         "short_name" : "ops",
+	#         "full_name" : "Operations and Publicity",
+	#         "navbar" : "Operations and Publicity",
+    #         "status": "Active",
+    #         "members": ["Yasmeen Musthafa", "Min Young Kim", "Catherine Livelo", "Neha Venkatesh", "Alan Pham", "Justin Gerwien", "Jesslyn Cabero",
+    #                     "Jessica Tin", "Marwat Al-Olefi",  "Sunita Bohara", "Kasey Woo"],
+    #         "content": {
+    #             "overview": {
+    #                 "title": "Publicity/Partnerships Team",
+    #                 "text": """
+    #                     Our team works to reach out to other campus organizations and resources in order to recruit a more diverse group of students and let students be aware of the opportunities ULAB provides.
+    #                     In partnership, we strive to work together with other research organizations for undergraduate students to create a network of available resources to help students.
+    #                     By publicizing ULAB to incoming freshmen who are looking to develop basic research skills and to other undergraduates with leadership opportunities,
+    #                     we want to allow more students to gain valuable experiences that will help their undergraduate carrier both professionally and personally.
+    #                     """
+    #             },
+    #             "join": {
+    #                 "title": "Want to join us?",
+    #                 "text": """
+    #                         Unfortunately, applications have closed and we have already filled all of our positions for the current semester. If you have any more questions or would like to learn more about our team, please send an email to <a href="yasmeenm@berkeley.edu">yasmeenm@berkeley.edu</a>. <br/>
+    #                         """
+    #
+    #                 # """
+    #                 #     If you are interested in joining our Operations and Publicity Team, a list of available positions and their descriptions are available at the link below.  To be considered, please also fill out the following form underneath.  If you have any more questions or would like to learn more about our team, please email <a href="yasmeenm@berkeley.edu">yasmeenm@berkeley.edu</a>. <br/>
+    #                 #     <a href="https://docs.google.com/document/d/e/2PACX-1vTwHJF2tisUNZ3yv3bPOyRZqCkhLBXQbsJ9sUvWz22kLq3Y81T0RnaqfN7pCeCeLDaPMtLhwUTu3qvS/pub"> Postitions </a> <br/>
+    #                 #     <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScuj7uD-TF_2rsHOsHJLUlPOML2Dubbr9TnqGMCGmBcd3zdog%2Fviewform%3Fusp%3Dsf_link&h=AT0y-vYYen3mQcWXNZE6TKhZ8onkgkHxDxshgfkeCGasrrR-jTE6zb3xAIpZOBl18pkmZQDe6M2GapgomjG2Zvo_NDGeAkTQoTfqG16jR4VDmfopa5ab2gtyrwqPrfO8RqudUbdztXPGodqj"> Application </a>
+    #                 # """
+    #             },
+    #             "calendar": {
+    #                 "title": "",
+    #                 "text": "",
+    #                 "object": ""
+    #             }
+    #         }
+    # },
+#
+    # # To Be Determined
+    # "aerospace": {
+    #         "logo" : u"/static/img/logos/logo_robotics_aero.png",
+    #         "short_name": "aerospace",
+    #         "full_name": "Robotics and Aerospace Engineering",
+    #         "navbar": "Robotics and Aerospace Engineering",
+    #         "status": "Under Development",
+    #         "team": [],
+    #         "content": {
+    #             "overview": {
+    #                 "title": "This Lab is Under Development",
+    #                 "text": ""
+    #             },
+    #             "join": {
+    #                 "title": "",
+    #                 "text": ""
+    #             },
+    #             "calendar": {
+    #                 "title": "",
+    #                 "text": "",
+    #                 "object": ""
+    #             }
+    #         }
+    # }
 }
 
 

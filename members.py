@@ -19,14 +19,22 @@ members = {
         # }
 
         "Riley McDanal": {
-            "title": "Research Director",
-            "position": "Research Director: Psychology and Cognitive Sciences",
+            "title": "",
+            "founder_title": "Psychology and Cognitive Sciences Lab Cofounder",
             "email": "rileymcdanal@berkeley.edu",
             "linkedin": "www.linkedin.com/in/riley-mcdanal",
             "facebook": "www.facebook.com/riley.mcdanal",
             "github": "",
             "personal": "",
             "img": "img/staff/rileymcdanal.jpg"
+        },
+        "Jenna Martin": {
+            "founder_title": "Psychology and Cognitive Sciences Lab Cofounder",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": ""
         },
         # "Annelise Meyer": {
         #     "title": "Vice Research Director",
@@ -39,6 +47,7 @@ members = {
         # },
         "Hareen Seerha": {
             "title": "Research Director",
+            "position": "Research Director: Psychology and Cognitive Sciences",
             "email": "hareen_seerha@berkeley.edu",
             "linkedin": "",
             "facebook": "www.facebook.com/hareen.seerha",
@@ -65,15 +74,16 @@ members = {
         #     "personal": "",
         #     "img": "img/staff/stephaniechang.jpg"
         # },
-        # "Adam Bittenson": {
-        #     "title": "Finance Director",
-        #     "email": "abittenson@berkeley.edu",
-        #     "linkedin": "www.linkedin.com/in/adam-bittenson-368507163",
-        #     "facebook": "www.facebook.com/profile.php?id=100000579046414",
-        #     "github": "",
-        #     "personal": "",
-        #     "img": "img/staff/adambittenson.png"
-        # },
+        "Adam Bittenson": {
+            "title": "Finance Director",
+            "position": "Finance Director",
+            "email": "abittenson@berkeley.edu",
+            "linkedin": "www.linkedin.com/in/adam-bittenson-368507163",
+            "facebook": "www.facebook.com/profile.php?id=100000579046414",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/adambittenson.png"
+        },
         # "Allie Morehouse": {
         #     "title": "Curriculum and Advising Director",
         #     "email": "amorehouse@berkeley.edu",
@@ -162,25 +172,25 @@ members = {
             "personal": "",
             "img": "img/staff/colinjindra.png"
         },
-       "Dillon Eskandar": {
-            "title": "Director of Advanced Technologies Group",
-            "position": "Director: Advanced Technologies Group",
-            "email": "dilloneskandar@berkeley.edu",
-            "linkedin": "",
-            "facebook": "",
-            "github": "",
-            "personal": "",
-            "img": "img/team/dillon_eskandar.png"
-        },
-        "Neil Toledo": {
-            "title": "Deputy Director of Advanced Technologies Group",
-            "email": "ntoledo@berkeley.edu",
-            "linkedin": "https://www.linkedin.com/in/neil-toledo/",
-            "facebook": "",
-            "github": "https://github.com/nnt1054",
-            "personal": "",
-            "img": "img/team/neil_toledo.jpg"
-        },
+       # "Dillon Eskandar": {
+       #      "title": "Director of Advanced Technologies Group",
+       #      "position": "Director: Advanced Technologies Group",
+       #      "email": "dilloneskandar@berkeley.edu",
+       #      "linkedin": "",
+       #      "facebook": "",
+       #      "github": "",
+       #      "personal": "",
+       #      "img": "img/team/dillon_eskandar.png"
+       #  },
+        # "Neil Toledo": {
+        #     "title": "Deputy Director of Advanced Technologies Group",
+        #     "email": "ntoledo@berkeley.edu",
+        #     "linkedin": "https://www.linkedin.com/in/neil-toledo/",
+        #     "facebook": "",
+        #     "github": "https://github.com/nnt1054",
+        #     "personal": "",
+        #     "img": "img/team/neil_toledo.jpg"
+        # },
         # "Cibi Pari": {
         #     "title": "Deputy Director of Technology",
         #     "email": "cibi.pari@berkeley.edu",
@@ -190,46 +200,47 @@ members = {
         #     "personal": "",
         #     "img": ""
         # },
-        "David Liu": {
-            "title": "Deputy Director of External Affairs",
-            "email": "daveliu@berkeley.edu",
-            "linkedin": "https://www.linkedin.com/in/david-liu-a3139775/",
-            "facebook": "https://www.facebook.com/Dave.Liu.Here",
-            "github": "https://github.com/daliu/",
-            "personal": "https://daliu.github.io/",
-            "img": "img/team/dave_liu.png"
-        },
-        "Kavi Vaidya": {
-            "title": "Deputy Director of Finance",
-            "email": "kavid.vaidya@berkeley.edu",
-            "linkedin": "https://www.linkedin.com/in/kavivaidya/",
-            "facebook": "https://www.facebook.com/kavi.vaidya",
-            "github": "https://www.github.com/kavibvaidya",
-            "personal": "",
-            "img": "img/team/kavi_vaidya.png",
-            "bio": "Programmer, Developer, Researcher."
-        },
-        "Charlie Zhang": {
-            "title": "Deputy Director of Design",
-            "email": "eucbital@berkeley.edu",
-            "linkedin": "",
-            "facebook": "",
-            "github": "https://github.com/chfzhang",
-            "personal": "",
-            "img": ""
-        },
-        "Albert Huang": {
-            "title": "Deputy Director of Internal Affairs",
-            "email": "albert168@berkeley.edu",
-            "linkedin": "",
-            "facebook": "",
-            "github": "",
-            "personal": "",
-            "img": "img/team/albert_huang.png"
-        },
+        # "David Liu": {
+        #     "title": "Deputy Director of External Affairs",
+        #     "email": "daveliu@berkeley.edu",
+        #     "linkedin": "https://www.linkedin.com/in/david-liu-a3139775/",
+        #     "facebook": "https://www.facebook.com/Dave.Liu.Here",
+        #     "github": "https://github.com/daliu/",
+        #     "personal": "https://daliu.github.io/",
+        #     "img": "img/team/dave_liu.png"
+        # },
+        # "Kavi Vaidya": {
+        #     "title": "Deputy Director of Finance",
+        #     "email": "kavid.vaidya@berkeley.edu",
+        #     "linkedin": "https://www.linkedin.com/in/kavivaidya/",
+        #     "facebook": "https://www.facebook.com/kavi.vaidya",
+        #     "github": "https://www.github.com/kavibvaidya",
+        #     "personal": "",
+        #     "img": "img/team/kavi_vaidya.png",
+        #     "bio": "Programmer, Developer, Researcher."
+        # },
+        # "Charlie Zhang": {
+        #     "title": "Deputy Director of Design",
+        #     "email": "eucbital@berkeley.edu",
+        #     "linkedin": "",
+        #     "facebook": "",
+        #     "github": "https://github.com/chfzhang",
+        #     "personal": "",
+        #     "img": ""
+        # },
+        # "Albert Huang": {
+        #     "title": "Deputy Director of Internal Affairs",
+        #     "email": "albert168@berkeley.edu",
+        #     "linkedin": "",
+        #     "facebook": "",
+        #     "github": "",
+        #     "personal": "",
+        #     "img": "img/team/albert_huang.png"
+        # },
         "Yasmeen Musthafa": {
-            "title": "Director of Operations",
-            "position": "ULAB Director of Operations",
+            "title": "",
+            "position": "",
+            "founder_title": "Physics and Astronomy Lab Cofounder",
             "email": "yasmeenm@berkeley.edu",
             "linkedin": "",
             "facebook": "",
@@ -237,22 +248,23 @@ members = {
             "personal": "",
             "img": ""
         },
-        "Min Young Kim": {
-            "title": "Director of Publicity",
-            "position": "ULAB Director of Publicity",
-            "email": "minyoung.kim@berkeley.edu",
-            "personal": "",
-            "github": "",
-            "linkedin": "https://www.linkedin.com/in/min-young-kim-93281211a/",
-            "img": "img/staff/minyoungkim.jpg",
-            "bio": """I love listening to music and spend too much money on different concerts.
-                        While I also enjoy watching movies, I usually get too lazy to go to a
-                        movie theater to actually watch any of them, so I most likely will not
-                        get your movie references."""
-        },
+        # "Min Young Kim": {
+        #     "title": "Director of Publicity",
+        #     "position": "ULAB Director of Publicity",
+        #     "email": "minyoung.kim@berkeley.edu",
+        #     "personal": "",
+        #     "github": "",
+        #     "linkedin": "https://www.linkedin.com/in/min-young-kim-93281211a/",
+        #     "img": "img/staff/minyoungkim.jpg",
+        #     "bio": """I love listening to music and spend too much money on different concerts.
+        #                 While I also enjoy watching movies, I usually get too lazy to go to a
+        #                 movie theater to actually watch any of them, so I most likely will not
+        #                 get your movie references."""
+        # },
         "Catherine Livelo": {
-            "position": "Research Director: Public Health",
-            "title": "Public Health Lab Director/Curriculum Developer",
+            "position": "Research Director: Health Sciences",
+            "title": "Research Director",
+            "founder_title": "Health Sciences Lab Founder",
             "email": "catherinelivelo@berkeley.edu",
             "linkedin": "",
             "facebook": "",
@@ -272,6 +284,7 @@ members = {
         "Alan Pham": {
             "position": "Research Director: Data Science",
             "title": "Data Science Lab Director",
+            "founder_title": "Data Science Lab Founder",
             "email": "alanlp@berkeley.edu",
             "linkedin": "",
             "facebook": "",
@@ -279,26 +292,26 @@ members = {
             "personal": "",
             "img": "img/staff/alanpham.jpg"
         },
-        "Sunita Bohara": {
-            "title": "Events Coordinator",
-            "email": "2129401s@berkeley.edu",
-            "linkedin": "",
-            "facebook": "",
-            "github": "",
-            "personal": "",
-            "img": "img/staff/sunitabohara.jpg"
-        },
-        "Kasey Woo": {
-            "title": "Events Coordinator",
-            "email": "kaseywoo1240@berkeley.edu",
-            "linkedin": "",
-            "facebook": "",
-            "github": "",
-            "personal": "",
-            "img": "img/staff/kaseywoo.jpg"
-        },
+        # "Sunita Bohara": {
+        #     "title": "Events Coordinator",
+        #     "email": "2129401s@berkeley.edu",
+        #     "linkedin": "",
+        #     "facebook": "",
+        #     "github": "",
+        #     "personal": "",
+        #     "img": "img/staff/sunitabohara.jpg"
+        # },
+        # "Kasey Woo": {
+        #     "title": "Events Coordinator",
+        #     "email": "kaseywoo1240@berkeley.edu",
+        #     "linkedin": "",
+        #     "facebook": "",
+        #     "github": "",
+        #     "personal": "",
+        #     "img": "img/staff/kaseywoo.jpg"
+        # },
         "Neha Venkatesh": {
-            "title": "Data Science Lab Manager",
+            "title": "Lab Manager",
             "email": "nehav@berkeley.edu",
             "linkedin": "",
             "facebook": "",
@@ -307,7 +320,7 @@ members = {
             "img": "img/staff/nehavenkatesh.JPG"
         },
         "Alex Powers": {
-            "title": "Cofounder",
+            "founder_title": "ULAB Cofounder",
             "img": "img/team/alex_power.jpg",
             "personal": "",
             "github": "",
@@ -315,17 +328,17 @@ members = {
             "bio": """Alex is currently pursuing a Ph.D. at Stanford University. Alex is extremely passionate about undergraduate research; he worked in Paul Alivisatos's Lab on liquid electron microscopy, the Cohen lab on imaging protein movement, and was also an intern at LBNL. He will continue to advise and work with ULAB.""",
         },
         "Mrinalini Sugosh": {
-            "title": "Director of Finance",
-            "position": "ULAB Director of Finance",
+            "founder_title": "ULAB Cofounder",
+            "position": "",
             "img": "img/team/mrinalini_sugosh.jpg",
             "email": "mrinalini24@berkeley.edu",
             "personal": "",
             "github": "",
             "linkedin": "https://www.linkedin.com/in/mrina24/",
-            "bio": """Mrina is currently a member of the CS61A Course Staff, Computer Science Mentors, and Society for Women Engineers. Last year, she researched in Dr. Waqas Khalid's lab at the CITRIS institute on creating a platform that helped visualizea programmable array of nanostructures. She is passionate about promoting diversity in STEM and is excited to lower the barrier for entry into research. """,
+            "bio": """Mrina graduated in 2018, but she was a member of the CS61A Course Staff, Computer Science Mentors, and Society for Women Engineers. She used to do research in Dr. Waqas Khalid's lab at the CITRIS institute on creating a platform that helped visualize a programmable array of nanostructures. She is passionate about promoting diversity in STEM and is excited to lower the barrier for entry into research. """,
         },
         "Amit Akula": {
-            "title": "Cofounder",
+            "founder_title": "ULAB Cofounder",
             "img": "img/team/amit_akula.jpg",
             "personal": "",
             "github": "",
@@ -333,7 +346,7 @@ members = {
             "bio": """Amit does research at UCSF on algorithms for MRI processing and previously worked in the Goldberg lab on surgical robotics. He has served as an RA, community leadership assistant, and TA. In these pursuits, he has strived to develop new, more effective teaching methods and workshops. His close connections with the Residence Hall programs enabled the partnership between the programs.""",
         },
         "Dylan Kato": {
-            "title": "Lead Mentor",
+            "founder_title": "ULAB Cofounder",
             "img": "img/team/dylan_kato.jpg",
             "personal": "",
             "github": "",
@@ -341,7 +354,7 @@ members = {
             "bio": """Dylan is part of the Cal Seismic team, Cal Environment team, and an officer in TBP. Dylan does research in Professor Goldberg's lab that is looking at treating water using solar energy. He facilitated our pilot program partnership with Berkeley Tiny Home, a renewable housing project with which several of our students are working.""",
         },
         "Michael Oshiro": {
-            "title": "Cofounder",
+            "founder_title": "ULAB Cofounder",
             "img": "img/team/michael_oshiro.jpg",
             "personal": "",
             "github": "",
@@ -349,7 +362,7 @@ members = {
             "bio": """Michael works at the LBNL lab with data from the ATLAS experiment, the detector at the Large Hadron Collider. He is interested in making undergraduate research more accessible to freshmen. Michael worked to set up ULAB's framework for workshops and accessible resources across campus.""",
         },
         "Joshua Hug": {
-            "title": "Faculty Advisor",
+            "founder_title": "ULAB Founding Faculty Advisor",
             "img": "img/team/josh_hug.jpg",
             "personal": "",
             "github": "",
@@ -362,8 +375,9 @@ members = {
             "bio": """Sean serves as the Director of the Office of Undergraduate Research and Scholarship (OURS) and has been involved with managing and founding organizations and services to assist undergraduate researchers in diverse communities. His own scholarship and teaching focuses on U.S. social movement history and the dynamic intersections of community activism, political education, and the remaking of the social imagination. He is enthusiastic about making ULAB a successful feature in the undergraduate research program ecosystem.""",
         },
         "Arjun Savel": {
-            "title": "Research Director",
-            "position": "Research Director: Physics and Astronomy",
+            "title": "",
+            "position": "",
+            "founder_title": "Physics and Astronomy Lab Cofounder",
             "email": "asavel@berkeley.edu",
             "linkedin": "https://www.linkedin.com/in/arjun-s-234859b4/",
             "facebook": "https://www.facebook.com/arjun.savel",

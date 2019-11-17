@@ -44,6 +44,7 @@
                                                         <img alt="Pic" src="{{ url_for('static', filename=founders[person]['img']) }}" class="profile-img">
                                                         <div class="title">
                                                             <h5 class="uppercase mb0">{{ person }}</h5>
+                                                            <h7> {{ founders[person]['founder_title'] }} </h7>
                                                             <!-- <span>{{ founders[person]['title'] }}</span> -->
                                                             <div class="bio-icon">
                                                                 {% if not founders[person]['personal'] == '' %}

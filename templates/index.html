@@ -34,25 +34,25 @@
       {% endfor %}
       </div>
 
-      <div class="row" style="display:flex; justify-content:center">
-      {% for lab_key in lab_ordering[4:] %}
-        <div class="col-md-2">
-            <div class="image-tile outer-title text-center">
-              <a href="/labs/{{lab_key}}">
-                <img src="{{ labs[lab_key]['logo'] }}">
-              </a>
-              <a class="title" href="/labs/{{lab_key}}">
-                <h6 class="uppercase mb0"> {{ labs[lab_key]['full_name']}} </h6>
-              </a>
-              <div class="title">
-                {% if lab_key == 'aerospace' %}
-                    <h6 class="uppercase mb0 red-title"> {{ "[{}]".format(labs[lab_key]['status']) }} </h6>
-                {% endif %}
-              </div>
-            </div>
-        </div>
-      {% endfor %}
-      </div>
+      <!-- <div class="row" style="display:flex; justify-content:center"> -->
+      <!-- {% for lab_key in lab_ordering[4:] %} -->
+        <!-- <div class="col-md-2"> -->
+            <!-- <div class="image-tile outer-title text-center"> -->
+              <!-- <a href="/labs/{{lab_key}}"> -->
+                <!-- <img src="{{ labs[lab_key]['logo'] }}"> -->
+              <!-- </a> -->
+              <!-- <a class="title" href="/labs/{{lab_key}}"> -->
+                <!-- <h6 class="uppercase mb0"> {{ labs[lab_key]['full_name']}} </h6> -->
+              <!-- </a> -->
+              <!-- <div class="title"> -->
+                <!-- {% if lab_key == 'aerospace' %} -->
+                    <!-- <h6 class="uppercase mb0 red-title"> {{ "[{}]".format(labs[lab_key]['status']) }} </h6> -->
+                <!-- {% endif %} -->
+              <!-- </div> -->
+            <!-- </div> -->
+        <!-- </div> -->
+      <!-- {% endfor %} -->
+      <!-- </div> -->
 
 </div>
 <br/>
