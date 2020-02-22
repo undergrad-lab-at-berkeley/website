@@ -37,6 +37,12 @@ labs = {
                         This year, we are following a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULAB executive team. Each group will get to pick studies in areas that interest them the most! This will also allow an opportunity for projects to be published! This year we will also have grad student support for all groups.
                         """
                 },
+                "sponsor": {
+                    "title": "Sponsored by Wheeler Labs",
+                    "text": """
+                        The Henry H. Wheeler Jr. brain imaging center (Wheeler Labs) is a campus-wide resource that supports advanced brain imaging technologies dedicated to basic and clinical brain research. Besides facilitating research labs on campus, it also offers classes and seminars on various brain imaging technologies. The Wheeler Lab is sponsoring our lab space as well as our future events.
+                        """
+                },
                 "join": {
                     "title": "Want to join us?",
                     "text": """
