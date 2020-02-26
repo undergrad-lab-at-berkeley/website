@@ -16,9 +16,12 @@
         <p> {{ lab['content']['overview']['text'] | safe }} </p>
         <br/>
 
-        <h4> {{ lab['content']['sponsor']['title'] | safe }}</h4>
-        <p> {{ lab['content']['sponsor']['text'] | safe }} </p>
-        <br/>
+
+        {%if lab['content']['sponsor']%}
+            <h4> {{ lab['content']['sponsor']['title'] | safe }}</h4>
+            <p> {{ lab['content']['sponsor']['text'] | safe }} </p>
+            <br/>
+        {%endif%}
 
         {% if lab['members']|length > 0 %}
           <h4> Our Staff </h4>
