@@ -33,9 +33,9 @@ labs = {
                     "text": """
                         Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. </br>
                         <p></p>
-                        Last year, our lab worked on projects involving neural atrophication, language processing, consciousness and decision-making, but we are currently developing exciting research projects for the upcoming school year. </br>
-                        <p></p>
                         This year, we are following a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULAB executive team. Each group will get to pick studies in areas that interest them the most! This will also allow an opportunity for projects to be published! This year we will also have grad student support for all groups.
+                        <p><p/>
+                        Our projects this year involve social psychology, fMRI analyses, social psychology, language processing, and more. All projects will be published in a paper and poster series via UC eScholarship Open Access publishing.
                         """
                 },
                 "sponsor": {
