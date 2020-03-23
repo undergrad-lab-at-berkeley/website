@@ -12,6 +12,13 @@
 
     <div class="row center-div">
       <div class="lab-content">
+        {%if lab['content']['overview']['group_photo'] %}
+          <img 
+          alt="Group Photo"
+          src={{ lab['content']['overview']['group_photo'] }}
+          class="group-photo">
+        {%endif%} 
+        
         <h4> {{ lab['content']['overview']['title'] | safe }}</h4>
         <p> {{ lab['content']['overview']['text'] | safe }} </p>
         <br/>
@@ -243,6 +250,10 @@
       padding: 20px;
       border: 1px solid black;
       width: 80%;
+    }
+    .group-photo {
+      display: block;
+      padding-bottom: 40px;
     }
     .close {
       color: #808080;

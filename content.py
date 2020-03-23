@@ -28,6 +28,7 @@ labs = {
             "members": ["Hareen Seerha", "Shreeya Garg", "Rajan Parikh", "Lexi Zhou", "Ashish Ramesh", "Arushi Sahay", "Josephine Widjaja", "Samadi Karunasundera"],
             "content": {
                 "overview": {
+                    "group_photo": u"/static/img/staff/CogSci_Group_Photo.jpg",
                     "title": "Lab Overview",
                     "text": """
                         Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. </br>
