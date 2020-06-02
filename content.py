@@ -62,7 +62,7 @@ labs = {
                     "object": """<iframe src="https://calendar.google.com/calendar/embed?src=cogsci.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
                 },
                 "database": {
-                    "link": "https://drive.google.com/open?id=1AU_fRlqby_U4Ll4guklRvnElStfsiS88"
+                    "link": "https://escholarship.org/uc/replication_extension_papers_201920"
                 },
                 "portfolio": {
                     "link": "https://docs.google.com/document/d/1fFiv6jhEKuloIUQuCCKU5MHNdC7soWhxCgc9yqjpvzM/edit?usp=sharing"
