@@ -84,18 +84,17 @@ labs = {
                 "overview": {
                     "title": u"Lab Overview",
                     "text": u"""
-                        Founded in Fall 2017, the Physics and Astronomy Lab aims to make the transition into undergraduate physics and astrophysics research as seamless as possible. On a technical level, this involves introducing students in our group to underlying processes associated with research — namely, programming and performing statistical tests. Our program, however, extends beyond coursework. With the help of experienced undergraduate mentors, we guide students through research of their choosing over the course of an academic year, helping them to make sense of the current literature, isolate a feasible project, and execute it on a reasonable timescale. In doing so, we provide students with the opportunity to expand their interests and provide mentors with leadership roles within the research community. <br/>
+                        Founded in Fall 2017, the Physics and Astronomy Lab aims to make the transition into undergraduate physics and astrophysics research as seamless as possible. On a technical level, this involves introducing students in our group to underlying processes associated with research — namely, programming and performing statistical tests. Our program, however, extends beyond coursework. With the help of experienced undergraduate mentors, we guide students through a research project of their choosing over the course of an academic year by helping them make sense of the current literature, isolate a feasible project, and execute projects on a reasonable timescale. In doing so, we provide students with the opportunity to expand their interests and provide mentors with leadership roles within the research community.<br/>
 
                         <br/>
 
-                        The Physics and Astronomy Lab has completed over 20 projects in topics such as astrophysics, condensed matter, particle physics, and biophysics. We plan to run upward of seven projects in the coming year, with topics based on mentor experience and student interest.
-                    
-                        <br/>
-                        <br/>
+                        The Physics and Astronomy Lab has completed over <a href="https://www.eposters.net/search/all/1/ULAB">20 projects</a> in topics such as astrophysics, condensed matter, particle physics, and biophysics. We plan to run upward of seven projects in the coming year, with topics based on mentor experience and student interest. <br/>
+
+                        <br/><b>If you would like to join our program as a mentee, mentor, or curriculum developer, please check the “Join us” section below. We also welcome involvement from gradaute students, postdocs, and faculty members! Feel free to reach out to us at <a href="mailto:physicslab@ulab.berkeley.edu">physicslab@ulab.berkeley.edu<a></b>
                     """
                 },
                 "join": {
-                    "title": u"Want to join us?",
+                    "title": u"Join Us!",
                     # "text": """We are currently accepting applications for mentees, mentors, and other staff positions. <b>Mentee applications are due 9/5 with rolling admissions until 9/8.</b>
 
                     # <br/>
@@ -107,9 +106,21 @@ labs = {
                     # <b>Mentors/Staff:</b> <a href="https://forms.gle/iwFwLZ2gP24JhsSJ6" target="_blank">https://forms.gle/iwFwLZ2gP24JhsSJ6</a>
                     #  """
 
-                    "text": "Thanks for you interest in ULAB! Please check back in mid-August for mentee applications."
+                    "text": """
+                        <span style="color:black"><b><u>MENTEES:</u></b></span> ULAB Physics and Astronomy is a 2-semester DeCal (ASTRON. 98, 2 units) that pairs students with experienced undergraduate mentors in order to complete a year-long research project. In addition to project-work, we host workshops on often overlooked skills such as Python, LaTex, Git, statistics, and research literacy. Finally we seek to provide a welcoming environment for students to connect with their peers and the larger community of faculty and graduate students through activities such as project presentations, and poster symposiums.<br/>
 
-                    # u"""
+                        <br/>
+
+                        Broadly speaking, the fall semester focuses on designing a research project and spring semester on executing the project. In Fall 2020, we will be meeting <b>online from [TBD] on [TBD]</b>. Each week, students will meet with their project group for 1 hour and attend up to 1 hour of instruction (skill-building workshops). For more information, please consult the Fall syllabus [TBD]. <b>Mentee applications for Fall 2020: </b> [check back in mid-August]<br/>
+
+                        <br/>
+
+                        <span style="color:black"><b><u>MENTORS:</u></b></span> ULAB Physics and Astronomy is a 2-semester DeCal. Mentors will be listed as facilitators of the DeCal and will be required to take ASTRON. 99 for units. <br/>
+
+                        <br/>
+
+                        Mentor responsibilities take up to 3-6 hours per week, including meetings with other staff and with students. While specific tasks vary, this generally involves leading discussion on research topics, creating presentations, and guiding mentees through their respective projects. Mentorship is a full-year commitment and is a great opportunity to gain teaching and leadership experience, interact with students and researchers, and build your resume! We require at minimum one semester of research experience in physics, astronomy, engineering, EPS or a related field. <b>Mentor applications for Fall 2020: </b><a href="https://forms.gle/iwFwLZ2gP24JhsSJ6" target="_blank">https://forms.gle/iwFwLZ2gP24JhsSJ6</a><br/>
+                    """
                     #     In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
                     #     <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Researcher Application </a> <br/>
                     #     <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
@@ -119,9 +130,6 @@ labs = {
                     "title": u"Calendar",
                     "text": u"""""",
                     "object": """<iframe src="https://calendar.google.com/calendar/embed?src=physics.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
-                },
-                "database": {
-                    "link": "https://www.eposters.net/search/all/1/ulab"
                 }
             }
     },
