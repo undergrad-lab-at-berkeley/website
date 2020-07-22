@@ -25,7 +25,7 @@ labs = {
             "full_name": u"Psychology and Cognitive Sciences",
             "navbar": u"Cog_Sci",
             "status": "Active",
-            "members": ["Hareen Seerha", "Shreeya Garg", "Rajan Parikh", "Lexi Zhou", "Ashish Ramesh", "Arushi Sahay", "Josephine Widjaja", "Samadi Karunasundera"],
+            "members": ["Shreeya Garg", "Kunal Kapoor", "Lexi Zhou", "Arushi Sahay", "Ashish Ramesh", "Sharon Binoy", "Stanley von Ehrenstein-Smith", "Amanda Felty", "Shreya Ramasubban"],
             "content": {
                 "overview": {
                     "group_photo": u"/static/img/staff/CogSci_Group_Photo.jpg",
