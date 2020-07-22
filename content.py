@@ -79,7 +79,7 @@ labs = {
             "full_name": u"Physics and Astronomy",
             "navbar": u"Physics",
             "status": "Active",
-            "members": ["Savannah Perez-Piel", "Carrie Zuckerman", "Yi Zhu"],
+            "members": ["Yi Zhu", "Katie Lamar", "Ronan Alam", "Aditya Sengupta", "Carrie Zuckerman", "Savannah Perez-Piel"],
             "content": {
                 "overview": {
                     "title": u"Lab Overview",
@@ -88,14 +88,26 @@ labs = {
 
                         <br/>
 
-                        In the 2017-18 academic year, the Physics and Astronomy Lab ran five projects in astrophysics, condensed matter, and particle physics. We plan to run upward of seven projects in the coming year, with topics based on mentor experience and student interest.
+                        The Physics and Astronomy Lab has completed over 20 projects in topics such as astrophysics, condensed matter, particle physics, and biophysics. We plan to run upward of seven projects in the coming year, with topics based on mentor experience and student interest.
+                    
+                        <br/>
+                        <br/>
                     """
                 },
                 "join": {
                     "title": u"Want to join us?",
-                    "text": u"""
-                         Thanks for your interest in ULAB! Applications are currently closed for the 2019-2020 year, so please check back in the Summer to apply for 2020-2021.
-                         """
+                    # "text": """We are currently accepting applications for mentees, mentors, and other staff positions. <b>Mentee applications are due 9/5 with rolling admissions until 9/8.</b>
+
+                    # <br/>
+
+                    # <b>Mentee:</b> <a href="https://forms.gle/sCSe5hry6uTkgMEA9" target="_blank">https://forms.gle/sCSe5hry6uTkgMEA9</a>
+
+                    # <br/>
+
+                    # <b>Mentors/Staff:</b> <a href="https://forms.gle/iwFwLZ2gP24JhsSJ6" target="_blank">https://forms.gle/iwFwLZ2gP24JhsSJ6</a>
+                    #  """
+
+                    "text": "Thanks for you interest in ULAB! Please check back in mid-August for mentee applications."
 
                     # u"""
                     #     In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
@@ -105,35 +117,11 @@ labs = {
                 },
                 "calendar": {
                     "title": u"Calendar",
-                    "text": u"""Here is a general timeline for our lab during the Fall Semester. Exact days and times are subject to change.""",
+                    "text": u"""""",
                     "object": """<iframe src="https://calendar.google.com/calendar/embed?src=physics.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
                 },
                 "database": {
                     "link": "https://www.eposters.net/search/all/1/ulab"
-                },
-                "table": {
-                    "rows": [
-                        {
-                            "col": ["Introduction to Python", "10/16"],
-                            "link": "http://datahub.berkeley.edu/user-redirect/interact?account=physicsulab&repo=cs-module-1-test&branch=master&path=cs-module-1.ipynb",
-                        },
-                        {
-                            "col": ["Introduction to Python II", "11/01"],
-                            "link": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fphysicsulab%2Fcs-module-2.1&urlpath=tree%2Fcs-module-2.1%2F",
-                        },
-                        {
-                            "col": ["Introduction to Python III", "11/22"],
-                            "link": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fphysicsulab%2Fcs-module-2.2&urlpath=tree%2Fcs-module-2.2%2F",
-                        },
-                        {
-                            "col": ["Project Proposal Check-In", "10/27"],
-                            "link": "https://docs.google.com/document/d/1RPmN3utQ3Ydgk_KuzEiCZDerI9tadnUnf3gwCpzLTN0/edit?usp=sharing",
-                        },
-                        {
-                            "col": ["Project Proposal", "11/24"],
-                            "link": "https://www.overleaf.com/read/tdmbzjzgmgnx",
-                        },
-                    ],
                 }
             }
     },

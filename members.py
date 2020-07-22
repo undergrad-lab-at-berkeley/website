@@ -387,9 +387,9 @@ members = {
             "bio": ""
         },
         "Savannah Perez-Piel": {
-            "title": "Research Director",
+            "title": "Senior Advisor",
             "position": "Research Director: Physics and Astronomy",
-            "email": "savannah_sky@berkeley.edu",
+            "email": "savannah_sky [at) berkeley.edu",
             "linkedin": "",
             "facebook": "",
             "github": "",
@@ -398,8 +398,8 @@ members = {
             "bio": ""
         },
         "Carrie Zuckerman": {
-            "title": "Lab Manager",
-            "email": "carriezuckerman@berkeley.edu",
+            "title": "Senior Advisor",
+            "email": "carriezuckerman [at) berkeley.edu",
             "linkedin": "",
             "facebook": "",
             "github": "",
@@ -408,13 +408,43 @@ members = {
             "bio": ""
         },
         "Yi Zhu": {
-            "title": "Lab Manager",
-            "email": "yi.zhu@berkeley.edu",
+            "title": "Research Director",
+            "email": "yi.zhu [at) berkeley.edu",
             "linkedin": "https://www.linkedin.com/in/yi-j-zhu",
             "facebook": "",
             "github": "",
             "personal": "",
             "img": "img/staff/yi_zhu.jpg",
+            "bio": ""
+        },
+        "Aditya Sengupta": {
+            "title": "Curriculum Chair",
+            "email": "aditya.sengupta [at) berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/",
+            "bio": ""
+        },
+        "Katie Lamar": {
+            "title": "Lab Manager",
+            "email": "ktlamarmath [at) berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/",
+            "bio": ""
+        },
+        "Ronan Alam": {
+            "title": "Lab Manager",
+            "email": "ronanalam [at) berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/",
             "bio": ""
         },
         "Kim Ambrocio": {
