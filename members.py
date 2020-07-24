@@ -460,7 +460,7 @@ members = {
         "Yi Zhu": {
             "title": "Research Director",
             "email": "yi.zhu [at) berkeley.edu",
-            "linkedin": "https://www.linkedin.com/in/yi-j-zhu",
+            "linkedin": "",
             "facebook": "",
             "github": "",
             "personal": "",
@@ -473,18 +473,18 @@ members = {
             "linkedin": "",
             "facebook": "",
             "github": "",
-            "personal": "",
-            "img": "img/staff/",
+            "personal": "aditya-sengupta.github.io",
+            "img": "img/staff/aditya_sengupta.jpg",
             "bio": ""
         },
         "Katie Lamar": {
             "title": "Lab Manager",
             "email": "ktlamarmath [at) berkeley.edu",
-            "linkedin": "",
+            "linkedin": "www.linkedin.com/in/ktlamarmath",
             "facebook": "",
             "github": "",
             "personal": "",
-            "img": "img/staff/",
+            "img": "img/staff/katie_lamar.jpg",
             "bio": ""
         },
         "Ronan Alam": {
@@ -494,7 +494,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "img": "img/staff/",
+            "img": "img/staff/ronan_alam.jpg",
             "bio": ""
         },
         "Kim Ambrocio": {

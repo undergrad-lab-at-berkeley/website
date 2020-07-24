@@ -90,7 +90,7 @@ labs = {
 
                         The Physics and Astronomy Lab has completed over <a href="https://www.eposters.net/search/all/1/ULAB">20 projects</a> in topics such as astrophysics, condensed matter, particle physics, and biophysics. We plan to run upward of seven projects in the coming year, with topics based on mentor experience and student interest. <br/>
 
-                        <br/><b>If you would like to join our program as a mentee, mentor, or curriculum developer, please check the “Join us” section below. We also welcome involvement from gradaute students, postdocs, and faculty members! Feel free to reach out to us at <a href="mailto:physicslab@ulab.berkeley.edu">physicslab@ulab.berkeley.edu<a></b>
+                        <br/><b>If you would like to join our program as a mentee, mentor, or curriculum developer, please check the section below. We also welcome involvement from gradaute students, postdocs, and faculty members! Feel free to reach out to us at</b> <a href="mailto:physicslab@ulab.berkeley.edu">physicslab@ulab.berkeley.edu</a>
                     """
                 },
                 "join": {
