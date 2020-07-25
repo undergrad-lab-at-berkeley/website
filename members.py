@@ -473,14 +473,14 @@ members = {
             "linkedin": "",
             "facebook": "",
             "github": "",
-            "personal": "aditya-sengupta.github.io",
+            "personal": "http://aditya-sengupta.github.io",
             "img": "img/staff/aditya_sengupta.jpg",
             "bio": ""
         },
         "Katie Lamar": {
             "title": "Lab Manager",
             "email": "ktlamarmath [at) berkeley.edu",
-            "linkedin": "www.linkedin.com/in/ktlamarmath",
+            "linkedin": "http://www.linkedin.com/in/ktlamarmath",
             "facebook": "",
             "github": "",
             "personal": "",
