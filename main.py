@@ -4,7 +4,7 @@ from flask import abort
 from members import members
 import content
 import pdb
-from flask_table import Table, Col, LinkCol
+# from flask_table import Table, Col, LinkCol
 
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True

@@ -45,17 +45,17 @@ members = {
         #     "personal": "",
         #     "img": ""
         # },
-        # "Hareen Seerha": {
-        #     "title": "Research Director",
-        #     "position": "Research Director: Psychology and Cognitive Sciences",
-        #     "email": "hareen_seerha@berkeley.edu",
-        #     "linkedin": "",
-        #     "facebook": "www.facebook.com/hareen.seerha",
-        #     "github": "",
-        #     "personal": "",
-        #     "bio": """ I am currently a 3rd year, majoring in Public Health and minoring In Global Poverty in Practice. I work in the Sudmant Lab and Kauffer Lab. The Sudmant Lab focuses on genomics and computational biology; my project is focused on somatic cell mutations. The Kauffer Lab focuses on brain trauma and aging; my project is focused on the effect albumin has on aging. In my free time, I love to try new food, workout, and explore the Bay Area with my friends. In the future, I hope to attend medical school and complete my bucket list item of visiting every continent in the world. """,
-        #     "img": "img/staff/hareenseerha.jpg"
-        # },
+        "Hareen Seerha": {
+            "title": "Research Director",
+            "position": "Research Director: Psychology and Cognitive Sciences",
+            "email": "hareen_seerha@berkeley.edu",
+            "linkedin": "",
+            "facebook": "www.facebook.com/hareen.seerha",
+            "github": "",
+            "personal": "",
+            "bio": """ I am currently a 3rd year, majoring in Public Health and minoring In Global Poverty in Practice. I work in the Sudmant Lab and Kauffer Lab. The Sudmant Lab focuses on genomics and computational biology; my project is focused on somatic cell mutations. The Kauffer Lab focuses on brain trauma and aging; my project is focused on the effect albumin has on aging. In my free time, I love to try new food, workout, and explore the Bay Area with my friends. In the future, I hope to attend medical school and complete my bucket list item of visiting every continent in the world. """,
+            "img": "img/staff/hareenseerha.jpg"
+        },
         # "Valerie Burleigh": {
         #     "title": "Operations Director",
         #     "email": "valerie.burleigh@berkeley.edu",
