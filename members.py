@@ -120,7 +120,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "bio": """""",
+            "bio": """Hey y’all! My name is Kunal, and I am a third year MCB Immunology and Public Health major. I am currently in between finding research, with my interest being in immunology and infectious diseases. I am super excited to work with everyone this year on their projects, and hope to make ULab an amazing experience!""",
             "img": "img/staff/kunalkapoor.jpg",
         },
         "Lexi Zhou": {
@@ -150,7 +150,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "bio": """Arushi is a 3rd year Molecular and Cell Biology major. She currently works as a lab assistant for the Dillin lab. Arushi is excited to be the social chair for the ULab CogSci board and looks forward to developing fun activities for the whole lab to enjoy.""",
+            "bio": """Arushi is a 3rd year Molecular and Cell Biology major. She currently works as a lab assistant for the Dillin lab. Arushi is excited to be a part of the ULAB community and to see the interesting research projects this year!""",
             "img": "img/staff/arushisahay.jpg"
         },
         "Sharon Binoy": {
@@ -180,7 +180,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "bio": """""",
+            "bio": """Hello everyone! I am a third year at Cal, majoring in Nutritional Science. I joined ULAB as a mentee last year and am thrilled to contribute to this organization as a Social Chair. I am also currently a peer advisor at the Career Center. In the future, I plan on pursuing a career in medicine and hope to help people achieve a healthier lifestyle through proper nutrition. Some hobbies of mine include traveling, baking, hiking, and playing the piano.""",
             "img": "img/staff/amandafelty.jpg"
         },
         "Shreya Ramasubban": {
