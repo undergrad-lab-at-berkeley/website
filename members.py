@@ -120,7 +120,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "bio": """Hey y’all! My name is Kunal, and I am a third year MCB Immunology and Public Health major. I am currently in between finding research, with my interest being in immunology and infectious diseases. I am super excited to work with everyone this year on their projects, and hope to make ULab an amazing experience!""",
+            "bio": "",
             "img": "img/staff/kunalkapoor.jpg",
         },
         "Lexi Zhou": {
