@@ -92,23 +92,15 @@ labs = {
                 },
                 "join": {
                     "title": u"Join Us!",
-                    # "text": """We are currently accepting applications for mentees, mentors, and other staff positions. <b>Mentee applications are due 9/5 with rolling admissions until 9/8.</b>
-
-                    # <br/>
 
                     # <b>Mentee:</b> <a href="https://forms.gle/sCSe5hry6uTkgMEA9" target="_blank">https://forms.gle/sCSe5hry6uTkgMEA9</a>
-
-                    # <br/>
-
-                    # <b>Mentors/Staff:</b> <a href="https://forms.gle/iwFwLZ2gP24JhsSJ6" target="_blank">https://forms.gle/iwFwLZ2gP24JhsSJ6</a>
-                    #  """
 
                     "text": """
                         <span style="color:black"><b><u>MENTEES:</u></b></span> ULAB Physics and Astronomy is a 2-semester DeCal (ASTRON. 98, 2 units) that pairs students with experienced undergraduate mentors in order to complete a year-long research project. In addition to project-work, we host workshops on often overlooked skills such as Python, LaTex, Git, statistics, and research literacy. Finally we seek to provide a welcoming environment for students to connect with their peers and the larger community of faculty and graduate students through activities such as project presentations, and poster symposiums.<br/>
 
                         <br/>
 
-                        Broadly speaking, the fall semester focuses on designing a research project and spring semester on executing the project. In Fall 2020, we will be meeting <b>online from [TBD] on [TBD]</b>. Each week, students will meet with their project group for 1 hour and attend up to 1 hour of instruction (skill-building workshops). For more information, please consult the Fall syllabus [TBD]. <b>Mentee applications for Fall 2020: </b> [check back in mid-August]<br/>
+                        Broadly speaking, the fall semester focuses on designing a research project and spring semester on executing the project. Each week, students will meet with their project group for 1 hour and attend up to 1 hour of instruction (skill-building workshops). In Fall 2020, we will be meeting <b>online M/W from 7-8 PM PDT</b>. For more information, please consult the Fall syllabus [TBD]. <b>Mentee applications for Fall 2020: </b> [check back in mid-August]<br/>
 
                         <br/>
 
