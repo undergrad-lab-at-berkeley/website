@@ -463,7 +463,7 @@ members = {
             "linkedin": "",
             "facebook": "",
             "github": "",
-            "personal": "",
+            "personal": "https://www.ocf.berkeley.edu/~yizhu/",
             "img": "img/staff/yi_zhu.jpg",
             "bio": ""
         },
