@@ -23,13 +23,13 @@
 
         <!-- slide show -->
         {%if lab['content']['overview']['slides'] %}
-        <div class="container" style="padding-bottom: 40px">
+        <div class="container" style="padding-bottom: 20px">
           {% for image in lab['content']['overview']['slides'] %}
               <img class="slide" src={{image}}>
           {% endfor %}
           
-          <button class="slide-button slide-button-left" onclick="plusDivs(-1)">&#10094;</button>
-          <button class="slide-button slide-button-right" onclick="plusDivs(1)">&#10095;</button>
+          <!-- <button class="slide-button slide-button-left" onclick="plusDivs(-1)">&#10094;</button> -->
+          <!-- <button class="slide-button slide-button-right" onclick="plusDivs(1)">&#10095;</button> -->
         </div>
           <script>
             var slideIndex = 0;
