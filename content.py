@@ -39,22 +39,22 @@ labs = {
                         """
                 },
                 "sponsor": {
-                    "title": "Sponsored by Wheeler Labs",
+                    "title": "Sponsored by Wheeler LABS (Laboratory for Advanced Brain Studies)",
                     "text": """
-                        The Henry H. Wheeler Jr. brain imaging center (Wheeler Labs) is a campus-wide resource that supports advanced brain imaging technologies dedicated to basic and clinical brain research. Besides facilitating research labs on campus, it also offers classes and seminars on various brain imaging technologies. The Wheeler Lab is sponsoring our lab space as well as our future events.
+                        The Wheeler LABS (<a href="http://www.wheelerlabs.berkeley.edu">http://www.wheelerlabs.berkeley.edu</a>) is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
                         """
                 },
                 "join": {
                     "title": "Want to join us?",
-                    "text": """
-                           Unfortunately, applications have closed and we have already filled all of our positions for the current semester. Feel free to reach out to us for advice or to be added to our newsletter for research opportunities by emailing us at <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. You can also check out and complete the modules linked below! <br/>
-                           """
+                    "text": # """
+                           # Unfortunately, applications have closed and we have already filled all of our positions for the current semester. Feel free to reach out to us for advice or to be added to our newsletter for research opportunities by emailing us at <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. You can also check out and complete the modules linked below! <br/>
+                           # """
 
-                        #  """
-                        #  We are currently looking to fill mentor and research postions for this semester, so if you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
-                        #  <a href="https://forms.gle/VtgJqvsBJVKZjR2VA">Mentor Application</a> <br/>
-                        #  <a href="https://forms.gle/KRrDFnR5jBRZMqiT9">Student Researcher Application</a>
-                        #  """
+                         """
+                        We are currently looking to fill mentor and research postions for this semester, so if you would like to be considered for a role in our lab, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
+                        <a href="https://forms.gle/rkPKmMzYx9AonZFCA">Mentor Application</a> <br/>
+                        <a href="https://forms.gle/KRrDFnR5jBRZMqiT9">Mentee Application</a>
+                        """
                 },
                 "calendar": {
                     "title": u"Calendar",

@@ -120,7 +120,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "bio": "",
+            "bio": """Hey y'all! My name is Kunal, and I am a third year MCB Immunology and Public Health Major. I am currently in between finding research, with my interest being in immunology and infectious diseases. I am super excited to work with everyone this year on their projects, and hope to make ULAB an amazing experience!""",
             "img": "img/staff/kunalkapoor.jpg",
         },
         "Lexi Zhou": {
@@ -160,7 +160,7 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "bio": """""",
+            "bio": """My name is Sharon and I am a fourth-year majoring in Integrative Biology. I am currently a research assistant at Professor Ivry's Cognition and Action Lab. My research interests include learning and cognition in individuals with neurodegenerative disorders. I am excited for all of the great research projects the ULAB community will work on this year!""",
             "img": "img/staff/sharonbinoy.jpg"
         },
         "Stanley von Ehrenstein-Smith": {
