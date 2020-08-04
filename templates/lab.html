@@ -4,7 +4,9 @@
   <br/>
   <div class="container">
     <div class="row center-div">
-      <img src={{ lab['logo'] }}>
+      {%if lab['logo'] %}
+          <img src={{ lab['logo'] }}>
+      {%endif%} 
     </div>
     <div class="row center-div">
       <h1 class="lab-title"> {{ lab['full_name']}} </h1>
@@ -17,6 +19,43 @@
           alt="Group Photo"
           src={{ lab['content']['overview']['group_photo'] }}
           class="group-photo">
+        {%endif%} 
+
+        <!-- slide show -->
+        {%if lab['content']['overview']['slides'] %}
+        <div class="container" style="padding-bottom: 40px">
+          {% for image in lab['content']['overview']['slides'] %}
+              <img class="slide" src={{image}}>
+          {% endfor %}
+          
+          <button class="slide-button slide-button-left" onclick="plusDivs(-1)">&#10094;</button>
+          <button class="slide-button slide-button-right" onclick="plusDivs(1)">&#10095;</button>
+        </div>
+          <script>
+            var slideIndex = 0;
+            showDivs(slideIndex);
+
+            function plusDivs(n) {
+              showDivs(slideIndex += n);
+            }
+
+            function showDivs(n) {
+              var i;
+              var x = document.getElementsByClassName("slide");
+              if (n > x.length) {slideIndex = 1}
+              if (n < 1) {slideIndex = x.length}
+              for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";  
+              }
+              x[slideIndex-1].style.display = "block";  
+            }
+
+            function auto() {
+              plusDivs(1)
+              setTimeout(auto, 4500)
+            }
+            auto();
+          </script>
         {%endif%} 
         
         <h4 id="overview"> {{ lab['content']['overview']['title'] | safe }}</h4>
@@ -296,6 +335,34 @@
     table, th, td {
        padding: 10px;
        border: 1px solid black;
+  }
+  .slide {
+    margin-left: auto;
+    margin-right: auto;
+    height: 450px;
+    width: auto;
+  }
+
+  .slide-button {
+    border:none;
+    display:inline-block;
+    padding:2px 10px;
+    vertical-align:middle;
+    background-color:rgba(255,255,255, 0.5);
+    text-align:center;
+
+  }
+
+  .slide-button-left{
+    position:absolute;
+    bottom:-20;
+    left:250px;
+  }
+
+  .slide-button-right {
+    position:absolute;
+    bottom:-20px;
+    right:250px;
   }
   </style>
 {% endblock %}

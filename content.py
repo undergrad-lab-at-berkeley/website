@@ -71,7 +71,7 @@ labs = {
     },
 
     "physics": {
-            "logo" : u"/static/img/logos/logo_physics.png",
+            # "logo" : u"/static/img/logos/logo_physics.png",
             "short_name": u"physics",
             "full_name": u"Physics and Astronomy",
             "navbar": u"Physics",
@@ -80,8 +80,9 @@ labs = {
             "content": {
                 "overview": {
                     "title": u"Lab Overview",
+                    "slides": ["/static/img/physics_slides/muon.jpg", "/static/img/physics_slides/lbl_als_1.jpg", "/static/img/physics_slides/mixing.jpg", "/static/img/physics_slides/tokamak.jpg"],
                     "text": u"""
-                        Founded in Fall 2017, the Physics and Astronomy Lab (and <a href='https://decal.berkeley.edu/courses/5244' target='_blank'>DeCal)</a> aims to make the transition into undergraduate physics and astrophysics research as seamless as possible. On a technical level, this involves introducing students in our group to underlying processes associated with research — namely, programming and performing statistical tests. Our program, however, extends beyond coursework. With the help of experienced undergraduate mentors, we guide students through a research project of their choosing over the course of an academic year by helping them make sense of the current literature, isolate a feasible project, and execute projects on a reasonable timescale. In doing so, we provide students with the opportunity to expand their interests and provide mentors with leadership roles within the research community.<br/>
+                        Founded in Fall 2017, the Undergraduate Lab at Berkeley, Physics and Astronomy Division (and <a href='https://decal.berkeley.edu/courses/5244' target='_blank'>DeCal)</a> aims to make the transition into undergraduate physics and astrophysics research as seamless as possible. On a technical level, this involves introducing students in our group to underlying processes associated with research — namely, programming and performing statistical tests. Our program, however, extends beyond coursework. With the help of experienced undergraduate mentors, we guide students through a research project of their choosing over the course of an academic year by helping them make sense of the current literature, isolate a feasible project, and execute projects on a reasonable timescale. In doing so, we provide students with the opportunity to expand their interests and provide mentors with leadership roles within the research community.<br/>
 
                         <br/>
 
@@ -104,7 +105,7 @@ labs = {
 
                         <br/>
 
-                        <span style="color:black"><b><u>MENTORS:</u></b></span> ULAB Physics and Astronomy is a 2-semester DeCal. Mentors will be listed as facilitators of the DeCal and will be required to take ASTRON. 99 for units. Mentor responsibilities take up to 3-6 hours per week, including meetings with other staff and with students. While specific tasks vary, this generally involves leading discussion on research topics, creating presentations, and guiding mentees through their respective projects. Mentorship is a full-year commitment and is a great opportunity to gain teaching and leadership experience, interact with students and researchers, and build your resume! We require at minimum one semester of research experience in physics, astronomy, engineering, EPS or a related field. <b>Mentor applications for Fall 2020: </b><a href="https://forms.gle/iwFwLZ2gP24JhsSJ6" target="_blank">https://forms.gle/iwFwLZ2gP24JhsSJ6</a><br/>
+                        <span style="color:black"><b><u>MENTORS:</u></b></span> ULAB Physics and Astronomy is a 2-semester DeCal. Mentors will be listed as facilitators of the DeCal and will be required to take ASTRON. 99 for 2 units. Mentor responsibilities take up to 3-6 hours per week, including meetings with other staff and with students. While specific tasks vary, this generally involves leading discussion on research topics, creating presentations, and guiding mentees through their respective projects. Mentorship is a full-year commitment and is a great opportunity to gain teaching and leadership experience, interact with students and researchers, and build your resume! We require at minimum one semester of research experience in physics, astronomy, engineering, EPS or a related field. <b>Mentor applications for Fall 2020: </b><a href="https://forms.gle/iwFwLZ2gP24JhsSJ6" target="_blank">https://forms.gle/iwFwLZ2gP24JhsSJ6</a><br/>
 
                         <br/>
 
