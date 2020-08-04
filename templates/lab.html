@@ -4,7 +4,7 @@
   <br/>
   <div class="container">
     <div class="row center-div">
-      {%if lab['logo'] %}
+      {%if lab['logo'] and not lab['content']['overview']['slides']%}
           <img src={{ lab['logo'] }}>
       {%endif%} 
     </div>

@@ -71,7 +71,7 @@ labs = {
     },
 
     "physics": {
-            # "logo" : u"/static/img/logos/logo_physics.png",
+            "logo" : u"/static/img/logos/logo_physics.png",
             "short_name": u"physics",
             "full_name": u"Physics and Astronomy",
             "navbar": u"Physics",
