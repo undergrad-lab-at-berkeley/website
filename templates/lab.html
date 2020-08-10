@@ -23,37 +23,47 @@
 
         <!-- slide show -->
         {%if lab['content']['overview']['slides'] %}
-        <div class="container" style="padding-bottom: 20px">
+        <div class="container" style="height: 470px;">
           {% for image in lab['content']['overview']['slides'] %}
               <img class="slide" src={{image}}>
           {% endfor %}
-          
-          <!-- <button class="slide-button slide-button-left" onclick="plusDivs(-1)">&#10094;</button> -->
-          <!-- <button class="slide-button slide-button-right" onclick="plusDivs(1)">&#10095;</button> -->
         </div>
           <script>
-            var slideIndex = 0;
-            showDivs(slideIndex);
+            var slides = document.getElementsByClassName("slide");
+            var n = 0;
+            var first = true;
 
-            function plusDivs(n) {
-              showDivs(slideIndex += n);
+            var i;
+            for (i = 1; i < slides.length; i++) {
+              slides[i].style.opacity = 0;
             }
 
-            function showDivs(n) {
-              var i;
-              var x = document.getElementsByClassName("slide");
-              if (n > x.length) {slideIndex = 1}
-              if (n < 1) {slideIndex = x.length}
-              for (i = 0; i < x.length; i++) {
-                x[i].style.display = "none";  
+            function nextSlide() {
+              if(first) {
+                first = false;
+                return;
               }
-              x[slideIndex-1].style.display = "block";  
+
+              var prev = n;
+              n = (n+1)%slides.length;
+              var opIn = 0; 
+              var opOut = 1; 
+              var timer = setInterval(function () {
+                  if (opIn >= 1){
+                      clearInterval(timer);
+                  }
+                  slides[prev].style.opacity = opOut;
+                  opOut -= 0.01;
+                  slides[n].style.opacity = opIn;
+                  opIn += 0.01;
+              }, 10);
             }
 
             function auto() {
-              plusDivs(1)
-              setTimeout(auto, 4500)
+              nextSlide();
+              setTimeout(auto, 5000);
             }
+
             auto();
           </script>
         {%endif%} 
@@ -337,32 +347,13 @@
        border: 1px solid black;
   }
   .slide {
+    position: absolute;
+    left: 0;
+    right: 0;
     margin-left: auto;
     margin-right: auto;
     height: 450px;
     width: auto;
-  }
-
-  .slide-button {
-    border:none;
-    display:inline-block;
-    padding:2px 10px;
-    vertical-align:middle;
-    background-color:rgba(255,255,255, 0.5);
-    text-align:center;
-
-  }
-
-  .slide-button-left{
-    position:absolute;
-    bottom:-20;
-    left:250px;
-  }
-
-  .slide-button-right {
-    position:absolute;
-    bottom:-20px;
-    right:250px;
   }
   </style>
 {% endblock %}
