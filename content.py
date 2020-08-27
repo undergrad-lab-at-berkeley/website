@@ -129,7 +129,7 @@ labs = {
             "full_name": u"Health Sciences",
             "navbar": u"Health Sciences",
             "status": "Active",
-            "members": ["Catherine Livelo"],
+            "members": ["Angikaar Chana"],
             "content": {
                 "overview": {
                     "title": "Lab Overview Coming Soon!",
@@ -138,9 +138,9 @@ labs = {
                 "join": {
                     "title": "Want to join us?",
                     "text": u"""
-                            We are currently looking to fill board member and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please send an email to <a href="catherinelivelo@berkeley.edu">catherinelivelo@berkeley.edu</a>. <br/>
-                            <a href="https://docs.google.com/document/d/1C_SN-N-V_S16k81zRUhrltrYetSnxL5RqPKTi3rf6bM/edit?usp=sharing">Board member application</a> <br/>
-                         	<a href="https://forms.gle/cWgGJErCUsGQqoQQ6">Mentee Application</a>
+                            We are currently looking to fill board member and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please send an email to <a href="mailto:publichealth.ulab@gmail.com">publichealth.ulab@gmail.com</a>. <br/>
+                            <a href="https://bit.ly/ULAB-PHHS-MentorApp">Mentor application</a> <br/>
+                         	<a href="https://bit.ly/ULAB-PHHS-MenteeApp">Mentee Application</a>
                             """
                 },
                 "calendar": {

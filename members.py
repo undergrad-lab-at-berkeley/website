@@ -541,5 +541,14 @@ members = {
             "github": "",
             "personal": "",
             "img": "img/staff/marwatal-olefi.jpg"
+        },
+        "Angikaar Chana": {
+            "title": "Research Director",
+            "email": "angikaar@berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/angikaar-chana.jpg"
         }
 }
