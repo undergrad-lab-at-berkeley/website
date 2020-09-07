@@ -51,9 +51,9 @@ labs = {
                            # """
 
                          """
-                        We are currently looking to fill mentor and research postions for this semester, so if you would like to be considered for a role in our lab, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
-                        <a href="https://forms.gle/rkPKmMzYx9AonZFCA">Mentor Application</a> <br/>
-                        <a href="https://forms.gle/V5BgNGpXw65tqy1d6">Mentee Application</a> Due <b>Friday, September 11th at 11:59 PM</b>
+                        We are currently looking to fill mentee postions for this semester, so if you would like to be considered for a role in our lab, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
+                        <!-- a href="https://forms.gle/rkPKmMzYx9AonZFCA" -->Mentor Application: <b>Closed</b> <br/>
+                        <a href="https://forms.gle/V5BgNGpXw65tqy1d6">Mentee Application</a> Due <b>Wednesday, September 9th at 11:59 PM</b>
                         """
                 },
                 "calendar": {
