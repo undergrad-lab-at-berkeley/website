@@ -16,7 +16,7 @@ def filter_dict(input_dict, entries):
 foundersOrder = ["Riley McDanal", "Jenna Martin", "Arjun Savel", "Yasmeen Musthafa", "Catherine Livelo", "Alan Pham", "Joshua Hug", "Amit Akula", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 advisorsOrder = ["Joshua Hug", "Arjun Savel", "Riley McDanal", "Sean Burns"]
 teamOrder = ['Hareen Seerha', 'Savannah Perez-Piel', 'Catherine Livelo', 'Alan Pham', 'Adam Bittenson']
-labOrder = ['cogsci','physics','bio','data']
+labOrder = ['cogsci','physics','bio','data','compbio']
 
 labs = {
     "cogsci": {
@@ -148,6 +148,30 @@ labs = {
                     "object": ""
                 }
             }
+    },
+
+    "compbio": {
+        "logo" : u"/static/img/logos/logo_compbio.png",
+        "short_name" : u"compbio",
+        "full_name" : u"Computational Biology",
+        "navbar" : u"Computational Biology",
+        "status" : "Active",
+        "members": [],
+        "content": {
+            "overview": {
+                "title": "Lab Overview Coming Soon!",
+                "text": ""
+            },
+            "join": {
+                "title": "",
+                "text": ""
+            },
+            "calendar" : {
+                "title": "",
+                "text": "",
+                "object": ""
+            }
+        },
     },
 
     "data": {
