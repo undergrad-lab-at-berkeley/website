@@ -550,5 +550,96 @@ members = {
             "github": "",
             "personal": "",
             "img": "img/staff/angikaar-chana.jpg"
-        }
+        },
+         "Alec Parker": {
+            "title": "Social Chair",
+            "email": "",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/bio/alec_parker.jpg"
+        },
+        "Candice Ng": {
+            "title": "",
+            "email": "",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/bio/candice_ng.jpg"
+        },
+        "Anisha Chandy": {
+            "title": "",
+            "email": "",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/bio/anisha_chandy.jpg"
+        },
+        "Jessica Situ": {
+            "title": "Social Chair",
+            "email": "",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/bio/jessica_situ.jpg"
+        },
+        "Misha Lubich": {
+            "title": "Computer Science Director",
+            "email": "mishalubich007@berkeley.edu",
+            "linkedin": "https://www.linkedin.com/in/misha-lubich-54958a176/",
+            "facebook": "",
+            "github": "",
+            "personal": "https://github.com/sax-n-keys-coding",
+            "img": "img/staff/bio/misha_lubich.jpg"
+        },
+        "Kasturi Sarkar": {
+            "title": "Operations and Outreach Director",
+            "email": "",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/bio/kasturi_sarkar.jpg"
+        },
+        "Ting Guo": {
+            "title": "Finance Director / Treasurer",
+            "email": "",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/bio/ting_guo.jpg"
+        },
+         "Jessica Situ": {
+            "title": "",
+            "email": "",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/bio/jessica_situ.jpg"
+        },
+         "Meeseo Lee": {
+            "title": "",
+            "email": "",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/bio/meeseo_lee.jpg"
+        },
+         "Alina Su": {
+            "title": "",
+            "email": "",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/bio/alina_su.jpg"
+        },
 }
+

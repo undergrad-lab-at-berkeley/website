@@ -128,7 +128,7 @@ labs = {
             "full_name": u"Health Sciences",
             "navbar": u"Health Sciences",
             "status": "Active",
-            "members": ["Angikaar Chana"],
+            "members": ["Angikaar Chana", "Candice Ng", "Meeseo Lee", "Ting Guo", "Kasturi Sarkar", "Alina Su", "Anisha Chandy", "Jessica Situ", "Misha Lubich", "Alec Parker"],
             "content": {
                 "overview": {
                     "title": "Lab Overview Coming Soon!",
