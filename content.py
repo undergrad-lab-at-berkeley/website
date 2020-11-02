@@ -44,7 +44,6 @@ labs = {
                         The Wheeler LABS (<a href="http://www.wheelerlabs.berkeley.edu">http://www.wheelerlabs.berkeley.edu</a>) is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
                         """
                 },
-                "follow": "",
                 "join": {
                     "title": "Want to join us?",
                     "text": """
@@ -144,7 +143,6 @@ labs = {
                     "title": "Lab Overview Coming Soon!",
                     "text": ""
                 },
-                "follow": "",
                 "join": {
                     "title": "Want to join us?",
                     "text": u"""
@@ -173,7 +171,6 @@ labs = {
                 "title": "Lab Overview Coming Soon!",
                 "text": ""
             },
-            "follow": "",
             "join": {
                 "title": "",
                 "text": ""
@@ -207,7 +204,6 @@ labs = {
 
                         Please don’t hesitate to contact us if you have any questions."""
                 },
-                "follow": "",
                 "join": {
                     "title": u"Want to join us?",
                     "text": u"""
