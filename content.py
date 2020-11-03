@@ -114,6 +114,15 @@ labs = {
                     #     <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
                     # """
                 },
+                "follow":{
+                    "title": "Follow Along",
+                    "text": u"""
+                    ULAB is committed to making our lectures and resources available to students outside of our program.
+
+                    This section is under construction: currently videos such as our LaTeX lecture series can be found <a href="https://www.youtube.com/playlist?list=PL8pqQF6_mQtVTwxYlIhfZG-Ra1zbunWNM" target="_blank">here</a>. 
+
+                    """
+                },
                 "calendar": {
                     "title": u"Calendar",
                     "text": u"""""",
