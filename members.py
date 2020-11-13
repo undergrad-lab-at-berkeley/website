@@ -629,7 +629,7 @@ members = {
             "linkedin": "http://linkedin.com/in/meeseo-lee-142834194",
             "facebook": "",
             "github": "",
-            "personal": "Hi! I’m Meeseo and I’m a second year majoring in MCB-Neurology. I like to draw and paint and my favorite movie is Up :) One important aspect of research I value the most is the community and the interactions between the people in the lab and I hope that ULAB PHHS provide positive and welcoming environment for everyone who joins and really help people grow professionally as well as personally!",
+            "personal": "",
             "img": "img/staff/bio/meeseo_lee.jpg"
         },
          "Alina Su": {
