@@ -141,7 +141,7 @@ labs = {
             "content": {
                 "overview": {
                     "title": "Lab Overview Coming Soon!",
-                    "text": u"""Check out the syllabus here: <br> <a href='http://bit.ly/ULAB-PHHS-website'>Syllabus"""
+                    "text": u"""Check out the syllabus here: <br> <a href='http://bit.ly/ULAB-PHHS-website'>Syllabus</a>"""
                 },
                 "join": {
                     "title": "Want to join us?",
