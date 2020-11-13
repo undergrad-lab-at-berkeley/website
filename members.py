@@ -547,8 +547,8 @@ members = {
             "email": "angikaar@berkeley.edu",
             "linkedin": "",
             "facebook": "",
-            "github": "",
-            "personal": "",
+            "github": "https://www.linkedin.com/in/angikaar/",
+            "personal": "Hey everyone! My name is Angikaar (they/he), and I'm a Junior studying Public Health and Data Science. I serve as a Data Analytics Research Assistant in CNSU's Meyer Lab, and I am very interested in the cross-section of data analytics in health-related research. I intend to attend graduate school of some kind, and I hope to apply Machine Learning and Modeling to the field of Public Health and/or Medical Imaging. In my free time, I love hanging out with friends, so don't be shy to reach out and meet up :)",
             "img": "img/staff/angikaar-chana.jpg"
         },
          "Alec Parker": {
@@ -561,17 +561,17 @@ members = {
             "img": "img/staff/bio/alec_parker.jpg"
         },
         "Candice Ng": {
-            "title": "",
-            "email": "",
-            "linkedin": "",
+            "title": "Lab Manager",
+            "email": "candy0712n@berkeley.edu",
+            "linkedin": "https://www.linkedin.com/in/candice-ng-5564b719a",
             "facebook": "",
             "github": "",
             "personal": "",
             "img": "img/staff/bio/candice_ng.jpg"
         },
         "Anisha Chandy": {
-            "title": "",
-            "email": "",
+            "title": "Editor-in-Chief",
+            "email": "anishamchandy@berkeley.edu",
             "linkedin": "",
             "facebook": "",
             "github": "",
@@ -598,38 +598,38 @@ members = {
         },
         "Kasturi Sarkar": {
             "title": "Operations and Outreach Director",
-            "email": "",
-            "linkedin": "",
+            "email": "kastusarkar@berkeley.edu",
+            "linkedin": "https://www.linkedin.com/in/kasturi-sarkar-643b881a6/",
             "facebook": "",
             "github": "",
-            "personal": "",
+            "personal": "I'm a fourth year student majoring in Integrative Biology and minoring in Anthropology. I'm on a pre-med track so I'm hoping to go into medicine in the next couple years. I'm originally from Little Rock, Arkansas but have made Berkeley my new home :)",
             "img": "img/staff/bio/kasturi_sarkar.jpg"
         },
         "Ting Guo": {
-            "title": "Finance Director / Treasurer",
+            "title": "Finance Director",
             "email": "",
-            "linkedin": "",
+            "linkedin": "https://www.linkedin.com/in/ting-guo-957aa719a/",
             "facebook": "",
             "github": "",
-            "personal": "",
+            "personal": "Hi! I'm Ting! I am currently a freshman intending to double major in Molecular and Cell Biology and Psychology. I am interested in the areas of medical biology and cell/developmental biology. I aim to use the skills I learned to prepare for medical school. I am really excited to work with the ULAB·PHHS Division to oversee exciting researching projects. In my free time, I enjoy baking and spending time with friends virtually.",
             "img": "img/staff/bio/ting_guo.jpg"
         },
          "Jessica Situ": {
-            "title": "",
+            "title": "Mentor Coordinator/Editor-in-Chief",
             "email": "",
-            "linkedin": "",
+            "linkedin": "http://www.linkedin.com/in/jessicasitu1",
             "facebook": "",
             "github": "",
-            "personal": "",
+            "personal": "My name is Jessica Situ and am intending to major in Data Science and Public Health. I am so excited to be part of ULAB this year and cannot wait to see what research projects you all come up with!",
             "img": "img/staff/bio/jessica_situ.jpg"
         },
          "Meeseo Lee": {
-            "title": "",
-            "email": "",
-            "linkedin": "",
+            "title": "Year Mentor Coordinator/Secretary",
+            "email": "meeseo@berkeley.edu",
+            "linkedin": "http://linkedin.com/in/meeseo-lee-142834194",
             "facebook": "",
             "github": "",
-            "personal": "",
+            "personal": "Hi! I’m Meeseo and I’m a second year majoring in MCB-Neurology. I like to draw and paint and my favorite movie is Up :) One important aspect of research I value the most is the community and the interactions between the people in the lab and I hope that ULAB PHHS provide positive and welcoming environment for everyone who joins and really help people grow professionally as well as personally!",
             "img": "img/staff/bio/meeseo_lee.jpg"
         },
          "Alina Su": {
