@@ -18,7 +18,6 @@ members = {
 		#     "bio": ...
 		# }
 
-<<<<<<< HEAD
 		"Riley McDanal": {
 			"title": "",
 			"founder_title": "Psychology and Cognitive Sciences Lab Cofounder",
