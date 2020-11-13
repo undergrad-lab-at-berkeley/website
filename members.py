@@ -611,7 +611,7 @@ members = {
             "linkedin": "https://www.linkedin.com/in/ting-guo-957aa719a/",
             "facebook": "",
             "github": "",
-            "personal": "Hi! I'm Ting! I am currently a freshman intending to double major in Molecular and Cell Biology and Psychology. I am interested in the areas of medical biology and cell/developmental biology. I aim to use the skills I learned to prepare for medical school. I am really excited to work with the ULAB·PHHS Division to oversee exciting researching projects. In my free time, I enjoy baking and spending time with friends virtually.",
+            "personal": "",
             "img": "img/staff/bio/ting_guo.jpg"
         },
          "Jessica Situ": {
