@@ -97,7 +97,8 @@ def calendar():
     events = events_result.get('items', [])
     if events:
         start = events[0]['start'].get('dateTime')
-        dt = datetime.datetime.strptime(start[0:-3]+start[-2:], '%Y-%m-%dT%H:%M:%S%z')
+        print(start[0:-6])
+        dt = datetime.datetime.strptime(start[0:-6], '%Y-%m-%dT%H:%M:%S')
         return str(dt)
 
 
