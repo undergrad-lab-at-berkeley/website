@@ -68,20 +68,49 @@ import pickle
 import datetime
 from pytz import utc 
 import traceback
+from slack_sdk import WebClient
+from slack_sdk.errors import SlackApiError
 
-scheduler = BackgroundScheduler(timezone=utc)
-scheduler.start()
+try:
+    scheduler = BackgroundScheduler(timezone=utc)
+    scheduler.start()
+    client = WebClient(token="xoxb-1179085237744-1550786327557-ou8s6PRheTQCkx79nlqeZWxG")
+except:
+    print('Error with slakcbot')
+
+def get_channel_ids():
+    try: 
+        result = client.conversations_list(types='public_channel,private_channel')
+        channels = result['channels']
+        channel_ids = {}
+        for channel in channels:
+            channel_ids[channel['name']] = channel['id']
+        return channel_ids
+    except SlackApiError as e:
+        print('Error requesting channel ids.')
+        return {}
+
+def send_message(channel, message):
+    channels = get_channel_ids()
+    try:
+        result = client.chat_postMessage(
+            channel=channels[channel], 
+            text=message
+        )
+    except SlackApiError as e:
+        print('Error sending message to channel: {}'.format(channel))
 
 @app.route("/labs/physics/slackbot")
 def slackbot():
     try:
         print(scheduler.get_jobs())
         # return "Physics Slack ULAB Bot"
-        return calendar()
+        # return get_next_event()
+        return get_channel_ids()
     except:
         return str(traceback.format_exc())
 
-def calendar():
+def get_next_event():
     # path to google calendar token
     # generate using quickstart: https://developers.google.com/calendar/quickstart/python
     path = ""
@@ -103,7 +132,12 @@ def calendar():
         dt = datetime.datetime.strptime(start[0:-6], '%Y-%m-%dT%H:%M:%S')
         # time difference from utc
         dt -= datetime.timedelta(hours=int(start[-6:-3]))
-        return str(dt)
+
+        summary = events[0]['summary']
+        # find channel
+        description = events[0]['description']
+
+
 
 
 
