@@ -66,7 +66,8 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 import pickle
 import datetime
-from pytz import utc
+from pytz import utc 
+import traceback
 
 scheduler = BackgroundScheduler(timezone=utc)
 scheduler.start()
@@ -78,8 +79,7 @@ def slackbot():
         # return "Physics Slack ULAB Bot"
         return calendar()
     except:
-        
-        return traceback.format_exc()
+        return str(traceback.format_exc())
 
 def calendar():
     with open('api/token.pickle', 'rb') as token:
