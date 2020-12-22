@@ -83,6 +83,8 @@ def slackbot():
         # return os.getcwd()
 
 def calendar():
+    # path to google calendar token
+    # generate using quickstart: https://developers.google.com/calendar/quickstart/python
     path = ""
     if __name__ == "__main__":
         path = "api/token.pickle"
@@ -93,7 +95,12 @@ def calendar():
     service = build('calendar', 'v3', credentials=creds)
     now = datetime.datetime.utcnow().isoformat() + 'Z' # 'Z' indicates UTC time
     events_result = service.events().list(calendarId='primary', timeMin=now, singleEvents=True,maxResults=1, orderBy='startTime').execute()
-    return events_result
+    events = events_result.get('items', [])
+    if events:
+        start = events[0]['start'].get('dateTime')
+        dt = datetime.datetime.fromisoformat(start)
+        return str(dt)
+
 
 
 
