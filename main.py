@@ -79,11 +79,16 @@ def slackbot():
         # return "Physics Slack ULAB Bot"
         return calendar()
     except:
-        # return str(traceback.format_exc())
-        return os.getcwd()
+        return str(traceback.format_exc())
+        # return os.getcwd()
 
 def calendar():
-    with open(".pickle", 'rb') as token:
+    path = ""
+    if __name__ == "__main__":
+        path = "api/token.pickle"
+    else:
+        path = 'myapp/src/api/token.pickle'
+    with open(path, 'rb') as token:
         creds = pickle.load(token)
     service = build('calendar', 'v3', credentials=creds)
     now = datetime.datetime.utcnow().isoformat() + 'Z' # 'Z' indicates UTC time
