@@ -68,6 +68,8 @@ import pickle
 import datetime
 from pytz import utc 
 import traceback
+from backports.datetime_fromisoformat import MonkeyPatch
+MonkeyPatch.patch_fromisoformat()
 
 scheduler = BackgroundScheduler(timezone=utc)
 scheduler.start()
@@ -80,7 +82,6 @@ def slackbot():
         return calendar()
     except:
         return str(traceback.format_exc())
-        # return os.getcwd()
 
 def calendar():
     # path to google calendar token
