@@ -5,6 +5,11 @@ from members import members
 import content
 import pdb
 # from flask_table import Table, Col, LinkCol
+from apscheduler.schedulers.background import BackgroundScheduler
+from apscheduler.triggers.date import DateTrigger
+import datetime
+from pytz import utc
+
 
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
@@ -57,6 +62,16 @@ def about():
     advisors = { name: members[name] for name in content.advisorsOrder }
     team = { name: members[name] for name in content.teamOrder }
     return render_template("about.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
+
+##################### Physics Slack Bot #####################
+scheduler = BackgroundScheduler(timezone=utc)
+scheduler.start()
+
+@app.route("/labs/physics/slackbot")
+def slackbot():
+    return "Physics Slack ULAB Bot"
+
+
 
 ##################### Error Handling #####################
 @app.errorhandler(404)
