@@ -82,7 +82,7 @@ def slackbot():
         return str(traceback.format_exc())
 
 def calendar():
-    with open("/api/token.pickle", 'rb') as token:
+    with open("api/token.pickle", 'rb') as token:
         creds = pickle.load(token)
     service = build('calendar', 'v3', credentials=creds)
     now = datetime.datetime.utcnow().isoformat() + 'Z' # 'Z' indicates UTC time
