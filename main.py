@@ -5,11 +5,6 @@ from members import members
 import content
 import pdb
 # from flask_table import Table, Col, LinkCol
-from apscheduler.schedulers.background import BackgroundScheduler
-from apscheduler.triggers.date import DateTrigger
-import datetime
-from pytz import utc
-
 
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
@@ -64,12 +59,34 @@ def about():
     return render_template("about.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
 
 ##################### Physics Slack Bot #####################
+from apscheduler.schedulers.background import BackgroundScheduler
+from apscheduler.triggers.date import DateTrigger
+from googleapiclient.discovery import build
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google.auth.transport.requests import Request
+import pickle
+import datetime
+from pytz import utc
+
 scheduler = BackgroundScheduler(timezone=utc)
 scheduler.start()
 
 @app.route("/labs/physics/slackbot")
 def slackbot():
-    return "Physics Slack ULAB Bot"
+    try:
+        print(scheduler.get_jobs())
+        # return "Physics Slack ULAB Bot"
+        return calendar()
+    except:
+        return "Error with Slack bot."
+
+def calendar():
+    with open('api/token.pickle', 'rb') as token:
+        creds = pickle.load(token)
+    service = build('calendar', 'v3', credentials=creds)
+    now = datetime.datetime.utcnow().isoformat() + 'Z' # 'Z' indicates UTC time
+    events_result = service.events().list(calendarId='primary', timeMin=now, singleEvents=True,maxResults=1, orderBy='startTime').execute()
+    return events_result
 
 
 
