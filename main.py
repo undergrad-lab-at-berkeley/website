@@ -67,7 +67,7 @@ from google.auth.transport.requests import Request
 import pickle
 import datetime
 from pytz import utc 
-# import traceback
+import traceback
 
 scheduler = BackgroundScheduler(timezone=utc)
 scheduler.start()
@@ -79,11 +79,10 @@ def slackbot():
         # return "Physics Slack ULAB Bot"
         return calendar()
     except:
-        print('error')
-        return 'Error'
+        return str(traceback.format_exc())
 
 def calendar():
-    with open('/token.pickle', 'rb') as token:
+    with open('api/token.pickle', 'rb') as token:
         creds = pickle.load(token)
     service = build('calendar', 'v3', credentials=creds)
     now = datetime.datetime.utcnow().isoformat() + 'Z' # 'Z' indicates UTC time
