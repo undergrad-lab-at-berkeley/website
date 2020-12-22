@@ -78,7 +78,8 @@ def slackbot():
         # return "Physics Slack ULAB Bot"
         return calendar()
     except:
-        return "Error with Slack bot."
+        
+        return traceback.format_exc()
 
 def calendar():
     with open('api/token.pickle', 'rb') as token:
