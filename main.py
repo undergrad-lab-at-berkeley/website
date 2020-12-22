@@ -95,10 +95,14 @@ def calendar():
     now = datetime.datetime.utcnow().isoformat() + 'Z' # 'Z' indicates UTC time
     events_result = service.events().list(calendarId='primary', timeMin=now, singleEvents=True,maxResults=1, orderBy='startTime').execute()
     events = events_result.get('items', [])
+    
     if events:
+        # manually parse datetime
+        # this is just painful
         start = events[0]['start'].get('dateTime')
-        print(start[0:-6])
         dt = datetime.datetime.strptime(start[0:-6], '%Y-%m-%dT%H:%M:%S')
+        # time difference from utc
+        dt -= datetime.timedelta(hours=int(start[-6:-3]))
         return str(dt)
 
 
