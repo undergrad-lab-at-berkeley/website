@@ -25,4 +25,3 @@ google-auth-oauthlib
 pickle-mixin
 datetime 
 pytz
-backports-datetime-fromisoformat

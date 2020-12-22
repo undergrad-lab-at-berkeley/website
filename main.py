@@ -68,8 +68,6 @@ import pickle
 import datetime
 from pytz import utc 
 import traceback
-from backports.datetime_fromisoformat import MonkeyPatch
-MonkeyPatch.patch_fromisoformat()
 
 scheduler = BackgroundScheduler(timezone=utc)
 scheduler.start()
