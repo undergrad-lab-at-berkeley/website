@@ -10,8 +10,8 @@ The core landing page website for ULAB, built with Flask/CSS.
 Make sure you're using a virtual environment, to maintain consistency in package versions.
 
 ```
-$ pip install --user -r requirements
-$ python main.py
+$ pip3 install --user -r requirements.txt
+$ python3 main.py
 ```
 
 Make sure to check your local server when making changes before pushing to production!

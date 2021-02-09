@@ -549,6 +549,15 @@ members = {
             "facebook": "",
             "github": "",
             "personal": "",
-            "img": "img/staff/angikaar-chana.jpg"
+            "img": "img/staff/health_sciences/angikaar_chana.jpg"
+        },
+        "Misha Lubich": {
+            "title": "Computer Science Director",
+            "email": "mishalubich007@berkeley.edu",
+            "linkedin": "",
+            "facebook": "",
+            "github": "",
+            "personal": "",
+            "img": "img/staff/health_sciences/misha_lubich.jpg"
         }
 }
