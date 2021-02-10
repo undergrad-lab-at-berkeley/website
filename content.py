@@ -16,7 +16,7 @@ def filter_dict(input_dict, entries):
 foundersOrder = ["Riley McDanal", "Jenna Martin", "Arjun Savel", "Yasmeen Musthafa", "Catherine Livelo", "Alan Pham", "Joshua Hug", "Amit Akula", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 advisorsOrder = ["Joshua Hug", "Arjun Savel", "Riley McDanal", "Sean Burns"]
 teamOrder = ['Hareen Seerha', 'Savannah Perez-Piel', 'Catherine Livelo', 'Alan Pham', 'Adam Bittenson']
-labOrder = ['cogsci','physics','bio','data']
+labOrder = ['cogsci','physics','bio','data','compbio']
 
 labs = {
     "cogsci": {
@@ -64,7 +64,7 @@ labs = {
                     "link": "https://drive.google.com/file/d/1N4Cipbns-FMjD4yefx97KDqVOObv2ulZ/view?usp=sharing"
                 },
                 "modules": {
-                    "link": "https://drive.google.com/open?id=1YN6XcBvnLbGsTlXLyrnobdeeLiU50ovBPDo1lnnXDOY"
+                    "link": "https://docs.google.com/document/d/193iaqgP4M5JJXDcPtPC8S5vVd4Q7oHD6MZdzJp-AUPo/edit?usp=sharing"
                 }
             }
     },
@@ -114,6 +114,15 @@ labs = {
                     #     <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
                     # """
                 },
+                "follow":{
+                    "title": "Follow Along",
+                    "text": u"""
+                    ULAB is committed to making our lectures and resources available to students outside of our program.
+
+                    This section is under construction: currently videos such as our LaTeX lecture series can be found <a href="https://www.youtube.com/playlist?list=PL8pqQF6_mQtVTwxYlIhfZG-Ra1zbunWNM" target="_blank">here</a>. 
+
+                    """
+                },
                 "calendar": {
                     "title": u"Calendar",
                     "text": u"""""",
@@ -128,11 +137,11 @@ labs = {
             "full_name": u"Health Sciences",
             "navbar": u"Health Sciences",
             "status": "Active",
-            "members": ["Angikaar Chana"],
+            "members": ["Angikaar Chana", "Candice Ng", "Meeseo Lee", "Ting Guo", "Kasturi Sarkar", "Alina Su", "Anisha Chandy", "Jessica Situ", "Misha Lubich", "Alec Parker"],
             "content": {
                 "overview": {
                     "title": "Lab Overview Coming Soon!",
-                    "text": ""
+                    "text": u"""Check out the syllabus here: <br> <a href='http://bit.ly/ULAB-PHHS-website'>Syllabus</a>"""
                 },
                 "join": {
                     "title": "Want to join us?",
@@ -148,6 +157,40 @@ labs = {
                     "object": ""
                 }
             }
+    },
+
+    "compbio": {
+        "logo" : u"/static/img/logos/logo_compbio.png",
+        "short_name" : u"compbio",
+        "full_name" : u"Computational Biology",
+        "navbar" : u"Computational Biology",
+        "status" : "Active",
+        "members": ["ashish Ramesh", "Reet Mishra", "Lindsey Guan"],
+        "content": {
+            "overview": {
+                "title": "Lab Overview",
+                "text": u"""
+                Founded in Spring 2021, the Computational Biology Division of the Undergraduate Lab at Berkeley, aims to give interested undergraduates a chance to conduct their own research projects in Computational Biology in small groups under the guidance of experienced undergraduate mentors. Along the way they will gain fundamental research skills, explore relevant background knowledge, and gain experience in the research process. Our goal is to help students feel confident and prepared to seek out on-campus opportunities in the exciting field of computational biology. <br/>
+                The lab will meet as a DeCal over the course of one semester. Students will spend class time learning background information and meeting with their groups to work on their project. Mentors will supervise groups of 4-6 students, and guide them through the process of exploring a research question. The DeCal will conclude with a final project presentation. See the course syllabus <a href="https://drive.google.com/file/d/1WxTg71qLSEaavCrHTgWb5uFt_6mG3nzr">here</a>, and our decal page <a href="https://decal.berkeley.edu/courses/5458">here</a>!<br/>.
+                """
+            },
+            "join": {
+                "title": "Join Us!",
+                "text":u"""
+                Unfortunately, our applications for this semester have closed. We will be posting our course materials below throughout the course, so feel free to follow along!
+                """
+
+                #<a href="https://forms.gle/4CUb93ZLr3KVeTcZ6">Apply Now!</a><br/><br/>
+                #<b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Wednesday, January 27th at 11:59PM PT; apply now at the link above!.<br/><br/>
+                #<b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link above!
+                #"""
+            },
+            "calendar" : {
+                "title": "",
+                "text": "",
+                "object": ""
+            }
+        },
     },
 
     "data": {

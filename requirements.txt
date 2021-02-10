@@ -19,3 +19,10 @@ visitor==0.1.3
 werkzeug>=0.15.3
 WTForms==2.1
 google-api-python-client
+apscheduler
+google-auth-httplib2 
+google-auth-oauthlib
+pickle-mixin
+datetime 
+pytz
+slack_sdk
