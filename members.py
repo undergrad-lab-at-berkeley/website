@@ -680,6 +680,5 @@ members = {
 			"personal": "",
 			"img": "img/staff/bio/alina_su.jpg"
 		},
->>>>>>> a66d292d84953114cd67e76a445efeca75541f66
 }
 
