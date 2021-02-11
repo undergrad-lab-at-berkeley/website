@@ -578,7 +578,7 @@ members = {
 			"facebook": "",
 			"github": "https://www.linkedin.com/in/angikaar/",
 			"personal": "",
-			"img": "img/staff/angikaar-chana.jpg",
+			"img": "img/staff/angikaar_chana.jpg",
 			"bio": "Hey everyone! My name is Angikaar (they/he), and I'm a Junior studying Public Health and Data Science. I serve as a Data Analytics Research Assistant in CNSU's Meyer Lab, and I am very interested in the cross-section of data analytics in health-related research. I intend to attend graduate school of some kind, and I hope to apply Machine Learning and Modeling to the field of Public Health and/or Medical Imaging. In my free time, I love hanging out with friends, so don't be shy to reach out and meet up :)"
 		},
 		 "Alec Parker": {
