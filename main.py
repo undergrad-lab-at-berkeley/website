@@ -58,6 +58,31 @@ def about():
     team = { name: members[name] for name in content.teamOrder }
     return render_template("about.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
 
+##### TEMP PAGE FOR SP21 POSTER SESSION #####
+@app.route("/poster-symposium-sp21")
+def posters():
+    posters = {
+        'cogsci': {
+            'Single Ion Addressing': "example.pdf",
+            'Single Ion Addressing Copy': "example.pdf"
+        },
+        'physics': {
+            'Single Ion Addressing': "https://drive.google.com/drive/u/1/my-drive"
+        },
+        'bio': {
+            'Single Ion Addressing': "https://drive.google.com/drive/u/1/my-drive"
+        },
+        'data': {
+            'Single Ion Addressing': "https://drive.google.com/drive/u/1/my-drive"
+        },
+        'compbio': {
+            'Single Ion Addressing': "https://drive.google.com/drive/u/1/my-drive"
+        },
+    }
+    return render_template("posters-sp21.html", labs=content.labs, lab_ordering=content.labOrder, posters=posters)
+
+##### TEMP PAGE FOR SP21 POSTER SESSION #####
+
 ##################### Error Handling #####################
 @app.errorhandler(404)
 def page_not_found(e):
