@@ -63,20 +63,20 @@ def about():
 def posters():
     posters = {
         'cogsci': {
-            'Single Ion Addressing': "example.pdf",
-            'Single Ion Addressing Copy': "example.pdf"
+            '[TBD]': "example.pdf",
         },
         'physics': {
-            'Single Ion Addressing': "https://drive.google.com/drive/u/1/my-drive"
+            '[TBD]': "example.pdf",
+            '[Example Poster]': "example.pdf"
         },
         'bio': {
-            'Single Ion Addressing': "https://drive.google.com/drive/u/1/my-drive"
+            '[TBD]': "example.pdf"
         },
         'data': {
-            'Single Ion Addressing': "https://drive.google.com/drive/u/1/my-drive"
+            '[TBD]': "example.pdf"
         },
         'compbio': {
-            'Single Ion Addressing': "https://drive.google.com/drive/u/1/my-drive"
+            '[TBD]': "example.pdf"
         },
     }
     return render_template("posters-sp21.html", labs=content.labs, lab_ordering=content.labOrder, posters=posters)
