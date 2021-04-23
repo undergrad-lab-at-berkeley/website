@@ -63,20 +63,19 @@ def about():
 def posters():
     posters = {
         'cogsci': {
-            '[TBD]': "example.pdf",
+            '[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview",
         },
         'physics': {
-            '[TBD]': "example.pdf",
-            '[Example Poster]': "example.pdf"
+            '[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview",
         },
         'bio': {
-            '[TBD]': "example.pdf"
+            '[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview"
         },
         'data': {
-            '[TBD]': "example.pdf"
+            '[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview"
         },
         'compbio': {
-            '[TBD]': "example.pdf"
+            '[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview"
         },
     }
     return render_template("posters-sp21.html", labs=content.labs, lab_ordering=content.labOrder, posters=posters)
