@@ -59,26 +59,10 @@ def about():
     return render_template("about.html", founders=founders, advisors=advisors, team=team, foundersOrder=content.foundersOrder)
 
 ##### TEMP PAGE FOR SP21 POSTER SESSION #####
+import content_posters_sp21
 @app.route("/poster-symposium-sp21")
 def posters():
-    posters = {
-        'cogsci': {
-            '[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview",
-        },
-        'physics': {
-            '[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview",
-        },
-        'bio': {
-            '[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview"
-        },
-        'data': {
-            '[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview"
-        },
-        'compbio': {
-            '[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview"
-        },
-    }
-    return render_template("posters-sp21.html", labs=content.labs, lab_ordering=content.labOrder, posters=posters)
+    return render_template("posters-sp21.html", labs=content.labs, lab_ordering=content.labOrder, posters=content_posters_sp21.posters)
 
 ##### TEMP PAGE FOR SP21 POSTER SESSION #####
 

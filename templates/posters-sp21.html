@@ -1,33 +1,58 @@
 {% extends "base.html" %}
 
 {% block body %}
-<script type="text/javascript">
-  function appdisapp(elementID, block){
-    if (document.getElementById(elementID).style.display == 'none'){
-      if (block) {
-        document.getElementById(elementID).style.display = 'block'
-      } 
-      else {
-        document.getElementById(elementID).style.display = 'inline'
-      }
-    }
-    else{ 
-      document.getElementById(elementID).style.display = 'none'
-    }
-  }
-</script>
   <br/>
   <div class="container">
     <div class="row" style="display:flex; justify-content:center">
-      <h1> ULAB Virtual Poster Symposium Spring 2021 </h1>
+      <h1> ULAB Virtual Poster Symposium</h1>
+    </div>
+
+<div class="container">
+      <div class="row" style="display:flex; justify-content:center">
+      {% for lab_key in lab_ordering[0:5] %}
+        <div class="col-md-2">
+            <div class="image-tile outer-title text-center">
+              <!-- <a href="/labs/{{lab_key}}">
+                <img src="{{ labs[lab_key]['logo'] }}">
+              </a> -->
+              <a class="title" href="/labs/{{lab_key}}">
+                <h6 class="uppercase mb0"> {{ labs[lab_key]['full_name'] }}</h6>
+              </a>
+            </div>
+        </div>
+      {% endfor %}
+      </div>
+
+      <!-- <div class="row" style="display:flex; justify-content:center"> -->
+      <!-- {% for lab_key in lab_ordering[4:] %} -->
+        <!-- <div class="col-md-2"> -->
+            <!-- <div class="image-tile outer-title text-center"> -->
+              <!-- <a href="/labs/{{lab_key}}"> -->
+                <!-- <img src="{{ labs[lab_key]['logo'] }}"> -->
+              <!-- </a> -->
+              <!-- <a class="title" href="/labs/{{lab_key}}"> -->
+                <!-- <h6 class="uppercase mb0"> {{ labs[lab_key]['full_name']}} </h6> -->
+              <!-- </a> -->
+              <!-- <div class="title"> -->
+                <!-- {% if lab_key == 'aerospace' %} -->
+                    <!-- <h6 class="uppercase mb0 red-title"> {{ "[{}]".format(labs[lab_key]['status']) }} </h6> -->
+                <!-- {% endif %} -->
+              <!-- </div> -->
+            <!-- </div> -->
+        <!-- </div> -->
+      <!-- {% endfor %} -->
+      <!-- </div> -->
+
+</div>
+    <div class="row" style="display:flex; justify-content:center">
+        <h4>
+        Monday, May 3rd, 10 AM--12 PM on <a href="https://gather.town/i/Ly6hJJE6" target="_blank">Gather.Town</a>/<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2JvZDJjOTZvYWwxZGk4ZGVuam9lODVvdHMgcGh5c2ljcy51bGFiQG0&amp;tmsrc=physics.ulab%40gmail.com">Add to Calendar.</a></h4>    
     </div>
     <div class="row" style="justify-content:center">
-      <p style="width:80%">
-        The ULAB Joint Poster Symposium will be held on Monday, May 3rd from 10 AM--12 PM on Gather.Town: <a href="https://gather.town/i/Ly6hJJE6" target="_blank">EVENT LINK</a> and <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2JvZDJjOTZvYWwxZGk4ZGVuam9lODVvdHMgcGh5c2ljcy51bGFiQG0&amp;tmsrc=physics.ulab%40gmail.com">Add to Calendar.</a>
-        <br>
-        <br>
-        Click on the title to view each poster!
-      </p>
+
+    Click on the title to view each poster!
+    <br>
+    <br>
     </div>
 
     <div class="row", style="">
