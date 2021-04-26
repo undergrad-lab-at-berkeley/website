@@ -44,23 +44,23 @@
       <!-- </div> -->
 
 </div>
-    <div class="row" style="display:flex; justify-content:center">
+    <div class="row" style="color: black; display:flex; justify-content:center">
         <h4>
-        Monday, May 3rd, 10 AM--12 PM on <a href="https://gather.town/i/Ly6hJJE6" target="_blank">Gather.Town</a>/<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2JvZDJjOTZvYWwxZGk4ZGVuam9lODVvdHMgcGh5c2ljcy51bGFiQG0&amp;tmsrc=physics.ulab%40gmail.com">Add to Calendar.</a></h4>    
+        Monday, May 3rd, 10 AM--12 PM on <a href="https://gather.town/i/Ly6hJJE6" target="_blank">Gather.Town</a>/<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2JvZDJjOTZvYWwxZGk4ZGVuam9lODVvdHMgcGh5c2ljcy51bGFiQG0&amp;tmsrc=physics.ulab%40gmail.com">Add to Calendar.</a></h4> 
+    </div>
+    <div class="row" style="color: black; display:flex; justify-content:center">
+        <h4>Click on the title to view each poster!</h4>   
     </div>
     <div class="row" style="justify-content:center">
-
-    Click on the title to view each poster!
-    <br>
     <br>
     </div>
 
     <div class="row", style="">
       {% for lab_key in lab_ordering[0:5] %}
         <div>
-          <h4>{{ labs[lab_key]['full_name'] }}</h4>
+          <h4 style="font-size: 25px; color: black">{{ labs[lab_key]['full_name'] }}</h4>
           {% for poster in posters[lab_key].keys()%}
-            <a href={{posters[lab_key][poster]}} target="_blank">{{poster}}</a>
+            <a href={{posters[lab_key][poster]}} target="_blank" style="font-size: 17px; line-height: 30px">{{poster}}</a>
             <br>
           {% endfor %}
           <br>
