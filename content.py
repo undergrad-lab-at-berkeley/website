@@ -1,3 +1,4 @@
+# encoding=utf8
 # -*- coding: utf-8 -*-
 
 # # Given the string LAB, pulls all of the jobs (uncategorized) from that lab in the LABS dict. Returns a dict
