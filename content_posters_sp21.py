@@ -3,7 +3,10 @@
 posters = {
     'cogsci': {
         u"1. All in a Day's Laugh: A Replication and Extension of the Stress-Buffering Model of Positive Affect": "https://drive.google.com/file/d/17cC7nBGBVHSfXjHppDS1VPCpAYB_BToT/preview",
-        u"2. Visual Attention Intensifies Emotion: A Replication Study": 'https://drive.google.com/file/d/1e7sLVg-vJq-1svOv4C19nzAuluVB7p9_/preview'
+        u"2. Visual Attention Intensifies Emotion: A Replication Study": 'https://drive.google.com/file/d/1e7sLVg-vJq-1svOv4C19nzAuluVB7p9_/preview',
+        u"3. Children's Use of Gender as a Social Cue": 'https://drive.google.com/file/d/1KSeV0qq4n9bdVjWDMWtbELHmqTTQ5b4J/preview',
+        U"4. Significant Group-Level Brain Activity During Trail-Making Test Performance": 'https://drive.google.com/file/d/1VI2S4t7G5flwXKyVXKuJ-bplFS76yjsG/preview',
+
     },
     'physics': {
         u'1. Measuring Cosmic Distances using Gravitational Waves': "https://drive.google.com/file/d/1myT-xRH4oHdjK3rowAGYFgVYA-Wx7YNF/preview",

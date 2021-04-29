@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
+{% block title %}
+    <title>{{ lab['full_name']}} | Undergraduate Lab @ Berkeley</title>
+{% endblock %}
+
 {% block body %}
   <br/>
   <div class="container">
@@ -68,7 +72,7 @@
           </script>
         {%endif%} 
         
-        <h4 id="overview"> {{ lab['content']['overview']['title'] | safe }}</h4>
+        <h4 id="overview"> {{ lab['content']['overview']['o'] | safe }}</h4>
         <p> {{ lab['content']['overview']['text'] | safe }} </p>
         <br/>
 
