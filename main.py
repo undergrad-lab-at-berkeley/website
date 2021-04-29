@@ -64,6 +64,9 @@ import content_posters_sp21
 def posters():
     return render_template("posters-sp21.html", labs=content.labs, lab_ordering=content.labOrder, posters=content_posters_sp21.posters)
 
+@app.route("/sp21")
+def sp21():
+    return redirect('https://ulab.berkeley.edu/poster-symposium-sp21')
 ##### TEMP PAGE FOR SP21 POSTER SESSION #####
 
 ##################### Error Handling #####################
