@@ -2,7 +2,8 @@
 
 posters = {
     'cogsci': {
-        u'[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview",
+        u"1. All in a Day's Laugh: A Replication and Extension of the Stress-Buffering Model of Positive Affect": "https://drive.google.com/file/d/17cC7nBGBVHSfXjHppDS1VPCpAYB_BToT/preview",
+        u"2. Visual Attention Intensifies Emotion: A Replication Study": 'https://drive.google.com/file/d/1e7sLVg-vJq-1svOv4C19nzAuluVB7p9_/preview'
     },
     'physics': {
         u'1. Measuring Cosmic Distances using Gravitational Waves': "https://drive.google.com/file/d/1myT-xRH4oHdjK3rowAGYFgVYA-Wx7YNF/preview",
@@ -13,7 +14,7 @@ posters = {
         u'6. Modeing and Mapping Terrestrial Gamma Ray Flashes': 'https://drive.google.com/file/d/1XJI4Ah7WSwa1dX1vXMmuWl1q2PdbGu-m/preview'
     },
     'bio': {
-        u'1. Alzheimer’s Treatment: Silver Bullets vs. Dirty Drugs': "https://drive.google.com/file/d/1CR6sbqR28JWm_bw9GQJ3gcQLaZmf1l45/preview"
+        u"1. Alzheimer's Treatment: Silver Bullets vs. Dirty Drugs": "https://drive.google.com/file/d/1CR6sbqR28JWm_bw9GQJ3gcQLaZmf1l45/preview"
     },
     'data': {
         u'[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview"

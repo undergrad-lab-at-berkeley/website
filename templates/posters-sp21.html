@@ -59,7 +59,7 @@
       {% for lab_key in lab_ordering[0:5] %}
         <div>
           <h4 style="font-size: 25px; color: black; font: bold">{{ labs[lab_key]['full_name'] }}</h4>
-          {% for poster in posters[lab_key].keys()%}
+          {% for poster in posters[lab_key].keys()|sort%}
             <a href={{posters[lab_key][poster]}} target="_blank" style="font-size: 17px; line-height: 30px">{{poster}}</a>
             <br>
           {% endfor %}
