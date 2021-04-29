@@ -1,3 +1,5 @@
+# encoding=utf8
+
 posters = {
     'cogsci': {
         u'[TBD]': "https://drive.google.com/file/d/18sC6FdmkffQk4k55II8otncqS7k-FZ-6/preview",
