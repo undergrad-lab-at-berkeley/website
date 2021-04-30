@@ -66,7 +66,7 @@ def posters():
 
 @app.route("/sp21")
 def sp21():
-    return redirect('https://ulab.berkeley.edu/poster-symposium-sp21')
+    return redirect('/poster-symposium-sp21')
 ##### TEMP PAGE FOR SP21 POSTER SESSION #####
 
 ##################### Error Handling #####################
