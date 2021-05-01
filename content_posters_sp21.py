@@ -14,7 +14,7 @@ posters = {
         u'10. Experiential stress and physiological stress: Implication of coherence': "https://drive.google.com/file/d/1xkwiL2FHbtBtTf_J6R8Ugggij2RpYTum/preview",
         u"11. ‘Fairness Informs Social Decision Making in Infancy’ - A Replication": "https://drive.google.com/file/d/1t4bASn3LGIjxfucHPpnuc0vwG_cqg2VS/preview",
         u'12. Pelvic Irradiation-Induced Fatigue Extension': "https://drive.google.com/file/d/1BNLBvZ-kz-gV_tSRyV52fPgs9_HfB8sQ/preview",
-        u"13. Lingering Negative Affect in Response to Daily Stressors in relation with Physical Health Years Later: A Longitudinal Replication": "https://drive.google.com/file/d/1gFrIZrNkkZTaGr9sv5U4nxUi2LADZul-/preview",
+        u"13. Lingering Negative Affect in Response to Daily Stressors in relation with Physical Health Years Later: A Longitudinal Replication": "https://drive.google.com/file/d/1kX2Rill3d9kB1FTHst_Ux8VZnB3PkbVf/preview",
         u'14. Statistical Replication of Pomper & Saffran (2016)': "https://drive.google.com/file/d/1ghzsGnfjepi8s0TURWY88BQMrEW1mJYL/preview",
     },
     'physics': {
