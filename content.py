@@ -80,49 +80,103 @@ labs = {
             "content": {
                 "overview": {
                     "title": u"Lab Overview",
-                    "slides": ["/static/img/physics_slides/muon.jpg", "/static/img/physics_slides/lbl_als_1.jpg", "/static/img/physics_slides/mixing.jpg"],
-                    "text": u"""
-                        <p>Founded in Fall 2017, the Undergraduate Lab at Berkeley, Physics and Astronomy Division (and <a href='https://decal.berkeley.edu/courses/5244' target='_blank'>DeCal)</a> aims to make the transition into undergraduate physics and astrophysics research as seamless as possible. On a technical level, this involves introducing students in our group to underlying processes associated with research — namely, programming and performing statistical tests. Our program, however, extends beyond coursework. With the help of experienced undergraduate mentors, we guide students through a research project of their choosing over the course of an academic year by helping them make sense of the current literature, isolate a feasible project, and execute projects on a reasonable timescale. In doing so, we provide students with the opportunity to expand their interests and provide mentors with leadership roles within the research community.</p>
-
-                        <p>The Physics and Astronomy Lab has completed over <a href="https://www.eposters.net/search/all/1/ULAB">20 projects</a> in topics such as astrophysics, condensed matter, particle physics, and biophysics. We plan to run upward of seven projects in the coming year, with topics based on mentor experience and student interest. </p>
-
-                        <p>Feel free to reach out to us at</b> <a href="mailto:physicslab@ulab.berkeley.edu">physicslab@ulab.berkeley.edu</a> <b>with questions or concerns. If you would like to join our program Fall 2020 as a mentee, mentor, or curriculum developer, applications can be found below. We also welcome involvement from gradaute students, postdocs, and faculty members! (More information below)</p>
-                    """
+                    "slides": ["/static/img/physics_slides/muon.jpg", "/static/img/physics_slides/symposium.jpg", "/static/img/physics_slides/lbl_als_1.jpg", "/static/img/physics_slides/mixing.jpg"],
+                    "text": u""" 
+                        The Undergraduate Lab at Berkeley, Physics and Astronomy Division is a DeCal that aims to make the transition into undergraduate research as seamless as possible. <b>We believe that research should be accessible to all undergrads within the Physics and Astronomy Departments</b> despite significant barriers to entry for students traditionally underrepresented in academia or without a strong research background.
+                        <br><br>
+                        Under the guidance of experienced undergraduate mentors and graduate/postdoc advisors, groups of mentees complete a year long research project on a topic of their interest. During this process, our staff will help mentees are able to make sense of the current literature, isolate a feasible project, and execute projects on a reasonable timescale. In addition, mentors serve as role-models to help demystify the research process.
+                        <br><br>
+                        Our program, extends beyond project work. Students attend weekly workshops on essential research skills such as programming, statistics, etc. At the end of our program, students will have gained basic research skills often desired by research labs and will have demonstrated these skills in the process of completing a project of their own from start-to-finish.
+                        <br><br>
+                        Check out the other tabs on this page to learn how you can get involved as a mentee, mentor, or graduate/postdoc advisor! Please contact us at <a href="mailto:physicslab@ulab.berkeley.edu">physicslab@ulab.berkeley.edu</a> with any questions or concerns!                         
+                        """
                 },
                 "join": {
                     "title": u"Join Us!",
-
-                    # <b>Mentee:</b> <a href="https://forms.gle/sCSe5hry6uTkgMEA9" target="_blank">https://forms.gle/sCSe5hry6uTkgMEA9</a>
-
                     "text": """
-                        <p><span style="color:black"><b><u>MENTEES:</u></b></span> ULAB Physics and Astronomy is a 2-semester DeCal (ASTRON. 98, 2 units). In addition to project-work, we host workshops on often overlooked skills such as Python, LaTex, Git, statistics, and research literacy. ULAB also seeks to provide a welcoming environment for students to connect with their peers and the larger community of faculty and graduate students through activities such as project presentations and poster symposiums. Broadly speaking, students spend fall semester designing a research project and spring semester on executing the project. Each week, students will meet with their project group for 1 hour and attend up to 1 hour of instruction. In Fall 2020, we will be meeting <b>online Tu/Th from 7-8 PM PDT</b>. For more information, please consult the Fall <a href="/static/doc/F20_ULAB_Syllabus__2_Unit.pdf">syllabus</a>.</p>
-
-                        <p><b>Mentee <a href="https://forms.gle/sCSe5hry6uTkgMEA9" target="_blank">applications</a> for Fall 2020 are due by September 5<sup>th</sup> with subsequent rolling admissions until September 8<sup>th</sup> or until all positions are filled.</b></p>
-                        
-                        <hr>
-
-                        <p><span style="color:black"><b><u>MENTORS:</u></b></span> ULAB Physics and Astronomy is a 2-semester DeCal. Mentors will be listed as facilitators of the DeCal and will be required to take ASTRON. 99 for 2 units. Mentor responsibilities take up to 3-6 hours per week, including meetings with other staff and with students. While specific tasks vary, this generally involves leading discussion on research topics, creating presentations, and guiding mentees through their respective projects. Mentorship is a full-year commitment and is a great opportunity to gain teaching and leadership experience, interact with students and researchers, and build your resume! We require at minimum one semester of research experience in physics, astronomy, engineering, EPS or a related field.</p>
-
-                        <p><b>Mentor <a href="https://forms.gle/iwFwLZ2gP24JhsSJ6" target="_blank">applications</a> for Fall 2020 will be accepted on a rolling basis.<b></p>
-                        
-                        <hr>
-
-                        <p><span style="color:black"><b><u>Graduate Students, Postdocs, and Faculty:</u></b></span> ULAB is an organization that seeks to demystify research and help students without research experience gain essential skills through mentorship and guided projects. We welcome everyone to engage with our students by attending our project proposal presentations at the end of the Fall semester and our poster symposium at the end of Spring semester. The dates of these events will be posted here and distributed to the Physics and Astronomy departments. <b>If you are interested in a more active role within our organization, please reach out to us at</b> <a href="mailto:physicslab@ulab.berkeley.edu">physicslab@ulab.berkeley.edu</a></p>
-
+                        <b>ULAB Physics and Astronomy is a DeCal and a full-year committment. We meet Tu/Th 7-8 PM.</b> Mentee applications are available at the start of the fall semester and mentor applications open the summer before. Mentee/mentor applications close around the second week of the fall semester. Opportunities for graduate students, postdocs, and faculty to get involved are available year-round!
+                        <br><br><br>
+                        <b>Mentees:</b> Check out the mentees tab to learn more about our program! 
+                        The mentee application is currently closed.
+                        <br><br>
+                        <b>Mentors:</b> Check out the mentors tab to learn more about the position! 
+                        <!-- The mentor application is currently closed. -->
+                        The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>here</a> and will close TBD.
+                        <br><br>
+                        <b>Graduate Students/Postdocs:</b> Please check out the mentees tab to learn more about our program!
                     """
                     #     In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
                     #     <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Researcher Application </a> <br/>
                     #     <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
                     # """
                 },
-                "follow":{
-                    "title": "Follow Along",
+                "mentees":{
+                    "title": "Mentees Info",
                     "text": u"""
-                    ULAB is committed to making our lectures and resources available to students outside of our program.
-
-                    This section is under construction: currently videos such as our LaTeX lecture series can be found <a href="https://www.youtube.com/playlist?list=PL8pqQF6_mQtVTwxYlIhfZG-Ra1zbunWNM" target="_blank">here</a>. 
+                        ULAB is a full-year DeCal sponsored by Prof. Dan Kasen. We meet Tuesday/Thursday 7-8 PM in-person!
+                        <br><br>
+                        Fall semester is dedicated to creating a research proposal. Students are split into groups and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. Mentees return in the spring semester to implement their project! ULAB provides funding, space, and graduate/postdoc advisors to assist mentees during this process. The semester culminates in a poster session open to the physics and astronomy departments!
+                        <br><br>
+                        In addition to weekly groups meetings, ULAB hosts weekly workshops with particular emphasis on Python and other basic research skills. The time commitment is roughly 2-3 hrs of in-person meetings and 2-3 hrs of individual work per week. Please see our syllabus for more detailed information!
+                    """
+                },
+                "mentors":{
+                    "title": "Mentor Info",
+                    "text": u"""
+                    
+                        Mentor INFO
 
                     """
+                },
+                "advisors":{
+                    "title": "Advisors Info",
+                    "text": u"""
+                    
+                        Advisors INFO
+
+                    """
+                },
+                "projects":{
+                    "title": "Projects",
+                    "years": {
+                        '2020-2021': {
+                            u'1. Measuring Cosmic Distances using Gravitational Waves': "/static/doc/posters/s211.pdf",
+                            u'2. Doppler Imaging of a Simulated Star':'/static/doc/posters/s212.pdf',
+                            u'3. Characterizing Exoplanet Habitability': '/static/doc/posters/s213.pdf',
+                            u'4. Categorizing Solar Flares with Machine Learning': '/static/doc/posters/s214.pdf',
+                            u"5. Determining Hubble's Constant From Time Delays in Lensed Quasars ": '/static/doc/posters/s215.pdf',
+                            u'6. An Exploration into Experimental Particle Physics': '/static/doc/posters/s216.pdf',
+                            u'7. Modeling and Mapping Terrestrial Gamma Ray Flashes': '/static/doc/posters/s217.pdf'
+                        },
+                        '2019-2020': {
+                            u'1. Computational Analysis of Mixing Layers in the Interstellar Medium': '/static/doc/posters/s201.pdf',
+                            u'2. Investigation on the Potential Origin of ‘Oumuamua': '/static/doc/posters/s202.pdf',
+                            u'3. Simulating the Antenna Response of Radio Interferometers': '/static/doc/posters/s203.pdf',
+                            u'4. Accessible Balloon RAdiometer-Detecting the Cosmic Microwave Background': '/static/doc/posters/s204.pdf',
+                            u'5. Period-Luminosity Analysis of Cepheid Variables': '/static/doc/posters/s205.pdf',
+                            u'6. Analyzing the Turnover Point in the Light Curve of the Neutron Star Binary Merger Event GW170817': '/static/doc/posters/s206.pdf',
+                            u'7. Physics of a Tokamak': '/static/doc/posters/s207.pdf',
+                            u'8. Nanoparticle Drug Delivery Methods via DNA Nanotechnology': '/static/doc/posters/s208.pdf',
+                            u'9. Relating Electromagnetic Waves to Light': '/static/doc/posters/s209.pdf'
+                        },
+                        '2018-2019': {
+                            u'1. Implementation of Partial Quantum Search': '/static/doc/posters/s191.pdf',
+                            u'2. Determining Graphene Stacking via Raman Spectroscopy': '/static/doc/posters/s192.pdf',
+                            u'3. Angular and Altitude Dependence of Cosmic Ray Muons': '/static/doc/posters/s193.pdf',
+                            u'4. Monte Carlo Study of the Ising Model': '/static/doc/posters/s194.pdf',
+                            u'5. Interplanetary Radiation Harnessing Voltaic System': '/static/doc/posters/s195.pdf',
+                            u'6. An Analysis on the Distribution of the Hubble Parameter across the Sky': '/static/doc/posters/s196.pdf',
+                            u'7. Estimating the Mass of the Milky Way Galaxy': '/static/doc/posters/s197.pdf',
+                            u'8. Exoplanet Detections with Machine Learning': '/static/doc/posters/s198.pdf',
+                            u'9. Calibrating the Flux-Weighted Gravity-Luminosity Relation in Blue Supergiant Stars': '/static/doc/posters/s199.pdf',
+                        },
+                        '2017-2018': {
+                            u'1. Determining the Habitability of Exoplanets': '/static/doc/posters/s181.pdf',
+                            u'2. Measuring the Spin of Rotating Black Holes': '/static/doc/posters/s182.pdf',
+                            u'3. Designing an Electromagnetic Shield to Block Secondary Cosmic Rays': '/static/doc/posters/s183.pdf',
+                            u'4. Study of Isotropic and Anisotropic Electrical Conductivity': '/static/doc/posters/s184.pdf',
+                        }
+                    }
                 },
                 "calendar": {
                     "title": u"Calendar",

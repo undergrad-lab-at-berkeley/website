@@ -38,7 +38,8 @@ def lab(name=None):
         #     dict(name='Name3', description='Description3')]
         #     table = ItemTable(items)
         #     return render_template("lab.html", lab=content.labs[name], members=members, table=table)
-
+        if name=='physics':
+            return render_template("lab-new.html", lab=content.labs[name], members=members)
         return render_template("lab.html", lab=content.labs[name], members=members)
     else:
         return render_template('404.html'), 404

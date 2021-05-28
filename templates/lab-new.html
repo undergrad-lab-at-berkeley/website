@@ -1,0 +1,367 @@
+{% extends "base.html" %}
+
+{% block title %}
+    <title>{{ lab['full_name']}} | Undergraduate Lab @ Berkeley</title>
+{% endblock %}
+
+{% block body %}
+  <br/>
+  <div class="container">
+    <div class="row center-div">
+      <h1 class="lab-title"> ULAB {{ lab['full_name']}} </h1>
+    </div>
+
+    <div class="row center-div">
+      <div class="lab-content">
+      
+
+      <div class="row"><!-- col-md-10 col-md-offset-1 -->
+                <div class="col-sm-12 text-center">
+                    <!-- <h4 class="uppercase mb80">Button Tabs</h4> -->
+                    <!-- <h3 class="uppercase color-primary mb40 mb-xs-24">ABOUT US</h3> -->
+                    <div class="tabbed-content button-tabs">
+                        <ul class="tabs">
+                            <li class="active">
+                                <div class="tab-title">
+                                    <span>About</span>
+                                </div>
+                                <div class="tab-content" style="text-align: left;">
+                                  <!-- slide show -->
+                                  {%if lab['content']['overview']['slides'] %}
+                                  <div style="height: 430px">
+                                    {% for image in lab['content']['overview']['slides'] %}
+                                        <img class="slide" src={{image}} style="text-align: center">
+                                    {% endfor %}
+                                  </div>
+                                  {%endif%} 
+                                    <p class='lead'>{{ lab['content']['overview']['text'] | safe }}</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="tab-title">
+                                    <span>Our Staff</span>
+                                </div>
+                                <div class="tab-content" id='staff'>
+                                    <div class="container" style="padding-top: 50px">
+
+                                      <div class="row" style="display:flex; justify-content:center; flex-wrap:wrap;">
+                                                {% for person in lab['members'] %}
+
+                                                        <div class="col-md-3">
+                                                            <div class="image-tile outer-title text-center">
+
+                                                                <!-- Image with Modal Box -->
+                                                                <img 
+                                                                  alt="Pic" 
+                                                                  src="{{ url_for('static', filename=members[person]['img']) }}" 
+                                                                  class="profile-img"
+                                                                  data-modal="modal-{{person}}">
+                                                                <!-- Modal Box -->
+                                                                <div id="modal-{{person}}" class="modal">
+                                                                    
+                                                                  <!-- Modal Content -->
+                                                                  <div class="modal-content">
+                                                                      <span class="close" data-modal="modal-{{person}}">&times;</span>
+                                                                      <img 
+                                                                        alt="Pic" 
+                                                                        src="{{ url_for('static', filename=members[person]['img']) }}" 
+                                                                        class="modal-img">
+                                                                      <div class="title">
+                                                                          <h6 class="uppercase mb0">{{ person }} </h6>
+                                                                          <h7> {{ members[person]['title'] }} </h7>
+                                                                          <div class="bio-icon">
+                                                                              <span> {{ members[person]['email'] }} </span> <br/>
+                                                                              {% if not members[person]['personal'] == '' %}
+                                                                                  <span><a href="{{ members[person]['personal'] }}" target="_blank"><i class="ti-world"></i></a></span>
+                                                                              {% endif %}
+                                                                              {% if not members[person]['github'] == '' %}
+                                                                                  <span><a href="{{ members[person]['github'] }}" target="_blank"><i class="ti-github"></i></a></span>
+                                                                              {% endif %}
+                                                                              {% if not members[person]['linkedin'] == '' %}
+                                                                                  <span><a href="{{ members[person]['linkedin'] }}" target="_blank"><i class="ti-linkedin"></i></a></span>
+                                                                              {% endif %}
+                                                                          </div>
+                                                                          {% if not members[person]['bio'] == '' %}
+                                                                            </br>
+                                                                            <p> {{ members[person]['bio'] | safe }}</p>
+                                                                          {% endif %}
+                                                                      </div>
+                                                                  </div>
+                                                                </div>
+                                                                
+                                                                <!-- Script to Trigger Modal -->
+                                                                <script>
+                                                                    // Get the modal
+                                                                    var modal = document.getElementsByClassName("modal");
+                                                                    // Get the image that opens the modal
+                                                                    var img = document.getElementsByClassName("profile-img");
+                                                                    // Get the <span> element that closes the modal
+                                                                    var closeSpan = document.getElementsByClassName("close");
+                                                                    
+                                                                    // Control the Appearance of the Modal 
+                                                                    for (var i = 0; i < img.length; i++) {
+                                                                      var profileImg = img[i];
+                                                                      // Opening the Modal
+                                                                      profileImg.onclick = function() {
+                                                                        var thisModal = document.getElementById(this.dataset.modal);
+                                                                        thisModal.style.display = "block";
+                                                                      };
+                                                                      // Closing the Modal
+                                                                      var thisClose = closeSpan[i];
+                                                                      thisClose.onclick = function() {
+                                                                        var thisModal = document.getElementById(this.dataset.modal); //A higher-scoped version of this doesn't work
+                                                                        thisModal.style.display = "none";
+                                                                        };
+                                                                    }
+                                                                </script>
+
+                                                                <!-- Description -->
+                                                                <div class="title">
+                                                                    <h6 class="uppercase mb0">{{ person }} </h6>
+                                                                    <h7> {{ members[person]['title'] }} </h7>
+                                                                    <div class="bio-icon">
+                                                                        <span> {{ members[person]['email'] }} </span> <br/>
+                                                                        {% if not members[person]['personal'] == '' %}
+                                                                            <span><a href="{{ members[person]['personal'] }}" target="_blank"><i class="ti-world"></i></a></span>
+                                                                        {% endif %}
+                                                                        {% if not members[person]['github'] == '' %}
+                                                                            <span><a href="{{ members[person]['github'] }}" target="_blank"><i class="ti-github"></i></a></span>
+                                                                        {% endif %}
+                                                                        {% if not members[person]['linkedin'] == '' %}
+                                                                            <span><a href="{{ members[person]['linkedin'] }}" target="_blank"><i class="ti-linkedin"></i></a></span>
+                                                                        {% endif %}
+                                                                    </div>
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+
+                                                {% endfor %}
+                                                </div>
+ 
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="tab-title">
+                                    <span>Mentees</span>
+                                </div>
+                                <div class="tab-content">
+                                    <div class="container" style="padding-top: 20px; text-align: left">
+                                      <p class='lead'>{{ lab['content']['mentees']['text'] | safe }}</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="tab-title">
+                                    <span>Mentors</span>
+                                </div>
+                                <div class="tab-content">
+                                    <div class="container" style="padding-top: 20px; text-align: left">
+                                      <p class='lead'>{{ lab['content']['mentors']['text'] | safe }}</p>
+                                    </div>                                </div>
+                            </li>
+                            <li>
+                                <div class="tab-title">
+                                    <span>Advisors</span>
+                                </div>
+                                <div class="tab-content">
+                                    <div class="container" style="padding-top: 20px; text-align: left">
+                                      <p class='lead'>{{ lab['content']['advisors']['text'] | safe }}</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="tab-title">
+                                    <span>Projects</span>
+                                </div>
+                                <div class="tab-content">
+                                    <div class="container" style="padding-top: 20px; text-align: left">
+                                      <!-- <p class='lead'>{{ lab['content']['projects']['text'] | safe }}</p> -->
+                                      {% for year in lab['content']['projects']['years']|sort(reverse=True) %}
+                                        <b><h4>{{ year }}</h4></b>
+
+                                        {% for poster in lab['content']['projects']['years'][year]|sort %}
+                                          <a href="{{lab['content']['projects']['years'][year][poster]}}" target="_blank" style="font-size: 130%">{{poster}}</a>
+                                          <br>
+                                        {% endfor %}
+                                        
+                                        <br><br>
+                                      {% endfor %}
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="tab-title">
+                                    <span>Join!</span>
+                                </div>
+                                <div class="tab-content">
+                                    <div class="container" style="padding-top: 20px; text-align: left">
+                                      <p class='lead'>{{ lab['content']['join']['text'] | safe }}</p>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--end of button tabs-->
+                </div>
+            </div>
+      </div> <!-- end of lab content -->
+    </div>
+</div>
+
+
+
+<style>
+
+
+  .center-div {
+    display: flex;
+    justify-content: center;
+  }
+  .center-div > img {
+    height:300px;
+    width:300px;
+  }
+  .lab-title {
+    margin: 0px 50px;
+  }
+  .lab-content {
+    margin: 25px 50px;
+  }
+  .profile-img {
+    height: 240px;
+    max-width: 240px;
+    border-radius: 50%;
+    transition: 0.3s;
+  }
+  .database-circle {
+    height: 240px;
+    width: 240px;
+    border-radius: 50%;
+    transition: 0.3s;
+    background-color: #46535e;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .database-link {
+    color: #f2f2f2;
+    font-size: 24px;
+    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  .database-circle:hover {opacity: 0.5}
+  .profile-img:hover {opacity: 0.5}
+  .modal {
+    display: none; /* Hidden by default */
+    position: fixed; 
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; 
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  .modal-content {
+    background-color: #f2f2f2;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    width: 80%;
+  }
+  .group-photo {
+    display: block;
+    padding-bottom: 40px;
+  }
+  .close {
+    color: #808080;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .modal-img {
+    height: 240px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 240px;
+  }
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }
+  tr:nth-child(even){background-color: #f2f2f2;}
+  tr:hover {background-color: #ddd;}
+  table, th, td {
+     padding: 10px;
+     border: 1px solid black;
+}
+.slide {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: auto;
+}
+</style>
+
+<!-- script for slideshow
+ -->
+ <script>
+var slides = document.getElementsByClassName("slide");
+var n = 0;
+var first = true;
+
+var i;
+for (i = 1; i < slides.length; i++) {
+  slides[i].style.opacity = 0;
+}
+
+function nextSlide() {
+  if(first) {
+    first = false;
+    return;
+  }
+
+  var prev = n;
+  n = (n+1)%slides.length;
+  var opIn = 0; 
+  var opOut = 1; 
+  var timer = setInterval(function () {
+      if (opIn >= 1){
+          clearInterval(timer);
+      }
+      slides[prev].style.opacity = opOut;
+      opOut -= 0.01;
+      slides[n].style.opacity = opIn;
+      opIn += 0.01;
+  }, 15);
+}
+
+function auto() {
+  nextSlide();
+  setTimeout(auto, 5000);
+}
+
+auto();
+</script>
+
+{% endblock %}
