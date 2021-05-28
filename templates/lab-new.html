@@ -177,6 +177,7 @@
                                 </div>
                                 <div class="tab-content">
                                     <div class="container" style="padding-top: 20px; text-align: left">
+                                      <p class='lead'>{{ lab['content']['projects']['text'] | safe }}</p>
                                       <!-- <p class='lead'>{{ lab['content']['projects']['text'] | safe }}</p> -->
                                       {% for year in lab['content']['projects']['years']|sort(reverse=True) %}
                                         <b><h4>{{ year }}</h4></b>

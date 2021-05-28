@@ -82,18 +82,22 @@ labs = {
                     "title": u"Lab Overview",
                     "slides": ["/static/img/physics_slides/muon.jpg", "/static/img/physics_slides/symposium.jpg", "/static/img/physics_slides/lbl_als_1.jpg", "/static/img/physics_slides/mixing.jpg"],
                     "text": u""" 
+                        <b style='font-size:150%;'> About Us </b>
+                        <br><br>
                         The Undergraduate Lab at Berkeley, Physics and Astronomy Division is a DeCal that aims to make the transition into undergraduate research as seamless as possible. <b>We believe that research should be accessible to all undergrads within the Physics and Astronomy Departments</b> despite significant barriers to entry for students traditionally underrepresented in academia or without a strong research background.
                         <br><br>
                         Under the guidance of experienced undergraduate mentors and graduate/postdoc advisors, groups of mentees complete a year long research project on a topic of their interest. During this process, our staff will help mentees are able to make sense of the current literature, isolate a feasible project, and execute projects on a reasonable timescale. In addition, mentors serve as role-models to help demystify the research process.
                         <br><br>
                         Our program, extends beyond project work. Students attend weekly workshops on essential research skills such as programming, statistics, etc. At the end of our program, students will have gained basic research skills often desired by research labs and will have demonstrated these skills in the process of completing a project of their own from start-to-finish.
                         <br><br>
-                        Check out the other tabs on this page to learn how you can get involved as a mentee, mentor, or graduate/postdoc advisor! Please contact us at <a href="mailto:physicslab@ulab.berkeley.edu">physicslab@ulab.berkeley.edu</a> with any questions or concerns!                         
+                        Contact us at <a href="mailto:physicslab@ulab.berkeley.edu">physicslab@ulab.berkeley.edu</a> with any questions or concerns!                         
                         """
                 },
                 "join": {
                     "title": u"Join Us!",
                     "text": """
+                        <b style='font-size:150%;'> Join Us! </b>
+                        <br><br>
                         <b>ULAB Physics and Astronomy is a DeCal and a full-year committment. We meet Tu/Th 7-8 PM.</b> Mentee applications are available at the start of the fall semester and mentor applications open the summer before. Mentee/mentor applications close around the second week of the fall semester. Opportunities for graduate students, postdocs, and faculty to get involved are available year-round!
                         <br><br><br>
                         <b>Mentees:</b> Check out the mentees tab to learn more about our program! 
@@ -113,31 +117,34 @@ labs = {
                 "mentees":{
                     "title": "Mentees Info",
                     "text": u"""
+                        <b style='font-size:150%;'> Mentee Information </b>
+                        <br><br>
                         ULAB is a full-year DeCal sponsored by Prof. Dan Kasen. We meet Tuesday/Thursday 7-8 PM in-person!
                         <br><br>
-                        Fall semester is dedicated to creating a research proposal. Students are split into groups and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. Mentees return in the spring semester to implement their project! ULAB provides funding, space, and graduate/postdoc advisors to assist mentees during this process. The semester culminates in a poster session open to the physics and astronomy departments!
+                        <b>Timeline: </b>fall semester is dedicated to creating a research proposal. Students are split into groups and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. Mentees return in the spring semester to implement their project! ULAB provides funding, space, and graduate/postdoc advisors to assist mentees during this process. The semester culminates in a poster session open to the physics and astronomy departments!
                         <br><br>
                         In addition to weekly groups meetings, ULAB hosts weekly workshops with particular emphasis on Python and other basic research skills. The time commitment is roughly 2-3 hrs of in-person meetings and 2-3 hrs of individual work per week. Please see our syllabus for more detailed information!
+                        <br><br>
+                        <b style='font-size:150%;'> QnA</b>
                     """
                 },
                 "mentors":{
                     "title": "Mentor Info",
                     "text": u"""
-                    
-                        Mentor INFO
-
+                        <b style='font-size:150%;'> Mentor Information </b>
+                        We're editing this site, hang tight!
                     """
                 },
                 "advisors":{
                     "title": "Advisors Info",
                     "text": u"""
-                    
-                        Advisors INFO
-
+                        <b style='font-size:150%;'> Advisor Information </b>
+                        We're editing this site, hang tight!
                     """
                 },
                 "projects":{
                     "title": "Projects",
+                    "text": "<b style='font-size:150%;'> Past Projects </b>",                
                     "years": {
                         '2020-2021': {
                             u'1. Measuring Cosmic Distances using Gravitational Waves': "/static/doc/posters/s211.pdf",
