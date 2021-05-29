@@ -90,7 +90,7 @@ labs = {
                         <br><br>
                         Our program, extends beyond project work. Students attend weekly workshops on essential research skills such as programming, statistics, etc. At the end of our program, students will have gained basic research skills often desired by research labs and will have demonstrated these skills in the process of completing a project of their own from start-to-finish.
                         <br><br>
-                        Contact us at <a href="mailto:physicslab@ulab.berkeley.edu">physicslab@ulab.berkeley.edu</a> with any questions or concerns!                         
+                        Contact us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a> with any questions or concerns!                         
                         """
                 },
                 "join": {
@@ -98,16 +98,16 @@ labs = {
                     "text": """
                         <b style='font-size:150%;'> Join Us! </b>
                         <br><br>
-                        <b>ULAB Physics and Astronomy is a DeCal and a full-year committment. We meet Tu/Th 7-8 PM.</b> Mentee applications are available at the start of the fall semester and mentor applications open the summer before. Mentee/mentor applications close around the second week of the fall semester. Opportunities for graduate students, postdocs, and faculty to get involved are available year-round!
+                        <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Tu/Th 7-8 PM.</b> Mentee applications are available at the start of the fall semester and mentor applications open the summer before. Mentee/mentor applications close around the second week of the fall semester.
                         <br><br><br>
-                        <b>Mentees:</b> Check out the mentees tab to learn more about our program! 
+                        <b>Mentees:</b>
                         The mentee application is currently closed.
                         <br><br>
-                        <b>Mentors:</b> Check out the mentors tab to learn more about the position! 
+                        <b>Mentors:</b>
                         <!-- The mentor application is currently closed. -->
                         The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>here</a> and will close TBD.
                         <br><br>
-                        <b>Graduate Students/Postdocs:</b> Please check out the mentees tab to learn more about our program!
+                        <b>Graduate Students/Postdocs:</b>  Opportunities for graduate students, postdocs, and faculty to get involved are available year-round! Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                     """
                     #     In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
                     #     <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Researcher Application </a> <br/>
@@ -119,7 +119,7 @@ labs = {
                     "text": u"""
                         <b style='font-size:150%;'> Mentee Information </b>
                         <br><br>
-                        ULAB is a full-year DeCal sponsored by Prof. Dan Kasen. We meet Tuesday/Thursday 7-8 PM in-person!
+                        ULAB is a 2-semester DeCal sponsored by Prof. Dan Kasen. We meet Tuesday/Thursday 7-8 PM in-person!
                         <br><br>
                         <b>Timeline: </b>fall semester is dedicated to creating a research proposal. Students are split into groups and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. Mentees return in the spring semester to implement their project! ULAB provides funding, space, and graduate/postdoc advisors to assist mentees during this process. The semester culminates in a poster session open to the physics and astronomy departments!
                         <br><br>
@@ -132,6 +132,8 @@ labs = {
                     "title": "Mentor Info",
                     "text": u"""
                         <b style='font-size:150%;'> Mentor Information </b>
+                        <br><br>
+                        <b style='font-size:150%;'> QnA</b>
                         We're editing this site, hang tight!
                     """
                 },
@@ -139,6 +141,8 @@ labs = {
                     "title": "Advisors Info",
                     "text": u"""
                         <b style='font-size:150%;'> Advisor Information </b>
+                        <br><br>
+                        <b style='font-size:150%;'> QnA</b>
                         We're editing this site, hang tight!
                     """
                 },

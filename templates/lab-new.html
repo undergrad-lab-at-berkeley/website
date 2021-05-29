@@ -35,6 +35,11 @@
                                   </div>
                                   {%endif%} 
                                     <p class='lead'>{{ lab['content']['overview']['text'] | safe }}</p>
+                                    <br>
+                                    <p> {{ lab['content']['calendar']['text'] | safe }} </p>
+                                    <div class="row center-div">
+                                      {{ lab['content']['calendar']['object'] | safe }}
+                                    </div>
                                 </div>
                             </li>
                             <li>
