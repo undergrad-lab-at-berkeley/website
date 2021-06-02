@@ -121,7 +121,9 @@ labs = {
                         <br><br>
                         ULAB is a 2-semester DeCal sponsored by Prof. Dan Kasen. We meet Tuesday/Thursday 7-8 PM in-person!
                         <br><br>
-                        <b>Timeline: </b>fall semester is dedicated to creating a research proposal. Students are split into groups of 3-5 and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. Mentees return in the spring semester to implement their project! ULAB provides funding, space, and graduate/postdoc advisors to assist mentees during this process. The semester culminates in a poster session open to the physics and astronomy departments!
+                        <b>Timeline: </b>fall semester is dedicated to creating a research proposal. Students are split into groups of 3-5 and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. 
+                        <br><br>
+                        Mentees return in the spring semester to implement their project! ULAB provides funding, space, and graduate/postdoc advisors to assist mentees during this process. The semester culminates in a poster session open to the physics and astronomy departments!
                         <br><br>
                         In addition to weekly groups meetings, ULAB hosts weekly workshops with particular emphasis on Python and other basic research skills. The time commitment is roughly 2-3 hrs of in-person meetings and 2-3 hrs of individual work per week. Please see our <a href="/static/doc/F20_ULAB_Syllabus__2_Unit.pdf">syllabus</a> for more detailed information!
                         <br><br>
