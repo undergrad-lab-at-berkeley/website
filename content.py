@@ -76,7 +76,7 @@ labs = {
             "full_name": u"Physics and Astronomy",
             "navbar": u"Physics",
             "status": "Active",
-            "members": ["Yi Zhu", "Katie Lamar", "Ronan Alam", "Aditya Sengupta", "Carrie Zuckerman", "Savannah Perez-Piel"],
+            "members": ["Yi Zhu", "Anmol Desai", "Rav Kaur", "Pablo Castano", "Carrie Zuckerman", "Dan Kasen"],
             "content": {
                 "overview": {
                     "title": u"Lab Overview",
@@ -84,7 +84,7 @@ labs = {
                     "text": u""" 
                         <b style='font-size:150%;'> About Us </b>
                         <br><br>
-                        The Undergraduate Lab at Berkeley, Physics and Astronomy Division is a DeCal that aims to make the transition into undergraduate research as seamless as possible. <b>We believe that research should be accessible to all undergrads within the Physics and Astronomy Departments</b> despite significant barriers to entry for students traditionally underrepresented in academia or without a strong research background.
+                        The Undergraduate Lab at Berkeley, Physics &#38; Astronomy Division is a DeCal that aims to make the transition into undergraduate research as seamless as possible. <b>We believe that research should be accessible to all undergrads within the Physics and Astronomy Departments</b> despite significant barriers to entry for students traditionally underrepresented in academia or without a strong research background.
                         <br><br>
                         Under the guidance of experienced undergraduate mentors and graduate/postdoc advisors, groups of mentees complete a year long research project on a topic of their interest. During this process, our staff will help mentees are able to make sense of the current literature, isolate a feasible project, and execute projects on a reasonable timescale. In addition, mentors serve as role-models to help demystify the research process.
                         <br><br>
@@ -98,7 +98,7 @@ labs = {
                     "text": """
                         <b style='font-size:150%;'> Join Us! </b>
                         <br><br>
-                        <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Tu/Th 7-8 PM.</b> Mentee applications are available at the start of the fall semester and mentor applications open the summer before. Mentee/mentor applications close around the second week of the fall semester.
+                        <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Tu/Th 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester.
                         <br><br><br>
                         <b>Mentees:</b>
                         The mentee application is currently closed.
@@ -121,11 +121,13 @@ labs = {
                         <br><br>
                         ULAB is a 2-semester DeCal sponsored by Prof. Dan Kasen. We meet Tuesday/Thursday 7-8 PM in-person!
                         <br><br>
-                        <b>Timeline: </b>fall semester is dedicated to creating a research proposal. Students are split into groups and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. Mentees return in the spring semester to implement their project! ULAB provides funding, space, and graduate/postdoc advisors to assist mentees during this process. The semester culminates in a poster session open to the physics and astronomy departments!
+                        <b>Timeline: </b>fall semester is dedicated to creating a research proposal. Students are split into groups of 3-5 and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. Mentees return in the spring semester to implement their project! ULAB provides funding, space, and graduate/postdoc advisors to assist mentees during this process. The semester culminates in a poster session open to the physics and astronomy departments!
                         <br><br>
-                        In addition to weekly groups meetings, ULAB hosts weekly workshops with particular emphasis on Python and other basic research skills. The time commitment is roughly 2-3 hrs of in-person meetings and 2-3 hrs of individual work per week. Please see our syllabus for more detailed information!
+                        In addition to weekly groups meetings, ULAB hosts weekly workshops with particular emphasis on Python and other basic research skills. The time commitment is roughly 2-3 hrs of in-person meetings and 2-3 hrs of individual work per week. Please see our <a href="/static/doc/F20_ULAB_Syllabus__2_Unit.pdf">syllabus</a> for more detailed information!
                         <br><br>
                         <b style='font-size:150%;'> QnA</b>
+                        <br><br>
+                        Hang tight, this page is being updated!
                     """
                 },
                 "mentors":{
@@ -133,8 +135,15 @@ labs = {
                     "text": u"""
                         <b style='font-size:150%;'> Mentor Information </b>
                         <br><br>
+                        Mentorship can be a very fruitful and rewarding experience for undergraduates with research experience. The primary job of the mentor is to meet weekly with their group of 3-5 mentees during the year-long process of conducting an independent research project. Mentors will lead discussions on research topics and guide their group through their research project.
+                        <br><br>
+                        Mentoring is a great way to building your resume, networking with researchers, gaining leadership experience, and explore a topic you're interested in!
+                        <br><br>
+                        The mentor position is a two-semester commitment. Mentors meet with their groups 1-2 hrs/week and generally spend an additional 1-2 hours outside of in-person meetings. We require that mentors be available Thursdays 7-8 PM and enroll in 2 research units (Astron. 198).
+                        <br><br>
                         <b style='font-size:150%;'> QnA</b>
-                        We're editing this site, hang tight!
+                        <br><br>
+                        We're editing this page, hang tight!
                     """
                 },
                 "advisors":{
@@ -143,7 +152,8 @@ labs = {
                         <b style='font-size:150%;'> Advisor Information </b>
                         <br><br>
                         <b style='font-size:150%;'> QnA</b>
-                        We're editing this site, hang tight!
+                        <br><br>
+                        We're editing this page, hang tight!
                     """
                 },
                 "projects":{

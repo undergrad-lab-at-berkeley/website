@@ -478,7 +478,7 @@ members = {
 		},
 		"Carrie Zuckerman": {
 			"title": "Senior Advisor",
-			"email": "carriezuckerman [at) berkeley.edu",
+			"email": "carriezuckerman@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
@@ -488,12 +488,52 @@ members = {
 		},
 		"Yi Zhu": {
 			"title": "Research Director",
-			"email": "yi.zhu [at) berkeley.edu",
+			"email": "yi.zhu@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "https://www.ocf.berkeley.edu/~yizhu/",
 			"img": "img/staff/yi_zhu.jpg",
+			"bio": ""
+		},
+		"Dan Kasen": {
+			"title": "Faculty Sponser",
+			"email": "",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/dan_kasen.jpg",
+			"bio": ""
+		},
+		"Anmol Desai": {
+			"title": "Lab Manager",
+			"email": "adesai@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/anmol_desai.jpg",
+			"bio": ""
+		},
+		"Rav Kaur": {
+			"title": "Lab Manager",
+			"email": "ravkaur@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/logos/logo_physics.png",
+			"bio": ""
+		},
+		"Pablo Castano": {
+			"title": "Lab Manager",
+			"email": "pcastano@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/logos/logo_physics.png",
 			"bio": ""
 		},
 		"Aditya Sengupta": {
