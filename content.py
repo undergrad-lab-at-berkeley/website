@@ -153,7 +153,7 @@ labs = {
                     "text": u"""
                         <b style='font-size:150%;'> Advisor Information </b>
                         <br><br>
-                        Graduate students and postdocs interested in supporting ULAB's mission are encouraged to become project advisors. Advisors serve to ensure scientific rigor, help determine the practically and scope of a project, and give general guidance on the direction of a project. The advising role requires 3-5 hours per semester. The format of advising differs by the semester.
+                        Graduate students and postdocs interested in supporting ULAB's mission are encouraged to become project advisors. Advisors serve to ensure scientific rigor, help determine the practically and scope of a project, and give general guidance on the direction of a project. The advising role is flexible and low-commitment: about 3-5 hours per semester. The format of advising differs by the semester.
                         <br><br>
                         <b>Fall semester</b>: during this time, groups research their areas of interest and devise a question they wish to explore. Advisors spend 1-2 hrs meeting with groups to discuss potential projects. Advisors will spend 1-2 hours reviewing project proposals that students have submitted.
                         <br><br>
