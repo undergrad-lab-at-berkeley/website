@@ -522,8 +522,8 @@ members = {
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
-			"personal": "",
-			"img": "img/logos/logo_physics.png",
+			"personal": "https://ravkaur20.wixsite.com/ravkaur",
+			"img": "img/staff/rav_kaur.jpg",
 			"bio": ""
 		},
 		"Pablo Castano": {

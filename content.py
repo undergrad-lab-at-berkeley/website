@@ -99,7 +99,7 @@ labs = {
                         <b style='font-size:150%;'> Join Us! </b>
                         <br><br>
                         <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Tu/Th 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester.
-                        <br><br><br>
+                        <br><br>
                         <b>Mentees:</b>
                         The mentee application is currently closed.
                         <br><br>
@@ -137,9 +137,9 @@ labs = {
                     "text": u"""
                         <b style='font-size:150%;'> Mentor Information </b>
                         <br><br>
-                        Mentorship can be a very fruitful and rewarding experience for undergraduates with research experience. The primary job of the mentor is to meet weekly with their group of 3-5 mentees during the year-long process of conducting an independent research project. Mentors will lead discussions on research topics and guide their group through their research project.
+                        Mentorship can be a very fruitful and rewarding experience for undergraduates with research experience. Mentors' primary job is to meet weekly with their group of 3-5 mentees during the year-long process of conducting an independent research project. Mentors will lead discussions on topics in their field and guide their group through their project.
                         <br><br>
-                        Mentoring is a great way to building your resume, networking with researchers, gaining leadership experience, and explore a topic you're interested in!
+                        Mentoring is a great way to build your resume, network with other researchers, gain leadership experience, and explore a topic you're interested in!
                         <br><br>
                         The mentor position is a two-semester commitment. Mentors meet with their groups 1-2 hrs/week and generally spend an additional 1-2 hours outside of in-person meetings. We require that mentors be available Thursdays 7-8 PM and enroll in 2 research units (Astron. 198).
                         <br><br>
@@ -152,6 +152,14 @@ labs = {
                     "title": "Advisors Info",
                     "text": u"""
                         <b style='font-size:150%;'> Advisor Information </b>
+                        <br><br>
+                        Graduate students and postdocs interested in supporting ULAB's mission are encouraged to become project advisors. Advisors serve to ensure scientific rigor, help determine the practically and scope of a project, and give general guidance on the direction of a project. The advising role requires 3-5 hours per semester. The format of advising differs by the semester.
+                        <br><br>
+                        <b>Fall semester</b>: during this time, groups research their areas of interest and devise a question they wish to explore. Advisors spend 1-2 hrs meeting with groups to discuss potential projects. Advisors will spend 1-2 hours reviewing project proposals that students have submitted.
+                        <br><br>
+                        <b>Spring semester</b>: groups will have finalized their research project and began conducting their experiments. Advisors will check-in periodically with an individual group every 3-4 weeks. 
+                        <br><br>
+                        Opportunities for advisors are available year-round. Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                         <br><br>
                         <b style='font-size:150%;'> QnA</b>
                         <br><br>
