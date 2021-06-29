@@ -204,13 +204,13 @@ members = {
 		},
 		"Cameron Fozi": {
 			"title": "CS Director",
-			"email": "____@berkeley.edu",
+			"email": "cameronfozi@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """TO BE UPDATED""",
-			"img": ""
+			"bio": """My name's Cameron, and I am a data science major. Aside from teaching people how to code and learning more about the intersections of data science, public health, and urban planning, I really enjoy reading, Spotify Discover playlists, biking, and Craigslist finds. Email me with questions, funny Nextdoor posts, or good music.""",
+			"img": "img/staff/CameronFozi.jpg"
 		},
 		"Jimin Oh": {
 			"title": "Lab Manager",
@@ -220,7 +220,7 @@ members = {
 			"github": "",
 			"personal": "",
 			"bio": """TO BE UPDATED""",
-			"img": ""
+			"img": "img/staff/JiminOh.jpg"
 		},
 		"Samantha Juang": {
 			"title": "Internal Outreach",
@@ -240,7 +240,7 @@ members = {
 			"github": "",
 			"personal": "",
 			"bio": """TO BE UPDATED""",
-			"img": ""
+			"img": "img/staff/AidaRaza.jpg"
 		},
 		"Taylor Worley": {
 			"title": "Mentor Coordinator / Editor-in-Chief",
