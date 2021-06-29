@@ -34,7 +34,7 @@ labs = {
                     "text": """
                         Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. </br>
                         <p></p>
-                        This year, we are following a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULAB executive team. Each group will get to pick studies in areas that interest them the most! This will also allow an opportunity for projects to be published! This year we will also have grad student support for all groups.
+                        This year, we are following a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULAB executive team and dedicated graduate students. Each group will get to pick studies in areas that interest them the most! This will also allow an opportunity for projects to be published! This year we will also have grad student support for all groups.
                         <p><p/>
                         Our projects this year involve social psychology, fMRI analyses, visual field cortices, language processing, and more. All projects will be published in a paper and poster series via UC eScholarship Open Access publishing.
                         """
@@ -48,7 +48,11 @@ labs = {
                 "join": {
                     "title": "Want to join us?",
                     "text": """
+<<<<<<< HEAD
                            Applications for mentors and mentees for the 2021-2022 year are out! They can be found at the following hyperlinks: <a href="http://bit.ly/ulabmentor21">Mentor Apps</a> and <a href="http://bit.ly/ulabmentee21">Mentee Apps</a>. Deadlines and details are provided on the application. Feel free to reach out to us for advice or to be added to our newsletter for research opportunities by emailing us at <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>.
+=======
+                           Applications for mentors and mentees for the 2021-2022 year are out! <a href="http://bit.ly/ulabmentor21">Mentor Apps</a> and <a href="http://bit.ly/ulabmentee21">Mentee Apps</a>. Deadlines and details are provided on the application. Feel free to reach out to us for advice or to be added to our newsletter for research opportunities by emailing us at <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
+>>>>>>> 96c9c40c3e7d4606701bc0701358e197c176b13e
                            """
                         # """
                         #We are currently looking to fill mentee postions for this semester, so if you would like to be considered for a role in our lab, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
