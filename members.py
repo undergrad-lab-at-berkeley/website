@@ -113,13 +113,13 @@ members = {
 		#     "img": "img/staff/rajanparikh.jpg"
 		# },
 		"Kunal Kapoor" : {
-			"title": "Lab Manager",
+			"title": "Research Director",
 			"email": "kkapoor1@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """Hey y'all! My name is Kunal, and I am a third year MCB Immunology and Public Health Major. I am currently in between finding research, with my interest being in immunology and infectious diseases. I am super excited to work with everyone this year on their projects, and hope to make ULAB an amazing experience!""",
+			"bio": """Hey y'all! My name is Kunal, and I am a senior studying MCB Immunology and Public Health Major. I am currently in between finding research, with my interest being infectious diseases. I am super excited to work with everyone this year on their projects, and hope to make ULAB an amazing experience!""",
 			"img": "img/staff/kunalkapoor.jpg",
 		},
 		"Lexi Zhou": {
@@ -183,7 +183,7 @@ members = {
 			"img": "img/staff/stanleyvonehrensteinsmith.jpg"
 		},
 		"Amanda Felty": {
-			"title": "Social Chair",
+			"title": "External Outreach",
 			"email": "afelty0320@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
@@ -202,6 +202,58 @@ members = {
 			"bio": """I am currently a second year, majoring in Nutritional Sciences and minoring in Global Public Health. I joined ULAB as a mentee last year, and I am excited to work on more projects this year as a part of the board! In my free time, I love to spend time with my friends, travel, and try new foods.""",
 			"img": "img/staff/shreyaramasubban.jpg"
 		},
+		"Cameron Fozi": {
+			"title": "CS Director",
+			"email": "____@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """TO BE UPDATED""",
+			"img": ""
+		},
+		"Jimin Oh": {
+			"title": "Lab Manager",
+			"email": "____@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """TO BE UPDATED""",
+			"img": ""
+		},
+		"Samantha Juang": {
+			"title": "Internal Outreach",
+			"email": "____@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """TO BE UPDATED""",
+			"img": ""
+		},
+		"Aida Raza": {
+			"title": "Mentor Coordinator / Editor-in-Chief",
+			"email": "____@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """TO BE UPDATED""",
+			"img": ""
+		},
+		"Taylor Worley": {
+			"title": "Mentor Coordinator / Editor-in-Chief",
+			"email": "____@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """TO BE UPDATED""",
+			"img": ""
+		},
+
+
 		# "Josephine Widjaja": {
 		#     "title": "Editor-in-Chief",
 		#     "email": "josephine.widjaja@berkeley.edu",
