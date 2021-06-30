@@ -224,17 +224,17 @@ members = {
 		},
 		"Samantha Juang": {
 			"title": "Internal Outreach",
-			"email": "____@berkeley.edu",
+			"email": "samanthajuang@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """TO BE UPDATED""",
-			"img": ""
+			"bio": """Hey everyone! My name is Samantha, and I am a third year majoring in Integrative Biology. I was a ULAB mentee last year, and had such an amazing experience, so I’m excited to be on board this year to help continue all of the great work ULAB does. I hope to pursue a career in medicine in the future, and in my free time I like to swim, rock climb, and paint/draw. """,
+			"img": "img/staff/SamanthaJuang.JPG"
 		},
 		"Aida Raza": {
 			"title": "Mentor Coordinator / Editor-in-Chief",
-			"email": "____@berkeley.edu",
+			"email": "aidaraza@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
