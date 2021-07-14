@@ -214,12 +214,12 @@ members = {
 		},
 		"Jimin Oh": {
 			"title": "Lab Manager",
-			"email": "____@berkeley.edu",
+			"email": "jiminoh0605@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """TO BE UPDATED""",
+			"bio": """My name is Jimin and I am a third year majoring in psychology and cognitive science. I currently work as a Marketing, Outreach, and Volunteer Coordination intern at the Gender Equity Resource Center and am fascinated with the intersection between social psychology and psychopathology. In my free time I like to draw, tag my friends in memes, and make small embroidered friends. I had a great experience as a mentee last year and hope I can help make all of your experiences great as well!""",
 			"img": "img/staff/JiminOh.jpg"
 		},
 		"Samantha Juang": {
@@ -244,12 +244,12 @@ members = {
 		},
 		"Taylor Worley": {
 			"title": "Mentor Coordinator / Editor-in-Chief",
-			"email": "____@berkeley.edu",
+			"email": "taylor.chelan@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """TO BE UPDATED""",
+			"bio": """I am a third year MCB:Neurobiology major with hopes for medical school currently studying in the Barcellos Epidemiology lab, co-president of Catalyst and an EBoard member of GlobeMed. I have been in ULAB as a mentor and mentee helping build my resume, confidence and excitement for research. I am thrilled to be on this team and have a chance to help others follow their research passions!""",
 			"img": ""
 		},
 
