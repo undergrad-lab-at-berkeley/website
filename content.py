@@ -126,8 +126,12 @@ labs = {
                         Mentees return in the spring semester to implement their project! ULAB provides funding, space, and graduate/postdoc advisors to assist mentees during this process. The semester culminates in a poster session open to the physics and astronomy departments!
                         <br><br>
                         In addition to weekly groups meetings, ULAB hosts weekly workshops with particular emphasis on Python and other basic research skills. The time commitment is roughly 2-3 hrs of in-person meetings and 2-3 hrs of individual work per week. Please see our <a href="/static/doc/F20_ULAB_Syllabus__2_Unit.pdf">syllabus</a> for more detailed information!
-                        <br><br>
+                        <br><br><br>
                         <b style='font-size:150%;'> QnA</b>
+                        <br><br>
+                        <b>Q: What are the prerequisites for ULAB?</b>
+                        <br>
+                        None! We do not expect students to have prior research or programming experience. 
                         <br><br>
                         Hang tight, this page is being updated!
                     """
@@ -145,6 +149,8 @@ labs = {
                         <br><br>
                         <b style='font-size:150%;'> QnA</b>
                         <br><br>
+
+
                         We're editing this page, hang tight!
                     """
                 },
