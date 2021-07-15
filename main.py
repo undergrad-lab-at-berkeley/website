@@ -1,3 +1,6 @@
+# encoding=utf8
+# -*- coding: utf-8 -*-
+
 import os
 from flask import Flask, render_template, url_for, redirect, request
 from flask import abort
