@@ -1,6 +1,3 @@
-# encoding=utf8
-# -*- coding: utf-8 -*-
-
 # # Given the string LAB, pulls all of the jobs (uncategorized) from that lab in the LABS dict. Returns a dict
 # def get_lab_jobs(lab):
 #     output = {}
@@ -26,7 +23,8 @@ labs = {
             "full_name": u"Psychology and Cognitive Sciences",
             "navbar": u"Cog_Sci",
             "status": "Active",
-            "members": ["Kunal Kapoor", "Jimin Oh", "Lexi Zhou", "Amanda Felty", "Samantha Juang", "Cameron Fozi", "Aida Raza", "Taylor Worley", "Shreya Ramasubban"],
+            "members": [],
+            # "members": ["Kunal Kapoor", "Jimin Oh", "Lexi Zhou", "Amanda Felty", "Samantha Juang", "Cameron Fozi", "Aida Raza", "Taylor Worley", "Shreya Ramasubban"],
             "content": {
                 "overview": {
                     "group_photo": u"/static/img/staff/CogSci_Group_Photo.jpg",
