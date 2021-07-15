@@ -113,13 +113,13 @@ members = {
 		#     "img": "img/staff/rajanparikh.jpg"
 		# },
 		"Kunal Kapoor" : {
-			"title": "Lab Manager",
+			"title": "Research Director",
 			"email": "kkapoor1@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """Hey y'all! My name is Kunal, and I am a third year MCB Immunology and Public Health Major. I am currently in between finding research, with my interest being in immunology and infectious diseases. I am super excited to work with everyone this year on their projects, and hope to make ULAB an amazing experience!""",
+			"bio": """Hey y'all! My name is Kunal, and I am a senior studying MCB Immunology and Public Health Major. I am currently in between finding research, with my interest being infectious diseases. I am super excited to work with everyone this year on their projects, and hope to make ULAB an amazing experience!""",
 			"img": "img/staff/kunalkapoor.jpg",
 		},
 		"Lexi Zhou": {
@@ -183,7 +183,7 @@ members = {
 			"img": "img/staff/stanleyvonehrensteinsmith.jpg"
 		},
 		"Amanda Felty": {
-			"title": "Social Chair",
+			"title": "External Outreach",
 			"email": "afelty0320@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
@@ -202,6 +202,58 @@ members = {
 			"bio": """I am currently a second year, majoring in Nutritional Sciences and minoring in Global Public Health. I joined ULAB as a mentee last year, and I am excited to work on more projects this year as a part of the board! In my free time, I love to spend time with my friends, travel, and try new foods.""",
 			"img": "img/staff/shreyaramasubban.jpg"
 		},
+		"Cameron Fozi": {
+			"title": "CS Director",
+			"email": "cameronfozi@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """My name's Cameron, and I am a data science major. Aside from teaching people how to code and learning more about the intersections of data science, public health, and urban planning, I really enjoy reading, Spotify Discover playlists, biking, and Craigslist finds. Email me with questions, funny Nextdoor posts, or good music.""",
+			"img": "img/staff/CameronFozi.jpg"
+		},
+		"Jimin Oh": {
+			"title": "Lab Manager",
+			"email": "jiminoh0605@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """My name is Jimin and I am a third year majoring in psychology and cognitive science. I currently work as a Marketing, Outreach, and Volunteer Coordination intern at the Gender Equity Resource Center and am fascinated with the intersection between social psychology and psychopathology. In my free time I like to draw, tag my friends in memes, and make small embroidered friends. I had a great experience as a mentee last year and hope I can help make all of your experiences great as well!""",
+			"img": "img/staff/JiminOh.jpg"
+		},
+		"Samantha Juang": {
+			"title": "Internal Outreach",
+			"email": "samanthajuang@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """Hey everyone! My name is Samantha, and I am a third year majoring in Integrative Biology. I was a ULAB mentee last year, and had such an amazing experience, so I’m excited to be on board this year to help continue all of the great work ULAB does. I hope to pursue a career in medicine in the future, and in my free time I like to swim, rock climb, and paint/draw. """,
+			"img": "img/staff/SamanthaJuang.JPG"
+		},
+		"Aida Raza": {
+			"title": "Mentor Coordinator / Editor-in-Chief",
+			"email": "aidaraza@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """TO BE UPDATED""",
+			"img": "img/staff/AidaRaza.jpg"
+		},
+		"Taylor Worley": {
+			"title": "Mentor Coordinator / Editor-in-Chief",
+			"email": "taylor.chelan@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """I am a third year MCB:Neurobiology major with hopes for medical school currently studying in the Barcellos Epidemiology lab, co-president of Catalyst and an EBoard member of GlobeMed. I have been in ULAB as a mentor and mentee helping build my resume, confidence and excitement for research. I am thrilled to be on this team and have a chance to help others follow their research passions!""",
+			"img": ""
+		},
+
+
 		# "Josephine Widjaja": {
 		#     "title": "Editor-in-Chief",
 		#     "email": "josephine.widjaja@berkeley.edu",

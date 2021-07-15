@@ -26,7 +26,7 @@ labs = {
             "full_name": u"Psychology and Cognitive Sciences",
             "navbar": u"Cog_Sci",
             "status": "Active",
-            "members": ["Shreeya Garg", "Kunal Kapoor", "Lexi Zhou", "Arushi Sahay", "Ashish Ramesh", "Sharon Binoy", "Stanley von Ehrenstein-Smith", "Amanda Felty", "Shreya Ramasubban"],
+            "members": ["Kunal Kapoor", "Jimin Oh", "Lexi Zhou", "Amanda Felty", "Samantha Juang", "Cameron Fozi", "Aida Raza", "Taylor Worley", "Shreya Ramasubban"],
             "content": {
                 "overview": {
                     "group_photo": u"/static/img/staff/CogSci_Group_Photo.jpg",
@@ -34,31 +34,27 @@ labs = {
                     "text": """
                         Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. </br>
                         <p></p>
-                        This year, we are following a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULAB executive team. Each group will get to pick studies in areas that interest them the most! This will also allow an opportunity for projects to be published! This year we will also have grad student support for all groups.
+                        This year, we are following a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULAB executive team and dedicated graduate students. Each group will get to pick studies in areas that interest them the most! This will also allow an opportunity for projects to be published!
                         <p><p/>
-                        Our projects this year involve social psychology, fMRI analyses, visual field cortices, language processing, and more. All projects will be published in a paper and poster series via UC eScholarship Open Access publishing.
+                        Our projects this year involve social psychology, fMRI analyses, visual field cortices, language processing, among others. All projects will be published in a paper and poster series via UC eScholarship Open Access publishing. Posters will be presented to notable Berkeley faculty. This will certainly aid in getting on-campus research.
+                        <p><p/>
+                        Our Sponsors: The <a href="http://www.wheelerlabs.berkeley.edu">Wheeler Labs</a> is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
                         """
                 },
                 "sponsor": {
-                    "title": "Sponsored by Wheeler LABS (Laboratory for Advanced Brain Studies)",
+                    "title": "Want to join us?",
                     "text": """
-                        The Wheeler LABS (<a href="http://www.wheelerlabs.berkeley.edu">http://www.wheelerlabs.berkeley.edu</a>) is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
+                        Applications for mentors and mentees for the 2021-2022 year are out! They can be found at the following hyperlinks: <a href="http://bit.ly/ulabmentor21">Mentor Apps</a> and <a href="http://bit.ly/ulabmentee21">Mentee Apps</a>. Deadlines and details are provided on the applications. Feel free to reach out to us for advice or to be added to our newsletter for research opportunities by emailing us at <a href="cogsci@ulab.berkeley.edu">cogsci@ulab.berkeley.edu</a>.
                         """
                 },
                 "join": {
-                    "title": "Want to join us?",
-                    "text": """
-                           Unfortunately, applications have closed and we have already filled all of our positions for the current semester. Feel free to reach out to us for advice or to be added to our newsletter for research opportunities by emailing us at <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. You can also check out and complete the modules linked below! <br/>
-                           """
-                        # """
-                        #We are currently looking to fill mentee postions for this semester, so if you would like to be considered for a role in our lab, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email <a href="cogsci.ulab@gmail.com">cogsci.ulab@gmail.com</a>. <br/>
-                        #<!-- a href="https://forms.gle/rkPKmMzYx9AonZFCA" -->Mentor Application: <b>Closed</b> <br/>
-                        #<a href="https://forms.gle/V5BgNGpXw65tqy1d6">Mentee Application</a> Due <b>Wednesday, September 9th at 11:59 PM</b>
-                        #"""
+                    "title": "Sign up for our newsletter here",
+                    "text": """Email us at <a href="cogsci@ulab.berkeley.edu">cogsci@ulab.berkeley.edu</a> to be added."""
+                
                 },
                 "calendar": {
-                    "title": u"Calendar",
-                    "text": u"""Here is a general timeline for our lab during the Fall Semester. Exact days and times are subject to change.""",
+                    "title": u"ULab Division Calendar",
+                    "text": u"""This calendar has all of the events and deadlines for the year. Exact days and times are subject to change.""",
                     "object": """<iframe src="https://calendar.google.com/calendar/embed?src=cogsci.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
                 },
                 "database": {
