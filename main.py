@@ -1,6 +1,6 @@
 # encoding=utf8
 # -*- coding: utf-8 -*-
-
+from __future__ import print_function
 import os
 from flask import Flask, render_template, url_for, redirect, request
 from flask import abort
@@ -8,7 +8,6 @@ from members import members
 import content
 import pdb
 import sys
-from __future__ import print_function
 # from flask_table import Table, Col, LinkCol
 
 app = Flask(__name__)
