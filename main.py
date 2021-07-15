@@ -8,6 +8,7 @@ from members import members
 import content
 import pdb
 import sys
+from __future__ import print_function
 # from flask_table import Table, Col, LinkCol
 
 app = Flask(__name__)
