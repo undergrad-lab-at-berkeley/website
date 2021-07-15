@@ -7,6 +7,7 @@ from flask import abort
 from members import members
 import content
 import pdb
+import sys
 # from flask_table import Table, Col, LinkCol
 
 app = Flask(__name__)
@@ -30,6 +31,7 @@ for member in members:
 
 @app.route("/labs/<name>")
 def lab(name=None):
+    print('test', file=sys.stdout)
     if name in content.labs.keys():
         # if "table" in content.labs[name]["content"]:
         #     items = [Item('Name1', 'Description1', 'google.com'),
