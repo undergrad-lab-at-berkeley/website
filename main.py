@@ -31,7 +31,7 @@ for member in members:
 
 @app.route("/labs/<name>")
 def lab(name=None):
-    print('test', file=sys.stdout)
+    print(content.labs.keys(), file=sys.stdout)
     if name in content.labs.keys():
         # if "table" in content.labs[name]["content"]:
         #     items = [Item('Name1', 'Description1', 'google.com'),
