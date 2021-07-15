@@ -1,13 +1,11 @@
 # encoding=utf8
 # -*- coding: utf-8 -*-
-from __future__ import print_function
 import os
 from flask import Flask, render_template, url_for, redirect, request
 from flask import abort
 from members import members
 import content
 import pdb
-import sys
 # from flask_table import Table, Col, LinkCol
 
 app = Flask(__name__)
@@ -31,7 +29,6 @@ for member in members:
 
 @app.route("/labs/<name>")
 def lab(name=None):
-    print(content.labs.keys(), file=sys.stdout)
     if name in content.labs.keys():
         # if "table" in content.labs[name]["content"]:
         #     items = [Item('Name1', 'Description1', 'google.com'),
