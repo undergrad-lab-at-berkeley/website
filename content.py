@@ -26,8 +26,7 @@ labs = {
             "full_name": u"Psychology and Cognitive Sciences",
             "navbar": u"Cog_Sci",
             "status": "Active",
-            "members": [],
-            # "members": ["Kunal Kapoor", "Jimin Oh", "Lexi Zhou", "Amanda Felty", "Samantha Juang", "Cameron Fozi", "Aida Raza", "Taylor Worley", "Shreya Ramasubban"],
+            "members": ["Kunal Kapoor", "Jimin Oh", "Lexi Zhou", "Amanda Felty", "Samantha Juang", "Cameron Fozi", "Aida Raza", "Taylor Worley", "Shreya Ramasubban"],
             "content": {
                 "overview": {
                     "group_photo": u"/static/img/staff/CogSci_Group_Photo.jpg",
