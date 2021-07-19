@@ -227,7 +227,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """I am a third-year majoring in Integrative Biology. I was a ULab mentee last year, and had such an amazing experience, so I’m excited to be on the ULab Board of Directors this year to help continue all of the great work ULab does. I hope to pursue a career in medicine in the future. In my free time, I like to swim, rock climb, and paint/draw.""",
+			"bio": """I am a third-year majoring in Integrative Biology. I was a ULab mentee last year, and had such an amazing experience, so I am excited to be on the ULab Board of Directors this year to help continue all of the great work ULab does. I hope to pursue a career in medicine in the future. In my free time, I like to swim, rock climb, and paint/draw.""",
 			"img": "img/staff/SamanthaJuang.JPG"
 		},
 		"Aida Raza": {
