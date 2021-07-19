@@ -117,7 +117,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """Hey y'all! My name is Kunal, and I am a senior studying MCB Immunology and Public Health Major. I am currently in between finding research, with my interest being infectious diseases. I am super excited to work with everyone this year on their projects, and hope to make ULAB an amazing experience!""",
+			"bio": """Hey y'all! My name is Kunal, and I am a senior studying MCB Immunology and Public Health Major. I am currently in between finding research, with my interest being infectious diseases. I am super excited to work with everyone this year on their projects and hope to make ULab an amazing experience!""",
 			"img": "img/staff/kunalkapoor.jpg",
 		},
 		"Lexi Zhou": {
@@ -127,7 +127,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """My name is Lexi and I am a third year Cognitive Science and MCB major. My academic interest for now focuses on the evolution of the human brain and how some of the unique human capabilities play a role in it (e.g language). I am excited for all the great research ideas from all of you and an inspiring intellectual community that ULAB aims to foster.""",
+			"bio": """My name is Lexi and I am a fourth-year Cognitive Science and MCB major. My academic interest for now focuses on the evolution of the human brain and how some of the unique human capabilities play a role in it (e.g language). I am excited for all the great research ideas from all of you and an inspiring intellectual community that ULab aims to foster.""",
 			"img": "img/staff/lexizhou.jpg"
 		},
 		"Ashish Ramesh": {
@@ -187,7 +187,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """Hello everyone! I am a third year at Cal, majoring in Nutritional Science. I joined ULAB as a mentee last year and am thrilled to contribute to this organization as a Social Chair. I am also currently a peer advisor at the Career Center. In the future, I plan on pursuing a career in medicine and hope to help people achieve a healthier lifestyle through proper nutrition. Some hobbies of mine include traveling, baking, hiking, and playing the piano.""",
+			"bio": """Hello everyone! I am a third-year at Cal, majoring in Nutritional Science. I joined ULAB as a mentee last year and am thrilled to contribute to this organization as a Social Chair. I am also currently a peer advisor at the Career Center. In the future, I plan on pursuing a career in medicine and hope to help people achieve a healthier lifestyle through proper nutrition. Some hobbies of mine include traveling, baking, hiking, and playing the piano.""",
 			"img": "img/staff/amandafelty.jpg"
 		},
 		"Shreya Ramasubban": {
@@ -197,7 +197,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """I am currently a second year, majoring in Nutritional Sciences and minoring in Global Public Health. I joined ULAB as a mentee last year, and I am excited to work on more projects this year as a part of the board! In my free time, I love to spend time with my friends, travel, and try new foods.""",
+			"bio": """I am currently a third-year majoring in Nutritional Sciences and minoring in Global Public Health. I joined ULab as a mentee my freshman year, and it has been a great experience working on more projects as a part of the ULab Board of Directors! In my free time, I love to spend time with my friends, travel, bake and try new foods.""",
 			"img": "img/staff/shreyaramasubban.jpg"
 		},
 		"Cameron Fozi": {
@@ -207,7 +207,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """My name's Cameron, and I am a data science major. Aside from teaching people how to code and learning more about the intersections of data science, public health, and urban planning, I really enjoy reading, Spotify Discover playlists, biking, and Craigslist finds. Email me with questions, funny Nextdoor posts, or good music.""",
+			"bio": """I am a data science major seeking a simultaneous degree in urban studies from CED. I enjoy reading, Spotify Discover playlists, biking and Craigslist finds. Email me with questions, funny Nextdoor posts or good music.""",
 			"img": "img/staff/CameronFozi.jpg"
 		},
 		"Jimin Oh": {
@@ -217,7 +217,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """My name is Jimin and I am a third year majoring in psychology and cognitive science. I currently work as a Marketing, Outreach, and Volunteer Coordination intern at the Gender Equity Resource Center and am fascinated with the intersection between social psychology and psychopathology. In my free time I like to draw, tag my friends in memes, and make small embroidered friends. I had a great experience as a mentee last year and hope I can help make all of your experiences great as well!""",
+			"bio": """I am a third-year majoring in psychology and cognitive science. I currently work as a Marketing, Outreach and Volunteer Coordination intern at the Gender Equity Resource Center and am fascinated with the intersection between social psychology and psychopathology. In my free time, I like to draw, tag my friends in memes and make small embroidered friends. I had a great experience as a mentee last year and hope I can help make all of your experiences great as well!""",
 			"img": "img/staff/JiminOh.jpg"
 		},
 		"Samantha Juang": {
@@ -227,7 +227,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": '',
+			"bio": """I am a third-year majoring in Integrative Biology. I was a ULab mentee last year, and had such an amazing experience, so I’m excited to be on the ULab Board of Directors this year to help continue all of the great work ULab does. I hope to pursue a career in medicine in the future. In my free time, I like to swim, rock climb, and paint/draw.""",
 			"img": "img/staff/SamanthaJuang.JPG"
 		},
 		"Aida Raza": {
@@ -247,7 +247,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """I am a third year MCB:Neurobiology major with hopes for medical school currently studying in the Barcellos Epidemiology lab, co-president of Catalyst and an EBoard member of GlobeMed. I have been in ULAB as a mentor and mentee helping build my resume, confidence and excitement for research. I am thrilled to be on this team and have a chance to help others follow their research passions!""",
+			"bio": """I am a third-year MCB Neurobiology major with hopes for medical school. I am studying in the Barcellos Epidemiology lab and serve as co-president of Catalyst and an EBoard member of GlobeMed. I have been in ULab as a mentor and mentee helping build my resume, confidence and excitement for research. I am thrilled to be on this team and have a chance to help others follow their research passions!""",
 			"img": ""
 		},
 

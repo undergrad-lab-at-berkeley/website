@@ -34,9 +34,9 @@ labs = {
                     "text": """
                         Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. </br>
                         <p></p>
-                        This year, we are following a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULAB executive team and dedicated graduate students. Each group will get to pick studies in areas that interest them the most! This will also allow an opportunity for projects to be published!
+                        This year, we are following a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULab Board of Directors and dedicated graduate students. Each group will get to pick studies in areas that interest them the most. This will also allow an opportunity for projects to be published!
                         <p><p/>
-                        Our projects this year involve social psychology, fMRI analyses, visual field cortices, language processing, among others. All projects will be published in a paper and poster series via UC eScholarship Open Access publishing. Posters will be presented to notable Berkeley faculty. This will certainly aid in getting on-campus research.
+                        Our projects this year involve social psychology, fMRI analyses, visual field cortices, language processing, among others. All projects will be published in a paper and poster series via UC eScholarship Open Access publishing. Posters will be presented to notable UC Berkeley faculty. This will certainly aid in getting on-campus research.
                         <p><p/>
                         Our Sponsors: The <a href="http://www.wheelerlabs.berkeley.edu">Wheeler Labs</a> is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
                         """
@@ -62,6 +62,8 @@ labs = {
                 },
                 "modules": {
                     "link": "https://docs.google.com/document/d/193iaqgP4M5JJXDcPtPC8S5vVd4Q7oHD6MZdzJp-AUPo/edit?usp=sharing"
+                },
+                "resources": {"https://drive.google.com/drive/folders/1H7nmUNhrPlhBdOhwsMN9PFK8DOolUcFe?usp=sharing"
                 }
             }
     },
