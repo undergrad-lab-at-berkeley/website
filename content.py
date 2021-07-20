@@ -44,7 +44,7 @@ labs = {
                 "sponsor": {
                     "title": "Want to join us?",
                     "text": """
-                        Applications for mentors and mentees for the 2021-2022 year are out! They can be found at the following hyperlinks: <a href="http://bit.ly/ulabmentor21">Mentor Apps</a> and <a href="http://bit.ly/ulabmentee21">Mentee Apps</a>. Deadlines and details are provided on the applications. Feel free to reach out to us for advice or to be added to our newsletter for research opportunities by emailing us at <a href="cogsci@ulab.berkeley.edu">cogsci@ulab.berkeley.edu</a>.
+                        Applications for mentors and mentees for the 2021-2022 year are out! They can be found at the following hyperlinks: <a href="http://bit.ly/ulabmentor21">Mentor Apps</a> and <a href="http://bit.ly/ulabmentee21">Mentee Apps</a>. Deadlines and details are provided on the applications. <br/>  <br/> Feel free to reach out to us for advice or to be added to our newsletter for research opportunities by emailing us at <a href="cogsci@ulab.berkeley.edu">cogsci@ulab.berkeley.edu</a>.
                         """
                 },
                 "join": {
@@ -55,7 +55,7 @@ labs = {
                 "calendar": {
                     "title": u"ULab Division Calendar",
                     "text": u"""This calendar has all of the events and deadlines for the year. Exact days and times are subject to change.""",
-                    "object": """<iframe src="https://calendar.google.com/calendar/embed?src=cogsci.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
+                    "object": u"""<iframe src="https://calendar.google.com/calendar/embed?src=cogsci.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
                 },
                 "database": {
                     "link": "https://drive.google.com/file/d/1N4Cipbns-FMjD4yefx97KDqVOObv2ulZ/view?usp=sharing"

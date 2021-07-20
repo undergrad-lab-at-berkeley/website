@@ -243,11 +243,11 @@ members = {
 		"Taylor Worley": {
 			"title": "Mentor Coordinator / Editor-in-Chief",
 			"email": "taylor.chelan@berkeley.edu",
-			"linkedin": "",
+			"linkedin": "https://www.linkedin.com/in/taylorworley/",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """I am a third-year MCB Neurobiology major with hopes for medical school. I am studying in the Barcellos Epidemiology lab and serve as co-president of Catalyst and an EBoard member of GlobeMed. I have been in ULab as a mentor and mentee helping build my resume, confidence and excitement for research. I am thrilled to be on this team and have a chance to help others follow their research passions!""",
+			"bio": """I am a third-year MCB Neurobiology major with hopes for medical school. I am studying in the Barcellos Epidemiology lab and serve as co-president of Catalyst and an EBoard member of GlobeMed. I have been in ULab as a mentor and mentee helping build my confidence and excitement for research. I am thrilled to be on this team and have a chance to help others follow their research passions!""",
 			"img": ""
 		},
 
