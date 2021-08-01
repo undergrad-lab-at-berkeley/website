@@ -573,7 +573,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "https://ravkaur20.wixsite.com/ravkaur",
-			"img": "img/staff/rav_kaur.jpg",
+			"img": "img/staff/rav_kaur.JPG",
 			"bio": ""
 		},
 		"Pablo Castano": {
