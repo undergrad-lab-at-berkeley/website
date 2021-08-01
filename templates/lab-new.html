@@ -380,9 +380,9 @@ auto();
 
 	tab = getParam("tab")
 	if(tab!=null) {
-		$(".tabs li").removeClass("active");
-		$("."+tab).addClass('active')
+		$(document).ready(function(){$('.'+tab).trigger('click');});
 	}
+	
 
 </script>
 
