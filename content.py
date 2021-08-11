@@ -44,12 +44,13 @@ labs = {
                 "sponsor": {
                     "title": "Want to join us?",
                     "text": """
-                        Applications for mentors and mentees for the 2021-2022 year are out! They can be found at the following hyperlinks: <a href="http://bit.ly/ulabmentor21">Mentor Apps</a> and <a href="http://bit.ly/ulabmentee21">Mentee Apps</a>. Deadlines and details are provided on the applications. <br/>  <br/> Feel free to reach out to us for advice or to be added to our newsletter for research opportunities by emailing us at <a href="cogsci@ulab.berkeley.edu">cogsci@ulab.berkeley.edu</a>.
+                        Applications for mentors and mentees for the 2021-2022 year are out! They can be found at the following hyperlinks: <a href="http://bit.ly/ulabmentor21">Mentor Apps</a> and <a href="http://bit.ly/ulabmentee21">Mentee Apps</a>. Deadlines and details are provided on the applications. <br/>  <br/> 
+                        Feel free to reach out to us for advice by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
                         """
                 },
                 "join": {
-                    "title": "Sign up for our newsletter here",
-                    "text": """Email us at <a href="cogsci@ulab.berkeley.edu">cogsci@ulab.berkeley.edu</a> to be added."""
+                    "title": """Sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a>.""",
+                    "text": """"""
                 
                 },
                 "calendar": {
