@@ -100,11 +100,11 @@ labs = {
                         <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Tu/Th 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester.
                         <br><br>
                         <b>Mentees:</b>
-                        The mentee application is currently closed.
+                        The mentee application is available <a href="https://forms.gle/26UYs54t8EZBFLQ86" target='blank'>HERE</a> and will close September 5, 2021.
                         <br><br>
                         <b>Mentors:</b>
                         <!-- The mentor application is currently closed. -->
-                        The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>here</a> and will close TBD. Mentors will be supported by a $500/semester scholarship.
+                        The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>HERE</a> and will close September 5, 2021. Mentors will be supported by a $400/semester stipend.
                         <br><br>
                         <b>Graduate Students/Postdocs:</b>  Opportunities for graduate students, postdocs, and faculty to get involved are available year-round! Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                     """
@@ -118,7 +118,7 @@ labs = {
                     "text": u"""
                         <b style='font-size:150%;'> Mentee Information </b>
                         <br><br>
-                        ULAB is a 2-semester DeCal sponsored by Prof. Dan Kasen. We meet Tuesday/Thursday 7-8 PM in-person!
+                        ULAB is a 2-semester DeCal sponsored by Prof. Dan Kasen. We meet Mon/Wed 7-8 PM in-person!
                         <br><br>
                         <b>Timeline: </b>fall semester is dedicated to creating a research proposal. Students are split into groups of 3-5 and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. 
                         <br><br>
@@ -142,7 +142,7 @@ labs = {
                         <br><br>
                         Mentorship can be a very fruitful and rewarding experience for undergraduates with research experience. Mentors' primary job is to meet weekly with their group of 3-5 mentees during the year-long process of conducting an independent research project. Mentors will lead discussions on topics in their field and guide their group through their project.
                         <br><br>
-                        Mentoring is a great way to build your resume, network with other researchers, gain leadership experience, and explore a topic you're interested in! <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $500/semester scholarship.</b>
+                        Mentoring is a great way to build your resume, network with other researchers, gain leadership experience, and explore a topic you're interested in! <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $400/semester stipend.</b>
                         <br><br>
                         The mentor position is a two-semester commitment. Mentors meet with their groups 1-2 hrs/week and generally spend an additional 1-2 hours outside of in-person meetings. We require that mentors be available Thursdays 7-8 PM and enroll in 2 research units (Astron. 198).
                         <br><br>
