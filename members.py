@@ -576,6 +576,16 @@ members = {
 			"img": "img/staff/rav_kaur.png",
 			"bio": ""
 		},
+		"Padma Venkatraman": {
+			"title": "Curriculum Manager",
+			"email": "vpadma@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "",
+			"bio": ""
+		},
 		"Pablo Castano": {
 			"title": "Lab Manager",
 			"email": "pcastano@berkeley.edu",
@@ -583,7 +593,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/logos/logo_physics.png",
+			"img": "",
 			"bio": ""
 		},
 		"Aditya Sengupta": {
