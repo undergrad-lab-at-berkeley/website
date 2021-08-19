@@ -98,6 +98,8 @@ labs = {
                     "text": """
                         <b style='font-size:150%;'> Join Us! </b>
                         <br><br>
+                        <span style="color:#FF0000">COVID-19: we will remain operational either online or in-person. Currently, we expect to be in person fall 2021; but will switch to online with little disruption depending on the public health situation.</span>
+                        <br><br>
                         <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Mon/Wed 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester. Click on the tabs to learn about each position.
                         <br><br>
                         <b>Mentees:</b>
