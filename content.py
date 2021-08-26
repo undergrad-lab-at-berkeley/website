@@ -91,6 +91,8 @@ labs = {
                         Our program, extends beyond project work. Students attend weekly workshops on essential research skills such as programming, statistics, etc. At the end of our program, students will have gained basic research skills often desired by research labs and will have demonstrated these skills in the process of completing a project of their own from start-to-finish.
                         <br><br>
                         Contact us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a> with any questions or concerns!                         
+                        <br><br>
+                        <a href="https://docs.google.com/document/d/1J_nPg7X1tv7KuOh9MCrAB86AOovm5SFgrrNRBkrfmAI/edit?usp=sharing" target="_blank">ULAB Physics & Astronomy CODE OF CONDUCT</a>
                         """
                 },
                 "join": {
@@ -103,7 +105,7 @@ labs = {
                         <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Mon/Wed 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester. Click on the tabs to learn about each position.
                         <br><br>
                         <b>Mentees:</b>
-                        The mentee application is available <a href="https://forms.gle/26UYs54t8EZBFLQ86" target='blank'>HERE</a> and will close September 4, 2021.
+                        The mentee application is available <a href="https://forms.gle/26UYs54t8EZBFLQ86" target='_blank'>HERE</a> and will close September 4, 2021.
                         <br><br>
                         <b>Mentors:</b>
                         <!-- The mentor application is currently closed. -->
