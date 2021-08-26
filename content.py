@@ -286,9 +286,8 @@ labs = {
             "join": {
                 "title": "Join Us!",
                 "text":u"""
-                Check back soon for the link to our application, and check out the syllabus and decal page linked above for more information!"""
-
-                #<a href="https://forms.gle/4CUb93ZLr3KVeTcZ6">Apply Now!</a><br/><br/>
+                <a href="https://forms.gle/65nYiGpcGaBw2uT49">Apply Now!</a>
+                """
                 #<b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Wednesday, January 27th at 11:59PM PT; apply now at the link above!.<br/><br/>
                 #<b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link above!
                 #"""
