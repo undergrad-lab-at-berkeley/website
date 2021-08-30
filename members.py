@@ -723,13 +723,13 @@ members = {
 		},
 		"Misha Lubich": {
 			"title": "Computer Science Director",
-			"email": "mishalubich007@berkeley.edu",
-			"linkedin": "https://www.linkedin.com/in/misha-lubich-54958a176/",
-			"facebook": "",
-			"github": "",
-			"personal": "https://github.com/sax-n-keys-coding",
-			"img": "img/staff/bio/misha_lubich.jpg",
-			"bio": "Hey there, CSD here for the year at Health Sciences. If you also play an instrument, I do too (sax, keys, accordion) so feel free to reach out! If you need help with anything that deals with code, feel free to hit me up on slack or on my official Berkeley school email if you're truly formal."
+			"email": "namratakantamneni@berkeley.edu",
+			"linkedin": "https://www.linkedin.com/in/namrata-kantamneni-a76b18180/",
+			"facebook": "https://www.facebook.com/namrata.kantamneni.5/",
+			"github": "https://github.com/namratakantamneni",
+			"personal": "",
+			"img": "img/staff/bio/Namrata_photo.jpg",
+			"bio": "Hey there, CSD here for the year at Health Sciences. I love running, calligraphy, playing the flute, and whistling to music! If you need help with anything that deals with code, feel free to hit me up on slack or on my official Berkeley school email if you're truly formal."
 		},
 		"Kasturi Sarkar": {
 			"title": "Operations and Outreach Director",
