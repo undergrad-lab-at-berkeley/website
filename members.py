@@ -780,5 +780,68 @@ members = {
 			"personal": "",
 			"img": "img/staff/bio/alina_su.jpg"
 		},
+		"Kashish Kharbanda": {
+			"title": "Research Director",
+			"email": "kashishk@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/KashishKharbanda.jpg"
+		},
+		"Nandita Radhakrishnan": {
+			"title": "Lab Manager [Relations]",
+			"email": "nanditarad@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/NanditaRadhakrishnan.jpg"
+		},
+		"Won Shil Park": {
+			"title": "Lab Manager [Logistics]",
+			"email": "wonspark@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/WonShilPark.jpg"
+		},
+		"Srikanth Nampoothiri": {
+			"title": "Lab Manager [Marketing]",
+			"email": "skn10620701@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/SrikanthNampoothiri.jpg"
+		},
+		"Ethan Qiu": {
+			"title": "Outreach Coordinator",
+			"email": "ethantqiu@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/EthanQiu.jpg"
+		},
+		"Selena Lu": {
+			"title": "Enrollment Coordinator",
+			"email": "selenalu@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/SelenaLu.jpg"
+		},
+		"Arjun Vats": {
+			"title": "Finance Director",
+			"email": "arjun.vats@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/ArjunVats.jpg"
+		},
 }
 

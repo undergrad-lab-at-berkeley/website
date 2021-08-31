@@ -308,7 +308,7 @@ labs = {
             "full_name": u"Data Science",
             "navbar": u"Data Science",
             "status": "Active",
-            "members": ["Alan Pham", "Neha Venkatesh", "Justin Gerwien"],
+            "members": ["Kashish Kharbanda", "Nandita Radhakrishnan", "Won Shil Park", "Srikanth Nampoothiri", "Ethan Qiu", "Selena Lu", "Arjun Vats"],
             "content": {
                 "overview": {
                     "title": "Lab Overview",
@@ -326,9 +326,13 @@ labs = {
                 "join": {
                     "title": u"Want to join us?",
                     "text": u"""
-                        We are currently looking to fill mentor and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email alanlp@berkeley.edu. <br/>
-                         <a href="https://forms.gle/TDe6YmYeKY3VkUNC6">Mentor Application</a> <br/>
-                         <a href="https://forms.gle/fT3hi9NpW2KUye9BA">Mentee Application</a>
+                        Mentee & Mentor positions are now open for Fall 2021! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below.
+                        <br><br>
+                        Mentor application: <a href='https://forms.gle/Ui2VpnV3u7dQfoKU9'>https://forms.gle/Ui2VpnV3u7dQfoKU9</a>
+                        <br><br>
+                        Mentee application: <a href='https://forms.gle/yiHXZFFdHdWGGcqs9'>https://forms.gle/yiHXZFFdHdWGGcqs9</a>
+                        <br><br>
+                        If you have any questions about the application process, please email <a href='mailto:kashishk@berkeley.edu'>kashishk@berkeley.edu</a>
                         """
                 },
                 "calendar": {
