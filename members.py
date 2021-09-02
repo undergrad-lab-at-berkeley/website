@@ -689,7 +689,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/ShrinaPandey.jpg",
-			"bio": "Why, hello there! I’m Shrina, a rising sophomore majoring in MCB, and it’s truly an honor to be a part of such a wonderful team at ULAB. My hope is to guide you while you pursue work that excites you most both in and out of ULAB, and that I can play some role no matter how large or small in your ability to learn and appreciate the depth of the research experience. Please let me know if you have any questions, comments, concerns, or just want to say hello. I promise I won't bite!"
 		},
 		"Meeseo Lee": {
 			"title": "Lab Manager",
@@ -709,7 +708,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/AdrianFu.jpg",
-			"bio": "What’s popping everybody? It’s nice to meet you, but it’s even better to meet me. I’m a second year majoring in cognitive science and always down for a quick chat, so if you guys ever need help with ULAB, the cogsci department, or even just someone to vent to, feel free to contact my good friend Ishna Pandey. Ciao!"
 		},
 		"Ishna Pandey": {
 			"title": "Operations and Outreach Director",
@@ -719,7 +717,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/IshnaPandey.jpg",
-			"bio": "Hey everyone, I’m Ishna Pandey, a sophomore majoring in Public Health and I’m super excited to meet you guys and get to know you. Feel free to contact me if you have any questions, comments, or concerns and I would love to help! I hope you all have a great and fulfilling experience at ULAB!"
 		},
 		"Ting Guo": {
 			"title": "Finance Director",
@@ -799,7 +796,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/JennyWu.jpg",
-			"bio": "My name is Jenny Wu, and I am a second year student studying chemical biology. I am so excited to be your social chair this year, and I can’t wait to get to know all of you!"
 		},
 		"Angikaar Chana": {
 			"title": "Senior Advisor",
