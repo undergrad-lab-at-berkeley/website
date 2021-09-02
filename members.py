@@ -671,28 +671,8 @@ members = {
 			"personal": "",
 			"img": "img/staff/marwatal-olefi.jpg"
 		},
-		"Angikaar Chana": {
-			"title": "Research Director",
-			"email": "angikaar@berkeley.edu",
-			"linkedin": "",
-			"facebook": "",
-			"github": "https://www.linkedin.com/in/angikaar/",
-			"personal": "",
-			"img": "img/staff/angikaar_chana.jpg",
-			"bio": "Hey everyone! My name is Angikaar (they/he), and I'm a Junior studying Public Health and Data Science. I serve as a Data Analytics Research Assistant in CNSU's Meyer Lab, and I am very interested in the cross-section of data analytics in health-related research. I intend to attend graduate school of some kind, and I hope to apply Machine Learning and Modeling to the field of Public Health and/or Medical Imaging. In my free time, I love hanging out with friends, so don't be shy to reach out and meet up :)"
-		},
-		 "Alec Parker": {
-			"title": "Social Chair",
-			"email": "",
-			"linkedin": "",
-			"facebook": "",
-			"github": "",
-			"personal": "",
-			"img": "img/staff/bio/alec_parker.jpg",
-			"bio": ""
-		},
 		"Candice Ng": {
-			"title": "Lab Manager",
+			"title": "Research Director",
 			"email": "candy0712n@berkeley.edu",
 			"linkedin": "https://www.linkedin.com/in/candice-ng-5564b719a",
 			"facebook": "",
@@ -701,45 +681,45 @@ members = {
 			"img": "img/staff/bio/candice_ng.jpg",
 			"bio": ""
 		},
-		"Anisha Chandy": {
-			"title": "Editor-in-Chief",
-			"email": "anishamchandy@berkeley.edu",
-			"linkedin": "",
-			"facebook": "",
-			"github": "",
-			"personal": "",
-			"img": "img/staff/bio/anisha_chandy.jpg",
-			"bio": ""
-		},
-		"Jessica Situ": {
-			"title": "Social Chair",
+		"Shrina Pandey": {
+			"title": "Lab Manager",
 			"email": "",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/jessica_situ.jpg",
-			"bio": ""
+			"img": "img/staff/bio/ShrinaPandey.jpg",
+			"bio": "Why, hello there! I’m Shrina, a rising sophomore majoring in MCB, and it’s truly an honor to be a part of such a wonderful team at ULAB. My hope is to guide you while you pursue work that excites you most both in and out of ULAB, and that I can play some role no matter how large or small in your ability to learn and appreciate the depth of the research experience. Please let me know if you have any questions, comments, concerns, or just want to say hello. I promise I won't bite!"
 		},
-		"Misha Lubich": {
-			"title": "Computer Science Director",
-			"email": "namratakantamneni@berkeley.edu",
-			"linkedin": "https://www.linkedin.com/in/namrata-kantamneni-a76b18180/",
-			"facebook": "https://www.facebook.com/namrata.kantamneni.5/",
-			"github": "https://github.com/namratakantamneni",
-			"personal": "",
-			"img": "img/staff/bio/Namrata_photo.jpg",
-			"bio": "Hey there, CSD here for the year at Health Sciences. I love running, calligraphy, playing the flute, and whistling to music! If you need help with anything that deals with code, feel free to hit me up on slack or on my official Berkeley school email if you're truly formal."
-		},
-		"Kasturi Sarkar": {
-			"title": "Operations and Outreach Director",
-			"email": "kastusarkar@berkeley.edu",
-			"linkedin": "https://www.linkedin.com/in/kasturi-sarkar-643b881a6/",
+		"Meeseo Lee": {
+			"title": "Lab Manager",
+			"email": "meeseo@berkeley.edu",
+			"linkedin": "http://linkedin.com/in/meeseo-lee-142834194",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/kasturi_sarkar.jpg",
-			"bio": "I'm a fourth year student majoring in Integrative Biology and minoring in Anthropology. I'm on a pre-med track so I'm hoping to go into medicine in the next couple years. I'm originally from Little Rock, Arkansas but have made Berkeley my new home :)"
+			"img": "img/staff/bio/meeseo_lee.jpg",
+			"bio": "Hi! I'm Meeseo and I'm a second year majoring in MCB-Neurology. I like to draw and paint and my favorite movie is Up :) One important aspect of research I value the most is the community and the interactions between the people in the lab and I hope that ULAB PHHS provide positive and welcoming environment for everyone who joins and really help people grow professionally as well as personally!"
+		},
+		"Adrian Fu": {
+			"title": "Operations and Outreach Director",
+			"email": "",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/AdrianFu.jpg",
+			"bio": "What’s popping everybody? It’s nice to meet you, but it’s even better to meet me. I’m a second year majoring in cognitive science and always down for a quick chat, so if you guys ever need help with ULAB, the cogsci department, or even just someone to vent to, feel free to contact my good friend Ishna Pandey. Ciao!"
+		},
+		"Ishna Pandey": {
+			"title": "Operations and Outreach Director",
+			"email": "",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/IshnaPandey.jpg",
+			"bio": "Hey everyone, I’m Ishna Pandey, a sophomore majoring in Public Health and I’m super excited to meet you guys and get to know you. Feel free to contact me if you have any questions, comments, or concerns and I would love to help! I hope you all have a great and fulfilling experience at ULAB!"
 		},
 		"Ting Guo": {
 			"title": "Finance Director",
@@ -751,34 +731,85 @@ members = {
 			"img": "img/staff/bio/ting_guo.jpg",
 			"bio": "Hi! I'm Ting! I am currently a freshman intending to double major in Molecular and Cell Biology and Psychology. I am interested in the areas of medical biology and cell/developmental biology. I aim to use the skills I learned to prepare for medical school. I am really excited to work with the ULAB PHHS Division to oversee exciting researching projects. In my free time, I enjoy baking and spending time with friends virtually."
 		},
-		 "Jessica Situ": {
-			"title": "Mentor Coordinator/Editor-in-Chief",
-			"email": "",
-			"linkedin": "http://www.linkedin.com/in/jessicasitu1",
-			"facebook": "",
-			"github": "",
-			"personal": "",
-			"img": "img/staff/bio/jessica_situ.jpg",
-			"bio": "My name is Jessica Situ and am intending to major in Data Science and Public Health. I am so excited to be part of ULAB this year and cannot wait to see what research projects you all come up with!"
-		},
-		 "Meeseo Lee": {
-			"title": "Year Mentor Coordinator/Secretary",
-			"email": "meeseo@berkeley.edu",
-			"linkedin": "http://linkedin.com/in/meeseo-lee-142834194",
-			"facebook": "",
-			"github": "",
-			"personal": "",
-			"img": "img/staff/bio/meeseo_lee.jpg",
-			"bio": "Hi! I'm Meeseo and I'm a second year majoring in MCB-Neurology. I like to draw and paint and my favorite movie is Up :) One important aspect of research I value the most is the community and the interactions between the people in the lab and I hope that ULAB PHHS provide positive and welcoming environment for everyone who joins and really help people grow professionally as well as personally!"
-		},
-		 "Alina Su": {
-			"title": "",
+		"Andrew Koh": {
+			"title": "Head Mentor Coordinator",
 			"email": "",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/alina_su.jpg"
+			"img": "",
+			"bio": ""
+		},
+		"Anisha Chandy": {
+			"title": "Head Editor-in-Chief",
+			"email": "anishamchandy@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/anisha_chandy.jpg",
+			"bio": "My name is Anisha Chandy and I am a junior studying MCB-Neurobiology and double minoring in Journalism and STEM Education. I am super excited to work with everyone this year on their projects and help make sure you have a great ULAB experience!"
+		},
+		"Jean Ye": {
+			"title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
+			"email": "",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/JeanYe.jpg",
+			"bio": "Hi everyone! My name is Jean Ye, and I am currently a sophomore intending to major in Biology+Business. Some of my research interests include biotech, bioethics, and machine learning. I'm super excited to see what research projects you all come up with this year and to help out as much as I can, so feel free to reach out whenever! :)"
+		},
+		"Tanirika Singh": {
+			"title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
+			"email": "",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "",
+			"bio": "Hi! My name is Tanirika and I am currently a sophomore planning on majoring in MCB. I'm super excited to be a part of the ULAB team this year and work towards optimizing the quality of research that is done across the research groups and providing the necessary support to all the members. Looking forward to the year ahead!"
+		},
+		"Namrata Kantamneni": {
+			"title": "Computer Science Director",
+			"email": "namratakantamneni@berkeley.edu",
+			"linkedin": "https://www.linkedin.com/in/namrata-kantamneni-a76b18180/",
+			"facebook": "https://www.facebook.com/namrata.kantamneni.5/",
+			"github": "https://github.com/namratakantamneni",
+			"personal": "",
+			"img": "img/staff/bio/Namrata_photo.jpg",
+			"bio": "Hey there, CSD here for the year at Health Sciences. I love running, calligraphy, playing the flute, and whistling to music! If you need help with anything that deals with code, feel free to hit me up on slack or on my official Berkeley school email if you're truly formal."
+		},
+		"Alec Parker": {
+			"title": "Social Chair",
+			"email": "",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/alec_parker.jpg",
+			"bio": ""
+		},
+		"Jenny Wu": {
+			"title": "Social Chair",
+			"email": "",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/JennyWu.jpg",
+			"bio": "My name is Jenny Wu, and I am a second year student studying chemical biology. I am so excited to be your social chair this year, and I can’t wait to get to know all of you!"
+		},
+		"Angikaar Chana": {
+			"title": "Senior Advisor",
+			"email": "angikaar@berkeley.edu",
+			"linkedin": "https://www.linkedin.com/in/angikaar/",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "",
+			"bio": "Hey everyone! My name is Angikaar (they/he), and I'm a Junior studying Public Health and Data Science. I serve as a Data Analytics Research Assistant in CNSU's Meyer Lab, and I am very interested in the cross-section of data analytics in health-related research. I intend to attend graduate school of some kind, and I hope to apply Machine Learning and Modeling to the field of Public Health and/or Medical Imaging. In my free time, I love hanging out with friends, so don't be shy to reach out and meet up :)"
 		},
 }
 
