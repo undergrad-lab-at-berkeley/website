@@ -109,7 +109,7 @@ labs = {
                         <br><br>
                         <b>Mentors:</b>
                         <!-- The mentor application is currently closed. -->
-                        The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>HERE</a> and will close September 4, 2021. Mentors will be supported by a $400/semester stipend.
+                        The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>HERE</a> and will close September 4, 2021. Mentors will be supported by a $600/semester stipend.
                         <br><br>
                         <b>Graduate Students/Postdocs:</b>  Opportunities for graduate students, postdocs, and faculty to get involved are available year-round! Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                     """
@@ -161,7 +161,7 @@ labs = {
                         <br><br>
                         Mentorship can be a very fruitful and rewarding experience for undergraduates with research experience. Mentors' primary job is to meet weekly with their group of 3-5 mentees during the year-long process of conducting an independent research project. Mentors will lead discussions on topics in their field and guide their group through their project.
                         <br><br>
-                        Mentorship is a unique <i>learning</i> opportunity. Mentors will expereince the process of leading a scientific project, conduct research in a topic of their interest, and interact with fellow undergraduate and graduate researchers. <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $400/semester stipend.</b>
+                        Mentorship is a unique <i>learning</i> opportunity. Mentors will expereince the process of leading a scientific project, conduct research in a topic of their interest, and interact with fellow undergraduate and graduate researchers. <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $600/semester stipend.</b>
                         <br><br><br>
 
                         <b style='font-size:150%;'> QnA</b>
@@ -281,7 +281,7 @@ labs = {
             "overview": {
                 "title": "Lab Overview",
                 "text": u"""
-                Founded in Spring 2021, the Computational Biology Division of the Undergraduate Lab at Berkeley, aims to give interested undergraduates a chance to conduct their own research projects in Computational Biology in small groups under the guidance of experienced undergraduate mentors. Along the way they will gain fundamental research skills, explore relevant background knowledge, and gain experience in the research process. Our goal is to help students feel confident and prepared to seek out on-campus opportunities in the exciting field of computational biology. <br/>
+                Founded in Spring 2021, the Computational Biology Division of the Undergraduate Lab at Berkeley, aims to give interested undergraduates a chance to conduct their own research projects in Computational Biology in small groups under the guidance of experienced undergraduate mentors. Along the way they will gain fundamental research skills, explore relevant background knowledge, and gain experience in the research process. Our goal is to help students feel confident and prepared to seek out on-campus opportunities in the exciting field of computational biology. Some of our past projects have ranged from determining the best peanut protein candidates for gene editing to understanding the impact of synonymous variants in Alzheimer’s disease! <br/>
                 The lab will meet as a DeCal over the course of one year. Students will spend class time learning background information and meeting with their groups to work on their project. Mentors will supervise groups of 4-6 students, and guide them through the process of exploring a research question. The DeCal will conclude with a final project presentation. See the course syllabus <a href="https://drive.google.com/file/d/1pHb1hSwMLzob2FueYIKp5Tq-721hZoR-/view?usp=sharing">here</a>, and our decal page <a href="https://decal.berkeley.edu/courses/6039">here</a>!<br/>.
                 """
             },
@@ -289,9 +289,9 @@ labs = {
                 "title": "Join Us!",
                 "text":u"""
                 <a href="https://forms.gle/65nYiGpcGaBw2uT49">Apply Now!</a>
+                </br>
+                Mentors will guide an undergraduate team of 4-6 students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-year symposium. Mentors and mentees receive 2 units through IB 98. Some of our past projects have ranged from determining the best peanut protein candidates for gene editing to understanding the impact of synonymous variants in Alzheimer’s disease! The application for mentors is due on Thursday, September 2nd at 11:59 PM. The application for mentees is due on Friday, September 3rd at 11:59 PM.
                 """
-                #<b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Wednesday, January 27th at 11:59PM PT; apply now at the link above!.<br/><br/>
-                #<b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link above!
                 #"""
             },
             "calendar" : {
@@ -308,7 +308,7 @@ labs = {
             "full_name": u"Data Science",
             "navbar": u"Data Science",
             "status": "Active",
-            "members": ["Alan Pham", "Neha Venkatesh", "Justin Gerwien"],
+            "members": ["Kashish Kharbanda", "Nandita Radhakrishnan", "Won Shil Park", "Srikanth Nampoothiri", "Ethan Qiu", "Selena Lu", "Arjun Vats"],
             "content": {
                 "overview": {
                     "title": "Lab Overview",
@@ -326,9 +326,13 @@ labs = {
                 "join": {
                     "title": u"Want to join us?",
                     "text": u"""
-                        We are currently looking to fill mentor and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email alanlp@berkeley.edu. <br/>
-                         <a href="https://forms.gle/TDe6YmYeKY3VkUNC6">Mentor Application</a> <br/>
-                         <a href="https://forms.gle/fT3hi9NpW2KUye9BA">Mentee Application</a>
+                        Mentee & Mentor positions are now open for Fall 2021! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below.
+                        <br><br>
+                        Mentor application: <a href='https://forms.gle/Ui2VpnV3u7dQfoKU9'>https://forms.gle/Ui2VpnV3u7dQfoKU9</a>
+                        <br><br>
+                        Mentee application: <a href='https://forms.gle/yiHXZFFdHdWGGcqs9'>https://forms.gle/yiHXZFFdHdWGGcqs9</a>
+                        <br><br>
+                        If you have any questions about the application process, please email <a href='mailto:kashishk@berkeley.edu'>kashishk@berkeley.edu</a>
                         """
                 },
                 "calendar": {
