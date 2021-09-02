@@ -689,6 +689,7 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/ShrinaPandey.jpg",
+			"bio": ""
 		},
 		"Meeseo Lee": {
 			"title": "Lab Manager",
@@ -708,6 +709,7 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/AdrianFu.jpg",
+			"bio": ""
 		},
 		"Ishna Pandey": {
 			"title": "Operations and Outreach Director",
@@ -717,6 +719,7 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/IshnaPandey.jpg",
+			"bio": ""
 		},
 		"Ting Guo": {
 			"title": "Finance Director",
@@ -796,6 +799,7 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/JennyWu.jpg",
+			"bio": ""
 		},
 		"Angikaar Chana": {
 			"title": "Senior Advisor",
