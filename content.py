@@ -248,7 +248,7 @@ labs = {
             "full_name": u"Health Sciences",
             "navbar": u"Health Sciences",
             "status": "Active",
-            "members": ["Angikaar Chana", "Candice Ng", "Meeseo Lee", "Ting Guo", "Kasturi Sarkar", "Alina Su", "Anisha Chandy", "Jessica Situ", "Misha Lubich", "Alec Parker"],
+            "members": ["Angikaar Chana", "Candice Ng", "Meeseo Lee", "Ting Guo", "Anisha Chandy", "Alec Parker"],
             "content": {
                 "overview": {
                     "title": "Lab Overview Coming Soon!",
@@ -326,11 +326,13 @@ labs = {
                 "join": {
                     "title": u"Want to join us?",
                     "text": u"""
-                        Mentee & Mentor positions are now open for Fall 2021! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below.
+                        Mentee & Mentor positions are now open for Fall 2021! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. Applications are due Friday, September 10th @ 11:59PM for both mentors and mentees. Mentors will be contacted for coffee chats which will be conducted on September 11th & 12th (Sat & Sun). Both mentors & mentees will hear back from us regarding the decision by September 13th midnight, and the deadline to accept our offer will be September 15th. 
                         <br><br>
-                        Mentor application: <a href='https://forms.gle/Ui2VpnV3u7dQfoKU9'>https://forms.gle/Ui2VpnV3u7dQfoKU9</a>
+                        If you’re interested in getting to know more about ULAB DS and its structure, or if you have any questions you'd like to ask us, attend our info session: more details on our Facebook page <a href='https://www.facebook.com/ulabdatascience/'>here</a>.
                         <br><br>
-                        Mentee application: <a href='https://forms.gle/yiHXZFFdHdWGGcqs9'>https://forms.gle/yiHXZFFdHdWGGcqs9</a>
+                        Mentee Application: <a href='https://tinyurl.com/ULABDSmentee'>https://tinyurl.com/ULABDSmentee</a>
+                        <br><br>
+                        Mentor Application: <a href='https://tinyurl.com/ULABDSmentor'>https://tinyurl.com/ULABDSmentor</a>
                         <br><br>
                         If you have any questions about the application process, please email <a href='mailto:kashishk@berkeley.edu'>kashishk@berkeley.edu</a>
                         """
