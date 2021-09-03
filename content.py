@@ -258,8 +258,8 @@ labs = {
                     "title": "Want to join us?",
                     "text": u"""
                             We are currently looking to fill board member and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please send an email to <a href="mailto:publichealth.ulab@gmail.com">publichealth.ulab@gmail.com</a>. <br/>
-                            <a href="https://bit.ly/ULAB-PHHS-MentorApp">Mentor application</a> <br/>
-                         	<a href="https://bit.ly/ULAB-PHHS-MenteeApp">Mentee Application</a>
+                            <a href="https://tinyurl.com/e4hxpf43">Mentor application</a> <br/>
+                         	<a href="https://tinyurl.com/3nj32bpp">Mentee Application</a>
                             """
                 },
                 "calendar": {
