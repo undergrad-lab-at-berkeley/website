@@ -109,7 +109,7 @@ labs = {
                         <br><br>
                         <b>Mentors:</b>
                         <!-- The mentor application is currently closed. -->
-                        The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>HERE</a> and will close September 4, 2021. Mentors will be supported by a $600/semester stipend.
+                        The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>HERE</a> and will be considered on a rolling basis. Mentors will be supported by a $600/semester stipend.
                         <br><br>
                         <b>Graduate Students/Postdocs:</b>  Opportunities for graduate students, postdocs, and faculty to get involved are available year-round! Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                     """
