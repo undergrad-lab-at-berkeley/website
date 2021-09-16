@@ -251,15 +251,16 @@ labs = {
             "members": ["Angikaar Chana", "Candice Ng", "Meeseo Lee", "Ting Guo", "Anisha Chandy", "Alec Parker"],
             "content": {
                 "overview": {
-                    "title": "Lab Overview Coming Soon!",
+                    "title": "Looking to better understand the nuances of public health!",
                     "text": u"""Check out the syllabus here: <br> <a href='http://bit.ly/ULAB-PHHS-website'>Syllabus</a>"""
                 },
                 "join": {
                     "title": "Want to join us?",
                     "text": u"""
-                            We are currently looking to fill board member and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please send an email to <a href="mailto:publichealth.ulab@gmail.com">publichealth.ulab@gmail.com</a>. <br/>
+                            We are currently looking to fill mentor and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please send an email to <a href="mailto:publichealth.ulab@gmail.com">publichealth.ulab@gmail.com</a>. We are having a info session on September 16th at 7 pm, and the zoom link for this meeting is posted below.<br/>
                             <a href="https://tinyurl.com/e4hxpf43">Mentor application</a> <br/>
-                         	<a href="https://tinyurl.com/3nj32bpp">Mentee Application</a>
+                         	<a href="https://tinyurl.com/3nj32bpp">Mentee Application</a> <br/>
+                         	<a href="https://berkeley.zoom.us/j/91393277945?pwd=NGZKVDNoSWlNUHpTbklpUHhCeCtmZz09">Zoom Link</a>
                             """
                 },
                 "calendar": {
