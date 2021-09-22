@@ -77,7 +77,7 @@ labs = {
             "full_name": u"Physics and Astronomy",
             "navbar": u"Physics",
             "status": "Active",
-            "members": ["Yi Zhu", "Anmol Desai", "Rav Kaur", "Pablo Castano", "Padma Venkatraman", "Carrie Zuckerman", "Dan Kasen"],
+            "members": ["Yi Zhu", "Anmol Desai", "Rav Kaur", "Pablo Castano", "Carrie Zuckerman", "Dan Kasen"],
             "content": {
                 "overview": {
                     "title": u"Lab Overview",
@@ -92,8 +92,6 @@ labs = {
                         Our program, extends beyond project work. Students attend weekly workshops on essential research skills such as programming, statistics, etc. At the end of our program, students will have gained basic research skills often desired by research labs and will have demonstrated these skills in the process of completing a project of their own from start-to-finish.
                         <br><br>
                         Contact us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a> with any questions or concerns!                         
-                        <br><br>
-                        <a href="https://docs.google.com/document/d/1J_nPg7X1tv7KuOh9MCrAB86AOovm5SFgrrNRBkrfmAI/edit?usp=sharing" target="_blank">ULAB Physics & Astronomy CODE OF CONDUCT</a>
                         """
                 },
                 "join": {
@@ -101,16 +99,14 @@ labs = {
                     "text": """
                         <b style='font-size:150%;'> Join Us! </b>
                         <br><br>
-                        <span style="color:#FF0000">COVID-19: we will remain operational either online or in-person. Currently, we expect to be in person fall 2021; but will switch to online with little disruption depending on the public health situation.</span>
-                        <br><br>
-                        <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Mon/Wed 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester. Click on the tabs to learn about each position.
+                        <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Tu/Th 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester.
                         <br><br>
                         <b>Mentees:</b>
-                        The mentee application is available <a href="https://forms.gle/26UYs54t8EZBFLQ86" target='_blank'>HERE</a> and will close September 4, 2021.
+                        The mentee application is currently closed.
                         <br><br>
                         <b>Mentors:</b>
                         <!-- The mentor application is currently closed. -->
-                        The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>HERE</a> and will be considered on a rolling basis. Mentors will be supported by a $600/semester stipend.
+                        The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>here</a> and will close TBD. Mentors will be supported by a $500/semester scholarship.
                         <br><br>
                         <b>Graduate Students/Postdocs:</b>  Opportunities for graduate students, postdocs, and faculty to get involved are available year-round! Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                     """
@@ -124,7 +120,7 @@ labs = {
                     "text": u"""
                         <b style='font-size:150%;'> Mentee Information </b>
                         <br><br>
-                        ULAB is a 2-semester DeCal sponsored by Prof. Dan Kasen. We meet Mon/Wed 7-8 PM in-person!
+                        ULAB is a 2-semester DeCal sponsored by Prof. Dan Kasen. We meet Tuesday/Thursday 7-8 PM in-person!
                         <br><br>
                         <b>Timeline: </b>fall semester is dedicated to creating a research proposal. Students are split into groups of 3-5 and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. 
                         <br><br>
@@ -136,24 +132,10 @@ labs = {
                         <br><br>
                         <b>Q: What are the prerequisites for ULAB?</b>
                         <br>
-                        None! Many students are first and seconds years with no prior research or programming experience. 
+                        None! We do not expect students to have prior research or programming experience. 
                         <br><br>
-                        <b>Q: I'm a junior/junior transfer/senior, should I apply?</b>
-                        <br>
-                        Definitely! Many upperclassmen have found ULAB helpful in obtaining research experience. However, ULAB may not be the right choice if you already feel prepared to join a lab or have very little time left at Berkeley. 
-                        <br><br>
-                        <b>Q: How competitive is the program?</b>
-                        <br>
-                        We accept as many students as possible. In the event that space is limited, students that benefit most from our program have priority. 
-                        <br><br>
-                        <b>Q: How are project topics choosen?</b><br>
-                        Available topics are determined by out cohort of mentors and vary year by year. We are able to normally cover the major subfields in physics and astronomy. Mentees have a large say in the mentor/project they work on.<br><br>
-                        <b>Q: Can I apply to ULAB in addition to other research programs?</b><br>
-                        Yes. Students that join ULAB, but are subsequently accepted into another program (e.g. URAP) may pursue both concurrently or drop ULAB before the drop deadline late September.              
-                        <br><br>
-                        <b>Q: Do ULAB projects yeild results?</b><br>
-                        Wrong question. ULAB is a <i>research training</i> organization. Through conducting their projects, mentees learn about the basic knowledge and skills required to conduct research in their field and leave our program a better candidate, and better prepared for research. (…but to answer the question, most projects do yield interesting results; and even when they don’t, mentees are able to explain their work and what they’ve learned).
-                        """
+                        Hang tight, this page is being updated!
+                    """
                 },
                 "mentors":{
                     "title": "Mentor Info",
@@ -162,19 +144,15 @@ labs = {
                         <br><br>
                         Mentorship can be a very fruitful and rewarding experience for undergraduates with research experience. Mentors' primary job is to meet weekly with their group of 3-5 mentees during the year-long process of conducting an independent research project. Mentors will lead discussions on topics in their field and guide their group through their project.
                         <br><br>
-                        Mentorship is a unique <i>learning</i> opportunity. Mentors will expereince the process of leading a scientific project, conduct research in a topic of their interest, and interact with fellow undergraduate and graduate researchers. <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $600/semester stipend.</b>
-                        <br><br><br>
-
+                        Mentoring is a great way to build your resume, network with other researchers, gain leadership experience, and explore a topic you're interested in! <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $500/semester scholarship.</b>
+                        <br><br>
+                        The mentor position is a two-semester commitment. Mentors meet with their groups 1-2 hrs/week and generally spend an additional 1-2 hours outside of in-person meetings. We require that mentors be available Thursdays 7-8 PM and enroll in 2 research units (Astron. 198).
+                        <br><br>
                         <b style='font-size:150%;'> QnA</b>
                         <br><br>
-                        <b>Q: What is the committment?</b><br>
-                        Mentorship is a 2-semester positions. Mentors meet with their groups 1-2 hrs/week and generally spend an additional 1-3 hours outside of in-person meetings. We require that mentors be available Wednesday 7-8 PM and enroll in 2 research units (Astron. 198).<br><br>
-                        <b>Q: How much research experience is expected?</b><br>
-                        Mentors are not expected to be experts, but should be comfortable exploring their field. They must be prepared to help mentees learn about a new topic, and to learn about a new topic/project themselves. At least 1 semester of research in a group is recommended.
-                        <br><br>
-                        <b>Q: How are project topics choosen</b>
-                        <br>
-                        While some mentors have a clear project in mind, most mentors begin an idea of topics they would like to work on. They are paired with mentees with similar interests. Mentors and mentees together determine a suitable project. We are able to reasonably fund physical projects, simulations, etc. 
+
+
+                        We're editing this page, hang tight!
                     """
                 },
                 "advisors":{
@@ -190,6 +168,9 @@ labs = {
                         <br><br>
                         Opportunities for advisors are available year-round. Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                         <br><br>
+                        <b style='font-size:150%;'> QnA</b>
+                        <br><br>
+                        We're editing this page, hang tight!
                     """
                 },
                 "projects":{
@@ -249,19 +230,18 @@ labs = {
             "full_name": u"Health Sciences",
             "navbar": u"Health Sciences",
             "status": "Active",
-            "members": ["Angikaar Chana", "Candice Ng", "Meeseo Lee", "Ting Guo", "Anisha Chandy", "Alec Parker"],
+            "members": ["Angikaar Chana", "Candice Ng", "Meeseo Lee", "Ting Guo", "Kasturi Sarkar", "Alina Su", "Anisha Chandy", "Jessica Situ", "Misha Lubich", "Alec Parker"],
             "content": {
                 "overview": {
-                    "title": "Looking to better understand the nuances of public health!",
+                    "title": "Lab Overview Coming Soon!",
                     "text": u"""Check out the syllabus here: <br> <a href='http://bit.ly/ULAB-PHHS-website'>Syllabus</a>"""
                 },
                 "join": {
                     "title": "Want to join us?",
                     "text": u"""
-                            We are currently looking to fill mentor and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please send an email to <a href="mailto:publichealth.ulab@gmail.com">publichealth.ulab@gmail.com</a>. We are having a info session on September 16th at 7 pm, and the zoom link for this meeting is posted below.<br/>
-                            <a href="https://tinyurl.com/e4hxpf43">Mentor application</a> <br/>
-                         	<a href="https://tinyurl.com/3nj32bpp">Mentee Application</a> <br/>
-                         	<a href="https://berkeley.zoom.us/j/91393277945?pwd=NGZKVDNoSWlNUHpTbklpUHhCeCtmZz09">Zoom Link</a>
+                            We are currently looking to fill board member and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please send an email to <a href="mailto:publichealth.ulab@gmail.com">publichealth.ulab@gmail.com</a>. <br/>
+                            <a href="https://bit.ly/ULAB-PHHS-MentorApp">Mentor application</a> <br/>
+                         	<a href="https://bit.ly/ULAB-PHHS-MenteeApp">Mentee Application</a>
                             """
                 },
                 "calendar": {
@@ -283,17 +263,19 @@ labs = {
             "overview": {
                 "title": "Lab Overview",
                 "text": u"""
-                Founded in Spring 2021, the Computational Biology Division of the Undergraduate Lab at Berkeley, aims to give interested undergraduates a chance to conduct their own research projects in Computational Biology in small groups under the guidance of experienced undergraduate mentors. Along the way they will gain fundamental research skills, explore relevant background knowledge, and gain experience in the research process. Our goal is to help students feel confident and prepared to seek out on-campus opportunities in the exciting field of computational biology. Some of our past projects have ranged from determining the best peanut protein candidates for gene editing to understanding the impact of synonymous variants in Alzheimer’s disease! <br/>
-                The lab will meet as a DeCal over the course of one year. Students will spend class time learning background information and meeting with their groups to work on their project. Mentors will supervise groups of 4-6 students, and guide them through the process of exploring a research question. The DeCal will conclude with a final project presentation. See the course syllabus <a href="https://drive.google.com/file/d/1pHb1hSwMLzob2FueYIKp5Tq-721hZoR-/view?usp=sharing">here</a>, and our decal page <a href="https://decal.berkeley.edu/courses/6039">here</a>!<br/>.
+                Founded in Spring 2021, the Computational Biology Division of the Undergraduate Lab at Berkeley, aims to give interested undergraduates a chance to conduct their own research projects in Computational Biology in small groups under the guidance of experienced undergraduate mentors. Along the way they will gain fundamental research skills, explore relevant background knowledge, and gain experience in the research process. Our goal is to help students feel confident and prepared to seek out on-campus opportunities in the exciting field of computational biology. <br/>
+                The lab will meet as a DeCal over the course of one semester. Students will spend class time learning background information and meeting with their groups to work on their project. Mentors will supervise groups of 4-6 students, and guide them through the process of exploring a research question. The DeCal will conclude with a final project presentation. See the course syllabus <a href="https://drive.google.com/file/d/1WxTg71qLSEaavCrHTgWb5uFt_6mG3nzr">here</a>, and our decal page <a href="https://decal.berkeley.edu/courses/5458">here</a>!<br/>.
                 """
             },
             "join": {
                 "title": "Join Us!",
                 "text":u"""
-                <a href="https://forms.gle/65nYiGpcGaBw2uT49">Apply Now!</a>
-                </br>
-                Mentors will guide an undergraduate team of 4-6 students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-year symposium. Mentors and mentees receive 2 units through IB 98. Some of our past projects have ranged from determining the best peanut protein candidates for gene editing to understanding the impact of synonymous variants in Alzheimer’s disease! The application for mentors is due on Thursday, September 2nd at 11:59 PM. The application for mentees is due on Friday, September 3rd at 11:59 PM.
+                Unfortunately, our applications for this semester have closed. We will be posting our course materials below throughout the course, so feel free to follow along!
                 """
+
+                #<a href="https://forms.gle/4CUb93ZLr3KVeTcZ6">Apply Now!</a><br/><br/>
+                #<b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Wednesday, January 27th at 11:59PM PT; apply now at the link above!.<br/><br/>
+                #<b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link above!
                 #"""
             },
             "calendar" : {
@@ -310,7 +292,7 @@ labs = {
             "full_name": u"Data Science",
             "navbar": u"Data Science",
             "status": "Active",
-            "members": ["Kashish Kharbanda", "Nandita Radhakrishnan", "Won Shil Park", "Srikanth Nampoothiri", "Ethan Qiu", "Selena Lu", "Arjun Vats"],
+            "members": ["Alan Pham", "Neha Venkatesh", "Justin Gerwien"],
             "content": {
                 "overview": {
                     "title": "Lab Overview",
@@ -328,15 +310,9 @@ labs = {
                 "join": {
                     "title": u"Want to join us?",
                     "text": u"""
-                        Mentee & Mentor positions are now open for Fall 2021! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. Applications are due Friday, September 10th @ 11:59PM for both mentors and mentees. Mentors will be contacted for coffee chats which will be conducted on September 11th & 12th (Sat & Sun). Both mentors & mentees will hear back from us regarding the decision by September 13th midnight, and the deadline to accept our offer will be September 15th. 
-                        <br><br>
-                        If you’re interested in getting to know more about ULAB DS and its structure, or if you have any questions you'd like to ask us, attend our info session: more details on our Facebook page <a href='https://www.facebook.com/ulabdatascience/'>here</a>.
-                        <br><br>
-                        Mentee Application: <a href='https://tinyurl.com/ULABDSmentee'>https://tinyurl.com/ULABDSmentee</a>
-                        <br><br>
-                        Mentor Application: <a href='https://tinyurl.com/ULABDSmentor'>https://tinyurl.com/ULABDSmentor</a>
-                        <br><br>
-                        If you have any questions about the application process, please email <a href='mailto:kashishk@berkeley.edu'>kashishk@berkeley.edu</a>
+                        We are currently looking to fill mentor and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please email alanlp@berkeley.edu. <br/>
+                         <a href="https://forms.gle/TDe6YmYeKY3VkUNC6">Mentor Application</a> <br/>
+                         <a href="https://forms.gle/fT3hi9NpW2KUye9BA">Mentee Application</a>
                         """
                 },
                 "calendar": {
