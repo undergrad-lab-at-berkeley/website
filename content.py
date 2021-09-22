@@ -63,7 +63,7 @@ labs = {
                     "link": "https://drive.google.com/file/d/1N4Cipbns-FMjD4yefx97KDqVOObv2ulZ/view?usp=sharing"
                 },
                 "modules": {
-                    "link": "https://docs.google.com/document/d/193iaqgP4M5JJXDcPtPC8S5vVd4Q7oHD6MZdzJp-AUPo/edit?usp=sharing"
+                    "link": "https://docs.google.com/document/d/1qTL6MKEss-XpFKhx50v1PXzCuOZgsIHdVYduIk2OaKE/edit?usp=sharing"
                 },
                 "resources": {
                     "link": "https://drive.google.com/drive/folders/1H7nmUNhrPlhBdOhwsMN9PFK8DOolUcFe?usp=sharing"
