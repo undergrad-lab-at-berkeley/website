@@ -77,7 +77,7 @@ labs = {
             "full_name": u"Physics and Astronomy",
             "navbar": u"Physics",
             "status": "Active",
-            "members": ["Yi Zhu", "Anmol Desai", "Rav Kaur", "Pablo Castano", "Carrie Zuckerman", "Dan Kasen"],
+            "members": ["Yi Zhu", "Anmol Desai", "Rav Kaur", "Padma Venkatraman"],
             "content": {
                 "overview": {
                     "title": u"Lab Overview",
@@ -92,6 +92,8 @@ labs = {
                         Our program, extends beyond project work. Students attend weekly workshops on essential research skills such as programming, statistics, etc. At the end of our program, students will have gained basic research skills often desired by research labs and will have demonstrated these skills in the process of completing a project of their own from start-to-finish.
                         <br><br>
                         Contact us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a> with any questions or concerns!                         
+                        <br><br>
+                        <a href="https://docs.google.com/document/d/1J_nPg7X1tv7KuOh9MCrAB86AOovm5SFgrrNRBkrfmAI/edit?usp=sharing" target="_blank">ULAB Physics & Astronomy CODE OF CONDUCT</a>
                         """
                 },
                 "join": {
@@ -99,14 +101,14 @@ labs = {
                     "text": """
                         <b style='font-size:150%;'> Join Us! </b>
                         <br><br>
-                        <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Tu/Th 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester.
+                        <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Mon/Wed 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester. Click on the tabs to learn about each position.
                         <br><br>
                         <b>Mentees:</b>
-                        The mentee application is currently closed.
+                        The mentee application is available <a href="https://forms.gle/26UYs54t8EZBFLQ86" target='_blank'>HERE</a> and will close September 4, 2021.
                         <br><br>
                         <b>Mentors:</b>
                         <!-- The mentor application is currently closed. -->
-                        The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>here</a> and will close TBD. Mentors will be supported by a $500/semester scholarship.
+                        The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>HERE</a> and will be considered on a rolling basis. Mentors will be supported by a $600/semester stipend.
                         <br><br>
                         <b>Graduate Students/Postdocs:</b>  Opportunities for graduate students, postdocs, and faculty to get involved are available year-round! Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                     """
@@ -120,7 +122,7 @@ labs = {
                     "text": u"""
                         <b style='font-size:150%;'> Mentee Information </b>
                         <br><br>
-                        ULAB is a 2-semester DeCal sponsored by Prof. Dan Kasen. We meet Tuesday/Thursday 7-8 PM in-person!
+                        ULAB is a 2-semester DeCal sponsored by Prof. Dan Kasen. We meet Mon/Wed 7-8 PM in-person!
                         <br><br>
                         <b>Timeline: </b>fall semester is dedicated to creating a research proposal. Students are split into groups of 3-5 and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. 
                         <br><br>
@@ -132,10 +134,24 @@ labs = {
                         <br><br>
                         <b>Q: What are the prerequisites for ULAB?</b>
                         <br>
-                        None! We do not expect students to have prior research or programming experience. 
+                        None! Many students are first and seconds years with no prior research or programming experience. 
                         <br><br>
-                        Hang tight, this page is being updated!
-                    """
+                        <b>Q: I'm a junior/junior transfer/senior, should I apply?</b>
+                        <br>
+                        Definitely! Many upperclassmen have found ULAB helpful in obtaining research experience. However, ULAB may not be the right choice if you already feel prepared to join a lab or have very little time left at Berkeley. 
+                        <br><br>
+                        <b>Q: How competitive is the program?</b>
+                        <br>
+                        We accept as many students as possible. In the event that space is limited, students that benefit most from our program have priority. 
+                        <br><br>
+                        <b>Q: How are project topics choosen?</b><br>
+                        Available topics are determined by out cohort of mentors and vary year by year. We are able to normally cover the major subfields in physics and astronomy. Mentees have a large say in the mentor/project they work on.<br><br>
+                        <b>Q: Can I apply to ULAB in addition to other research programs?</b><br>
+                        Yes. Students that join ULAB, but are subsequently accepted into another program (e.g. URAP) may pursue both concurrently or drop ULAB before the drop deadline late September.              
+                        <br><br>
+                        <b>Q: Do ULAB projects yeild results?</b><br>
+                        Wrong question. ULAB is a <i>research training</i> organization. Through conducting their projects, mentees learn about the basic knowledge and skills required to conduct research in their field and leave our program a better candidate, and better prepared for research. (…but to answer the question, most projects do yield interesting results; and even when they don’t, mentees are able to explain their work and what they’ve learned).
+                        """
                 },
                 "mentors":{
                     "title": "Mentor Info",
@@ -144,15 +160,19 @@ labs = {
                         <br><br>
                         Mentorship can be a very fruitful and rewarding experience for undergraduates with research experience. Mentors' primary job is to meet weekly with their group of 3-5 mentees during the year-long process of conducting an independent research project. Mentors will lead discussions on topics in their field and guide their group through their project.
                         <br><br>
-                        Mentoring is a great way to build your resume, network with other researchers, gain leadership experience, and explore a topic you're interested in! <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $500/semester scholarship.</b>
-                        <br><br>
-                        The mentor position is a two-semester commitment. Mentors meet with their groups 1-2 hrs/week and generally spend an additional 1-2 hours outside of in-person meetings. We require that mentors be available Thursdays 7-8 PM and enroll in 2 research units (Astron. 198).
-                        <br><br>
+                        Mentorship is a unique <i>learning</i> opportunity. Mentors will expereince the process of leading a scientific project, conduct research in a topic of their interest, and interact with fellow undergraduate and graduate researchers. <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $600/semester stipend.</b>
+                        <br><br><br>
+
                         <b style='font-size:150%;'> QnA</b>
                         <br><br>
-
-
-                        We're editing this page, hang tight!
+                        <b>Q: What is the committment?</b><br>
+                        Mentorship is a 2-semester positions. Mentors meet with their groups 1-2 hrs/week and generally spend an additional 1-3 hours outside of in-person meetings. We require that mentors be available Wednesday 7-8 PM and enroll in 2 research units (Astron. 198).<br><br>
+                        <b>Q: How much research experience is expected?</b><br>
+                        Mentors are not expected to be experts, but should be comfortable exploring their field. They must be prepared to help mentees learn about a new topic, and to learn about a new topic/project themselves. At least 1 semester of research in a group is recommended.
+                        <br><br>
+                        <b>Q: How are project topics choosen</b>
+                        <br>
+                        While some mentors have a clear project in mind, most mentors begin an idea of topics they would like to work on. They are paired with mentees with similar interests. Mentors and mentees together determine a suitable project. We are able to reasonably fund physical projects, simulations, etc. 
                     """
                 },
                 "advisors":{
@@ -168,9 +188,6 @@ labs = {
                         <br><br>
                         Opportunities for advisors are available year-round. Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                         <br><br>
-                        <b style='font-size:150%;'> QnA</b>
-                        <br><br>
-                        We're editing this page, hang tight!
                     """
                 },
                 "projects":{
