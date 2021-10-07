@@ -241,11 +241,11 @@ labs = {
             }
     },
 
-    "bio": {
+    "phhs": {
             "logo" : u"/static/img/logos/logo_public_health.png",
-            "short_name": u"genetics",
-            "full_name": u"Health Sciences",
-            "navbar": u"Health Sciences",
+            "short_name": u"phhs",
+            "full_name": u"Public Health & Health Science",
+            "navbar": u"Public Health & Health Science",
             "status": "Active",
             "members": ["Angikaar Chana", "Candice Ng", "Meeseo Lee", "Ting Guo", "Kasturi Sarkar", "Alina Su", "Anisha Chandy", "Jessica Situ", "Misha Lubich", "Alec Parker"],
             "content": {
