@@ -220,7 +220,7 @@ members = {
 			"bio": """I am a third-year majoring in psychology and cognitive science. I currently work as a Marketing, Outreach and Volunteer Coordination intern at the Gender Equity Resource Center and am fascinated with the intersection between social psychology and psychopathology. In my free time, I like to draw, tag my friends in memes and make small embroidered friends. I had a great experience as a mentee last year and hope I can help make all of your experiences great as well!""",
 			"img": "img/staff/JiminOh.jpg"
 		},
-		"""Mark D'Esposito""": {
+		"""Mark DEsposito""": {
 			"title": "Faculty Advisor",
 			"email": "despo@berkeley.edu",
 			"linkedin": "",
