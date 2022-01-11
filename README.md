@@ -28,6 +28,8 @@ To push changes to production:
 
 (PPT can be found here: https://docs.google.com/presentation/d/1N9LT0mU1cIaF6q2hzRPUgo6TFAvye9zHupHPgBvRCmc/edit?ts=5b4d6634#slide=id.g326e5cd416_0_180)
 
+To check for Non-ASCII characters: https://pages.cs.wisc.edu/~markm/ascii.html
+
 ###How to add calendar:
 
 Sign in to the Berkeley google account and do the steps below
