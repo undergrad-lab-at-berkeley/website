@@ -9,6 +9,14 @@
 #         output.update(categories[k])
 #     return output
 
+import pandas as pd
+
+# physics lab read former members
+df = pd.read_csv('static/doc/physics_former.csv', names=['0', '1', '2', '3'], skiprows=1)
+former_name = df['0'].tolist()
+former_position = df['1'].tolist()
+former_now = df['3'].tolist()
+
 # Given INPUT_DICT and set ENTRIES, returns new dict with items from INPUT_DICT that match the keys indicated by ENTRIES
 def filter_dict(input_dict, entries):
     # Compares INPUT_DICT keys with set ENTRIES, matching keys are used in a dictionary comprehension
@@ -80,6 +88,11 @@ labs = {
             "navbar": u"Physics",
             "status": "Active",
             "members": ["Yi Zhu", "Anmol Desai", "Rav Kaur", "Padma Venkatraman"],
+            "former": {
+                'former_name': former_name,
+                'former_position': former_position,
+                'former_now': former_now
+            },
             "content": {
                 "overview": {
                     "title": u"Lab Overview",
@@ -162,7 +175,7 @@ labs = {
                         <br><br>
                         Mentorship can be a very fruitful and rewarding experience for undergraduates with research experience. Mentors' primary job is to meet weekly with their group of 3-5 mentees during the year-long process of conducting an independent research project. Mentors will lead discussions on topics in their field and guide their group through their project.
                         <br><br>
-                        Mentorship is a unique <i>learning</i> opportunity. Mentors will expereince the process of leading a scientific project, conduct research in a topic of their interest, and interact with fellow undergraduate and graduate researchers. <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $600/semester stipend.</b>
+                        Mentorship is a unique <i>learning</i> opportunity. Mentors will expereince the process of leading a scientific project, conduct research in a topic of their interest, and interact with fellow undergraduate and graduate researchers. <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $600/semester stipend. (Stipends may affect your financial aid).</b>
                         <br><br><br>
 
                         <b style='font-size:150%;'> QnA</b>
