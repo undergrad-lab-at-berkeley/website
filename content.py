@@ -9,13 +9,17 @@
 #         output.update(categories[k])
 #     return output
 
-import pandas as pd
+import csv
 
-# physics lab read former members
-df = pd.read_csv('static/doc/physics_former.csv', names=['0', '1', '2', '3'], skiprows=1)
-former_name = df['0'].tolist()
-former_position = df['1'].tolist()
-former_now = df['3'].tolist()
+# physics lab read former members 
+file = csv.DictReader(open('static/doc/physics_former.csv', 'r'))
+former_name = []
+former_position = []
+former_now = []
+for col in file:
+    former_name.append(col['Name'])
+    former_position.append(col["ULAB Positions (2017-2018 = '18)"])
+    former_now.append(col['Now'])
 
 # Given INPUT_DICT and set ENTRIES, returns new dict with items from INPUT_DICT that match the keys indicated by ENTRIES
 def filter_dict(input_dict, entries):
