@@ -13,10 +13,7 @@ import csv
 
 # physics lab read former members 
 # this is all super janky
-try:
-    file = csv.DictReader(open('static/doc/physics_former.csv', 'r'))
-except Exception:
-    file = csv.DictReader(open('/static/doc/physics_former.csv', 'r'))
+file = csv.DictReader(open('/static/doc/physics_former.csv', 'r'))
 
 former_name = []
 former_position = []
