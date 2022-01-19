@@ -277,9 +277,7 @@ labs = {
                 "join": {
                     "title": "Want to join us?",
                     "text": u"""
-                            We are currently looking to fill board member and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please send an email to <a href="mailto:publichealth.ulab@gmail.com">publichealth.ulab@gmail.com</a>. <br/>
-                            <a href="https://bit.ly/ULAB-PHHS-MentorApp">Mentor application</a> <br/>
-                         	<a href="https://bit.ly/ULAB-PHHS-MenteeApp">Mentee Application</a>
+                            We are currently not taking applications for the 2021-2022 school year. Please keep an eye out in fall for the 2022-2023 application!
                             """
                 },
                 "calendar": {
