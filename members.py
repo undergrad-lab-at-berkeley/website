@@ -701,6 +701,16 @@ members = {
 			"img": "img/staff/bio/meeseo_lee.jpg",
 			"bio": "Hi! I'm Meeseo and I'm a second year majoring in MCB-Neurology. I like to draw and paint and my favorite movie is Up :) One important aspect of research I value the most is the community and the interactions between the people in the lab and I hope that ULAB PHHS provide positive and welcoming environment for everyone who joins and really help people grow professionally as well as personally!"
 		},
+		"Anisha Chandy": {
+			"title": "Head Editor-in-Chief",
+			"email": "anishamchandy@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/anisha_chandy.jpg",
+			"bio": "My name is Anisha Chandy and I am a junior studying MCB-Neurobiology and double minoring in Journalism and STEM Education. I am super excited to work with everyone this year on their projects and help make sure you have a great ULAB experience!"
+		},
 		"Adrian Fu": {
 			"title": "Operations and Outreach Director",
 			"email": "",
@@ -721,16 +731,6 @@ members = {
 			"img": "img/staff/bio/IshnaPandey.jpg",
 			"bio": ""
 		},
-		"Ting Guo": {
-			"title": "Finance Director",
-			"email": "",
-			"linkedin": "https://www.linkedin.com/in/ting-guo-957aa719a/",
-			"facebook": "",
-			"github": "",
-			"personal": "",
-			"img": "img/staff/bio/ting_guo.jpg",
-			"bio": "Hi! I'm Ting! I am currently a freshman intending to double major in Molecular and Cell Biology and Psychology. I am interested in the areas of medical biology and cell/developmental biology. I aim to use the skills I learned to prepare for medical school. I am really excited to work with the ULAB PHHS Division to oversee exciting researching projects. In my free time, I enjoy baking and spending time with friends virtually."
-		},
 		"Andrew Koh": {
 			"title": "Head Mentor Coordinator",
 			"email": "",
@@ -741,15 +741,15 @@ members = {
 			"img": "",
 			"bio": ""
 		},
-		"Anisha Chandy": {
-			"title": "Head Editor-in-Chief",
-			"email": "anishamchandy@berkeley.edu",
+		"Tanirika Singh": {
+			"title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
+			"email": "",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/anisha_chandy.jpg",
-			"bio": "My name is Anisha Chandy and I am a junior studying MCB-Neurobiology and double minoring in Journalism and STEM Education. I am super excited to work with everyone this year on their projects and help make sure you have a great ULAB experience!"
+			"img": "",
+			"bio": "Hi! My name is Tanirika and I am currently a sophomore planning on majoring in MCB. I'm super excited to be a part of the ULAB team this year and work towards optimizing the quality of research that is done across the research groups and providing the necessary support to all the members. Looking forward to the year ahead!"
 		},
 		"Jean Ye": {
 			"title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
@@ -761,15 +761,15 @@ members = {
 			"img": "img/staff/bio/JeanYe.jpg",
 			"bio": "Hi everyone! My name is Jean Ye, and I am currently a sophomore intending to major in Biology+Business. Some of my research interests include biotech, bioethics, and machine learning. I'm super excited to see what research projects you all come up with this year and to help out as much as I can, so feel free to reach out whenever! :)"
 		},
-		"Tanirika Singh": {
-			"title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
+		"Ting Guo": {
+			"title": "Finance Director",
 			"email": "",
-			"linkedin": "",
+			"linkedin": "https://www.linkedin.com/in/ting-guo-957aa719a/",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "",
-			"bio": "Hi! My name is Tanirika and I am currently a sophomore planning on majoring in MCB. I'm super excited to be a part of the ULAB team this year and work towards optimizing the quality of research that is done across the research groups and providing the necessary support to all the members. Looking forward to the year ahead!"
+			"img": "img/staff/bio/ting_guo.jpg",
+			"bio": "Hi! I'm Ting! I am currently a freshman intending to double major in Molecular and Cell Biology and Psychology. I am interested in the areas of medical biology and cell/developmental biology. I aim to use the skills I learned to prepare for medical school. I am really excited to work with the ULAB PHHS Division to oversee exciting researching projects. In my free time, I enjoy baking and spending time with friends virtually."
 		},
 		"Namrata Kantamneni": {
 			"title": "Computer Science Director",

@@ -248,7 +248,7 @@ labs = {
             "full_name": u"Health Sciences",
             "navbar": u"Health Sciences",
             "status": "Active",
-            "members": ["Angikaar Chana", "Candice Ng", "Meeseo Lee", "Ting Guo", "Anisha Chandy", "Alec Parker"],
+            "members": ["Candice Ng", "Shrina Pandey", "Meeseo Lee", "Anisha Chandy", "Adrian Fu", "Ishna Pandey", "Andrew Koh", "Tanirika Singh", "Jean Ye", "Ting Guo", "Namrata Kantamneni", "Alec Parker", "Jenny Wu"],
             "content": {
                 "overview": {
                     "title": "Looking to better understand the nuances of public health!",
