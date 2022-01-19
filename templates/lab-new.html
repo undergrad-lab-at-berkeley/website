@@ -146,6 +146,26 @@
                                                 </div>
  
                                     </div>
+                                    <div class="container" style="padding-top: 20px; text-align: left">
+                                      <p class='lead'><b style='font-size:150%;'> Past Members: </b></p>
+                                      <table style='border-collapse: collapse;width: 100%;'>
+                                        <tr>
+                                          <th style="border: 1px solid white; background-color: white; color: black; font-size:130%"><b>Name</b></th>
+                                          <th style="border: 1px solid white; background-color: white; color: black; font-size:130%"><b>Position</b></th>
+                                          <th style="border: 1px solid white; background-color: white; color: black; font-size:130%"><b>Now</b></th>
+                                        </tr>
+
+                                          {% for i in range(lab['former']['former_name']|length) %}
+                                          <tr>
+                                          <th style="border: 1px solid white; background-color: white; color:#666666; font-size:120%">{{lab['former']['former_name'][i]}}</th>
+                                          <th style="border: 1px solid white; background-color: white; color:#666666; font-size:120%">{{lab['former']['former_position'][i]}}</th>
+                                          <th style="border: 1px solid white; background-color: white; color:#666666; font-size:120%">{{lab['former']['former_now'][i]}}</th>
+                                          </tr>
+                                          {% endfor %}
+
+                                      </table>
+                                    </div>
+                                    
                                 </div>
                             </li>
                             <li class="mentees">

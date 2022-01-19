@@ -9,6 +9,8 @@
 #         output.update(categories[k])
 #     return output
 
+import csv
+
 # Given INPUT_DICT and set ENTRIES, returns new dict with items from INPUT_DICT that match the keys indicated by ENTRIES
 def filter_dict(input_dict, entries):
     # Compares INPUT_DICT keys with set ENTRIES, matching keys are used in a dictionary comprehension
@@ -26,7 +28,7 @@ labs = {
             "full_name": u"Psychology and Cognitive Sciences",
             "navbar": u"Cog_Sci",
             "status": "Active",
-            "members": ["Kunal Kapoor", "Jimin Oh", "Lexi Zhou", "Amanda Felty", "Samantha Juang", "Cameron Fozi", "Aida Raza", "Taylor Worley", "Shreya Ramasubban"],
+            "members": ["Kunal Kapoor", "Jimin Oh", "Lexi Zhou", "Mark D\'Esposito", "Amanda Felty", "Samantha Juang", "Cameron Fozi", "Aida Raza", "Taylor Worley", "Shreya Ramasubban"],
             "content": {
                 "overview": {
                     "group_photo": u"/static/img/staff/CogSci_Group_Photo.jpg",
@@ -38,15 +40,18 @@ labs = {
                         <p><p/>
                         Our projects this year involve social psychology, fMRI analyses, visual field cortices, language processing, among others. All projects will be published in a paper and poster series via UC eScholarship Open Access publishing. Posters will be presented to notable UC Berkeley faculty. This will certainly aid in getting on-campus research.
                         <p><p/>
+                        Currently, Dr. Mark D'Esposito, Professor of Neuroscience and Psychology at UC Berkeley, serves as primary faculty advisor. As the ULab Board of Directors pursues new projects and initiatives, Dr. D'Esposito oversees their work to ensure the advancement of ULab's mission.
+                        <p><p/>
                         Our Sponsors: The <a href="http://www.wheelerlabs.berkeley.edu">Wheeler Labs</a> is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
                         """
                 },
                 "sponsor": {
                     "title": "Want to join us?",
                     "text": """
-                        Applications for mentors and mentees for the 2021-2022 year are out! They can be found at the following hyperlinks: <a href="http://bit.ly/ulabmentor21">Mentor Apps</a> and <a href="http://bit.ly/ulabmentee21">Mentee Apps</a>. Deadlines and details are provided on the applications. <br/>  <br/> 
-                        Feel free to reach out to us for advice by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
+                        Applications for mentors and mentees for the 2021-2022 year are closed! 
+                        However, feel free to reach out to us by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
                         """
+                        # They can be found at the following hyperlinks: <a href="http://bit.ly/ulabmentor21">Mentor Apps</a> and <a href="http://bit.ly/ulabmentee21">Mentee Apps</a>. Deadlines and details are provided on the applications. <br/>  <br/> 
                 },
                 "join": {
                     "title": """Sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a>.""",
@@ -62,7 +67,7 @@ labs = {
                     "link": "https://drive.google.com/file/d/1N4Cipbns-FMjD4yefx97KDqVOObv2ulZ/view?usp=sharing"
                 },
                 "modules": {
-                    "link": "https://docs.google.com/document/d/193iaqgP4M5JJXDcPtPC8S5vVd4Q7oHD6MZdzJp-AUPo/edit?usp=sharing"
+                    "link": "https://docs.google.com/document/d/1qTL6MKEss-XpFKhx50v1PXzCuOZgsIHdVYduIk2OaKE/edit?usp=sharing"
                 },
                 "resources": {
                     "link": "https://drive.google.com/drive/folders/1H7nmUNhrPlhBdOhwsMN9PFK8DOolUcFe?usp=sharing"
@@ -76,7 +81,24 @@ labs = {
             "full_name": u"Physics and Astronomy",
             "navbar": u"Physics",
             "status": "Active",
-            "members": ["Yi Zhu", "Anmol Desai", "Rav Kaur", "Pablo Castano", "Padma Venkatraman", "Carrie Zuckerman", "Dan Kasen"],
+            "members": ["Yi Zhu", "Anmol Desai", "Rav Kaur", "Padma Venkatraman"],
+            "former": {
+                'former_name': [
+                    'Arjun Savel',
+                    'Aditya Sengupta',
+                    'Lawrence Edmond, IV'
+                ],
+                'former_position': [
+                    "Director '19, Lab Manager '18",
+                    "Curriculum Chair '21, Mentor '20",
+                    "Mentor '21"
+                ],
+                'former_now': [
+                    'Astro gradaute student at UMD',
+                    'Mathematics masters student at Cambridge',
+                    '-'
+                ]
+            },
             "content": {
                 "overview": {
                     "title": u"Lab Overview",
@@ -99,8 +121,6 @@ labs = {
                     "title": u"Join Us!",
                     "text": """
                         <b style='font-size:150%;'> Join Us! </b>
-                        <br><br>
-                        <span style="color:#FF0000">COVID-19: we will remain operational either online or in-person. Currently, we expect to be in person fall 2021; but will switch to online with little disruption depending on the public health situation.</span>
                         <br><br>
                         <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Mon/Wed 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester. Click on the tabs to learn about each position.
                         <br><br>
@@ -161,7 +181,7 @@ labs = {
                         <br><br>
                         Mentorship can be a very fruitful and rewarding experience for undergraduates with research experience. Mentors' primary job is to meet weekly with their group of 3-5 mentees during the year-long process of conducting an independent research project. Mentors will lead discussions on topics in their field and guide their group through their project.
                         <br><br>
-                        Mentorship is a unique <i>learning</i> opportunity. Mentors will expereince the process of leading a scientific project, conduct research in a topic of their interest, and interact with fellow undergraduate and graduate researchers. <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $600/semester stipend.</b>
+                        Mentorship is a unique <i>learning</i> opportunity. Mentors will expereince the process of leading a scientific project, conduct research in a topic of their interest, and interact with fellow undergraduate and graduate researchers. <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $600/semester stipend. (Stipends may affect your financial aid).</b>
                         <br><br><br>
 
                         <b style='font-size:150%;'> QnA</b>
@@ -251,16 +271,15 @@ labs = {
             "members": ["Candice Ng", "Shrina Pandey", "Meeseo Lee", "Anisha Chandy", "Adrian Fu", "Ishna Pandey", "Andrew Koh", "Tanirika Singh", "Jean Ye", "Ting Guo", "Namrata Kantamneni", "Alec Parker", "Jenny Wu"],
             "content": {
                 "overview": {
-                    "title": "Looking to better understand the nuances of public health!",
+                    "title": "Lab Overview Coming Soon!",
                     "text": u"""Check out the syllabus here: <br> <a href='http://bit.ly/ULAB-PHHS-website'>Syllabus</a>"""
                 },
                 "join": {
                     "title": "Want to join us?",
                     "text": u"""
-                            We are currently looking to fill mentor and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please send an email to <a href="mailto:publichealth.ulab@gmail.com">publichealth.ulab@gmail.com</a>. We are having a info session on September 16th at 7 pm, and the zoom link for this meeting is posted below.<br/>
-                            <a href="https://tinyurl.com/e4hxpf43">Mentor application</a> <br/>
-                         	<a href="https://tinyurl.com/3nj32bpp">Mentee Application</a> <br/>
-                         	<a href="https://berkeley.zoom.us/j/91393277945?pwd=NGZKVDNoSWlNUHpTbklpUHhCeCtmZz09">Zoom Link</a>
+                            We are currently looking to fill board member and mentee postions for this semester! If you would like to be considered for a role in our lab next semester, please fill out the respective form below. If you have any more questions or would like to learn more about our lab, please send an email to <a href="mailto:publichealth.ulab@gmail.com">publichealth.ulab@gmail.com</a>. <br/>
+                            <a href="https://bit.ly/ULAB-PHHS-MentorApp">Mentor application</a> <br/>
+                         	<a href="https://bit.ly/ULAB-PHHS-MenteeApp">Mentee Application</a>
                             """
                 },
                 "calendar": {
@@ -282,17 +301,19 @@ labs = {
             "overview": {
                 "title": "Lab Overview",
                 "text": u"""
-                Founded in Spring 2021, the Computational Biology Division of the Undergraduate Lab at Berkeley, aims to give interested undergraduates a chance to conduct their own research projects in Computational Biology in small groups under the guidance of experienced undergraduate mentors. Along the way they will gain fundamental research skills, explore relevant background knowledge, and gain experience in the research process. Our goal is to help students feel confident and prepared to seek out on-campus opportunities in the exciting field of computational biology. Some of our past projects have ranged from determining the best peanut protein candidates for gene editing to understanding the impact of synonymous variants in Alzheimer’s disease! <br/>
-                The lab will meet as a DeCal over the course of one year. Students will spend class time learning background information and meeting with their groups to work on their project. Mentors will supervise groups of 4-6 students, and guide them through the process of exploring a research question. The DeCal will conclude with a final project presentation. See the course syllabus <a href="https://drive.google.com/file/d/1pHb1hSwMLzob2FueYIKp5Tq-721hZoR-/view?usp=sharing">here</a>, and our decal page <a href="https://decal.berkeley.edu/courses/6039">here</a>!<br/>.
+                Founded in Spring 2021, the Computational Biology Division of the Undergraduate Lab at Berkeley, aims to give interested undergraduates a chance to conduct their own research projects in Computational Biology in small groups under the guidance of experienced undergraduate mentors. Along the way they will gain fundamental research skills, explore relevant background knowledge, and gain experience in the research process. Our goal is to help students feel confident and prepared to seek out on-campus opportunities in the exciting field of computational biology. <br/>
+                The lab will meet as a DeCal over the course of one semester. Students will spend class time learning background information and meeting with their groups to work on their project. Mentors will supervise groups of 4-6 students, and guide them through the process of exploring a research question. The DeCal will conclude with a final project presentation. See the course syllabus <a href="https://drive.google.com/file/d/1WxTg71qLSEaavCrHTgWb5uFt_6mG3nzr">here</a>, and our decal page <a href="https://decal.berkeley.edu/courses/5458">here</a>!<br/>.
                 """
             },
             "join": {
                 "title": "Join Us!",
                 "text":u"""
-                <a href="https://forms.gle/65nYiGpcGaBw2uT49">Apply Now!</a>
-                </br>
-                Mentors will guide an undergraduate team of 4-6 students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-year symposium. Mentors and mentees receive 2 units through IB 98. Some of our past projects have ranged from determining the best peanut protein candidates for gene editing to understanding the impact of synonymous variants in Alzheimer’s disease! The application for mentors is due on Thursday, September 2nd at 11:59 PM. The application for mentees is due on Friday, September 3rd at 11:59 PM.
+                Unfortunately, our applications for this semester have closed. We will be posting our course materials below throughout the course, so feel free to follow along!
                 """
+
+                #<a href="https://forms.gle/4CUb93ZLr3KVeTcZ6">Apply Now!</a><br/><br/>
+                #<b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Wednesday, January 27th at 11:59PM PT; apply now at the link above!.<br/><br/>
+                #<b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link above!
                 #"""
             },
             "calendar" : {

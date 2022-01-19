@@ -26,3 +26,5 @@ pickle-mixin
 datetime 
 pytz
 slack_sdk
+numpy
+pandas  
