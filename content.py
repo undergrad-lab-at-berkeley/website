@@ -328,7 +328,7 @@ labs = {
             "full_name": u"Data Science",
             "navbar": u"Data Science",
             "status": "Active",
-            "members": ["Kashish Kharbanda", "Nandita Radhakrishnan", "Won Shil Park", "Srikanth Nampoothiri", "Ethan Qiu", "Selena Lu", "Arjun Vats"],
+            "members": ["Kashish Kharbanda", "Nandita Radhakrishnan", "Won Shil Park", "Srikanth Nampoothiri", "Ethan Qiu", "Arjun Vats"],
             "content": {
                 "overview": {
                     "title": "Lab Overview",
@@ -346,15 +346,15 @@ labs = {
                 "join": {
                     "title": u"Want to join us?",
                     "text": u"""
-                        Mentee & Mentor positions are now open for Fall 2021! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. Applications are due Friday, September 10th @ 11:59PM for both mentors and mentees. Mentors will be contacted for coffee chats which will be conducted on September 11th & 12th (Sat & Sun). Both mentors & mentees will hear back from us regarding the decision by September 13th midnight, and the deadline to accept our offer will be September 15th. 
+                        Mentee & Mentor positions are now open for Spring 2022! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. Applications are due Friday, February 4th @ 11:59PM for both mentors and mentees. Both mentors & mentees will hear back from us regarding the decision by Sunday, February 6th; the deadline to accept our offer will be Tuesday, February 8th. 
                         <br><br>
-                        If you’re interested in getting to know more about ULAB DS and its structure, or if you have any questions you'd like to ask us, attend our info session: more details on our Facebook page <a href='https://www.facebook.com/ulabdatascience/'>here</a>.
+                        If you’re interested in getting to know more about ULAB DS and its structure, or if you have any questions you'd like to ask us, attend our info session on Tuesday 2/1 @ 8PM: more details on our Facebook page <a href='https://fb.me/e/22SDc3utS'>here</a>.
                         <br><br>
-                        Mentee Application: <a href='https://tinyurl.com/ULABDSmentee'>https://tinyurl.com/ULABDSmentee</a>
+                        Mentee Application: <a href='https://docs.google.com/forms/d/e/1FAIpQLSdid-6ZauDfHUX4j4HAGTAhgysko9_se7hfsnyX3uUlwQmNeg/viewform'>tinyurl.com/sp22ulab</a>
                         <br><br>
-                        Mentor Application: <a href='https://tinyurl.com/ULABDSmentor'>https://tinyurl.com/ULABDSmentor</a>
+                        Mentor Application: <a href='https://docs.google.com/forms/d/e/1FAIpQLSfdGP_rMkEOOlOIazpd87fpr7cO2brL5X2VOD3VXdFwEjV6Sg/viewform'>tinyurl.com/sp22dsmentor</a>
                         <br><br>
-                        If you have any questions about the application process, please email <a href='mailto:kashishk@berkeley.edu'>kashishk@berkeley.edu</a>
+                        If you have any questions about the application process, please email <a href='mailto:kashishk@berkeley.edu'>kashishk@berkeley.edu</a>!
                         """
                 },
                 "calendar": {
