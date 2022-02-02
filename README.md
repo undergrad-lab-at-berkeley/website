@@ -21,7 +21,7 @@ To push changes to production:
 2. Make changes
 3. Test changes locally
 4. Push to GitHub ("git add <FILES>" or "git add \*" to add everything)
-5. SSH to server with: "ssh ulab@apphost.ocf.berkeley.edu"
+5. SSH to server with: ``ssh ulab@apphost.ocf.berkeley.edu``
 6. See credential info and other VERY IMPORTANT information here: https://docs.google.com/document/d/1lwv4SWmI5_76DveJEai9_hve2NqTfYH4dLPCtza9ny4/edit
 7. Pull the changes to the server
 8. Restart the app
