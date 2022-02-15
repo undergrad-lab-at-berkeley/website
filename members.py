@@ -693,13 +693,13 @@ members = {
 		},
 		"Shrina Pandey": {
 			"title": "Lab Manager",
-			"email": "",
+			"email": "spandey13@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/ShrinaPandey.jpg",
-			"bio": ""
+			"bio": "Why, hello there! I’m Shrina, a rising sophomore majoring in MCB, and it’s truly an honor to be a part of such a wonderful team at ULAB. My hope is to guide you while you pursue work that excites you most both in and out of ULAB, and that I can play some role no matter how large or small in your ability to learn and appreciate the depth of the research experience. Please let me know if you have any questions, comments, concerns, or just want to say hello. I promise I won't bite!"
 		},
 		"Meeseo Lee": {
 			"title": "Lab Manager",
@@ -723,47 +723,47 @@ members = {
 		},
 		"Adrian Fu": {
 			"title": "Operations and Outreach Director",
-			"email": "",
+			"email": "adrian.fu@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/AdrianFu.jpg",
-			"bio": ""
+			"bio": "What’s popping everybody? It’s nice to meet you, but it’s even better to meet me. I’m a second year majoring in cognitive science and always down for a quick chat, so if you guys ever need help with ULAB, the cogsci department, or even just someone to vent to, feel free to contact my good friend Ishna Pandey. Ciao!"
 		},
 		"Ishna Pandey": {
 			"title": "Operations and Outreach Director",
-			"email": "",
+			"email": "ishna13@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/IshnaPandey.jpg",
-			"bio": ""
+			"bio": "Hey everyone, I’m Ishna Pandey, a sophomore majoring in Public Health and I’m super excited to meet you guys and get to know you. Feel free to contact me if you have any questions, comments, or concerns and I would love to help! I hope you all have a great and fulfilling experience at ULAB!"
 		},
 		"Andrew Koh": {
 			"title": "Head Mentor Coordinator",
-			"email": "",
+			"email": "adkoh515@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "",
-			"bio": ""
+			"img": "img/staff/bio/Andrew_Koh.jpg",
+			"bio": "Hey guys! My name is Andrew Koh and I’m a junior majoring in MCB with a concentration in biochemistry. I’m looking forward to getting to know everyone involved in ULAB this year and I’m excited to see the cool ideas everyone comes up with. I’m always down for a conversation, so feel free to reach out whenever!"
 		},
 		"Tanirika Singh": {
 			"title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
-			"email": "",
+			"email": "tanirikasingh@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "",
+			"img": "img/staff/bio/TanirikaSingh.jpg",
 			"bio": "Hi! My name is Tanirika and I am currently a sophomore planning on majoring in MCB. I'm super excited to be a part of the ULAB team this year and work towards optimizing the quality of research that is done across the research groups and providing the necessary support to all the members. Looking forward to the year ahead!"
 		},
 		"Jean Ye": {
 			"title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
-			"email": "",
+			"email": "jeanye@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
@@ -773,7 +773,7 @@ members = {
 		},
 		"Ting Guo": {
 			"title": "Finance Director",
-			"email": "",
+			"email": "tingguo20@berkeley.edu",
 			"linkedin": "https://www.linkedin.com/in/ting-guo-957aa719a/",
 			"facebook": "",
 			"github": "",
@@ -793,7 +793,7 @@ members = {
 		},
 		"Alec Parker": {
 			"title": "Social Chair",
-			"email": "",
+			"email": "alecparker@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
@@ -803,13 +803,13 @@ members = {
 		},
 		"Jenny Wu": {
 			"title": "Social Chair",
-			"email": "",
+			"email": "yingjungwu2222@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/JennyWu.jpg",
-			"bio": ""
+			"bio": "My name is Jenny Wu, and I am a second year student studying chemical biology. I am so excited to be your social chair this year, and I can’t wait to get to know all of you!"
 		},
 		"Angikaar Chana": {
 			"title": "Senior Advisor",
