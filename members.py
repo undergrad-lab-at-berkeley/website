@@ -802,7 +802,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/JennyWu.jpg",
-			"bio": "My name is Jenny Wu, and I am a second year student studying chemical biology. I am so excited to be your social chair this year, and I can’t wait to get to know all of you!"
 		},
 		"Angikaar Chana": {
 			"title": "Senior Advisor",
@@ -812,7 +811,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "",
-			"bio": "Hey everyone! My name is Angikaar (they/he), and I'm a Junior studying Public Health and Data Science. I serve as a Data Analytics Research Assistant in CNSU's Meyer Lab, and I am very interested in the cross-section of data analytics in health-related research. I intend to attend graduate school of some kind, and I hope to apply Machine Learning and Modeling to the field of Public Health and/or Medical Imaging. In my free time, I love hanging out with friends, so don't be shy to reach out and meet up :)"
 		},
 		"Kashish Kharbanda": {
 			"title": "Research Director",
