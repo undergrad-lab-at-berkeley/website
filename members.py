@@ -729,7 +729,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/AdrianFu.jpg",
-			"bio": "What’s popping everybody? It’s nice to meet you, but it’s even better to meet me. I’m a second year majoring in cognitive science and always down for a quick chat, so if you guys ever need help with ULAB, the cogsci department, or even just someone to vent to, feel free to contact my good friend Ishna Pandey. Ciao!"
 		},
 		"Ishna Pandey": {
 			"title": "Operations and Outreach Director",
