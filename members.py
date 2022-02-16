@@ -738,7 +738,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/IshnaPandey.jpg",
-			"bio": "Hey everyone, I知 Ishna Pandey, a sophomore majoring in Public Health and I知 super excited to meet you guys and get to know you. Feel free to contact me if you have any questions, comments, or concerns and I would love to help! I hope you all have a great and fulfilling experience at ULAB!"
 		},
 		"Andrew Koh": {
 			"title": "Head Mentor Coordinator",
@@ -748,7 +747,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/Andrew_Koh.jpg",
-			"bio": "Hey guys! My name is Andrew Koh and I知 a junior majoring in MCB with a concentration in biochemistry. I知 looking forward to getting to know everyone involved in ULAB this year and I知 excited to see the cool ideas everyone comes up with. I知 always down for a conversation, so feel free to reach out whenever!"
 		},
 		"Tanirika Singh": {
 			"title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
@@ -758,7 +756,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/TanirikaSingh.jpg",
-			"bio": "Hi! My name is Tanirika and I am currently a sophomore planning on majoring in MCB. I'm super excited to be a part of the ULAB team this year and work towards optimizing the quality of research that is done across the research groups and providing the necessary support to all the members. Looking forward to the year ahead!"
 		},
 		"Jean Ye": {
 			"title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
@@ -768,7 +765,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/JeanYe.jpg",
-			"bio": "Hi everyone! My name is Jean Ye, and I am currently a sophomore intending to major in Biology+Business. Some of my research interests include biotech, bioethics, and machine learning. I'm super excited to see what research projects you all come up with this year and to help out as much as I can, so feel free to reach out whenever! :)"
 		},
 		"Ting Guo": {
 			"title": "Finance Director",
@@ -778,7 +774,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/ting_guo.jpg",
-			"bio": "Hi! I'm Ting! I am currently a freshman intending to double major in Molecular and Cell Biology and Psychology. I am interested in the areas of medical biology and cell/developmental biology. I aim to use the skills I learned to prepare for medical school. I am really excited to work with the ULAB PHHS Division to oversee exciting researching projects. In my free time, I enjoy baking and spending time with friends virtually."
 		},
 		"Namrata Kantamneni": {
 			"title": "Computer Science Director",
@@ -788,7 +783,6 @@ members = {
 			"github": "https://github.com/namratakantamneni",
 			"personal": "",
 			"img": "img/staff/bio/Namrata_photo.jpg",
-			"bio": "Hey there, CSD here for the year at Health Sciences. I love running, calligraphy, playing the flute, and whistling to music! If you need help with anything that deals with code, feel free to hit me up on slack or on my official Berkeley school email if you're truly formal."
 		},
 		"Alec Parker": {
 			"title": "Social Chair",
