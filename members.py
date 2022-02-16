@@ -699,7 +699,7 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/ShrinaPandey.jpg",
-			"bio": "Why, hello there! I’m Shrina, a rising sophomore majoring in MCB, and it’s truly an honor to be a part of such a wonderful team at ULAB. My hope is to guide you while you pursue work that excites you most both in and out of ULAB, and that I can play some role no matter how large or small in your ability to learn and appreciate the depth of the research experience. Please let me know if you have any questions, comments, concerns, or just want to say hello. I promise I won't bite!"
+			"bio": ""
 		},
 		"Meeseo Lee": {
 			"title": "Lab Manager",
