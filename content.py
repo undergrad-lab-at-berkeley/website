@@ -125,11 +125,12 @@ labs = {
                         <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Mon/Wed 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester. Click on the tabs to learn about each position.
                         <br><br>
                         <b>Mentees:</b>
-                        The mentee application is available <a href="https://forms.gle/26UYs54t8EZBFLQ86" target='_blank'>HERE</a> and will close September 4, 2021.
+                        The mentee application for Fall 2022-Spring 2023 will open August 2022.
                         <br><br>
                         <b>Mentors:</b>
                         <!-- The mentor application is currently closed. -->
-                        The mentor application is available <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>HERE</a> and will be considered on a rolling basis. Mentors will be supported by a $600/semester stipend.
+                        <!-- The mentor application for Fall 2022-Spring 2023 is open! <a href='https://forms.gle/TNHbtkg8mBMGzVRS6' target='_blank'>POSTED SOON</a> and will be considered on a rolling basis. Mentors will be supported by a $600/semester stipend.-->
+                        Mentor applications are open and will be updated within the week.
                         <br><br>
                         <b>Graduate Students/Postdocs:</b>  Opportunities for graduate students, postdocs, and faculty to get involved are available year-round! Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                     """
@@ -181,7 +182,9 @@ labs = {
                         <br><br>
                         Mentorship can be a very fruitful and rewarding experience for undergraduates with research experience. Mentors' primary job is to meet weekly with their group of 3-5 mentees during the year-long process of conducting an independent research project. Mentors will lead discussions on topics in their field and guide their group through their project.
                         <br><br>
-                        Mentorship is a unique <i>learning</i> opportunity. Mentors will expereince the process of leading a scientific project, conduct research in a topic of their interest, and interact with fellow undergraduate and graduate researchers. <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $600/semester stipend. (Stipends may affect your financial aid).</b>
+                        Mentorship is a unique <i>learning</i> opportunity. Mentors will expereince the process of leading a scientific project, conduct research in a topic of their interest, and interact with fellow undergraduate and graduate researchers. <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $600/semester stipend*. </b>
+                        <br><br>
+                        *Stipends are disbursed as a department award and may affect your financial aid. In order to recieve stipends, mentors must fulfill all responsibilities of the position and remain an enrolled Berkeley student.
                         <br><br><br>
 
                         <b style='font-size:150%;'> QnA</b>
@@ -215,6 +218,17 @@ labs = {
                     "title": "Projects",
                     "text": "<b style='font-size:150%;'> Past Projects </b>",                
                     "years": {
+                        '2021-2022': {
+                            u'1. Numerical Spin Analysis of Relativistic Bondi Accretion in M87*': "/static/doc/posters/s221.pdf",
+                            u'2. Analyzing Anomalous Transport in Interplanetary Shocks Using a Mittag-Leffler Function':'/static/doc/posters/s222.pdf',
+                            u'3. Cosmic Ray Predictions With a Homemade Muon Detector': '/static/doc/posters/s223.pdf',
+                            u'4. Observing and Obtaining a Light Curve from a Potential Transiting Exoplanet': '/static/doc/posters/s224.pdf',
+                            u"5. Creating a Pipeline to Generate Radial Velocity Curves from Raw APF Spectral Data": '/static/doc/posters/s225.pdf',
+                            u'6. Simulating Scattering Processes in TGFs Using Monte Carlo Methods': '/static/doc/posters/s226.pdf',
+                            u'7. Determining the Verdet Coefficient of Olive Oil with Faraday Rotation': '/static/doc/posters/s227.pdf',
+                            u'8. Investigating Habitability in the Kepler-47 Binary System': '/static/doc/posters/s228.pdf'
+
+                        },
                         '2020-2021': {
                             u'1. Measuring Cosmic Distances using Gravitational Waves': "/static/doc/posters/s211.pdf",
                             u'2. Doppler Imaging of a Simulated Star':'/static/doc/posters/s212.pdf',
