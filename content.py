@@ -125,7 +125,7 @@ labs = {
                         <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Mon/Wed 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester. Click on the tabs to learn about each position.
                         <br><br>
                         <b>Mentees:</b>
-                        The mentee application for Fall 2022-Spring 2023 will open August 2022.
+                        The mentee application for Fall 2022-Spring 2023 is open! <a href='https://forms.gle/jZmss7m4HhL8fifE9' target='_blank'>HERE</a> and the deadline is September 1st.
                         <br><br>
                         <b>Mentors:</b>
                         <!-- The mentor application is currently closed. -->
