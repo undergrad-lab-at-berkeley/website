@@ -180,36 +180,36 @@ members = {
 			"bio": """I am a 4th year majoring in Cognitive Science and German with a minor in Journalism. I am involved with the Language and Cognitive Development Lab at Berkeley where I am on a project that studies the effects of polysemy on language acquisition and learning. I aim to go to graduate school or enter the job market as a designer/innovator working at the intersection of public health, technology and human-centered design. You will find me surfing in my free time!""",
 			"img": "img/staff/stanleyvonehrensteinsmith.jpg"
 		},
-		"Amanda Felty": {
-			"title": "External Outreach",
-			"email": "afelty0320@berkeley.edu",
-			"linkedin": "",
-			"facebook": "",
-			"github": "",
-			"personal": "",
-			"bio": """Hello everyone! I am a third-year at Cal, majoring in Nutritional Science. I joined ULAB as a mentee last year and am thrilled to contribute to this organization as a Social Chair. I am also currently a peer advisor at the Career Center. In the future, I plan on pursuing a career in medicine and hope to help people achieve a healthier lifestyle through proper nutrition. Some hobbies of mine include traveling, baking, hiking, and playing the piano.""",
-			"img": "img/staff/amandafelty.jpg"
-		},
-		"Shreya Ramasubban": {
-			"title": "Finance Manager",
-			"email": "sramasubban@berkeley.edu",
-			"linkedin": "",
-			"facebook": "",
-			"github": "",
-			"personal": "",
-			"bio": """I am currently a third-year majoring in Nutritional Sciences and minoring in Global Public Health. I joined ULab as a mentee my freshman year, and it has been a great experience working on more projects as a part of the ULab Board of Directors! In my free time, I love to spend time with my friends, travel, bake and try new foods.""",
-			"img": "img/staff/shreyaramasubban.jpg"
-		},
-		"Cameron Fozi": {
-			"title": "CS Director",
-			"email": "cameronfozi@berkeley.edu",
-			"linkedin": "",
-			"facebook": "",
-			"github": "",
-			"personal": "",
-			"bio": """Hey! I enjoy reading, Spotify Discover playlists, biking and Craigslist finds. Email me with questions, funny Nextdoor posts or good music.""",
-			"img": "img/staff/CameronFozi.jpg"
-		},
+		# "Amanda Felty": {
+		# 	"title": "External Outreach",
+		# 	"email": "afelty0320@berkeley.edu",
+		# 	"linkedin": "",
+		# 	"facebook": "",
+		# 	"github": "",
+		# 	"personal": "",
+		# 	"bio": """Hello everyone! I am a third-year at Cal, majoring in Nutritional Science. I joined ULAB as a mentee last year and am thrilled to contribute to this organization as a Social Chair. I am also currently a peer advisor at the Career Center. In the future, I plan on pursuing a career in medicine and hope to help people achieve a healthier lifestyle through proper nutrition. Some hobbies of mine include traveling, baking, hiking, and playing the piano.""",
+		# 	"img": "img/staff/amandafelty.jpg"
+		# },
+		# "Shreya Ramasubban": {
+		# 	"title": "Finance Manager",
+		# 	"email": "sramasubban@berkeley.edu",
+		# 	"linkedin": "",
+		# 	"facebook": "",
+		# 	"github": "",
+		# 	"personal": "",
+		# 	"bio": """I am currently a third-year majoring in Nutritional Sciences and minoring in Global Public Health. I joined ULab as a mentee my freshman year, and it has been a great experience working on more projects as a part of the ULab Board of Directors! In my free time, I love to spend time with my friends, travel, bake and try new foods.""",
+		# 	"img": "img/staff/shreyaramasubban.jpg"
+		# },
+		# "Cameron Fozi": {
+		# 	"title": "CS Director",
+		# 	"email": "cameronfozi@berkeley.edu",
+		# 	"linkedin": "",
+		# 	"facebook": "",
+		# 	"github": "",
+		# 	"personal": "",
+		# 	"bio": """Hey! I enjoy reading, Spotify Discover playlists, biking and Craigslist finds. Email me with questions, funny Nextdoor posts or good music.""",
+		# 	"img": "img/staff/CameronFozi.jpg"
+		# },
 		"Jimin Oh": {
 			"title": "Lab Manager",
 			"email": "jiminoh0605@berkeley.edu",
@@ -230,37 +230,106 @@ members = {
 			"bio": """Dr. Mark D\'Esposito is Professor of Neuroscience and Psychology and former Director of the Henry H. Wheeler, Jr. Brain Imaging Center (2000-2020) at the Helen Wills Neuroscience Institute at the University of California, Berkeley. He is also an attending neurologist at the Northern California VA Health Care System and Adjunct Professor of Neurology at UCSF. He received his MD at SUNY Syracuse and completed a Neurology residency and fellowship at Boston University. In 1993, he was appointed Assistant Professor of Neurology at the University of Pennsylvania School of Medicine where he remained until his recruitment to UC Berkeley in 2000. His lab investigates the neural mechanisms underlying working memory, cognitive control and frontal lobe function utilizing different convergent experimental approaches such as functional MRI, transcranial magnetic stimulation, pharmacological interventions and behavioral studies of healthy individuals and those with neurological disorders. Dr. D\'Esposito is the Editor-In-Chief of the Journal of Cognitive Neuroscience and has received numerous awards such as the Norman Geschwind Prize in Behavioral Neurology from American Academy of Neurology, Best Doctors in America, and election as a Fellow to the American Association for the Advancement of Science. He has trained 77 post-doctoral fellows and graduate students, 55 who went on to obtained faculty positions at Universities in the United States and around the world and 36 who have achieved tenure. He has been the Principal Investigator on numerous NIH, private foundation and VA-funded grants. He has authored over 400 research publications which have been cited over 69,000 times, as well as six books on the topics of behavioral neurology and cognitive neuroscience.""",
 			"img": "img/staff/MarkDEsposito.jpg"
 		},
-		"Samantha Juang": {
-			"title": "Internal Outreach",
-			"email": "samanthajuang@berkeley.edu",
+		# "Samantha Juang": {
+		# 	"title": "Internal Outreach",
+		# 	"email": "samanthajuang@berkeley.edu",
+		# 	"linkedin": "",
+		# 	"facebook": "",
+		# 	"github": "",
+		# 	"personal": "",
+		# 	"bio": """I am a third-year majoring in Integrative Biology. I was a ULab mentee last year, and had such an amazing experience, so I am excited to be on the ULab Board of Directors this year to help continue all of the great work ULab does. I hope to pursue a career in medicine in the future. In my free time, I like to swim, rock climb, and paint/draw.""",
+		# 	"img": "img/staff/SamanthaJuang.JPG"
+		# },
+		# "Aida Raza": {
+		# 	"title": "Mentor Coordinator / Editor-in-Chief",
+		# 	"email": "aidaraza@berkeley.edu",
+		# 	"linkedin": "",
+		# 	"facebook": "",
+		# 	"github": "",
+		# 	"personal": "",
+		# 	"bio": """TO BE UPDATED""",
+		# 	"img": "img/staff/AidaRaza.jpg"
+		# },
+		# "Taylor Worley": {
+		# 	"title": "Mentor Coordinator / Editor-in-Chief",
+		# 	"email": "taylor.chelan@berkeley.edu",
+		# 	"linkedin": "https://www.linkedin.com/in/taylorworley/",
+		# 	"facebook": "",
+		# 	"github": "",
+		# 	"personal": "",
+		# 	"bio": """I am a third-year MCB Neurobiology major with hopes for medical school. I am studying in the Barcellos Epidemiology lab and serve as co-president of Catalyst and an EBoard member of GlobeMed. I have been in ULab as a mentor and mentee helping build my confidence and excitement for research. I am thrilled to be on this team and have a chance to help others follow their research passions!""",
+		# 	"img": "img/staff/taylorworley.jpg"
+		# },
+		"Jasleen Bains": {
+			"title": "Lab Manager",
+			"email": "jasleen.bains@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """I am a third-year majoring in Integrative Biology. I was a ULab mentee last year, and had such an amazing experience, so I am excited to be on the ULab Board of Directors this year to help continue all of the great work ULab does. I hope to pursue a career in medicine in the future. In my free time, I like to swim, rock climb, and paint/draw.""",
-			"img": "img/staff/SamanthaJuang.JPG"
-		},
-		"Aida Raza": {
-			"title": "Mentor Coordinator / Editor-in-Chief",
-			"email": "aidaraza@berkeley.edu",
+			"bio": """ """,
+			"img": ""
+		},		
+		"Tayeba Chowdhury": {
+			"title": "External Operations Director",
+			"email": "tayeba.ch@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """TO BE UPDATED""",
-			"img": "img/staff/AidaRaza.jpg"
+			"bio": """ """,
+			"img": ""
 		},
-		"Taylor Worley": {
-			"title": "Mentor Coordinator / Editor-in-Chief",
-			"email": "taylor.chelan@berkeley.edu",
-			"linkedin": "https://www.linkedin.com/in/taylorworley/",
+		"Rachel Pham": {
+			"title": "Internal Operations Director",
+			"email": "rachelpham467@berkeley.edu",
+			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """I am a third-year MCB Neurobiology major with hopes for medical school. I am studying in the Barcellos Epidemiology lab and serve as co-president of Catalyst and an EBoard member of GlobeMed. I have been in ULab as a mentor and mentee helping build my confidence and excitement for research. I am thrilled to be on this team and have a chance to help others follow their research passions!""",
-			"img": "img/staff/taylorworley.jpg"
+			"bio": """ """,
+			"img": ""
 		},
-
+		"Sharona Yang": {
+			"title": "CS Director",
+			"email": "sharonasyang@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """ """,
+			"img": ""
+		},	
+		"Namrata Vedagarbha": {
+			"title": "Mentor Coordinator/ Editor-in-Chief",
+			"email": "namrxta.v@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """ """,
+			"img": ""
+		},						
+		"Nimangie Weerakoon": {
+			"title": "Mentor Coordinator/ Editor-in-Chief",
+			"email": "nimangie0101@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """ """,
+			"img": ""
+		},
+		"Huda Jawad": {
+			"title": "Finance Manager",
+			"email": "hudajawad3697@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"bio": """ """,
+			"img": ""
+		},
 
 		# "Josephine Widjaja": {
 		#     "title": "Editor-in-Chief",

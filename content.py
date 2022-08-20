@@ -28,7 +28,7 @@ labs = {
             "full_name": u"Psychology and Cognitive Sciences",
             "navbar": u"Cog_Sci",
             "status": "Active",
-            "members": ["Kunal Kapoor", "Jimin Oh", "Lexi Zhou", "Mark D\'Esposito", "Amanda Felty", "Samantha Juang", "Cameron Fozi", "Aida Raza", "Taylor Worley", "Shreya Ramasubban"],
+            "members": ["Jimin Oh", "Jasleen Bains", "Tayeba Chowdhury", "Mark D\'Esposito", "Rachel Pham", "Sharona Yang", "Namrata Vedagarbha", "Nimangie Weerakoon", "Huda Jawad"],
             "content": {
                 "overview": {
                     "group_photo": u"/static/img/staff/CogSci_Group_Photo.jpg",
@@ -42,16 +42,18 @@ labs = {
                         <p><p/>
                         Currently, Dr. Mark D'Esposito, Professor of Neuroscience and Psychology at UC Berkeley, serves as primary faculty advisor. As the ULab Board of Directors pursues new projects and initiatives, Dr. D'Esposito oversees their work to ensure the advancement of ULab's mission.
                         <p><p/>
-                        Our Sponsors: The <a href="http://www.wheelerlabs.berkeley.edu">Wheeler Labs</a> is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
+                        Our Sponsors: 
                         """
+                        # The <a href="http://www.wheelerlabs.berkeley.edu">Wheeler Labs</a> is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
                 },
                 "sponsor": {
                     "title": "Want to join us?",
                     "text": """
-                        Applications for mentors and mentees for the 2021-2022 year are closed! 
-                        However, feel free to reach out to us by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
+                        Applications can be found at the following hyperlinks: <a href="https://forms.gle/ELSPb1H78PXNNbN2A">Mentor App</a>, <a href="https://forms.gle/cU9cVXaDJ8RfZjKj8">Mentee App</a>, <a href="https://forms.gle/ErLwuvwTZEouNbZ88">Grad Student App</a>, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6cMOQ9PBYSShYAkxS9mU4G_gWTDWNzsOjGyMInGFXBdBcDA/viewform">UROP App</a>. Deadlines and details are provided on the applications. <br/>  <br/>                      
+                        
                         """
-                        # They can be found at the following hyperlinks: <a href="http://bit.ly/ulabmentor21">Mentor Apps</a> and <a href="http://bit.ly/ulabmentee21">Mentee Apps</a>. Deadlines and details are provided on the applications. <br/>  <br/> 
+                        # Applications for mentors and mentees for the 2021-2022 year are closed!
+                        # However, feel free to reach out to us by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
                 },
                 "join": {
                     "title": """Sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a>.""",
