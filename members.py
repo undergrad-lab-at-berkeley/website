@@ -211,7 +211,7 @@ members = {
 		# 	"img": "img/staff/CameronFozi.jpg"
 		# },
 		"Jimin Oh": {
-			"title": "Lab Manager",
+			"title": "Research Director",
 			"email": "jiminoh0605@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
