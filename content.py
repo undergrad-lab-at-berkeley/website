@@ -309,7 +309,7 @@ labs = {
         "full_name" : u"Computational Biology",
         "navbar" : u"Computational Biology",
         "status" : "Active",
-        "members": ["Farrah Kaiyom", "Reet Mishra", "Arshad Mohammed"],
+        "members": ["ashish Ramesh", "Reet Mishra", "Lindsey Guan"],
         "content": {
             "overview": {
                 "title": "Lab Overview",
@@ -323,18 +323,11 @@ labs = {
                 "text":u"""
                 Unfortunately, our applications for this semester have closed. We will be posting our course materials below throughout the course, so feel free to follow along!
                 """
-                   Mentee & Mentor positions are now open for Fall 2022! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. Applications are due Monday, September 5th @ 11:59PM for both mentors and mentees. Both mentors & mentees will hear back from us regarding the decision by Tuesday, September 6th; the deadline to accept our offer will be Thursday, September 8th. 
-                    <br><br>
-                    If you’re interested in getting to know more about ULAB DS and its structure, or if you have any questions you'd like to ask us, attend our info session on Tuesday 2/1 @ 8PM: more details on our Facebook page <a href='https://fb.me/e/22SDc3utS'>here</a>.
-                    <br><br>
-                    <b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link: <a href='https://tinyurl.com/compbio-mentee-app'>tinyurl.com/compbio-mentee-app</a>                        <br><br>
-                    <b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Monday, September 5th at 11:59PM PT; apply now at the link!: <a href='https://tinyurl.com/compbio-mentor-app'>tinyurl.com/compbio-mentor-app</a>
-                    <br><br>
-                    If you are interested in joining and would like to be updated on our program, fill out the interest form: <a href='https://tinyurl.com/ulab-compbio'tinyurl.com/ulab-compbio</a>
-                # <a href="https://forms.gle/4CUb93ZLr3KVeTcZ6">Apply Now!</a><br/><br/>
-                # <b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Wednesday, January 27th at 11:59PM PT; apply now at the link above!.<br/><br/>
-                # <b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link above!
-                """
+
+                #<a href="https://forms.gle/4CUb93ZLr3KVeTcZ6">Apply Now!</a><br/><br/>
+                #<b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Wednesday, January 27th at 11:59PM PT; apply now at the link above!.<br/><br/>
+                #<b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link above!
+                #"""
             },
             "calendar" : {
                 "title": "",
