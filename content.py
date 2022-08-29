@@ -309,7 +309,7 @@ labs = {
         "full_name" : u"Computational Biology",
         "navbar" : u"Computational Biology",
         "status" : "Active",
-        "members": ["ashish Ramesh", "Reet Mishra", "Lindsey Guan"],
+        "members": ["Arshad Mohammed", "Reet Mishra", "Farrah Kaiyom"],
         "content": {
             "overview": {
                 "title": "Lab Overview",

@@ -140,15 +140,15 @@ members = {
 			"bio": """I am currently a third year majoring in Molecular and Cell Biology. I am most interested in different applications of computational biology, and currently work in the Brenner Lab. I joined ULAB as a mentee in Fall 2018, and am excited to see this year's projects!""",
 			"img": "img/staff/ashishramesh.jpg"
 		},
-	    "ashish Ramesh": { # Workaround for compbio
-			"title": "Research Director",
-			"email": "ashishramesh@berkeley.edu",
+	    "Arshad Mohammed": { # Workaround for compbio
+			"title": "Facilitator",
+			"email": "arshadm@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
 			"bio": "",
-			"img": "img/staff/ashishramesh.jpg"
+			"img": "img/staff/arshadm"
 		},
 		"Arushi Sahay": {
 			"title": "Operations Director",
@@ -361,15 +361,15 @@ members = {
 			"bio": "",
 			"img": "img/staff/reetmishra.jpg"
 		},
-	    "Lindsey Guan": {
-			"title": "Lab Manager",
-			"email": "lindseyguan7@berkeley.edu",
+	    "Farrah Kaiyom": {
+			"title": "Facilitator",
+			"email": "farrahk@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
 			"bio": "",
-			"img": "img/staff/lindseyguan.jpg"
+			"img": "img/staff/farrahkaiyom.jpg"
 		},
 		"Colin Jindra": {
 			"title": "Lead Mentor",
