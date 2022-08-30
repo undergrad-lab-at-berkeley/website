@@ -283,7 +283,7 @@ labs = {
             "full_name": u"Health Sciences",
             "navbar": u"Health Sciences",
             "status": "Active",
-            "members": ["Candice Ng", "Shrina Pandey", "Meeseo Lee", "Anisha Chandy", "Adrian Fu", "Ishna Pandey", "Andrew Koh", "Tanirika Singh", "Jean Ye", "Ting Guo", "Namrata Kantamneni", "Alec Parker", "Jenny Wu"],
+            "members": ["Shrina Pandey", "Meeseo Lee","Ting Guo", "Ishna Pandey", "Anisha Chandy", "Jenny Wu", "Aishwarya Ballapuram", "Andrew Koh", "Tanirika Singh", "Jean Ye", "Tiffany Yeh", "Serena Chi", "Hank Wang", "Nancy Nguyen", "Alvert Wu"],
             "content": {
                 "overview": {
                     "title": "Lab Overview Coming Soon!",
@@ -292,7 +292,9 @@ labs = {
                 "join": {
                     "title": "Want to join us?",
                     "text": u"""
-                            We are currently not taking applications for the 2021-2022 school year. Please keep an eye out in fall for the 2022-2023 application!
+                            We are currently taking applications for the 2022-2023 school year! \n
+                            The deadline to <br> <a href='https://docs.google.com/forms/d/e/1FAIpQLSd6VArk0S8e38rJmDDZcsOcxCIpGoF7r6267atSa6Bp5M5aKw/viewform'>apply</a> to be a mentee is September 30th, 2022 @ 11:59PM \n
+                            The deadline to <br> <a href='https://docs.google.com/forms/d/e/1FAIpQLSdlabFQrdyUplBJGtw55VHNPAL7wfv8JPMS0w3lPg67Cfchjg/viewform'>apply</a> to be a mentor is September 23rd, 2022 @ 11:59PM!
                             """
                 },
                 "calendar": {
