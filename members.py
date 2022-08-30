@@ -141,7 +141,7 @@ members = {
 			"img": "img/staff/ashishramesh.jpg"
 		},
 	    "Arshad Mohammed": { # Workaround for compbio
-			"title": "Facilitator",
+			"title": "Lab Manager & Facilitator",
 			"email": "arshadm@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
@@ -352,7 +352,7 @@ members = {
 		#     "img": ""
 		# },
 		"Reet Mishra": {
-			"title": "Lab Manager",
+			"title": "Research Direector & Facilitator",
 			"email": "reet.mishra@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
@@ -362,7 +362,7 @@ members = {
 			"img": "img/staff/reetmishra.jpg"
 		},
 	    "Farrah Kaiyom": {
-			"title": "Facilitator",
+			"title": "Lab Manager & Facilitator",
 			"email": "farrahk@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
