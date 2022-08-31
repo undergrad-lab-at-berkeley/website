@@ -372,7 +372,7 @@ labs = {
                         Mentee & Mentor positions are now open for Spring 2022! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. Applications are due Friday, February 4th @ 11:59PM for both mentors and mentees. Both mentors & mentees will hear back from us regarding the decision by Sunday, February 6th; the deadline to accept our offer will be Tuesday, February 8th. 
                         <br><br>
                         If you’re interested in getting to know more about ULAB DS and its structure, or if you have any questions you'd like to ask us, attend our info session on Tuesday 2/1 @ 8PM: more details on our Facebook page <a href='https://fb.me/e/22SDc3utS'>here</a>.
-                        <br><br>
+                        <br><br> 
                         Mentee Application: <a href='https://docs.google.com/forms/d/e/1FAIpQLSdid-6ZauDfHUX4j4HAGTAhgysko9_se7hfsnyX3uUlwQmNeg/viewform'>tinyurl.com/sp22ulab</a>
                         <br><br>
                         Mentor Application: <a href='https://docs.google.com/forms/d/e/1FAIpQLSfdGP_rMkEOOlOIazpd87fpr7cO2brL5X2VOD3VXdFwEjV6Sg/viewform'>tinyurl.com/sp22dsmentor</a>
