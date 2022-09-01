@@ -761,24 +761,25 @@ members = {
 			"bio": ""
 		},
 		"Shrina Pandey": {
-			"title": "Lab Manager",
+			"title": "Research Director",
 			"email": "spandey13@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/ShrinaPandey.jpg",
-			"bio": ""
+			"img": "img/staff/bio/Shrina_Pandey2.jpg",
+			"bio": "Why, hello there! I’m Shrina, a junior majoring in MCB, and it’s truly an honor to be a part of such a wonderful team at ULAB. My hope is to guide you while you pursue work that excites you most both in and out of ULAB, and that I can play some role no matter how large or small in your ability to learn and appreciate the depth of the research experience. Please let me know if you have any questions, comments, concerns, or just want to say hello."
 		},
 		"Meeseo Lee": {
-			"title": "Lab Manager",
+			"title": "Research Director",
 			"email": "meeseo@berkeley.edu",
 			"linkedin": "http://linkedin.com/in/meeseo-lee-142834194",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/meeseo_lee.jpg",
-			"bio": "Hi! I'm Meeseo and I'm a second year majoring in MCB-Neurology. I like to draw and paint and my favorite movie is Up :) One important aspect of research I value the most is the community and the interactions between the people in the lab and I hope that ULAB PHHS provide positive and welcoming environment for everyone who joins and really help people grow professionally as well as personally!"
+			"img": "img/staff/bio/Meeseo_Lee2.jpg",
+			"bio": "Hi, my name is Meeseo and I’m a co-RD with Shrina Pandey for Ulab PHHS :) I’m a senior studying neurobiology and currently involved with Autism Spectrum Disorder research at Feldman lab. It’s been a long and hard journey for me to get research experience at Cal and I joined Ulab to help fellow students with the process! ",
+
 		},
 		"Anisha Chandy": {
 			"title": "Head Editor-in-Chief",
@@ -788,7 +789,7 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/anisha_chandy.jpg",
-			"bio": "My name is Anisha Chandy and I am a junior studying MCB-Neurobiology and double minoring in Journalism and STEM Education. I am super excited to work with everyone this year on their projects and help make sure you have a great ULAB experience!"
+			"bio": "My name is Anisha Chandy and I am a senior studying MCB-Neurobiology and double minoring in Journalism and STEM Education. I am super excited to work with everyone this year on their projects and help make sure you have a great ULAB experience!"
 		},
 		"Adrian Fu": {
 			"title": "Operations and Outreach Director",
@@ -800,13 +801,13 @@ members = {
 			"img": "img/staff/bio/AdrianFu.jpg",
 		},
 		"Ishna Pandey": {
-			"title": "Operations and Outreach Director",
+			"title": "Lab Manager",
 			"email": "ishna13@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/IshnaPandey.jpg",
+			"img": "img/staff/bio/Ishna_Pandey2.jpg",
 		},
 		"Andrew Koh": {
 			"title": "Head Mentor Coordinator",
@@ -824,7 +825,8 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/TanirikaSingh.jpg",
+			"img": "img/staff/bio/Tanirika_Singh.jpg",
+			'bio': "Hi! My name is Tanirika and I’m currently a junior majoring in MCB. Having once been a mentor within ULAB,  I’m really excited to be one of the MC/EICs this year and look forward to working with you all! Feel free to reach out with any questions throughout the year"
 		},
 		"Jean Ye": {
 			"title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
@@ -832,17 +834,18 @@ members = {
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
-			"personal": "",
+			"personal": "Hi guys! My name is Jean, and I will be one of the Mentor Coordinators and Editor-in-Chiefs for this year. I’m a third year majoring in MCB and Business Administration, and in my free time, I love checking out new food shops, going to karaoke, and hiking. Feel free to reach out anytime!",
 			"img": "img/staff/bio/JeanYe.jpg",
 		},
 		"Ting Guo": {
-			"title": "Finance Director",
+			"title": "Lab Manager",
 			"email": "tingguo20@berkeley.edu",
 			"linkedin": "https://www.linkedin.com/in/ting-guo-957aa719a/",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/ting_guo.jpg",
+			"img": "img/staff/bio/Ting_Guo.jpg",
+			"bio": "Hi, I’m Ting! I am one of the Lab Managers for the Public Health and Health Science Division. I am a junior majoring in Molecular Environmental Biology & Psychology. In my free time, I enjoy going on food runs, going to the movie theater, and baking desserts. I am excited to work with all of you! "
 		},
 		"Namrata Kantamneni": {
 			"title": "Computer Science Director",
@@ -864,13 +867,14 @@ members = {
 			"bio": ""
 		},
 		"Jenny Wu": {
-			"title": "Social Chair",
+			"title": "Operations and Outreach Director",
 			"email": "yingjungwu2222@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/JennyWu.jpg",
+			"img": "img/staff/bio/JennyWu.jpg.png",
+			"bio": "Hello everyone! My name is Jenny Wu, and I will be one of your OOD’s this year. I am a third year chemical biology student, and I’ve been in ulab since freshman year. In my free time I like to listen to music, play the piano, watch youtube, and swim. I hope that I’ll be able to assist you as you begin your research journey at Cal! ",
 		},
 		"Angikaar Chana": {
 			"title": "Senior Advisor",
@@ -944,5 +948,75 @@ members = {
 			"personal": "",
 			"img": "img/staff/ArjunVats.jpg"
 		},
+
+		## PHHS 2022-2023 Add INS 
+		"Hank Wang": {
+			"title": "Computer Science Director",
+			"email": "hankwang001@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/Hank_Wang.jpg.PNG"
+		},
+		"Albert Wu": {
+			"title": "Social Chair",
+			"email": "albertwu27069576@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": " I am a second-year chem bio major. I joined ULab in my freshman year and presented with my group at our symposium last year! I I love to play basketball and swim in my free time! My hobbies also include reading and playing chess online!",
+			"img": "img/staff/bio/Albert_Wu.jpg"
+		},
+		# " Aishwarya Ballapuram": {
+		# 	"title": "Operation and Outreach Director",
+		# 	"email": ".edu",
+		# 	"linkedin": "",
+		# 	"facebook": "",
+		# 	"github": "",
+		# 	"personal": "",
+		# 	"img": "img/staff/bio/?jpg.PNG"
+		#},
+		"Sanghwi Samala ": {
+			"title": "Fianance and Administration Director",
+			"email": "sanghvis@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/Sanghvi_Samala.jpg",
+			"bio": "Hello! My name is Sanghvi Samala and I am the Financial and Administrative Director for the Public Health and Health Science Division. I am a junior majoring in Molecular and Cellular Biology emphasis in Immunology and Pathogenesis. In my free time, I enjoy going to new cafes, thrifting, and exploring Berkeley. I look forward to a great year and hope to answer any questions you may have (even if it is about cafes)!",
+		},
+		# "Tiffany Yeh": {
+		# 	"title": "Fall Mentor Coordinator & Spring Editor in Chief",
+		# 	"email": "tiffanyyeh3625@berkeley.edu",
+		# 	"linkedin": "",
+		# 	"facebook": "",
+		# 	"github": "",
+		# 	"personal": "",
+		# 	"img": "img/staff/?.jpg"
+		# },
+		"Serena Chi ": {
+			"title": "Fall Mentor Coordinator & Spring Editor and Chief",
+			"email": "serenachi428@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/Serena_Chi.jpg",
+			"bio": "Greetings! My name is Serena and I am a junior majoring in MCB with an emphasis in Cell and Developmental Biology. I am beyond excited to serve as an MC this year and help in your research journey to the best of my ability. I love chatting about anything golf, fitness, or food, and I’m looking forward to getting to know you all this year! "
+		},
+		"Nancy Nguyen ": {
+			"title": "Social Chair",
+			"email": "nantnguyen@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/Nancy_Nguyen.jpg",
+			"bio": "Hi everyone! My name is Nancy and I will be one of your social chairs this year. I am a third-year student studying Integrative Biology.  In my free time I enjoy reading, dancing, and watching TV shows. I am lookihg forward to getting to know everyone this year!",
+
+		},
+		
 }
 
