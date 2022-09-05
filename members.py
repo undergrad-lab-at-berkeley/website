@@ -839,7 +839,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/Ting_Guo.JPG",
+			"img": "img/staff/bio/TingGuoNew.JPG",
 		},
 		"Namrata Kantamneni": {
 			"title": "Computer Science Director",
