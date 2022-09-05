@@ -830,7 +830,7 @@ members = {
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
-			"img": "img/staff/bio/JeanYe.jpg",
+			"img": "img/staff/bio/JeanYe.JPG",
 		},
 		"Ting Guo": {
 			"title": "Lab Manager",
@@ -839,7 +839,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/Ting_Guo.jpg",
+			"img": "img/staff/bio/Ting_Guo.JPG",
 		},
 		"Namrata Kantamneni": {
 			"title": "Computer Science Director",
@@ -867,7 +867,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/JennyWu.jpg.png",
+			"img": "img/staff/bio/JennyWuNew.png",
 		},
 		"Angikaar Chana": {
 			"title": "Senior Advisor",
@@ -978,15 +978,15 @@ members = {
 			"personal": "",
 			"img": "img/staff/Sanghvi_Samala.jpg",
 		},
-		# "Tiffany Yeh": {
-		# 	"title": "Fall Mentor Coordinator & Spring Editor in Chief",
-		# 	"email": "tiffanyyeh3625@berkeley.edu",
-		# 	"linkedin": "",
-		# 	"facebook": "",
-		# 	"github": "",
-		# 	"personal": "",
-		# 	"img": "img/staff/?.jpg"
-		# },
+		"Tiffany Yeh": {
+			"title": "Fall Mentor Coordinator & Spring Editor in Chief",
+			"email": "tiffanyyeh3625@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/Tiffany_Yeh.jpg"
+		},
 		"Serena Chi": {
 			"title": "Fall Mentor Coordinator & Spring Editor and Chief",
 			"email": "serenachi428@berkeley.edu",
