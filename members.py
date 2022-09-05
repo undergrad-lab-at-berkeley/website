@@ -767,7 +767,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/Shrina_Pandey2.jpg",
+			"img": "img/staff/bio/ShrinaPandeyResized.jpg",
 		},
 		"Meeseo Lee": {
 			"title": "Research Director",
