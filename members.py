@@ -823,7 +823,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/Tanirika_Singh.jpg",
-			'bio': "Hi! My name is Tanirika and I’m currently a junior majoring in MCB. Having once been a mentor within ULAB,  I’m really excited to be one of the MC/EICs this year and look forward to working with you all! Feel free to reach out with any questions throughout the year"
 		},
 		"Jean Ye": {
 			"title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
@@ -831,7 +830,6 @@ members = {
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
-			"personal": "Hi guys! My name is Jean, and I will be one of the Mentor Coordinators and Editor-in-Chiefs for this year. I’m a third year majoring in MCB and Business Administration, and in my free time, I love checking out new food shops, going to karaoke, and hiking. Feel free to reach out anytime!",
 			"img": "img/staff/bio/JeanYe.jpg",
 		},
 		"Ting Guo": {
@@ -842,7 +840,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/Ting_Guo.jpg",
-			"bio": "Hi, I’m Ting! I am one of the Lab Managers for the Public Health and Health Science Division. I am a junior majoring in Molecular Environmental Biology & Psychology. In my free time, I enjoy going on food runs, going to the movie theater, and baking desserts. I am excited to work with all of you! "
 		},
 		"Namrata Kantamneni": {
 			"title": "Computer Science Director",
@@ -871,7 +868,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/JennyWu.jpg.png",
-			"bio": "Hello everyone! My name is Jenny Wu, and I will be one of your OOD’s this year. I am a third year chemical biology student, and I’ve been in ulab since freshman year. In my free time I like to listen to music, play the piano, watch youtube, and swim. I hope that I’ll be able to assist you as you begin your research journey at Cal! ",
 		},
 		"Angikaar Chana": {
 			"title": "Senior Advisor",
@@ -962,7 +958,6 @@ members = {
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
-			"personal": " I am a second-year chem bio major. I joined ULab in my freshman year and presented with my group at our symposium last year! I I love to play basketball and swim in my free time! My hobbies also include reading and playing chess online!",
 			"img": "img/staff/bio/Albert_Wu.jpg"
 		},
 		# " Aishwarya Ballapuram": {
@@ -982,7 +977,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/Sanghvi_Samala.jpg",
-			"bio": "Hello! My name is Sanghvi Samala and I am the Financial and Administrative Director for the Public Health and Health Science Division. I am a junior majoring in Molecular and Cellular Biology emphasis in Immunology and Pathogenesis. In my free time, I enjoy going to new cafes, thrifting, and exploring Berkeley. I look forward to a great year and hope to answer any questions you may have (even if it is about cafes)!",
 		},
 		# "Tiffany Yeh": {
 		# 	"title": "Fall Mentor Coordinator & Spring Editor in Chief",
@@ -1001,7 +995,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/Serena_Chi.jpg",
-			"bio": "Greetings! My name is Serena and I am a junior majoring in MCB with an emphasis in Cell and Developmental Biology. I am beyond excited to serve as an MC this year and help in your research journey to the best of my ability. I love chatting about anything golf, fitness, or food, and I’m looking forward to getting to know you all this year! "
 		},
 		"Nancy Nguyen ": {
 			"title": "Social Chair",
@@ -1011,7 +1004,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/Nancy_Nguyen.jpg",
-			"bio": "Hi everyone! My name is Nancy and I will be one of your social chairs this year. I am a third-year student studying Integrative Biology.  In my free time I enjoy reading, dancing, and watching TV shows. I am lookihg forward to getting to know everyone this year!",
 
 		},
 		
