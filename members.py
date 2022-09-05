@@ -969,7 +969,7 @@ members = {
 		# 	"personal": "",
 		# 	"img": "img/staff/bio/?jpg.PNG"
 		#},
-		"Sanghwi Samala ": {
+		"Sanghwi Samala": {
 			"title": "Fianance and Administration Director",
 			"email": "sanghvis@berkeley.edu",
 			"linkedin": "",
@@ -987,7 +987,7 @@ members = {
 		# 	"personal": "",
 		# 	"img": "img/staff/?.jpg"
 		# },
-		"Serena Chi ": {
+		"Serena Chi": {
 			"title": "Fall Mentor Coordinator & Spring Editor and Chief",
 			"email": "serenachi428@berkeley.edu",
 			"linkedin": "",
@@ -996,7 +996,7 @@ members = {
 			"personal": "",
 			"img": "img/staff/bio/Serena_Chi.jpg",
 		},
-		"Nancy Nguyen ": {
+		"Nancy Nguyen": {
 			"title": "Social Chair",
 			"email": "nantnguyen@berkeley.edu",
 			"linkedin": "",
