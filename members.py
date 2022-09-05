@@ -768,7 +768,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/Shrina_Pandey2.jpg",
-			"bio": "Why, hello there! I’m Shrina, a junior majoring in MCB, and it’s truly an honor to be a part of such a wonderful team at ULAB. My hope is to guide you while you pursue work that excites you most both in and out of ULAB, and that I can play some role no matter how large or small in your ability to learn and appreciate the depth of the research experience. Please let me know if you have any questions, comments, concerns, or just want to say hello."
 		},
 		"Meeseo Lee": {
 			"title": "Research Director",
@@ -778,7 +777,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/Meeseo_Lee2.jpg",
-			"bio": "Hi, my name is Meeseo and I’m a co-RD with Shrina Pandey for Ulab PHHS :) I’m a senior studying neurobiology and currently involved with Autism Spectrum Disorder research at Feldman lab. It’s been a long and hard journey for me to get research experience at Cal and I joined Ulab to help fellow students with the process! ",
 
 		},
 		"Anisha Chandy": {
@@ -789,7 +787,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/anisha_chandy.jpg",
-			"bio": "My name is Anisha Chandy and I am a senior studying MCB-Neurobiology and double minoring in Journalism and STEM Education. I am super excited to work with everyone this year on their projects and help make sure you have a great ULAB experience!"
 		},
 		"Adrian Fu": {
 			"title": "Operations and Outreach Director",
