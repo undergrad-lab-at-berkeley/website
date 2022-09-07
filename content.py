@@ -28,7 +28,7 @@ labs = {
             "full_name": u"Psychology and Cognitive Sciences",
             "navbar": u"Cog_Sci",
             "status": "Active",
-            "members": ["Jimin Oh", "Jasleen Bains", "Tayeba Chowdhury", "Mark D\'Esposito", "Rachel Pham", "Sharona Yang", "Namrata Vedagarbha", "Nimangie Weerakoon", "Huda Jawad"],
+            "members": ["Jimin Oh", "Jasleen Bains", "Tayeba Chowdhury", "Rachel Pham", "Huda Jawad", "Sharona Yang", "Namrata Vedagarbha", "Nimangie Weerakoon", "Mark D\'Esposito"],
             "content": {
                 "overview": {
                     "group_photo": u"/static/img/staff/Psych_CogSci_Group.jpg",
