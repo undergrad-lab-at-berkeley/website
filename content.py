@@ -31,7 +31,7 @@ labs = {
             "members": ["Jimin Oh", "Jasleen Bains", "Tayeba Chowdhury", "Mark D\'Esposito", "Rachel Pham", "Sharona Yang", "Namrata Vedagarbha", "Nimangie Weerakoon", "Huda Jawad"],
             "content": {
                 "overview": {
-                    "group_photo": u"/static/img/staff/CogSci_Group_Photo.jpg",
+                    "group_photo": u"/static/img/staff/Psych_CogSci_Group.jpg",
                     "title": "Lab Overview",
                     "text": """
                         Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. </br>

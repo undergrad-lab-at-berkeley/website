@@ -217,8 +217,8 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """I am a third-year majoring in psychology and cognitive science. I currently work as a Marketing, Outreach and Volunteer Coordination intern at the Gender Equity Resource Center and am fascinated with the intersection between social psychology and psychopathology. In my free time, I like to draw, tag my friends in memes and make small embroidered friends. I had a great experience as a mentee last year and hope I can help make all of your experiences great as well!""",
-			"img": "img/staff/JiminOh.jpg"
+			"bio": """I am a fourth year majoring in psychology and cognitive science and minoring in education. I currently work as a marketing, outreach, and volunteer coordination intern at the Gender Equity Resource Center and am interested in developmental psychology and psychopathology. In my free time, I like to play animal crossing, make memes, and do arts and crafts. I hope you all will learn a lot from your time with ULAB this year, and I look forward to getting to know all of you!""",
+			"img": "img/staff/Jimin_Oh.jpg"
 		},
 		"Mark D\'Esposito": {
 			"title": "Faculty Advisor",
@@ -267,8 +267,8 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """ """,
-			"img": ""
+			"bio": """I am a second-year majoring in Microbial Biology and minoring in Global Poverty and Practice (intended). I’m currently involved in BPSHI (Bhagat Puran Singh Health Initiative) as a co-clinic coordinator, as well as the Biology Scholars Program. Outside of classes I enjoy reading, watching shows (Peaky Blinders right now), and cooking. I joined ULAB as a mentee last year, and I was able to grow more confident in my research abilities with the help of my mentor. I’m super excited to work with you all this year!""",
+			"img": "img/staff/Jasleen_Bains.jpg"
 		},		
 		"Tayeba Chowdhury": {
 			"title": "External Operations Director",
@@ -277,8 +277,8 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """ """,
-			"img": ""
+			"bio": """I am a third year majoring in molecular environmental biology. I am currently involved in environmental and public health research in rural and humanitarian settings on campus. I was born in Bangladesh but have lived in LA all my life. In my free time, I enjoy playing the guitar and trying new food. I was a mentee in ULAB last semester and really loved my time in the program. As ULAB’s external operations director this year, I hope to help make your experience in the program very fun and memorable!""",
+			"img": "img/staff/Tayeba_Chowdhury.jpg"
 		},
 		"Rachel Pham": {
 			"title": "Internal Operations Director",
@@ -287,8 +287,8 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """ """,
-			"img": ""
+			"bio": """Hi! I’m a second-year intending to major in psychology. I am from the Bay Area and in my free time I like to get boba, craft, paint, and try new foods with my friends! Currently, I am involved with Delta Epsilon Mu, a pre-health fraternity and the Berkeley Medical Reserve Corps! I was a mentee last year for ULAB and I really loved how ULAB is able to bridge the disparity between students who do not have research experience and those who come to Berkeley with research experience. As the internal operations director for ULAB, I hope to bring everyone together and make your ULAB experience amazing!""",
+			"img": "img/staff/Rachel_Pham.jpg"
 		},
 		"Sharona Yang": {
 			"title": "CS Director",
@@ -297,8 +297,8 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """ """,
-			"img": ""
+			"bio": """I’m a second-year majoring in computer science and statistics from the Bay Area. In my free time, I like to explore SF, play volleyball, and watch comedy shows. I look forward to meeting all of you!""",
+			"img": "img/staff/Sharona_Yang.jpg"
 		},	
 		"Namrata Vedagarbha": {
 			"title": "Mentor Coordinator/ Editor-in-Chief",
@@ -307,8 +307,8 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """ """,
-			"img": ""
+			"bio": """I am a fourth-year majoring in Molecular and Cell Biology and minoring in Nutritional Sciences and Scandinavian Studies. I’m currently doing research with the Whiteman Lab on campus, studying the behavioral and neural mechanisms that underlie taste specialization in fruit fly species. In my spare time, I love reading, playing the ukulele (badly), baking, and cafe-hopping with friends. ULAB has been a huge part of my college experience since freshman year and has helped me grow more confident with scientific research. I’m looking forward to getting to know and working with all of you this year!""",
+			"img": "img/staff/Namrata_Vedagarbha.jpg"
 		},						
 		"Nimangie Weerakoon": {
 			"title": "Mentor Coordinator/ Editor-in-Chief",
@@ -317,8 +317,8 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """ """,
-			"img": ""
+			"bio": """I am a sophomore majoring in molecular and cellular biology and intend to choose the immunology- infectious disease track. I’m from LA and although the sunny weather can be nice, I really enjoy the weather upstate and the greenery. In my spare time, I enjoy baking, gardening, and spending time with my dog. I love learning about the various subfields within psychology, which is why I chose this ULAB department. I mentored for ULAB last year and enjoyed the program, so I hope, as your co-mentor coordinator, I can help make the experience just as enjoyable for everyone in this year’s ULAB group!""",
+			"img": "img/staff/Nimangie_Weerakoon.jpg"
 		},
 		"Huda Jawad": {
 			"title": "Finance Manager",
@@ -327,8 +327,8 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"bio": """ """,
-			"img": ""
+			"bio": """Hi! I'm Huda and I'm a fourth year majoring in psychology. I'm involved in child development research at the Social Origins Lab here on campus. I was born and raised in the Bay Area so this is home to me. I love cooking and baking whenever I have the time and enjoy traveling to explore new places. This is my first time being involved in ULAB and I am very excited to meet you all and have a great year.""",
+			"img": "img/staff/Huda_Jawad.jpg"
 		},
 
 		# "Josephine Widjaja": {
