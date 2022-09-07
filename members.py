@@ -140,15 +140,15 @@ members = {
 			"bio": """I am currently a third year majoring in Molecular and Cell Biology. I am most interested in different applications of computational biology, and currently work in the Brenner Lab. I joined ULAB as a mentee in Fall 2018, and am excited to see this year's projects!""",
 			"img": "img/staff/ashishramesh.jpg"
 		},
-	    "ashish Ramesh": { # Workaround for compbio
-			"title": "Research Director",
-			"email": "ashishramesh@berkeley.edu",
+	    "Arshad Mohammed": { # Workaround for compbio
+			"title": "Lab Manager & Facilitator",
+			"email": "arshadm@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
 			"bio": "",
-			"img": "img/staff/ashishramesh.jpg"
+			"img": "img/staff/arshadm"
 		},
 		"Arushi Sahay": {
 			"title": "Operations Director",
@@ -352,7 +352,7 @@ members = {
 		#     "img": ""
 		# },
 		"Reet Mishra": {
-			"title": "Lab Manager",
+			"title": "Research Direector & Facilitator",
 			"email": "reet.mishra@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
@@ -361,15 +361,15 @@ members = {
 			"bio": "",
 			"img": "img/staff/reetmishra.jpg"
 		},
-	    "Lindsey Guan": {
-			"title": "Lab Manager",
-			"email": "lindseyguan7@berkeley.edu",
+	    "Farrah Kaiyom": {
+			"title": "Lab Manager & Facilitator",
+			"email": "farrahk@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
 			"bio": "",
-			"img": "img/staff/lindseyguan.jpg"
+			"img": "img/staff/farrahkaiyom.jpg"
 		},
 		"Colin Jindra": {
 			"title": "Lead Mentor",
@@ -761,24 +761,23 @@ members = {
 			"bio": ""
 		},
 		"Shrina Pandey": {
-			"title": "Lab Manager",
+			"title": "Research Director",
 			"email": "spandey13@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/ShrinaPandey.jpg",
-			"bio": ""
+			"img": "img/staff/bio/ShrinaPandeyResized.jpg",
 		},
 		"Meeseo Lee": {
-			"title": "Lab Manager",
+			"title": "Research Director",
 			"email": "meeseo@berkeley.edu",
 			"linkedin": "http://linkedin.com/in/meeseo-lee-142834194",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/meeseo_lee.jpg",
-			"bio": "Hi! I'm Meeseo and I'm a second year majoring in MCB-Neurology. I like to draw and paint and my favorite movie is Up :) One important aspect of research I value the most is the community and the interactions between the people in the lab and I hope that ULAB PHHS provide positive and welcoming environment for everyone who joins and really help people grow professionally as well as personally!"
+			"img": "img/staff/bio/Meeseo_Lee2.jpg",
+
 		},
 		"Anisha Chandy": {
 			"title": "Head Editor-in-Chief",
@@ -788,7 +787,6 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/anisha_chandy.jpg",
-			"bio": "My name is Anisha Chandy and I am a junior studying MCB-Neurobiology and double minoring in Journalism and STEM Education. I am super excited to work with everyone this year on their projects and help make sure you have a great ULAB experience!"
 		},
 		"Adrian Fu": {
 			"title": "Operations and Outreach Director",
@@ -800,13 +798,13 @@ members = {
 			"img": "img/staff/bio/AdrianFu.jpg",
 		},
 		"Ishna Pandey": {
-			"title": "Operations and Outreach Director",
+			"title": "Lab Manager",
 			"email": "ishna13@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/IshnaPandey.jpg",
+			"img": "img/staff/bio/Ishna_Pandey2.jpg",
 		},
 		"Andrew Koh": {
 			"title": "Head Mentor Coordinator",
@@ -824,7 +822,7 @@ members = {
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/TanirikaSingh.jpg",
+			"img": "img/staff/bio/Tanirika_Singh.jpg",
 		},
 		"Jean Ye": {
 			"title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
@@ -832,17 +830,16 @@ members = {
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
-			"personal": "",
-			"img": "img/staff/bio/JeanYe.jpg",
+			"img": "img/staff/bio/JeanYe.JPG",
 		},
 		"Ting Guo": {
-			"title": "Finance Director",
+			"title": "Lab Manager",
 			"email": "tingguo20@berkeley.edu",
 			"linkedin": "https://www.linkedin.com/in/ting-guo-957aa719a/",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/ting_guo.jpg",
+			"img": "img/staff/bio/TingGuoNew.JPG",
 		},
 		"Namrata Kantamneni": {
 			"title": "Computer Science Director",
@@ -864,13 +861,13 @@ members = {
 			"bio": ""
 		},
 		"Jenny Wu": {
-			"title": "Social Chair",
+			"title": "Operations and Outreach Director",
 			"email": "yingjungwu2222@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
 			"personal": "",
-			"img": "img/staff/bio/JennyWu.jpg",
+			"img": "img/staff/bio/JennyWuNew.png",
 		},
 		"Angikaar Chana": {
 			"title": "Senior Advisor",
@@ -944,5 +941,71 @@ members = {
 			"personal": "",
 			"img": "img/staff/ArjunVats.jpg"
 		},
+
+		## PHHS 2022-2023 Add INS 
+		"Hank Wang": {
+			"title": "Computer Science Director",
+			"email": "hankwang001@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/Hank_Wang.jpg.PNG"
+		},
+		"Albert Wu": {
+			"title": "Social Chair",
+			"email": "albertwu27069576@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"img": "img/staff/bio/Albert_Wu.jpg"
+		},
+		# " Aishwarya Ballapuram": {
+		# 	"title": "Operation and Outreach Director",
+		# 	"email": ".edu",
+		# 	"linkedin": "",
+		# 	"facebook": "",
+		# 	"github": "",
+		# 	"personal": "",
+		# 	"img": "img/staff/bio/?jpg.PNG"
+		#},
+		"Sanghwi Samala": {
+			"title": "Fianance and Administration Director",
+			"email": "sanghvis@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/Sanghvi_Samala.jpg",
+		},
+		"Tiffany Yeh": {
+			"title": "Fall Mentor Coordinator & Spring Editor in Chief",
+			"email": "tiffanyyeh3625@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/Tiffany_Yeh.jpg"
+		},
+		"Serena Chi": {
+			"title": "Fall Mentor Coordinator & Spring Editor and Chief",
+			"email": "serenachi428@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/Serena_Chi.jpg",
+		},
+		"Nancy Nguyen": {
+			"title": "Social Chair",
+			"email": "nantnguyen@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/Nancy_Nguyen.jpg",
+
+		},
+		
 }
 

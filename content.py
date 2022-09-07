@@ -283,7 +283,7 @@ labs = {
             "full_name": u"Health Sciences",
             "navbar": u"Health Sciences",
             "status": "Active",
-            "members": ["Candice Ng", "Shrina Pandey", "Meeseo Lee", "Anisha Chandy", "Adrian Fu", "Ishna Pandey", "Andrew Koh", "Tanirika Singh", "Jean Ye", "Ting Guo", "Namrata Kantamneni", "Alec Parker", "Jenny Wu"],
+            "members": [ "Shrina Pandey", "Meeseo Lee", "Anisha Chandy", "Ishna Pandey", "Andrew Koh", "Tanirika Singh", "Jean Ye","Tiffany Yeh", "Ting Guo", "Jenny Wu", "Hank Wang", "Albert Wu","Sanghwi Samala", "Serena Chi", "Nancy Nguyen" ],
             "content": {
                 "overview": {
                     "title": "Lab Overview Coming Soon!",
@@ -292,7 +292,9 @@ labs = {
                 "join": {
                     "title": "Want to join us?",
                     "text": u"""
-                            We are currently not taking applications for the 2021-2022 school year. Please keep an eye out in fall for the 2022-2023 application!
+                            We are currently taking applications for the 2022-2023 school year! <br/>
+                            The deadline to <a href='https://docs.google.com/forms/d/e/1FAIpQLSd6VArk0S8e38rJmDDZcsOcxCIpGoF7r6267atSa6Bp5M5aKw/viewform'>apply</a> to be a mentee is September 30th, 2022 @ 11:59PM! <br/>
+                            The deadline to <a href='https://docs.google.com/forms/d/e/1FAIpQLSdlabFQrdyUplBJGtw55VHNPAL7wfv8JPMS0w3lPg67Cfchjg/viewform'>apply</a> to be a mentor is September 23rd, 2022 @ 11:59PM! <br><br>
                             """
                 },
                 "calendar": {
@@ -309,7 +311,7 @@ labs = {
         "full_name" : u"Computational Biology",
         "navbar" : u"Computational Biology",
         "status" : "Active",
-        "members": ["ashish Ramesh", "Reet Mishra", "Lindsey Guan"],
+        "members": ["Arshad Mohammed", "Reet Mishra", "Farrah Kaiyom"],
         "content": {
             "overview": {
                 "title": "Lab Overview",
@@ -321,7 +323,13 @@ labs = {
             "join": {
                 "title": "Join Us!",
                 "text":u"""
-                Unfortunately, our applications for this semester have closed. We will be posting our course materials below throughout the course, so feel free to follow along!
+                    Mentee & Mentor positions are now open for Fall 2022! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. Applications are due Monday, September 5th @ 11:59PM for both mentors and mentees. Both mentors & mentees will hear back from us regarding the decision by Tuesday, September 6th; the deadline to accept our offer will be Tuesday, September 8th. 
+                    <br><br>
+                    <b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link: <a href='https://tinyurl.com/compbio-mentee-app'>tinyurl.com/compbio-mentee-app</a>                        <br><br>
+                    <b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Monday, September 5th at 11:59PM PT; apply now at the link!: <a href='https://tinyurl.com/compbio-mentor-app'>tinyurl.com/compbio-mentor-app</a>
+                    <br><br>
+                    If you are interested in joining and would like to be updated on our program, fill out the interest form: <a href='https://tinyurl.com/ulab-compbio'tinyurl.com/ulab-compbio</a>
+                    <br><br>                    
                 """
 
                 #<a href="https://forms.gle/4CUb93ZLr3KVeTcZ6">Apply Now!</a><br/><br/>
@@ -364,7 +372,7 @@ labs = {
                         Mentee & Mentor positions are now open for Spring 2022! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. Applications are due Friday, February 4th @ 11:59PM for both mentors and mentees. Both mentors & mentees will hear back from us regarding the decision by Sunday, February 6th; the deadline to accept our offer will be Tuesday, February 8th. 
                         <br><br>
                         If you’re interested in getting to know more about ULAB DS and its structure, or if you have any questions you'd like to ask us, attend our info session on Tuesday 2/1 @ 8PM: more details on our Facebook page <a href='https://fb.me/e/22SDc3utS'>here</a>.
-                        <br><br>
+                        <br><br> 
                         Mentee Application: <a href='https://docs.google.com/forms/d/e/1FAIpQLSdid-6ZauDfHUX4j4HAGTAhgysko9_se7hfsnyX3uUlwQmNeg/viewform'>tinyurl.com/sp22ulab</a>
                         <br><br>
                         Mentor Application: <a href='https://docs.google.com/forms/d/e/1FAIpQLSfdGP_rMkEOOlOIazpd87fpr7cO2brL5X2VOD3VXdFwEjV6Sg/viewform'>tinyurl.com/sp22dsmentor</a>
