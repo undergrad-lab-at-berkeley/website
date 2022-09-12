@@ -960,15 +960,15 @@ members = {
 			"github": "",
 			"img": "img/staff/bio/Albert_Wu.jpg"
 		},
-		# " Aishwarya Ballapuram": {
-		# 	"title": "Operation and Outreach Director",
-		# 	"email": ".edu",
-		# 	"linkedin": "",
-		# 	"facebook": "",
-		# 	"github": "",
-		# 	"personal": "",
-		# 	"img": "img/staff/bio/?jpg.PNG"
-		#},
+		"Aishwarya Ballapuram": {
+			"title": "Operation and Outreach Director",
+			"email": "aishwaryab@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "img/staff/bio/Aishwarya_Ballapuram.jpg"
+		},
 		"Sanghwi Samala": {
 			"title": "Fianance and Administration Director",
 			"email": "sanghvis@berkeley.edu",
