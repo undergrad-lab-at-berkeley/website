@@ -287,7 +287,7 @@ labs = {
             "content": {
                 "overview": {
                     "title": "Lab Overview Coming Soon!",
-                    "text": u"""Our Syllabus Coming Soon!"""
+                    "text": u""" """
                 },
                 "join": {
                     "title": "Want to join us?",
