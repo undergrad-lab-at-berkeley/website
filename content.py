@@ -83,21 +83,27 @@ labs = {
             "full_name": u"Physics and Astronomy",
             "navbar": u"Physics",
             "status": "Active",
-            "members": ["Yi Zhu", "Anmol Desai", "Rav Kaur", "Padma Venkatraman"],
+            "members": ["Anmol Desai", "Rav Kaur", "Saahit Mogan", "Tanay Bhadra"],
             "former": {
                 'former_name': [
                     'Arjun Savel',
                     'Aditya Sengupta',
-                    'Lawrence Edmond, IV'
+                    'Lawrence Edmond, IV',
+                    'Yi Zhu',
+                    'Padma Venkatraman'
                 ],
                 'former_position': [
                     "Director '19, Lab Manager '18",
                     "Curriculum Chair '21, Mentor '20",
-                    "Mentor '21"
+                    "Mentor '21",
+                    "Director '21, '22, Lab Manager '20",
+                    "Curriculum Chair '21"
                 ],
                 'former_now': [
-                    'Astro gradaute student at UMD',
+                    'Astro graduate student at UMD',
                     'Mathematics masters student at Cambridge',
+                    '-',
+                    'Quantum Science and Engineering graduate student at Harvard University',
                     '-'
                 ]
             },
@@ -127,11 +133,11 @@ labs = {
                         <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Mon/Wed 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester. Click on the tabs to learn about each position.
                         <br><br>
                         <b>Mentees:</b>
-                        The mentee application for Fall 2022-Spring 2023 is open! <a href='https://forms.gle/jZmss7m4HhL8fifE9' target='_blank'>HERE</a> and the deadline is September 1st.
+                        The mentee application for Fall 2023-Spring 2024 will open at the start of the semester!
                         <br><br>
                         <b>Mentors:</b>
                         <!-- The mentor application is currently closed. -->
-                        The mentor application for Fall 2022-Spring 2023 is open! <a href='https://forms.gle/zMKiDCi1NSDQm8tG7' target='_blank'>HERE</a> and will be considered on a rolling basis. Mentors will be supported by a $600/semester stipend. <b>There are a number of additional staff postions: lab manager and lecturer. Interested candidates may apply at the same link.</b>
+                        The mentor application for Fall 2023-Spring 2024 is open <a href='https://forms.gle/PdF5JFMgFLRDj37s9' target='_blank'>HERE</a> and will be considered on a rolling basis. Mentors will be supported by a $600/semester stipend. <b>There are a number of additional staff postions: lab manager and lecturer. Interested candidates may apply at the same link.</b>
                         <br><br>
                         <b>Graduate Students/Postdocs:</b>  Opportunities for graduate students, postdocs, and faculty to get involved are available year-round! Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                     """

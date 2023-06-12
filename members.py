@@ -636,7 +636,7 @@ members = {
 			"bio": ""
 		},
 		"Anmol Desai": {
-			"title": "Lab Manager",
+			"title": "Senior Advisor",
 			"email": "adesai@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
@@ -646,13 +646,13 @@ members = {
 			"bio": ""
 		},
 		"Rav Kaur": {
-			"title": "Lab Manager",
+			"title": "Research Director",
 			"email": "ravkaur@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
 			"github": "",
-			"personal": "https://ravkaur20.wixsite.com/ravkaur",
-			"img": "img/staff/rav_kaur.png",
+			"personal": "",
+			"img": "img/staff/rav_kaur2.jpeg",
 			"bio": ""
 		},
 		"Padma Venkatraman": {
@@ -1004,6 +1004,26 @@ members = {
 			"github": "",
 			"personal": "",
 			"img": "img/staff/bio/Nancy_Nguyen.jpg",
+
+		},
+		"Saahit Mogan": {
+			"title": "Research Director",
+			"email": "smogan@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "",
+
+		},
+		"Tanay Bhadra": {
+			"title": "Curriculum Chair",
+			"email": "tanaymbhadra@berkeley.edu",
+			"linkedin": "",
+			"facebook": "",
+			"github": "",
+			"personal": "",
+			"img": "",
 
 		},
 		
