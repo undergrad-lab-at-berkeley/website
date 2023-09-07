@@ -317,22 +317,22 @@ labs = {
         "full_name" : u"Computational Biology",
         "navbar" : u"Computational Biology",
         "status" : "Active",
-        "members": ["Arshad Mohammed", "Reet Mishra", "Farrah Kaiyom"],
+        "members": ["Farrah Kaiyom"],
         "content": {
             "overview": {
                 "title": "Lab Overview",
                 "text": u"""
                 Founded in Spring 2021, the Computational Biology Division of the Undergraduate Lab at Berkeley, aims to give interested undergraduates a chance to conduct their own research projects in Computational Biology in small groups under the guidance of experienced undergraduate mentors. Along the way they will gain fundamental research skills, explore relevant background knowledge, and gain experience in the research process. Our goal is to help students feel confident and prepared to seek out on-campus opportunities in the exciting field of computational biology. <br/>
-                The lab will meet as a DeCal over the course of one semester. Students will spend class time learning background information and meeting with their groups to work on their project. Mentors will supervise groups of 4-6 students, and guide them through the process of exploring a research question. The DeCal will conclude with a final project presentation. See the course syllabus <a href="https://drive.google.com/file/d/1WxTg71qLSEaavCrHTgWb5uFt_6mG3nzr">here</a>, and our decal page <a href="https://decal.berkeley.edu/courses/5458">here</a>!<br/>.
+                The lab will meet as a DeCal over the course of two semesters. Students will spend class time learning background information and meeting with their groups to work on their project. Mentors will supervise groups of 4-6 students, and guide them through the process of exploring a research question. The DeCal will conclude with a final project presentation. See the course syllabus <a href="https://docs.google.com/document/d/17VwIgGdOPjNIQTYOh9nihGHIw6HfpLPv4sajlqydwFI">here</a>, and our decal page <a href="https://decal.berkeley.edu/courses/7132">here</a>!<br/>.
                 """
             },
             "join": {
                 "title": "Join Us!",
                 "text":u"""
-                    Mentee & Mentor positions are now open for Fall 2022! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. Applications are due Monday, September 5th @ 11:59PM for both mentors and mentees. Both mentors & mentees will hear back from us regarding the decision by Tuesday, September 6th; the deadline to accept our offer will be Tuesday, September 8th. 
+                    Mentee & Mentor positions are now open for Fall 2023! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. Applications are due Monday, September 11th @ 11:59PM for both mentors and mentees. Both mentors & mentees will hear back from us regarding the decision by Tuesday, September 12th; the deadline to accept our offer will be Wednesday, September 13th.
                     <br><br>
-                    <b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link: <a href='https://tinyurl.com/compbio-mentee-app'>tinyurl.com/compbio-mentee-app</a>                        <br><br>
-                    <b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Monday, September 5th at 11:59PM PT; apply now at the link!: <a href='https://tinyurl.com/compbio-mentor-app'>tinyurl.com/compbio-mentor-app</a>
+                    <b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through BioE 98. The application is due by Monday, January 29th at 11:59PM PT; apply now at the link: <a href='https://tinyurl.com/ulabcompbiomentee23'>tinyurl.com/ulabcompbiomentee23</a>                        <br><br>
+                    <b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Monday, September 5th at 11:59PM PT; apply now at the link!: <a href='https://tinyurl.com/ulabcompbiomentor23'>tinyurl.com/ulabcompbiomentor23</a>
                     <br><br>
                     If you are interested in joining and would like to be updated on our program, fill out the interest form: <a href='https://tinyurl.com/ulab-compbio'tinyurl.com/ulab-compbio</a>
                     <br><br>                    

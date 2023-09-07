@@ -362,7 +362,7 @@ members = {
 			"img": "img/staff/reetmishra.jpg"
 		},
 	    "Farrah Kaiyom": {
-			"title": "Lab Manager & Facilitator",
+			"title": "Research Director & Facilitator",
 			"email": "farrahk@berkeley.edu",
 			"linkedin": "",
 			"facebook": "",
