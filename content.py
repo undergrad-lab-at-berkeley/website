@@ -298,9 +298,8 @@ labs = {
                 "join": {
                     "title": "Want to join us?",
                     "text": u"""
-                            We are currently taking applications for the 2023-2024 school year! <br/>
-                            The deadline to <a href='https://tinyurl.com/ulabphhsmentee23-24'>apply</a> to be a mentee is Monday, September 18th @ 11:59PM! <br/>
-                            The deadline to <a href='https://tinyurl.com/yxpyz3r5'>apply</a> to be a mentor is Monday, September 18th  @ 11:59PM! <br><br>
+                            We have closed mentee applications but are still taking mentor applications for the 2023-2024 school year! <br/>
+                            The deadline to <a href='https://tinyurl.com/ulabphhsmentor23-24'>apply</a> as a mentor has been extended to Monday, October 16th  @ 11:59PM! <br><br>
                             """
                 },
                 "calendar": {
