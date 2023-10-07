@@ -11,29 +11,33 @@
 
 import csv
 
+
 # Given INPUT_DICT and set ENTRIES, returns new dict with items from INPUT_DICT that match the keys indicated by ENTRIES
 def filter_dict(input_dict, entries):
     # Compares INPUT_DICT keys with set ENTRIES, matching keys are used in a dictionary comprehension
     return {k: input_dict[k] for k in input_dict.keys() if k in entries}
 
-foundersOrder = ["Riley McDanal", "Jenna Martin", "Arjun Savel", "Yasmeen Musthafa", "Catherine Livelo", "Alan Pham", "Joshua Hug", "Amit Akula", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
+
+foundersOrder = ["Riley McDanal", "Jenna Martin", "Arjun Savel", "Yasmeen Musthafa", "Catherine Livelo", "Alan Pham",
+                 "Joshua Hug", "Amit Akula", "Mrinalini Sugosh", "Alex Powers", "Dylan Kato", "Michael Oshiro"]
 advisorsOrder = ["Joshua Hug", "Arjun Savel", "Riley McDanal", "Sean Burns"]
 teamOrder = ['Hareen Seerha', 'Savannah Perez-Piel', 'Catherine Livelo', 'Alan Pham', 'Adam Bittenson']
-labOrder = ['cogsci','physics','bio','data','compbio']
+labOrder = ['cogsci', 'physics', 'bio', 'data', 'compbio']
 
 labs = {
     "cogsci": {
-            "logo" : u"/static/img/logos/logo_cog_sci.png",
-            "short_name": u"cogsci",
-            "full_name": u"Psychology and Cognitive Sciences",
-            "navbar": u"Cog_Sci",
-            "status": "Active",
-            "members": ["Jimin Oh", "Jasleen Bains", "Tayeba Chowdhury", "Rachel Pham", "Huda Jawad", "Sharona Yang", "Namrata Vedagarbha", "Nimangie Weerakoon", "Mark D\'Esposito"],
-            "content": {
-                "overview": {
-                    "group_photo": u"/static/img/staff/Psych_CogSci_Group.jpg",
-                    "title": "Lab Overview",
-                    "text": """
+        "logo": u"/static/img/logos/logo_cog_sci.png",
+        "short_name": u"cogsci",
+        "full_name": u"Psychology and Cognitive Sciences",
+        "navbar": u"Cog_Sci",
+        "status": "Active",
+        "members": ["Jimin Oh", "Jasleen Bains", "Tayeba Chowdhury", "Rachel Pham", "Huda Jawad", "Sharona Yang",
+                    "Namrata Vedagarbha", "Nimangie Weerakoon", "Mark D\'Esposito"],
+        "content": {
+            "overview": {
+                "group_photo": u"/static/img/staff/Psych_CogSci_Group.jpg",
+                "title": "Lab Overview",
+                "text": """
                         Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. </br>
                         <p></p>
                         This year, we are following a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULab Board of Directors and dedicated graduate students. Each group will get to pick studies in areas that interest them the most. This will also allow an opportunity for projects to be published!
@@ -43,75 +47,76 @@ labs = {
                         Currently, Dr. Mark D'Esposito, Professor of Neuroscience and Psychology at UC Berkeley, serves as primary faculty advisor. As the ULab Board of Directors pursues new projects and initiatives, Dr. D'Esposito oversees their work to ensure the advancement of ULab's mission.
                         <p><p/> 
                         """
-                        # Our Sponsors:
-                        # The <a href="http://www.wheelerlabs.berkeley.edu">Wheeler Labs</a> is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
-                },
-                "sponsor": {
-                    "title": "Want to join us?",
-                    "text": """
+                # Our Sponsors:
+                # The <a href="http://www.wheelerlabs.berkeley.edu">Wheeler Labs</a> is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
+            },
+            "sponsor": {
+                "title": "Want to join us?",
+                "text": """
                         Applications can be found at the following hyperlinks: <a href="https://forms.gle/ELSPb1H78PXNNbN2A">Mentor App</a>, <a href="https://forms.gle/cU9cVXaDJ8RfZjKj8">Mentee App</a>, <a href="https://forms.gle/ErLwuvwTZEouNbZ88">Grad Student App</a>, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6cMOQ9PBYSShYAkxS9mU4G_gWTDWNzsOjGyMInGFXBdBcDA/viewform">UROP App</a>. Deadlines and details are provided on the applications. <br/>  <br/>                      
                         
                         """
-                        # Applications for mentors and mentees for the 2021-2022 year are closed!
-                        # However, feel free to reach out to us by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
-                },
-                "join": {
-                    "title": """Sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a>.""",
-                    "text": """"""
-                
-                },
-                "calendar": {
-                    "title": u"ULab Division Calendar",
-                    "text": u"""This calendar has all of the events and deadlines for the year. Exact days and times are subject to change.""",
-                    "object": u"""<iframe src="https://calendar.google.com/calendar/embed?src=cogsci.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
-                },
-                "database": {
-                    "link": "https://drive.google.com/file/d/1N4Cipbns-FMjD4yefx97KDqVOObv2ulZ/view?usp=sharing"
-                },
-                "modules": {
-                    "link": "https://docs.google.com/document/d/1qTL6MKEss-XpFKhx50v1PXzCuOZgsIHdVYduIk2OaKE/edit?usp=sharing"
-                },
-                "resources": {
-                    "link": "https://drive.google.com/drive/folders/1H7nmUNhrPlhBdOhwsMN9PFK8DOolUcFe?usp=sharing"
-                }
+                # Applications for mentors and mentees for the 2021-2022 year are closed!
+                # However, feel free to reach out to us by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
+            },
+            "join": {
+                "title": """Sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a>.""",
+                "text": """"""
+
+            },
+            "calendar": {
+                "title": u"ULab Division Calendar",
+                "text": u"""This calendar has all of the events and deadlines for the year. Exact days and times are subject to change.""",
+                "object": u"""<iframe src="https://calendar.google.com/calendar/embed?src=cogsci.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
+            },
+            "database": {
+                "link": "https://drive.google.com/file/d/1N4Cipbns-FMjD4yefx97KDqVOObv2ulZ/view?usp=sharing"
+            },
+            "modules": {
+                "link": "https://docs.google.com/document/d/1qTL6MKEss-XpFKhx50v1PXzCuOZgsIHdVYduIk2OaKE/edit?usp=sharing"
+            },
+            "resources": {
+                "link": "https://drive.google.com/drive/folders/1H7nmUNhrPlhBdOhwsMN9PFK8DOolUcFe?usp=sharing"
             }
+        }
     },
 
     "physics": {
-            "logo" : u"/static/img/logos/logo_physics.png",
-            "short_name": u"physics",
-            "full_name": u"Physics and Astronomy",
-            "navbar": u"Physics",
-            "status": "Active",
-            "members": ["Anmol Desai", "Rav Kaur", "Saahit Mogan", "Tanay Bhadra"],
-            "former": {
-                'former_name': [
-                    'Arjun Savel',
-                    'Aditya Sengupta',
-                    'Lawrence Edmond, IV',
-                    'Yi Zhu',
-                    'Padma Venkatraman'
-                ],
-                'former_position': [
-                    "Director '19, Lab Manager '18",
-                    "Curriculum Chair '21, Mentor '20",
-                    "Mentor '21",
-                    "Director '21, '22, Lab Manager '20",
-                    "Curriculum Chair '21"
-                ],
-                'former_now': [
-                    'Astro graduate student at UMD',
-                    'Mathematics masters student at Cambridge',
-                    '-',
-                    'Quantum Science and Engineering graduate student at Harvard University',
-                    '-'
-                ]
-            },
-            "content": {
-                "overview": {
-                    "title": u"Lab Overview",
-                    "slides": ["/static/img/physics_slides/muon.jpg", "/static/img/physics_slides/symposium.jpg", "/static/img/physics_slides/lbl_als_1.jpg", "/static/img/physics_slides/mixing.jpg"],
-                    "text": u""" 
+        "logo": u"/static/img/logos/logo_physics.png",
+        "short_name": u"physics",
+        "full_name": u"Physics and Astronomy",
+        "navbar": u"Physics",
+        "status": "Active",
+        "members": ["Anmol Desai", "Rav Kaur", "Saahit Mogan", "Tanay Bhadra"],
+        "former": {
+            'former_name': [
+                'Arjun Savel',
+                'Aditya Sengupta',
+                'Lawrence Edmond, IV',
+                'Yi Zhu',
+                'Padma Venkatraman'
+            ],
+            'former_position': [
+                "Director '19, Lab Manager '18",
+                "Curriculum Chair '21, Mentor '20",
+                "Mentor '21",
+                "Director '21, '22, Lab Manager '20",
+                "Curriculum Chair '21"
+            ],
+            'former_now': [
+                'Astro graduate student at UMD',
+                'Mathematics masters student at Cambridge',
+                '-',
+                'Quantum Science and Engineering graduate student at Harvard University',
+                '-'
+            ]
+        },
+        "content": {
+            "overview": {
+                "title": u"Lab Overview",
+                "slides": ["/static/img/physics_slides/muon.jpg", "/static/img/physics_slides/symposium.jpg",
+                           "/static/img/physics_slides/lbl_als_1.jpg", "/static/img/physics_slides/mixing.jpg"],
+                "text": u""" 
                         <b style='font-size:150%;'> About Us </b>
                         <br><br>
                         The Undergraduate Lab at Berkeley, Physics &#38; Astronomy Division is a DeCal that aims to make the transition into undergraduate research as seamless as possible. <b>We believe that research should be accessible to all undergrads within the Physics and Astronomy Departments</b> despite significant barriers to entry for students traditionally underrepresented in academia or without a strong research background.
@@ -124,10 +129,10 @@ labs = {
                         <br><br>
                         <a href="https://docs.google.com/document/d/1J_nPg7X1tv7KuOh9MCrAB86AOovm5SFgrrNRBkrfmAI/edit?usp=sharing" target="_blank">ULAB Physics & Astronomy CODE OF CONDUCT</a>
                         """
-                },
-                "join": {
-                    "title": u"Join Us!",
-                    "text": """
+            },
+            "join": {
+                "title": u"Join Us!",
+                "text": """
                         <b style='font-size:150%;'> Join Us! </b>
                         <br><br>
                         <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Mon/Wed 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester. Click on the tabs to learn about each position.
@@ -141,14 +146,14 @@ labs = {
                         <br><br>
                         <b>Graduate Students/Postdocs:</b>  Opportunities for graduate students, postdocs, and faculty to get involved are available year-round! Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                     """
-                    #     In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
-                    #     <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Researcher Application </a> <br/>
-                    #     <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
-                    # """
-                },
-                "mentees":{
-                    "title": "Mentees Info",
-                    "text": u"""
+                #     In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
+                #     <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Researcher Application </a> <br/>
+                #     <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
+                # """
+            },
+            "mentees": {
+                "title": "Mentees Info",
+                "text": u"""
                         <b style='font-size:150%;'> Mentee Information </b>
                         <br><br>
                         ULAB is a 2-semester DeCal sponsored by Prof. Dan Kasen. We meet Mon/Wed 7-8 PM in-person!
@@ -181,10 +186,10 @@ labs = {
                         <b>Q: Do ULAB projects yeild results?</b><br>
                         Wrong question. ULAB is a <i>research training</i> organization. Through conducting their projects, mentees learn about the basic knowledge and skills required to conduct research in their field and leave our program a better candidate, and better prepared for research. (…but to answer the question, most projects do yield interesting results; and even when they don’t, mentees are able to explain their work and what they’ve learned).
                         """
-                },
-                "mentors":{
-                    "title": "Mentor Info",
-                    "text": u"""
+            },
+            "mentors": {
+                "title": "Mentor Info",
+                "text": u"""
                         <b style='font-size:150%;'> Mentor Information </b>
                         <br><br>
                         Mentorship can be a very fruitful and rewarding experience for undergraduates with research experience. Mentors' primary job is to meet weekly with their group of 3-5 mentees during the year-long process of conducting an independent research project. Mentors will lead discussions on topics in their field and guide their group through their project.
@@ -205,10 +210,10 @@ labs = {
                         <br>
                         While some mentors have a clear project in mind, most mentors begin an idea of topics they would like to work on. They are paired with mentees with similar interests. Mentors and mentees together determine a suitable project. We are able to reasonably fund physical projects, simulations, etc. 
                     """
-                },
-                "advisors":{
-                    "title": "Advisors Info",
-                    "text": u"""
+            },
+            "advisors": {
+                "title": "Advisors Info",
+                "text": u"""
                         <b style='font-size:150%;'> Advisor Information </b>
                         <br><br>
                         Graduate students and postdocs interested in supporting ULAB's mission are encouraged to become project advisors. Advisors serve to ensure scientific rigor, help determine the practically and scope of a project, and give general guidance on the direction of a project. The advising role is flexible and low-commitment: about 3-5 hours per semester. The format of advising differs by the semester.
@@ -220,102 +225,103 @@ labs = {
                         Opportunities for advisors are available year-round. Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                         <br><br>
                     """
-                },
-                "projects":{
-                    "title": "Projects",
-                    "text": "<b style='font-size:150%;'> Past Projects </b>",                
-                    "years": {
-                        '2021-2022': {
-                            u'1. Numerical Spin Analysis of Relativistic Bondi Accretion in M87*': "/static/doc/posters/s221.pdf",
-                            u'2. Analyzing Anomalous Transport in Interplanetary Shocks Using a Mittag-Leffler Function':'/static/doc/posters/s222.pdf',
-                            u'3. Cosmic Ray Predictions With a Homemade Muon Detector': '/static/doc/posters/s223.pdf',
-                            u'4. Observing and Obtaining a Light Curve from a Potential Transiting Exoplanet': '/static/doc/posters/s224.pdf',
-                            u"5. Creating a Pipeline to Generate Radial Velocity Curves from Raw APF Spectral Data": '/static/doc/posters/s225.pdf',
-                            u'6. Simulating Scattering Processes in TGFs Using Monte Carlo Methods': '/static/doc/posters/s226.pdf',
-                            u'7. Determining the Verdet Coefficient of Olive Oil with Faraday Rotation': '/static/doc/posters/s227.pdf',
-                            u'8. Investigating Habitability in the Kepler-47 Binary System': '/static/doc/posters/s228.pdf'
+            },
+            "projects": {
+                "title": "Projects",
+                "text": "<b style='font-size:150%;'> Past Projects </b>",
+                "years": {
+                    '2021-2022': {
+                        u'1. Numerical Spin Analysis of Relativistic Bondi Accretion in M87*': "/static/doc/posters/s221.pdf",
+                        u'2. Analyzing Anomalous Transport in Interplanetary Shocks Using a Mittag-Leffler Function': '/static/doc/posters/s222.pdf',
+                        u'3. Cosmic Ray Predictions With a Homemade Muon Detector': '/static/doc/posters/s223.pdf',
+                        u'4. Observing and Obtaining a Light Curve from a Potential Transiting Exoplanet': '/static/doc/posters/s224.pdf',
+                        u"5. Creating a Pipeline to Generate Radial Velocity Curves from Raw APF Spectral Data": '/static/doc/posters/s225.pdf',
+                        u'6. Simulating Scattering Processes in TGFs Using Monte Carlo Methods': '/static/doc/posters/s226.pdf',
+                        u'7. Determining the Verdet Coefficient of Olive Oil with Faraday Rotation': '/static/doc/posters/s227.pdf',
+                        u'8. Investigating Habitability in the Kepler-47 Binary System': '/static/doc/posters/s228.pdf'
 
-                        },
-                        '2020-2021': {
-                            u'1. Measuring Cosmic Distances using Gravitational Waves': "/static/doc/posters/s211.pdf",
-                            u'2. Doppler Imaging of a Simulated Star':'/static/doc/posters/s212.pdf',
-                            u'3. Characterizing Exoplanet Habitability': '/static/doc/posters/s213.pdf',
-                            u'4. Categorizing Solar Flares with Machine Learning': '/static/doc/posters/s214.pdf',
-                            u"5. Determining Hubble's Constant From Time Delays in Lensed Quasars ": '/static/doc/posters/s215.pdf',
-                            u'6. An Exploration into Experimental Particle Physics': '/static/doc/posters/s216.pdf',
-                            u'7. Modeling and Mapping Terrestrial Gamma Ray Flashes': '/static/doc/posters/s217.pdf'
-                        },
-                        '2019-2020': {
-                            u'1. Computational Analysis of Mixing Layers in the Interstellar Medium': '/static/doc/posters/s201.pdf',
-                            u'2. Investigation on the Potential Origin of ‘Oumuamua': '/static/doc/posters/s202.pdf',
-                            u'3. Simulating the Antenna Response of Radio Interferometers': '/static/doc/posters/s203.pdf',
-                            u'4. Accessible Balloon RAdiometer-Detecting the Cosmic Microwave Background': '/static/doc/posters/s204.pdf',
-                            u'5. Period-Luminosity Analysis of Cepheid Variables': '/static/doc/posters/s205.pdf',
-                            u'6. Analyzing the Turnover Point in the Light Curve of the Neutron Star Binary Merger Event GW170817': '/static/doc/posters/s206.pdf',
-                            u'7. Physics of a Tokamak': '/static/doc/posters/s207.pdf',
-                            u'8. Nanoparticle Drug Delivery Methods via DNA Nanotechnology': '/static/doc/posters/s208.pdf',
-                            u'9. Relating Electromagnetic Waves to Light': '/static/doc/posters/s209.pdf'
-                        },
-                        '2018-2019': {
-                            u'1. Implementation of Partial Quantum Search': '/static/doc/posters/s191.pdf',
-                            u'2. Determining Graphene Stacking via Raman Spectroscopy': '/static/doc/posters/s192.pdf',
-                            u'3. Angular and Altitude Dependence of Cosmic Ray Muons': '/static/doc/posters/s193.pdf',
-                            u'4. Monte Carlo Study of the Ising Model': '/static/doc/posters/s194.pdf',
-                            u'5. Interplanetary Radiation Harnessing Voltaic System': '/static/doc/posters/s195.pdf',
-                            u'6. An Analysis on the Distribution of the Hubble Parameter across the Sky': '/static/doc/posters/s196.pdf',
-                            u'7. Estimating the Mass of the Milky Way Galaxy': '/static/doc/posters/s197.pdf',
-                            u'8. Exoplanet Detections with Machine Learning': '/static/doc/posters/s198.pdf',
-                            u'9. Calibrating the Flux-Weighted Gravity-Luminosity Relation in Blue Supergiant Stars': '/static/doc/posters/s199.pdf',
-                        },
-                        '2017-2018': {
-                            u'1. Determining the Habitability of Exoplanets': '/static/doc/posters/s181.pdf',
-                            u'2. Measuring the Spin of Rotating Black Holes': '/static/doc/posters/s182.pdf',
-                            u'3. Designing an Electromagnetic Shield to Block Secondary Cosmic Rays': '/static/doc/posters/s183.pdf',
-                            u'4. Study of Isotropic and Anisotropic Electrical Conductivity': '/static/doc/posters/s184.pdf',
-                        }
+                    },
+                    '2020-2021': {
+                        u'1. Measuring Cosmic Distances using Gravitational Waves': "/static/doc/posters/s211.pdf",
+                        u'2. Doppler Imaging of a Simulated Star': '/static/doc/posters/s212.pdf',
+                        u'3. Characterizing Exoplanet Habitability': '/static/doc/posters/s213.pdf',
+                        u'4. Categorizing Solar Flares with Machine Learning': '/static/doc/posters/s214.pdf',
+                        u"5. Determining Hubble's Constant From Time Delays in Lensed Quasars ": '/static/doc/posters/s215.pdf',
+                        u'6. An Exploration into Experimental Particle Physics': '/static/doc/posters/s216.pdf',
+                        u'7. Modeling and Mapping Terrestrial Gamma Ray Flashes': '/static/doc/posters/s217.pdf'
+                    },
+                    '2019-2020': {
+                        u'1. Computational Analysis of Mixing Layers in the Interstellar Medium': '/static/doc/posters/s201.pdf',
+                        u'2. Investigation on the Potential Origin of ‘Oumuamua': '/static/doc/posters/s202.pdf',
+                        u'3. Simulating the Antenna Response of Radio Interferometers': '/static/doc/posters/s203.pdf',
+                        u'4. Accessible Balloon RAdiometer-Detecting the Cosmic Microwave Background': '/static/doc/posters/s204.pdf',
+                        u'5. Period-Luminosity Analysis of Cepheid Variables': '/static/doc/posters/s205.pdf',
+                        u'6. Analyzing the Turnover Point in the Light Curve of the Neutron Star Binary Merger Event GW170817': '/static/doc/posters/s206.pdf',
+                        u'7. Physics of a Tokamak': '/static/doc/posters/s207.pdf',
+                        u'8. Nanoparticle Drug Delivery Methods via DNA Nanotechnology': '/static/doc/posters/s208.pdf',
+                        u'9. Relating Electromagnetic Waves to Light': '/static/doc/posters/s209.pdf'
+                    },
+                    '2018-2019': {
+                        u'1. Implementation of Partial Quantum Search': '/static/doc/posters/s191.pdf',
+                        u'2. Determining Graphene Stacking via Raman Spectroscopy': '/static/doc/posters/s192.pdf',
+                        u'3. Angular and Altitude Dependence of Cosmic Ray Muons': '/static/doc/posters/s193.pdf',
+                        u'4. Monte Carlo Study of the Ising Model': '/static/doc/posters/s194.pdf',
+                        u'5. Interplanetary Radiation Harnessing Voltaic System': '/static/doc/posters/s195.pdf',
+                        u'6. An Analysis on the Distribution of the Hubble Parameter across the Sky': '/static/doc/posters/s196.pdf',
+                        u'7. Estimating the Mass of the Milky Way Galaxy': '/static/doc/posters/s197.pdf',
+                        u'8. Exoplanet Detections with Machine Learning': '/static/doc/posters/s198.pdf',
+                        u'9. Calibrating the Flux-Weighted Gravity-Luminosity Relation in Blue Supergiant Stars': '/static/doc/posters/s199.pdf',
+                    },
+                    '2017-2018': {
+                        u'1. Determining the Habitability of Exoplanets': '/static/doc/posters/s181.pdf',
+                        u'2. Measuring the Spin of Rotating Black Holes': '/static/doc/posters/s182.pdf',
+                        u'3. Designing an Electromagnetic Shield to Block Secondary Cosmic Rays': '/static/doc/posters/s183.pdf',
+                        u'4. Study of Isotropic and Anisotropic Electrical Conductivity': '/static/doc/posters/s184.pdf',
                     }
-                },
-                "calendar": {
-                    "title": u"Calendar",
-                    "text": u"""""",
-                    "object": """<iframe src="https://calendar.google.com/calendar/embed?src=physics.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
                 }
+            },
+            "calendar": {
+                "title": u"Calendar",
+                "text": u"""""",
+                "object": """<iframe src="https://calendar.google.com/calendar/embed?src=physics.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
             }
+        }
     },
 
     "bio": {
-            "logo" : u"/static/img/logos/logo_public_health.png",
-            "short_name": u"genetics",
-            "full_name": u"Health Sciences",
-            "navbar": u"Health Sciences",
-            "status": "Active",
-            "members": [ "Shrina Pandey", "Meeseo Lee", "Anisha Chandy", "Ishna Pandey","Aishwarya Ballapuram" ,"Andrew Koh", "Tanirika Singh", "Jean Ye","Tiffany Yeh", "Ting Guo", "Jenny Wu", "Hank Wang", "Albert Wu","Sanghwi Samala", "Serena Chi", "Nancy Nguyen" ],
-            "content": {
-                "overview": {
-                    "title": "Lab Overview Coming Soon!",
-                    "text": u""" """
-                },
-                "join": {
-                    "title": "Want to join us?",
-                    "text": u"""
-                            We have closed mentee applications but are still taking mentor applications for the 2023-2024 school year! <br/>
-                            The deadline to <a href='https://tinyurl.com/ulabphhsmentor23-24'>apply</a> as a mentor has been extended to Monday, October 16th  @ 11:59PM! <br><br>
+        "logo": u"/static/img/logos/logo_public_health.png",
+        "short_name": u"genetics",
+        "full_name": u"Health Sciences",
+        "navbar": u"Health Sciences",
+        "status": "Active",
+        "members": ["Ishna Pandey", "Ting Guo", "Albert Wu", "Hank Wang", "Jenny Wu", "Aarti Anand", "Christopher Lee",
+                    "Tanirika Singh", "Sanghvi Samala", "Nancy Nguyen", "Yuna Lee", "Aidan Lee", "Katherine Kan",
+                    "Easha Narayanan", "Maya Singh", "Lianna Soriano"],
+        "content": {
+            "overview": {
+                "title": "Lab Overview Coming Soon!",
+                "text": u""" """
+            },
+            "join": {
+                "title": "Want to join us?",
+                "text": u"""
+                            We have closed applications for the 2023-2024 academic year, be sure to check next Fall 2024! <br/>
                             """
-                },
-                "calendar": {
-                    "title": "",
-                    "text": "",
-                    "object": ""
-                }
+            },
+            "calendar": {
+                "title": "",
+                "text": "",
+                "object": ""
             }
+        }
     },
 
     "compbio": {
-        "logo" : u"/static/img/logos/logo_compbio.png",
-        "short_name" : u"compbio",
-        "full_name" : u"Computational Biology",
-        "navbar" : u"Computational Biology",
-        "status" : "Active",
+        "logo": u"/static/img/logos/logo_compbio.png",
+        "short_name": u"compbio",
+        "full_name": u"Computational Biology",
+        "navbar": u"Computational Biology",
+        "status": "Active",
         "members": ["Farrah Kaiyom"],
         "content": {
             "overview": {
@@ -327,7 +333,7 @@ labs = {
             },
             "join": {
                 "title": "Join Us!",
-                "text":u"""
+                "text": u"""
                     Mentee & Mentor positions are now open for Fall 2023! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. The application deadline is extended to Saturday, September 16th @ 11:59PM for both mentors and mentees. Both mentors & mentees will hear back from us regarding the decision by Monday, September 18th; the deadline to accept our offer will be Tuesday, September 19th. Although the application deadline is after the course add/drop deadline, all members that hear from us before September 13th will be able to take our Decal for units. Our first class will be held on September 12th in the Social Sciences Building Room 56 from 7-8pm, and we welcome all potential members to attend, even if you are unsure of applying!
                     <br><br>
                     <b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through BioE 98. The application is due by Monday, January 29th at 11:59PM PT; apply now at the link: <a href='https://tinyurl.com/ulabcompbiomentee23'>tinyurl.com/ulabcompbiomentee23</a>                        <br><br>
@@ -337,12 +343,12 @@ labs = {
                     <br><br>                    
                 """
 
-                #<a href="https://forms.gle/4CUb93ZLr3KVeTcZ6">Apply Now!</a><br/><br/>
-                #<b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Wednesday, January 27th at 11:59PM PT; apply now at the link above!.<br/><br/>
-                #<b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link above!
-                #"""
+                # <a href="https://forms.gle/4CUb93ZLr3KVeTcZ6">Apply Now!</a><br/><br/>
+                # <b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Wednesday, January 27th at 11:59PM PT; apply now at the link above!.<br/><br/>
+                # <b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link above!
+                # """
             },
-            "calendar" : {
+            "calendar": {
                 "title": "",
                 "text": "",
                 "object": ""
@@ -351,16 +357,17 @@ labs = {
     },
 
     "data": {
-            "logo" : u"/static/img/logos/logo_data.png",
-            "short_name": u"data",
-            "full_name": u"Data Science",
-            "navbar": u"Data Science",
-            "status": "Active",
-            "members": ["Kashish Kharbanda", "Nandita Radhakrishnan", "Won Shil Park", "Srikanth Nampoothiri", "Ethan Qiu", "Arjun Vats"],
-            "content": {
-                "overview": {
-                    "title": "Lab Overview",
-                    "text": u"""
+        "logo": u"/static/img/logos/logo_data.png",
+        "short_name": u"data",
+        "full_name": u"Data Science",
+        "navbar": u"Data Science",
+        "status": "Active",
+        "members": ["Kashish Kharbanda", "Nandita Radhakrishnan", "Won Shil Park", "Srikanth Nampoothiri", "Ethan Qiu",
+                    "Arjun Vats"],
+        "content": {
+            "overview": {
+                "title": "Lab Overview",
+                "text": u"""
                         The Data Science Lab, started by Alan Pham in Fall 2018, is a great opportunity for students to conduct data science research by working on an interesting project, with guidance from experienced undergraduate mentors. It might seem difficult, but it’s actually very fun and easy, because of our unique way of providing students a gentle introduction to research. For mentors, this is a meaningful opportunity to lead aspiring researchers while getting to know what it might be like to lead a lab. <br/>
 
                         <br/>
@@ -370,10 +377,10 @@ labs = {
                         <br/>
 
                         Please don’t hesitate to contact us if you have any questions."""
-                },
-                "join": {
-                    "title": u"Want to join us?",
-                    "text": u"""
+            },
+            "join": {
+                "title": u"Want to join us?",
+                "text": u"""
                         Mentee & Mentor positions are now open for Spring 2022! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. Applications are due Friday, February 4th @ 11:59PM for both mentors and mentees. Both mentors & mentees will hear back from us regarding the decision by Sunday, February 6th; the deadline to accept our offer will be Tuesday, February 8th. 
                         <br><br>
                         If you’re interested in getting to know more about ULAB DS and its structure, or if you have any questions you'd like to ask us, attend our info session on Tuesday 2/1 @ 8PM: more details on our Facebook page <a href='https://fb.me/e/22SDc3utS'>here</a>.
@@ -384,20 +391,20 @@ labs = {
                         <br><br>
                         If you have any questions about the application process, please email <a href='mailto:kashishk@berkeley.edu'>kashishk@berkeley.edu</a>!
                         """
-                },
-                "calendar": {
-                    "title": "",
-                    "text": "",
-                    "object": ""
-                }
+            },
+            "calendar": {
+                "title": "",
+                "text": "",
+                "object": ""
             }
+        }
     },
 
     # "atg": {
     #         "logo" : u"/static/img/logos/logo_atg.png",
-	#         "short_name" : "ATG",
-	#         "full_name" : "Advanced Technologies Group",
-	#         "navbar" : "Advanced Technologies Group",
+    #         "short_name" : "ATG",
+    #         "full_name" : "Advanced Technologies Group",
+    #         "navbar" : "Advanced Technologies Group",
     #         "status": "Active",
     #         "members": ["Dillon Eskandar", "Neil Toledo", "David Liu", "Kavi Vaidya", "Charlie Zhang", "Albert Huang"],
     #         "content": {
@@ -428,12 +435,12 @@ labs = {
     #             }
     #         },
     # },
-#
+    #
     # "ops": {
     #         "logo" : u"/static/img/logos/logo_general.png",
     #         "short_name" : "ops",
-	#         "full_name" : "Operations and Publicity",
-	#         "navbar" : "Operations and Publicity",
+    #         "full_name" : "Operations and Publicity",
+    #         "navbar" : "Operations and Publicity",
     #         "status": "Active",
     #         "members": ["Yasmeen Musthafa", "Min Young Kim", "Catherine Livelo", "Neha Venkatesh", "Alan Pham", "Justin Gerwien", "Jesslyn Cabero",
     #                     "Jessica Tin", "Marwat Al-Olefi",  "Sunita Bohara", "Kasey Woo"],
@@ -466,7 +473,7 @@ labs = {
     #             }
     #         }
     # },
-#
+    #
     # # To Be Determined
     # "aerospace": {
     #         "logo" : u"/static/img/logos/logo_robotics_aero.png",
@@ -493,12 +500,8 @@ labs = {
     # }
 }
 
-
-
-
-
-#RESEARCH DICTIONARY IS DEPRECATED
-#ONLY HERE FOR REFERENCE DURING WEBSITE REVAMP
+# RESEARCH DICTIONARY IS DEPRECATED
+# ONLY HERE FOR REFERENCE DURING WEBSITE REVAMP
 research = {
     "physics-ulab": {
         "date": "17 Nov, 2017",
@@ -532,14 +535,15 @@ research = {
             <h4>Particle Physics</h4>
                 <p>The uLab Particle Physics Group allows first-year students interested in particle, nuclear, and high-energy physics to learn about the research community at Berkeley while performing new research in fundamental physics. This semester, the particle physics group is investigating the possibility of active cosmic ray shielding using magnetic fields in order to reduce the noise in precision particle physics experiments. The group will be constructing a particle detector and measuring the reduction in particle intensity when different shielding designs are used. In the process, students will also learn about statistics and data analysis as well as software commonly used in the particle physics. An effective shield will allow the group to pursue other precision experiments without the interference of cosmic rays.</p>
             """,
-},
+    },
     "cogsci-ulab": {
         "date": "17 Nov, 2017",
         "app-url": "/lab-jobs/cogsci",
         "navbar": "Cognitive Neuroscience and Medical Imaging uLab",
         "img": "img/project/mind-reading.png",
         "title": "Cognitive Neuroscience and Medical Imaging uLab",
-        "team": ["Riley McDanal", "Annelise Meyer", "Hareen Seerha", "Valerie Burleigh", "Stephanie Chang", "Adam Bittenson", "Allie Morehouse"],
+        "team": ["Riley McDanal", "Annelise Meyer", "Hareen Seerha", "Valerie Burleigh", "Stephanie Chang",
+                 "Adam Bittenson", "Allie Morehouse"],
         "has_mentor": False,
         "mentor": ""
     },
@@ -550,7 +554,8 @@ research = {
         "navbar": "Community Analysis",
         "img": "img/project/human-circuit.jpg",
         "title": "Advanced Technologies Group",
-        "team": ["Dillon Eskandar", "Neil Toledo", "Cibi Pari", "David Liu", "Kavi Vaidya", "Charlie Zhang", "Albert Huang"],
+        "team": ["Dillon Eskandar", "Neil Toledo", "Cibi Pari", "David Liu", "Kavi Vaidya", "Charlie Zhang",
+                 "Albert Huang"],
         "has_mentor": False,
         "mentor": "",
         "content": "To be added. You can learn more about opportunities for students (of all years) <a href=/lab-jobs/atg> here </a> ",
