@@ -804,7 +804,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/bio/Ishna_Pandey2.jpg",
+        "img": "img/staff/bio/ishna-pandey-3.jpg",
         "bio": "Hi! I’m Ishna Pandey and I’m a senior majoring in Integrative Biology. This is my fourth year at ULAB "
                "and my first as Research Director. I’m excited to work with all of you this year!"
     },
@@ -824,7 +824,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/bio/Tanirika_Singh.jpg",
+        "img": "img/staff/bio/tanirika-singh-3.jpg",
         "bio": "Hello! My name is Tanirika and I’m currently a senior majoring in Molecular & Cell Biology with an "
                "emphasis in Neurobiology. I’m really excited to continue being a part of ULAB and can’t wait for a "
                "great year ahead!"
@@ -844,8 +844,10 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/bio/TingGuoNew.JPG",
-        "bio": "Hi everyone! I’m Ting and I am a senior studying Molecular Environmental Biology & Psychology. I was involved with ULAB because it was a great introduction into scientific research and writing especially for students with no previous experience."
+        "img": "img/staff/bio/ting-guo-3.jpg",
+        "bio": "Hi everyone! I’m Ting and I am a senior studying Molecular Environmental Biology & Psychology. I was "
+               "involved with ULAB because it was a great introduction into scientific research and writing "
+               "especially for students with no previous experience."
     },
     "Namrata Kantamneni": {
         "title": "Computer Science Director",
@@ -873,8 +875,9 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/bio/JennyWuNew.png",
-        "bio": "My name is Jenny Wu, and I am a 4th year Chem Bio major. I hope that I’ll be able to assist you as you begin your research journey at Cal!"
+        "img": "img/staff/bio/jenny-wu-4.png",
+        "bio": "My name is Jenny Wu, and I am a 4th year Chem Bio major. I hope that I’ll be able to assist you as "
+               "you begin your research journey at Cal!"
     },
     "Angikaar Chana": {
         "title": "Senior Advisor",
@@ -957,7 +960,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/bio/Hank_Wang.jpg.PNG",
+        "img": "img/staff/bio/hank-wang-2.png",
         "bio": "Name’s Hank. I’m a senior majoring in Molecular and Cell Biology (Cell and Developmental Biology) and "
                "Computer Science. I am also an undergraduate researcher at the Lammel Lab. My research centers around "
                "using bioinformatics and data science to study addiction, motivation and physiological and "
@@ -969,7 +972,7 @@ members = {
         "linkedin": "",
         "facebook": "",
         "github": "",
-        "img": "img/staff/bio/Albert_Wu.jpg",
+        "img": "img/staff/bio/albert-wu-2.jpg",
         "bio": "I’m Albert Wu, a second-year chem bio major. I joined ULAB to learn about and share research with "
                "everyone. I also love to play basketball in my free time!"
     },
@@ -989,7 +992,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/Sanghvi_Samala.jpg",
+        "img": "img/staff/bio/sanghvi-samala.jpg",
         "bio": "Hey! My name is Sanghvi and I am currently a senior majoring in Molecular and Cell Biology with a "
                "concentration in Immunology and minoring in Public Policy. This is my third year in ULAB and I’m "
                "excited to continue being a part of such a great community!"
@@ -1019,7 +1022,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/bio/Nancy_Nguyen.jpg",
+        "img": "img/staff/bio/nancy-nguyen-2.jpg",
         "bio": "Hi all! My name is Nancy and I am currently a senior studying Integrative biology and public policy. "
                "This is my second year with ULAB and am excited for this upcoming year with the organization."
     },
@@ -1050,7 +1053,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/maya-singh.jpg",
         "bio": "My name is Maya and I am a third year majoring in Molecular and Cellular Biology with an emphasis "
                "in immunology and pathogenesis. I joined ULAB in hopes of creating more opportunities to become "
                "involved in research in the Public Health and general Health sector. In my free time, "
@@ -1064,7 +1067,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/aidan-lee.jpg",
         "bio": "I’m Aidan Lee, a third-year studying Public Health and Data Science. Excited to help our members best "
                "achieve their research endeavors!"
     },
@@ -1075,7 +1078,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/aarti-anand.jpg",
         "bio": "My name is Aarti Anand and I am a second-year studying Molecular and Cell Biology and Data Science. I "
                "joined ULAB to develop my own research ideas as well as learn from the perspectives of other "
                "researchers around me. In my free time, I enjoy playing tennis, learning languages and playing the "
@@ -1101,7 +1104,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/katherine-kan.jpg",
         "bio": "Hello! My name is Kat, and I am a third-year double-majoring in Integrative Biology and Psychology. I "
                "joined ULAB to gain hands-on experience with academic writing and literature reviews, and I look "
                "forward to learning with you all!"
@@ -1113,7 +1116,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/easha-narayanan.jpg",
         "bio": "Hello! My name is Easha and I’m a second year intending on majoring in Public Health. I joined ULAB "
                "as a research mentor last year and loved collaborating with my peers to research health policy. I am "
                "so excited to help others learn about the research process!"
@@ -1125,7 +1128,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/yuna-lee.png",
         "bio": "Hi! My name is Yuna, and I'm rising senior, majoring in Molecular & Cell Biology (Cell Biology, "
                "Development & Physiology) and Psychology. I also work as an Undergraduate Researcher at Gopnik Lab, "
                "studying child development. I was a team mentor last year at ULAB PHHS, and this is my second year at "
@@ -1138,7 +1141,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/lianna-soriano.jpg",
         "bio": "Hihi!!! My name is Lianna and I am a 3rd year studying Molecular and Cell Biology and Psychology. "
                "This is my first year on ULAB board and my second year being a mentee. I am excited for the research I "
                "will be doing this year and I hope to make ULAB very fun for everyone!"
