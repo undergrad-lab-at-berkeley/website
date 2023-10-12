@@ -1072,7 +1072,7 @@ members = {
                "achieve their research endeavors!"
     },
     "Aarti Anand": {
-        "title": "Finance & Administration Director (Treasurer)",
+        "title": "Finance & Administration Director",
         "email": "",
         "linkedin": "",
         "facebook": "",
@@ -1091,14 +1091,14 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/christopher-lee.jpg",
         "bio": "I'm Christopher Lee and I am a second-year studying Molecular and Cell Biology and Computer Science. "
                "I joined ULAB last year as a research mentor and it was a great experience guiding enthusiastic "
                "student researchers and learning more about the writing process. I'm excited to hopefully engage more "
                "students with a better understanding of research."
     },
     "Katherine Kan": {
-        "title": "",
+        "title": "Mentor Coordinator & Editor-in-Chief",
         "email": "",
         "linkedin": "",
         "facebook": "",
@@ -1110,7 +1110,7 @@ members = {
                "forward to learning with you all!"
     },
     "Easha Narayanan": {
-        "title": "",
+        "title": "Operations and Outreach Director",
         "email": "",
         "linkedin": "",
         "facebook": "",
