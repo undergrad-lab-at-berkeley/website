@@ -210,16 +210,16 @@ members = {
     # 	"bio": """Hey! I enjoy reading, Spotify Discover playlists, biking and Craigslist finds. Email me with questions, funny Nextdoor posts or good music.""",
     # 	"img": "img/staff/CameronFozi.jpg"
     # },
-    "Jimin Oh": {
-        "title": "Research Director",
-        "email": "jiminoh0605@berkeley.edu",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "bio": """I am a fourth year majoring in psychology and cognitive science and minoring in education. I currently work as a marketing, outreach, and volunteer coordination intern at the Gender Equity Resource Center and am interested in developmental psychology and psychopathology. In my free time, I like to play animal crossing, make memes, and do arts and crafts. I hope you all will learn a lot from your time with ULAB this year, and I look forward to getting to know all of you!""",
-        "img": "img/staff/Jimin_Oh.jpg"
-    },
+    # "Jimin Oh": {
+    #     "title": "Research Director",
+    #     "email": "jiminoh0605@berkeley.edu",
+    #     "linkedin": "",
+    #     "facebook": "",
+    #     "github": "",
+    #     "personal": "",
+    #     "bio": """I am a fourth year majoring in psychology and cognitive science and minoring in education. I currently work as a marketing, outreach, and volunteer coordination intern at the Gender Equity Resource Center and am interested in developmental psychology and psychopathology. In my free time, I like to play animal crossing, make memes, and do arts and crafts. I hope you all will learn a lot from your time with ULAB this year, and I look forward to getting to know all of you!""",
+    #     "img": "img/staff/Jimin_Oh.jpg"
+    # },
     "Mark D\'Esposito": {
         "title": "Faculty Advisor",
         "email": "despo@berkeley.edu",
@@ -260,19 +260,29 @@ members = {
     # 	"bio": """I am a third-year MCB Neurobiology major with hopes for medical school. I am studying in the Barcellos Epidemiology lab and serve as co-president of Catalyst and an EBoard member of GlobeMed. I have been in ULab as a mentor and mentee helping build my confidence and excitement for research. I am thrilled to be on this team and have a chance to help others follow their research passions!""",
     # 	"img": "img/staff/taylorworley.jpg"
     # },
-    "Jasleen Bains": {
-        "title": "Lab Manager",
-        "email": "jasleen.bains@berkeley.edu",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "bio": """I am a second-year majoring in Microbial Biology and minoring in Global Poverty and Practice (intended). I am currently involved in BPSHI (Bhagat Puran Singh Health Initiative) as a co-clinic coordinator, as well as the Biology Scholars Program. Outside of classes I enjoy reading, watching shows (Peaky Blinders right now), and cooking. I joined ULAB as a mentee last year, and I was able to grow more confident in my research abilities with the help of my mentor. I am super excited to work with you all this year!""",
-        "img": "img/staff/Jasleen_Bains.jpg"
-    },
-    "Tayeba Chowdhury": {
+    # "Jasleen Bains": {
+    #     "title": "Lab Manager",
+    #     "email": "jasleen.bains@berkeley.edu",
+    #     "linkedin": "",
+    #     "facebook": "",
+    #     "github": "",
+    #     "personal": "",
+    #     "bio": """I am a second-year majoring in Microbial Biology and minoring in Global Poverty and Practice (intended). I am currently involved in BPSHI (Bhagat Puran Singh Health Initiative) as a co-clinic coordinator, as well as the Biology Scholars Program. Outside of classes I enjoy reading, watching shows (Peaky Blinders right now), and cooking. I joined ULAB as a mentee last year, and I was able to grow more confident in my research abilities with the help of my mentor. I am super excited to work with you all this year!""",
+    #     "img": "img/staff/Jasleen_Bains.jpg"
+    # },
+    # "Tayeba Chowdhury": {
+    #     "title": "External Operations Director",
+    #     "email": "tayeba.ch@berkeley.edu",
+    #     "linkedin": "",
+    #     "facebook": "",
+    #     "github": "",
+    #     "personal": "",
+    #     "bio": """I am a third year majoring in molecular environmental biology. I am currently involved in environmental and public health research in rural and humanitarian settings on campus. I was born in Bangladesh but have lived in LA all my life. In my free time, I enjoy playing the guitar and trying new food. I was a mentee in ULAB last semester and really loved my time in the program. As the external operations director of ULAB this year, I hope to help make your experience in the program very fun and memorable!""",
+    #     "img": "img/staff/Tayeba_Chowdhury.jpg"
+    # },
+    "Janaki Krishna": {
         "title": "External Operations Director",
-        "email": "tayeba.ch@berkeley.edu",
+        "email": "janakikrishna@berkeley.edu",
         "linkedin": "",
         "facebook": "",
         "github": "",
@@ -281,48 +291,98 @@ members = {
         "img": "img/staff/Tayeba_Chowdhury.jpg"
     },
     "Rachel Pham": {
-        "title": "Internal Operations Director",
+        "title": "Lab Manager",
         "email": "rachelpham467@berkeley.edu",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
-        "bio": """Hi! I am a second-year intending to major in psychology. I am from the Bay Area and in my free time I like to get boba, craft, paint, and try new foods with my friends! Currently, I am involved with Delta Epsilon Mu, a pre-health fraternity and the Berkeley Medical Reserve Corps! I was a mentee last year for ULAB and I really loved how ULAB is able to bridge the disparity between students who do not have research experience and those who come to Berkeley with research experience. As the internal operations director for ULAB, I hope to bring everyone together and make your ULAB experience amazing!""",
+        "bio": """Hi! I am a third-year intending to major in psychology. I am from the Bay Area and in my free time I like to get boba, craft, paint, and try new foods with my friends! Currently, I am involved with Delta Epsilon Mu, a pre-health fraternity and the Berkeley Medical Reserve Corps! I was a mentee last year for ULAB and I really loved how ULAB is able to bridge the disparity between students who do not have research experience and those who come to Berkeley with research experience. As the internal operations director for ULAB, I hope to bring everyone together and make your ULAB experience amazing!""",
         "img": "img/staff/Rachel_Pham.jpg"
     },
-    "Sharona Yang": {
-        "title": "CS Director",
-        "email": "sharonasyang@berkeley.edu",
+    "Idalys Cuaderno": {
+        "title": "Internal Operations Director",
+        "email": "idalyscuaderno@berkeley.edu",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
-        "bio": """I am a second-year majoring in computer science and statistics from the Bay Area. In my free time, I like to explore SF, play volleyball, and watch comedy shows. I look forward to meeting all of you!""",
+        "bio": """Hi! I am a third-year intending to major in psychology. I am from the Bay Area and in my free time I like to get boba, craft, paint, and try new foods with my friends! Currently, I am involved with Delta Epsilon Mu, a pre-health fraternity and the Berkeley Medical Reserve Corps! I was a mentee last year for ULAB and I really loved how ULAB is able to bridge the disparity between students who do not have research experience and those who come to Berkeley with research experience. As the internal operations director for ULAB, I hope to bring everyone together and make your ULAB experience amazing!""",
+        "img": "img/staff/Jasleen_Bains.jpg"
+    },
+    # "Sharona Yang": {
+    #     "title": "CS Director",
+    #     "email": "sharonasyang@berkeley.edu",
+    #     "linkedin": "",
+    #     "facebook": "",
+    #     "github": "",
+    #     "personal": "",
+    #     "bio": """I am a second-year majoring in computer science and statistics from the Bay Area. In my free time, I like to explore SF, play volleyball, and watch comedy shows. I look forward to meeting all of you!""",
+    #     "img": "img/staff/Sharona_Yang.jpg"
+    # },
+    "Tiffany Lam": {
+        "title": "CS Director",
+        "email": "tiffanylam14@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "bio": """I am a third-year majoring in computer science and statistics from the Bay Area. In my free time, I like to explore SF, play volleyball, and watch comedy shows. I look forward to meeting all of you!""",
         "img": "img/staff/Sharona_Yang.jpg"
     },
-    "Namrata Vedagarbha": {
+    # "Namrata Vedagarbha": {
+    #     "title": "Mentor Coordinator/ Editor-in-Chief",
+    #     "email": "namrxta.v@berkeley.edu",
+    #     "linkedin": "",
+    #     "facebook": "",
+    #     "github": "",
+    #     "personal": "",
+    #     "bio": """I am a fourth-year majoring in Molecular and Cell Biology and minoring in Nutritional Sciences and Scandinavian Studies. I am currently doing research with the Whiteman Lab on campus, studying the behavioral and neural mechanisms that underlie taste specialization in fruit fly species. In my spare time, I love reading, playing the ukulele (badly), baking, and cafe-hopping with friends. ULAB has been a huge part of my college experience since freshman year and has helped me grow more confident with scientific research. I am looking forward to getting to know and working with all of you this year!""",
+    #     "img": "img/staff/Namrata_Vedagarbha.jpg"
+    # },
+    "Marina Zhao": {
         "title": "Mentor Coordinator/ Editor-in-Chief",
-        "email": "namrxta.v@berkeley.edu",
+        "email": "marinaz25@berkeley.edu",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
-        "bio": """I am a fourth-year majoring in Molecular and Cell Biology and minoring in Nutritional Sciences and Scandinavian Studies. I am currently doing research with the Whiteman Lab on campus, studying the behavioral and neural mechanisms that underlie taste specialization in fruit fly species. In my spare time, I love reading, playing the ukulele (badly), baking, and cafe-hopping with friends. ULAB has been a huge part of my college experience since freshman year and has helped me grow more confident with scientific research. I am looking forward to getting to know and working with all of you this year!""",
-        "img": "img/staff/Namrata_Vedagarbha.jpg"
+        "bio": """I am a second year majoring in psychology and minoring in clinical psychology. I currently work as a research assistant at Stanford Life-Span Development Lab & Golden Bear Sleep and Mood Research Clinic, and I was a mentee in ULAB last year. In my free time, I like to play the piano and watch netflix. I hope to make ULAB a great experience for everyone this year, and I look forward to meeting all of you!""",
+        "img": "img/staff/MarinaZhao.png"
+    },
+    "Megan Cervera": {
+        "title": "Mentor Coordinator/ Editor-in-Chief",
+        "email": "megancervera@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "bio": """I am a fourth year psychology major and was previously a ULAB mentor! I am currently a research assistant at the Golden Bear Sleep and Mood Research Clinic and work as a student assistant at the UC Berkeley Psychology Clinic. My research related interests involve investigating the etiology of conditions like Bipolar Disorder and ADHD through an integrative neurobiological and psychosocial approach. In my free time, I enjoy reading literature, creating Notion templates, playing animal crossing, drawing, and spending my time with friends. I hope that ULAB will be a great experience for everyone and I am looking forward to connecting with you all!""",
+        "img": "img/staff/MeganCervera.png"
     },
     "Nimangie Weerakoon": {
-        "title": "Mentor Coordinator/ Editor-in-Chief",
+        "title": "Research Director",
         "email": "nimangie0101@berkeley.edu",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
-        "bio": """I am a sophomore majoring in molecular and cellular biology and intend to choose the immunology- infectious disease track. I am from LA and although the sunny weather can be nice, I really enjoy the weather upstate and the greenery. In my spare time, I enjoy baking, gardening, and spending time with my dog. I love learning about the various subfields within psychology, which is why I chose this ULAB department. I mentored for ULAB last year and enjoyed the program, so I hope, as your co-mentor coordinator, I can help make the experience just as enjoyable for everyone in ULAB this year!""",
+        "bio": """I am a junior majoring in molecular and cellular biology and intend to choose the immunology- infectious disease track. I am from LA and although the sunny weather can be nice, I really enjoy the weather upstate and the greenery. In my spare time, I enjoy baking, gardening, and spending time with my dog. I love learning about the various subfields within psychology, which is why I chose this ULAB department. I mentored for ULAB last year and enjoyed the program, so I hope, as your co-mentor coordinator, I can help make the experience just as enjoyable for everyone in ULAB this year!""",
         "img": "img/staff/Nimangie_Weerakoon.jpg"
     },
-    "Huda Jawad": {
+    # "Huda Jawad": {
+    #     "title": "Finance Manager",
+    #     "email": "hudajawad3697@berkeley.edu",
+    #     "linkedin": "",
+    #     "facebook": "",
+    #     "github": "",
+    #     "personal": "",
+    #     "bio": """Hi! I am Huda and I am a fourth year majoring in psychology. I am involved in child development research at the Social Origins Lab here on campus. I was born and raised in the Bay Area so this is home to me. I love cooking and baking whenever I have the time and enjoy traveling to explore new places. This is my first time being involved in ULAB and I am very excited to meet you all and have a great year.""",
+    #     "img": "img/staff/Huda_Jawad.jpg"
+    # },
+    "Tayeba Chowdhury": {
         "title": "Finance Manager",
-        "email": "hudajawad3697@berkeley.edu",
+        "email": "tayeba.ch@berkeley.edu",
         "linkedin": "",
         "facebook": "",
         "github": "",
