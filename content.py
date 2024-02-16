@@ -230,12 +230,24 @@ labs = {
                 "title": "Projects",
                 "text": "<b style='font-size:150%;'> Past Projects </b>",
                 "years": {
+                    '2022-2023': {
+                        u'1. Identifying the Presence of Biosignatures on Exoplanets and Moons in Our Solar System': '/static/doc/posters/s231.pdf',
+                        u'2. Relationship of H-alpha Velocity and H2 Fraction in Galaxies': '/static/doc/posters/s232.pdf',
+                        u'3. Stellar Age Estimation via Machine Learning': '/static/doc/posters/s233.pdf',
+                        u'4. Ray Tracing Schwarzschild and Kerr Black Holes': '/static/doc/posters/s234.pdf',
+                        u'5. Computational Exploration of the BKT Transition in XY-Interaction Systems': '/static/doc/posters/s235.pdf',
+                        u'6. VQE Algorithm for Dihydrogen Ground State Energy': '/static/doc/posters/s236.pdf',
+                        u'7. Electromagnetic Inverse Design of a Compact Wavelength Demultiplexer': '/static/doc/posters/s237.pdf',
+                        u'8. Confirming the Existence of Exoplanet Pluvia': '/static/doc/posters/s238.pdf',
+                        u'9. Feasibility of Muon Tomography to Determine the Electronic Structure of a Thundercloud': '/static/doc/posters/s239.pdf'
+
+                    },
                     '2021-2022': {
                         u'1. Numerical Spin Analysis of Relativistic Bondi Accretion in M87*': "/static/doc/posters/s221.pdf",
                         u'2. Analyzing Anomalous Transport in Interplanetary Shocks Using a Mittag-Leffler Function': '/static/doc/posters/s222.pdf',
                         u'3. Cosmic Ray Predictions With a Homemade Muon Detector': '/static/doc/posters/s223.pdf',
                         u'4. Observing and Obtaining a Light Curve from a Potential Transiting Exoplanet': '/static/doc/posters/s224.pdf',
-                        u"5. Creating a Pipeline to Generate Radial Velocity Curves from Raw APF Spectral Data": '/static/doc/posters/s225.pdf',
+                        u'5. Creating a Pipeline to Generate Radial Velocity Curves from Raw APF Spectral Data': '/static/doc/posters/s225.pdf',
                         u'6. Simulating Scattering Processes in TGFs Using Monte Carlo Methods': '/static/doc/posters/s226.pdf',
                         u'7. Determining the Verdet Coefficient of Olive Oil with Faraday Rotation': '/static/doc/posters/s227.pdf',
                         u'8. Investigating Habitability in the Kepler-47 Binary System': '/static/doc/posters/s228.pdf'
