@@ -288,7 +288,7 @@ members = {
         "github": "",
         "personal": "",
         "bio": """I am a third year majoring in molecular environmental biology. I am currently involved in environmental and public health research in rural and humanitarian settings on campus. I was born in Bangladesh but have lived in LA all my life. In my free time, I enjoy playing the guitar and trying new food. I was a mentee in ULAB last semester and really loved my time in the program. As the external operations director of ULAB this year, I hope to help make your experience in the program very fun and memorable!""",
-        "img": "img/staff/Tayeba_Chowdhury.jpg"
+        "img": "img/staff/JanakiKrishna.jpg"
     },
     "Rachel Pham": {
         "title": "Lab Manager",
@@ -328,7 +328,7 @@ members = {
         "github": "",
         "personal": "",
         "bio": """I am a third-year majoring in computer science and statistics from the Bay Area. In my free time, I like to explore SF, play volleyball, and watch comedy shows. I look forward to meeting all of you!""",
-        "img": "img/staff/Sharona_Yang.jpg"
+        "img": "img/staff/TiffanyLam.jpg"
     },
     # "Namrata Vedagarbha": {
     #     "title": "Mentor Coordinator/ Editor-in-Chief",
@@ -388,7 +388,7 @@ members = {
         "github": "",
         "personal": "",
         "bio": """Hi! I am Huda and I am a fourth year majoring in psychology. I am involved in child development research at the Social Origins Lab here on campus. I was born and raised in the Bay Area so this is home to me. I love cooking and baking whenever I have the time and enjoy traveling to explore new places. This is my first time being involved in ULAB and I am very excited to meet you all and have a great year.""",
-        "img": "img/staff/Huda_Jawad.jpg"
+        "img": "img/staff/Tayeba_Chowdhury.jpg"
     },
 
     # "Josephine Widjaja": {
