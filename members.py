@@ -308,7 +308,7 @@ members = {
         "github": "",
         "personal": "",
         "bio": """Hi! I am a third-year intending to major in psychology. I am from the Bay Area and in my free time I like to get boba, craft, paint, and try new foods with my friends! Currently, I am involved with Delta Epsilon Mu, a pre-health fraternity and the Berkeley Medical Reserve Corps! I was a mentee last year for ULAB and I really loved how ULAB is able to bridge the disparity between students who do not have research experience and those who come to Berkeley with research experience. As the internal operations director for ULAB, I hope to bring everyone together and make your ULAB experience amazing!""",
-        "img": "img/staff/Jasleen_Bains.jpg"
+        "img": "img/staff/IdalysCuaderno.jpg"
     },
     # "Sharona Yang": {
     #     "title": "CS Director",
