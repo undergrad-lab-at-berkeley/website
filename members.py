@@ -1106,6 +1106,16 @@ members = {
         "img": "",
 
     },
+     "Jordan Duan": {
+        "title": "Lab Manager",
+        "email": "jordanduan@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+
+    },
     "Maya Singh": {
         "title": "Social Chair",
         "email": "",
