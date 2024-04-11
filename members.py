@@ -1106,16 +1106,6 @@ members = {
         "img": "",
 
     },
-    "Tanay Bhadra": {
-        "title": "Curriculum Chair",
-        "email": "tanaymbhadra@berkeley.edu",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "",
-
-    },
     "Maya Singh": {
         "title": "Social Chair",
         "email": "",
