@@ -87,27 +87,36 @@ labs = {
         "full_name": u"Physics and Astronomy",
         "navbar": u"Physics",
         "status": "Active",
-        "members": ["Anmol Desai", "Rav Kaur", "Saahit Mogan", "Tanay Bhadra","Jordan Duan"],
+        "members": ["Saahit Mogan", "Jordan Duan", 'Andrew McHaty'],
         "former": {
             'former_name': [
                 'Arjun Savel',
                 'Aditya Sengupta',
                 'Lawrence Edmond, IV',
                 'Yi Zhu',
-                'Padma Venkatraman'
+                'Padma Venkatraman',
+                'Rav Kaur',
+                'Anmol Desai',
+                'Dex Bhadra'
             ],
             'former_position': [
                 "Director '19, Lab Manager '18",
                 "Curriculum Chair '21, Mentor '20",
                 "Mentor '21",
                 "Director '21, '22, Lab Manager '20",
-                "Curriculum Chair '21"
+                "Curriculum Chair '21",
+                "Director '22, '23, Lab Manager '21",
+                "Senior Advsior '23, Director '22, Lab Manager '21",
+                "Curriculum Manager '23"
             ],
             'former_now': [
                 'Astro graduate student at UMD',
                 'Mathematics masters student at Cambridge',
                 '-',
                 'Quantum Science and Engineering graduate student at Harvard University',
+                '-',
+                'Astronomy and Astrophysics PhD student at UC Santa Cruz',
+                'Post-Baccalaureate Researcher at Goddard Space Flight Center',
                 '-'
             ]
         },
@@ -138,18 +147,14 @@ labs = {
                         <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Mon/Wed 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester. Click on the tabs to learn about each position.
                         <br><br>
                         <b>Mentees:</b>
-                        The mentee application for Fall 2023-Spring 2024 is open <a href='https://forms.gle/6fyW8bpzp6vfC3js9' target='_blank'>HERE</a>
+                        The mentee application for Fall 2024-Spring 2025 is open <a href='https://forms.gle/PT6dJBVSbeJPCzGFA' target='_blank'>HERE</a>
                         <br><br>
                         <b>Mentors:</b>
                         <!-- The mentor application is currently closed. -->
-                        The mentor application for Fall 2023-Spring 2024 is open <a href='https://forms.gle/PdF5JFMgFLRDj37s9' target='_blank'>HERE</a> and will be considered on a rolling basis. Mentors will be supported by a $600/semester stipend. <b>There are a number of additional staff postions: lab manager and lecturer. Interested candidates may apply at the same link.</b>
+                        The mentor application for Fall 2024-Spring 2025 is open <a href='https://forms.gle/jH51TJh7ZP8s6LmV7' target='_blank'>HERE</a> and will be considered on a rolling basis. Mentors will be supported by a $600/semester stipend. <b>There are a number of additional staff postions: lab manager and lecturer. Interested candidates may apply at the same link.</b>
                         <br><br>
                         <b>Graduate Students/Postdocs:</b>  Opportunities for graduate students, postdocs, and faculty to get involved are available year-round! Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                     """
-                #     In addition to research mentors, we are looking for undergraduates to help us write grants, develop curricula, and manage the lab.  If you would like to be considered for a role in our lab next semester, please fill out the respective form below. <br/>
-                #     <a href="https://goo.gl/forms/iraCqlmh8CsYuWG03"> Student Researcher Application </a> <br/>
-                #     <a href="https://goo.gl/forms/G3russO6DYIITCss2"> Staff Application</a>
-                # """
             },
             "mentees": {
                 "title": "Mentees Info",
@@ -158,11 +163,11 @@ labs = {
                         <br><br>
                         ULAB is a 2-semester DeCal sponsored by Prof. Dan Kasen. We meet Mon/Wed 7-8 PM in-person!
                         <br><br>
-                        <b>Timeline: </b>fall semester is dedicated to creating a research proposal. Students are split into groups of 3-5 and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. 
+                        <b>Timeline: </b>Fall semester is dedicated to creating a research proposal. Students are split into groups of 4-6 and assigned a mentor. Together, mentors and groups will explore the required background in their area of interest during weekly group meetings. In the process of learning about the current techniques and experiments in their field, groups will devise a research project they wish to explore. 
                         <br><br>
                         Mentees return in the spring semester to implement their project! ULAB provides funding, space, and graduate/postdoc advisors to assist mentees during this process. The semester culminates in a poster session open to the physics and astronomy departments!
                         <br><br>
-                        In addition to weekly groups meetings, ULAB hosts weekly workshops with particular emphasis on Python and other basic research skills. The time commitment is roughly 2-3 hrs of in-person meetings and 2-3 hrs of individual work per week. Please see our <a href="/static/doc/F20_ULAB_Syllabus__2_Unit.pdf">syllabus</a> for more detailed information!
+                        In addition to weekly groups meetings, ULAB hosts weekly workshops with particular emphasis on Python and other basic research skills. The time commitment is roughly 2-3 hrs of in-person meetings and 2-3 hrs of individual work per week. Please see our <a href="https://docs.google.com/document/d/1cRIS3G5e168pUNx8_B_ZSl9xcOHZb8OaR99JoULMOpk/edit?usp=sharing">syllabus</a> for more detailed information!
                         <br><br><br>
                         <b style='font-size:150%;'> QnA</b>
                         <br><br>
@@ -183,7 +188,7 @@ labs = {
                         <b>Q: Can I apply to ULAB in addition to other research programs?</b><br>
                         Yes. Students that join ULAB, but are subsequently accepted into another program (e.g. URAP) may pursue both concurrently or drop ULAB before the drop deadline late September.              
                         <br><br>
-                        <b>Q: Do ULAB projects yeild results?</b><br>
+                        <b>Q: Do ULAB projects yield results?</b><br>
                         Wrong question. ULAB is a <i>research training</i> organization. Through conducting their projects, mentees learn about the basic knowledge and skills required to conduct research in their field and leave our program a better candidate, and better prepared for research. (…but to answer the question, most projects do yield interesting results; and even when they don’t, mentees are able to explain their work and what they’ve learned).
                         """
             },
@@ -194,7 +199,7 @@ labs = {
                         <br><br>
                         Mentorship can be a very fruitful and rewarding experience for undergraduates with research experience. Mentors' primary job is to meet weekly with their group of 3-5 mentees during the year-long process of conducting an independent research project. Mentors will lead discussions on topics in their field and guide their group through their project.
                         <br><br>
-                        Mentorship is a unique <i>learning</i> opportunity. Mentors will expereince the process of leading a scientific project, conduct research in a topic of their interest, and interact with fellow undergraduate and graduate researchers. <b>Mentors are generously supported by the <a href="https://evcp.berkeley.edu/news/announcing-berkeley-discover-departmental-innovation-awardees">Physics + Astronomy Berkeley Discover Initiative</a> and will recieve $600/semester stipend*. </b>
+                        Mentorship is a unique <i>learning</i> opportunity. Mentors will expereince the process of leading a scientific project, conduct research in a topic of their interest, and interact with fellow undergraduate and graduate researchers. <b>Mentors are generously supported by the <a href="https://n3as.berkeley.edu/collaboration/students/undergraduates/ulab/">N3AS</a> and will recieve $600/semester stipend*. </b>
                         <br><br>
                         *Stipends are disbursed as a department award and may affect your financial aid. In order to recieve stipends, mentors must fulfill all responsibilities of the position and remain an enrolled Berkeley student.
                         <br><br><br>
@@ -230,6 +235,19 @@ labs = {
                 "title": "Projects",
                 "text": "<b style='font-size:150%;'> Past Projects </b>",
                 "years": {
+                    '2023-2024': {
+                        u'1. Magnetic Energy Transfer in Kerr Black Holes': '/static/doc/posters/s241.pdf',
+                        u'2. Investigating the Effect of Pollution on Muon Flux Using a CosmicWatch Modular Detector': '/static/doc/posters/s242.pdf',
+                        u'3. Probing for Bondi-Hoyle-Lyttleton Accretion in Orion Src I': '/static/doc/posters/s242.pdf',
+                        u'4. Quantum Magnetometry with NV-Centers': '/static/doc/posters/s244.pdf',
+                        u'5. Discovering an Exoplanet': '/static/doc/posters/s245.pdf',
+                        u'6. Machine Learning for Cosmic Structure Simulations': '/static/doc/posters/s246.pdf',
+                        u'7. Cosmic Flux: Geiger Counter': '/static/doc/posters/s247.pdf',
+                        u'8. Classifications of Unknown Transients Using ParSNIP': '/static/doc/posters/s248.pdf',
+                        u'9. Simulating Supernova 1987A Remnants': '/static/doc/posters/s249.pdf',
+                        u'10. Analyzing Variations Within the Delayed-Choice Quantum Eraser Experiment': '/static/doc/posters/s2410.pdf',
+                    },
+
                     '2022-2023': {
                         u'1. Identifying the Presence of Biosignatures on Exoplanets and Moons in Our Solar System': '/static/doc/posters/s231.pdf',
                         u'2. Relationship of H-alpha Velocity and H2 Fraction in Galaxies': '/static/doc/posters/s232.pdf',

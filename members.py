@@ -715,6 +715,26 @@ members = {
         "img": "img/staff/rav_kaur2.jpeg",
         "bio": ""
     },
+    "Saahit Mogan": {
+        "title": "Research Director",
+        "email": "smogan@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+        "bio": ""
+    },
+    "Andrew McHaty": {
+        "title": "Lab Manager",
+        "email": "andrew.mchaty@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "img/staff/andrew_mchaty.jpg",
+        "bio": ""
+    },
     "Padma Venkatraman": {
         "title": "Curriculum Manager",
         "email": "vpadma@berkeley.edu",
@@ -1113,7 +1133,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/jordan_duan.png",
 
     },
     "Maya Singh": {
