@@ -151,7 +151,7 @@ labs = {
                         <br><br>
                         <b>Mentors:</b>
                         <!-- The mentor application is currently closed. -->
-                        The mentor application for Fall 2024-Spring 2025 is open <a href='https://forms.gle/jH51TJh7ZP8s6LmV7' target='_blank'>HERE</a> and will be considered on a rolling basis. Mentors will be supported by a $600/semester stipend. <b>There are a number of additional staff postions: lab manager and lecturer. Interested candidates may apply at the same link.</b>
+                        The mentor application for Fall 2024-Spring 2025 is open <a href='https://forms.gle/jH51TJh7ZP8s6LmV7' target='_blank'>HERE</a> and will be considered on a rolling basis until the final due date. Mentors will be supported by a $600/semester stipend. <b>There are a number of additional staff postions: lab manager and lecturer. Interested candidates may apply at the same link.</b>
                         <br><br>
                         <b>Graduate Students/Postdocs:</b>  Opportunities for graduate students, postdocs, and faculty to get involved are available year-round! Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                     """
