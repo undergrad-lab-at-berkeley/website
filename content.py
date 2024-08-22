@@ -324,9 +324,9 @@ labs = {
         "full_name": u"Health Sciences",
         "navbar": u"Health Sciences",
         "status": "Active",
-        "members": ["Ishna Pandey", "Ting Guo", "Albert Wu", "Hank Wang", "Jenny Wu", "Aarti Anand", "Christopher Lee",
-                    "Tanirika Singh", "Sanghvi Samala", "Nancy Nguyen", "Yuna Lee", "Aidan Lee", "Katherine Kan",
-                    "Easha Narayanan", "Maya Singh", "Lianna Soriano"],
+        "members": ["Ishna Pandey", "Ting Guo", "Albert Wu", "Hank Wang", "Jenny Wu", "Easha Narayanan", "Aarti Anand",
+                    "Christopher Lee", "Tanirika Singh", "Sanghvi Samala", "Nancy Nguyen", "Yuna Lee", "Aidan Lee",
+                    "Katherine Kan", "Maya Singh", "Lianna Soriano"],
         "content": {
             "overview": {
                 "title": "Lab Overview Coming Soon!",
