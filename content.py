@@ -238,7 +238,7 @@ labs = {
                     '2023-2024': {
                         u'Magnetic Energy Transfer in Kerr Black Holes': '/static/doc/posters/s241.pdf',
                         u'Investigating the Effect of Pollution on Muon Flux Using a CosmicWatch Modular Detector': '/static/doc/posters/s242.pdf',
-                        u'Probing for Bondi-Hoyle-Lyttleton Accretion in Orion Src I': '/static/doc/posters/s242.pdf',
+                        u'Probing for Bondi-Hoyle-Lyttleton Accretion in Orion Src I': '/static/doc/posters/s243.pdf',
                         u'Quantum Magnetometry with NV-Centers': '/static/doc/posters/s244.pdf',
                         u'Discovering an Exoplanet': '/static/doc/posters/s245.pdf',
                         u'Machine Learning for Cosmic Structure Simulations': '/static/doc/posters/s246.pdf',
