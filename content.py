@@ -324,9 +324,9 @@ labs = {
         "full_name": u"Health Sciences",
         "navbar": u"Health Sciences",
         "status": "Active",
-        "members": ["Ishna Pandey", "Ting Guo", "Albert Wu", "Hank Wang", "Jenny Wu", "Easha Narayanan", "Aarti Anand",
-                    "Christopher Lee", "Tanirika Singh", "Sanghvi Samala", "Nancy Nguyen", "Yuna Lee", "Aidan Lee",
-                    "Katherine Kan", "Maya Singh", "Lianna Soriano"],
+        "members": ["Albert Wu", "Katherine Kan", "Aarti Anand", "Christopher Lee", "Tara Rahai", "Arushi Neravetla",
+                    "Jeffrey Chen", "Jaszmyn Paiste Ponder", "Vivian Lee", "Heer Nanda", "Nandika Nambiar",
+                    "Ariana Chavez"],
         "content": {
             "overview": {
                 "title": "Lab Overview Coming Soon!",
@@ -334,9 +334,11 @@ labs = {
             },
             "join": {
                 "title": "Want to join us?",
-                "text": u"""
-                            We have closed applications for the 2023-2024 academic year, be sure to check next Fall 2024! <br/>
-                            """
+                "text": u"""Applications are now open for Fall 2024 to Spring 2025 academic year! <br/>
+                Apply as a <strong>mentee <a href="https://forms.gle/sKBBkokMMFHR4i8AA" target="_blank">here</a></strong> 
+                by <strong>September 16th, 11:59pm</strong> <br/>
+                Apply as a <strong>mentor <a href="https://forms.gle/DJCeZnhWJuVuXgT79" target="_blank">here</a></strong> 
+                by <strong>September 30th, 11:59pm</strong> <br/>"""
             },
             "calendar": {
                 "title": "",
