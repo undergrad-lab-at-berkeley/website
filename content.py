@@ -53,7 +53,7 @@ labs = {
             "sponsor": {
                 "title": "Want to join us?",
                 "text": """
-                        Applications can be found at the following hyperlinks: <a href="https://forms.gle/ELSPb1H78PXNNbN2A">Mentor App</a>, <a href="https://forms.gle/cU9cVXaDJ8RfZjKj8">Mentee App</a>, <a href="https://forms.gle/ErLwuvwTZEouNbZ88">Grad Student App</a>, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6cMOQ9PBYSShYAkxS9mU4G_gWTDWNzsOjGyMInGFXBdBcDA/viewform">UROP App</a>. Deadlines and details are provided on the applications. <br/>  <br/>                      
+                        Applications can be found at the following hyperlinks: <a href="https://forms.gle/sV2rtcGoZypGeEjKA">Mentor App</a>, <a href="https://forms.gle/R7wgcbr7vDSA5KSF7">Mentee App</a>, <a href="https://forms.gle/ErLwuvwTZEouNbZ88">Grad Student App</a>, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6cMOQ9PBYSShYAkxS9mU4G_gWTDWNzsOjGyMInGFXBdBcDA/viewform">UROP App</a>. Deadlines and details are provided on the applications. <br/>  <br/>                      
                         
                         """
                 # Applications for mentors and mentees for the 2021-2022 year are closed!
