@@ -1114,7 +1114,15 @@ members = {
         "github": "",
         "personal": "",
         "img": "",
-
+    },
+        "Brianna Peck": {
+        "title": "Curriculum Chair",
+        "email": "bpeck114@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
     },
     "Tanay Bhadra": {
         "title": "Curriculum Chair",
