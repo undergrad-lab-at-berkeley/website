@@ -53,7 +53,7 @@ labs = {
             "sponsor": {
                 "title": "Want to join us?",
                 "text": """
-                        Applications can be found at the following hyperlinks: <a href="https://forms.gle/ELSPb1H78PXNNbN2A">Mentor App</a>, <a href="https://forms.gle/cU9cVXaDJ8RfZjKj8">Mentee App</a>, <a href="https://forms.gle/ErLwuvwTZEouNbZ88">Grad Student App</a>, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6cMOQ9PBYSShYAkxS9mU4G_gWTDWNzsOjGyMInGFXBdBcDA/viewform">UROP App</a>. Deadlines and details are provided on the applications. <br/>  <br/>                      
+                        Applications can be found at the following hyperlinks: <a href="https://forms.gle/sV2rtcGoZypGeEjKA">Mentor App</a>, <a href="https://forms.gle/R7wgcbr7vDSA5KSF7">Mentee App</a>, <a href="https://forms.gle/ErLwuvwTZEouNbZ88">Grad Student App</a>, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6cMOQ9PBYSShYAkxS9mU4G_gWTDWNzsOjGyMInGFXBdBcDA/viewform">UROP App</a>. Deadlines and details are provided on the applications. <br/>  <br/>                      
                         
                         """
                 # Applications for mentors and mentees for the 2021-2022 year are closed!
@@ -324,9 +324,9 @@ labs = {
         "full_name": u"Health Sciences",
         "navbar": u"Health Sciences",
         "status": "Active",
-        "members": ["Ishna Pandey", "Ting Guo", "Albert Wu", "Hank Wang", "Jenny Wu", "Aarti Anand", "Christopher Lee",
-                    "Tanirika Singh", "Sanghvi Samala", "Nancy Nguyen", "Yuna Lee", "Aidan Lee", "Katherine Kan",
-                    "Easha Narayanan", "Maya Singh", "Lianna Soriano"],
+        "members": ["Albert Wu", "Katherine Kan", "Aarti Anand", "Christopher Lee", "Tara Rahai", "Arushi Neravetla",
+                    "Jeffrey Chen", "Jaszmyn Paiste Ponder", "Vivian Lee", "Heer Nanda", "Nandika Nambiar",
+                    "Ariana Chavez"],
         "content": {
             "overview": {
                 "title": "Lab Overview Coming Soon!",
@@ -334,9 +334,11 @@ labs = {
             },
             "join": {
                 "title": "Want to join us?",
-                "text": u"""
-                            We have closed applications for the 2023-2024 academic year, be sure to check next Fall 2024! <br/>
-                            """
+                "text": u"""Applications are now open for Fall 2024 to Spring 2025 academic year! <br/>
+                Apply as a <strong>mentee <a href="https://forms.gle/sKBBkokMMFHR4i8AA" target="_blank">here</a></strong> 
+                by <strong>September 16th, 11:59pm</strong> <br/>
+                Apply as a <strong>mentor <a href="https://forms.gle/DJCeZnhWJuVuXgT79" target="_blank">here</a></strong> 
+                by <strong>September 30th, 11:59pm</strong> <br/>"""
             },
             "calendar": {
                 "title": "",
