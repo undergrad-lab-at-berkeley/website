@@ -1125,6 +1125,15 @@ members = {
         "personal": "",
         "img": "",
     },
+        "Caitlin Begbie": {
+        "title": "Curriculum Lecturer",
+        "email": "caitlinbegbie@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+    },
     # "Nancy Nguyen": {
     #     "title": "Mentor Coordinator & Editor-in-Chief",
     #     "email": "nantnguyen@berkeley.edu",
