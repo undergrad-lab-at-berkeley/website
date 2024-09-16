@@ -325,8 +325,8 @@ labs = {
         "navbar": u"Health Sciences",
         "status": "Active",
         "members": ["Albert Wu", "Katherine Kan", "Aarti Anand", "Christopher Lee", "Tara Rahai", "Arushi Neravetla",
-                    "Jeffrey Chen", "Jaszmyn Paiste Ponder", "Vivian Lee", "Heer Nanda", "Nandika Nambiar",
-                    "Ariana Chavez"],
+                    "Jeffrey Chen", "Zarin Mahmud", "Jaszmyn Paiste Ponder", "Amber Mach", "Ariana Chavez",
+                    "Heer Nanda", "Nandika Nambiar", "Tejas Raxwal", "Vivian Lee"],
         "content": {
             "overview": {
                 "title": "Lab Overview Coming Soon!",

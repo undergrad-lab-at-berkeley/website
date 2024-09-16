@@ -1347,4 +1347,31 @@ members = {
                "health, infectious disease surveillance and outbreak, and public health intervention effectiveness. I "
                "am excited to share some insight and engage with students’ ideas and research journeys!"
     },
+    "Zarin Mahmud": {
+        "title": "Finance and Administration Director",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "img/staff/bio/zarin-mahmud.jpg",
+        "bio": "Hey everyone! My name is Zarin and I’m a 2nd year double majoring in MCB and Neuroscience. I love "
+               "spending time with friends and writing blog posts in my free time :) I’ve also always been interested "
+               "in public health research and the healthcare disparity-related barriers it can expose and break — "
+               "this is exactly why I joined ULab PHHS and I’m super excited to be serving on the board this year!"
+    },
+    "Tejas Raxwal": {
+        "title": "Mentor Coordinator",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "img/staff/bio/tejas-raxwal.jpg",
+        "bio": "Hey, my name is Tejas Raxwal. I’m a 2nd year MCB major and I am excited to be part of the ULAB team "
+               "this year! I joined ULAB to sharpen my academic writing and research skills, especially in the "
+               "medical field, where my main interests lie in surgery and cardiology. Outside of academics, "
+               "I love watching TV, hitting the gym, spending all my money on Taco Bell, and listening to all kinds "
+               "of music. I am excited to work with all of you this year!"
+    },
 }
