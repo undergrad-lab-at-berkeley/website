@@ -1134,6 +1134,15 @@ members = {
         "personal": "",
         "img": "",
     },
+    "Yaamini Jois": {
+        "title": "Lab Manager",
+        "email": "yjois@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+    },
     # "Nancy Nguyen": {
     #     "title": "Mentor Coordinator & Editor-in-Chief",
     #     "email": "nantnguyen@berkeley.edu",

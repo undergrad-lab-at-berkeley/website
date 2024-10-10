@@ -87,12 +87,12 @@ labs = {
         "full_name": u"Physics and Astronomy",
         "navbar": u"Physics",
         "status": "Active",
-        "members": ["Saahit Mogan", "Jordan Duan", 'Andrew McHaty', 'Brianna Peck', 'Caitlin Begbie'],
+        "members": ["Saahit Mogan", "Jordan Duan", 'Andrew McHaty', 'Yaamini Jois', 'Brianna Peck', 'Caitlin Begbie'],
         "former": {
             'former_name': [
                 'Arjun Savel',
                 'Aditya Sengupta',
-                'Lawrence Edmond, IV',
+                # 'Lawrence Edmond, IV',
                 'Yi Zhu',
                 'Padma Venkatraman',
                 'Rav Kaur',
@@ -102,7 +102,7 @@ labs = {
             'former_position': [
                 "Director '19, Lab Manager '18",
                 "Curriculum Chair '21, Mentor '20",
-                "Mentor '21",
+                # "Mentor '21",
                 "Director '21, '22, Lab Manager '20",
                 "Curriculum Chair '21",
                 "Director '22, '23, Lab Manager '21",
@@ -112,9 +112,9 @@ labs = {
             'former_now': [
                 'Astro graduate student at UMD',
                 'Mathematics masters student at Cambridge',
-                '-',
+                # '-',
                 'Quantum Science and Engineering graduate student at Harvard University',
-                '-',
+                'Post-Baccalaureate Fellow at Kavli Institute for Particle Astrophysics and Cosmology',
                 'Astronomy and Astrophysics PhD student at UC Santa Cruz',
                 'Post-Baccalaureate Researcher at Goddard Space Flight Center',
                 '-'
