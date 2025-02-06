@@ -1164,7 +1164,7 @@ members = {
         "img": "",
     },
      "Jordan Duan": {
-        "title": "Lab Manager",
+        "title": "Research Director",
         "email": "jordanduan@berkeley.edu",
         "linkedin": "",
         "facebook": "",
