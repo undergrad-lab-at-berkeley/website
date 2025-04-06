@@ -149,7 +149,7 @@ labs = {
                         <b>Mentees:</b>
                         The mentee application for Fall 2024-Spring 2025 is now open! 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTVCvQggJnK8nZ2_Ci_DCEBk5ltFmZVytelS58AmOBh78jvg/viewform" target="_blank">Apply here.</a>
+<a href="https://forms.gle/ypfddqFhPy7Mp3xz6" target="_blank">Apply here.</a>
 
                         <br><br>
                         <b>Mentors:</b>
