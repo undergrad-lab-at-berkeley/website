@@ -147,10 +147,16 @@ labs = {
                         <b>ULAB Physics and Astronomy is a 2-semester DeCal. We meet Mon/Wed 7-8 PM.</b> Mentee/Mentor applications open before the fall semester and close around the second week of the fall semester. Click on the tabs to learn about each position.
                         <br><br>
                         <b>Mentees:</b>
-                        The mentee application for Fall 2024-Spring 2025 is closed. [Opening soon!]
+                        The mentee application for Fall 2024-Spring 2025 is now open! 
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTVCvQggJnK8nZ2_Ci_DCEBk5ltFmZVytelS58AmOBh78jvg/viewform" target="_blank">Apply here.</a>
+
                         <br><br>
                         <b>Mentors:</b>
-                        The mentor application for Fall 2024-Spring 2025 is closed. Mentors will be supported by a $600/semester stipend. <b>There are a number of additional staff postions: lab manager and lecturer. Interested candidates may apply at the same link.</b>
+                        The mentor application for Fall 2024-Spring 2025 is now open! 
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTVCvQggJnK8nZ2_Ci_DCEBk5ltFmZVytelS58AmOBh78jvg/viewform" target="_blank">Apply here.</a>
+ Mentors will be supported by a $600/semester stipend. <b>There are a number of additional staff postions: lab manager and lecturer. Interested candidates may apply at the same link.</b>
                         <br><br>
                         <b>Graduate Students/Postdocs:</b>  Opportunities for graduate students, postdocs, and faculty to get involved are available year-round! Please reach out to us at <a href="mailto:physics@ulab.berkeley.edu">physics@ulab.berkeley.edu</a>
                     """
