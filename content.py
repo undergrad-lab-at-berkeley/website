@@ -35,12 +35,11 @@ labs = {
                      "Teresa Le", "Evan Chau", "Divya Sundar", "Mark D\'Esposito"],
         "content": {
             "overview": {
-                # "group_photo": u"/static/img/staff/cogsci2023.jpg",
-                "slides": ["/static/img/cogsci_slides/cogsci2023.jpg", "/static/img/cogsci_slides/symp_poster.png",
-                           "/static/img/cogsci_slides/symp_poster2.png", "/static/img/cogsci_slides/group_far.png",
-                            "/static/img/cogsci_slides/symp_poster3.png", "/static/img/cogsci_slides/symp_poster4.png"],
-                "title": "Lab Overview",
-                "text": """
+                "title": u"Lab Overview",
+                "slides": [u"/static/img/cogsci_slides/cogsci2023.jpg", u"/static/img/cogsci_slides/symp_poster.png",
+                           u"/static/img/cogsci_slides/symp_poster2.png", u"/static/img/cogsci_slides/group_far.png",
+                            u"/static/img/cogsci_slides/symp_poster3.png", u"/static/img/cogsci_slides/symp_poster4.png"],
+                "text": u"""
                         Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community while facilitating the training and growth of aspiring researchers  </br>
                         <p></p>
                         We follow a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULab Board of Directors and dedicated graduate students. Each group will have the opportunity to select studies in areas that interest them the most. This will also allow an opportunity for projects to be published!
@@ -53,8 +52,8 @@ labs = {
                 # The <a href="http://www.wheelerlabs.berkeley.edu">Wheeler Labs</a> is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
             },
             "sponsor": {
-                "title": "Want to join us?",
-                "text": """
+                "title": u"Want to join us?",
+                "text": u"""
                         Applications for 2025-2026 can be found at the following hyperlinks: <a href="https://forms.gle/f7A1LH1AybZggVFJ8">Mentor App</a>. Deadlines and details are provided on the applications. Mentee, Grad Student, and UROP applications coming soon! For periodic updates, sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a><br/>  <br/>                      
                         
                         """
@@ -62,7 +61,7 @@ labs = {
                 # However, feel free to reach out to us by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
             },
             "join": {
-                "title": """Check out our publications <a href='https://escholarship.org/uc/ulab_cogscipsych'>here</a>.""",
+                "title": u"""Check out our publications <a href='https://escholarship.org/uc/ulab_cogscipsych'>here</a>.""",
                 "text": """"""
 
             },
@@ -77,13 +76,13 @@ labs = {
                 "object": u"""<iframe src="https://calendar.google.com/calendar/embed?src=cogsci.ulab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"""
             },
             "database": {
-                "link": "https://drive.google.com/file/d/1N4Cipbns-FMjD4yefx97KDqVOObv2ulZ/view?usp=sharing"
+                "link": u"https://drive.google.com/file/d/1N4Cipbns-FMjD4yefx97KDqVOObv2ulZ/view?usp=sharing"
             },
             "modules": {
-                "link": "https://docs.google.com/document/d/16jjTm23QawiBWiFi368txxgXZ0wVwguHrue-iL7jUck/view?usp=sharing"
+                "link": u"https://docs.google.com/document/d/16jjTm23QawiBWiFi368txxgXZ0wVwguHrue-iL7jUck/view?usp=sharing"
             },
             "resources": {
-                "link": "https://drive.google.com/drive/folders/1H7nmUNhrPlhBdOhwsMN9PFK8DOolUcFe?usp=sharing"
+                "link": u"https://drive.google.com/drive/folders/1H7nmUNhrPlhBdOhwsMN9PFK8DOolUcFe?usp=sharing"
             }
         }
     },
