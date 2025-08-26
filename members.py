@@ -459,7 +459,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "bio": """TBD""",
+        "bio": """Hi! My name is Teresa and I am a third year studying Cognitive Science with a minor in Data Science. I previously did Computational Neuroscience research at the Redwood Theoretical Neuroscience Research Center and my interests are within Cognition, Psychology, and Neuroscience! Outside of academics, I enjoy working out, traveling, reading books, and spending time with my loved ones. This is my first time being involved in ULAB and I am super excited for this upcoming year!""",
         "img": "img/staff/Teresa_Le.png"
     },
     # "Josephine Widjaja": {
