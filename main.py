@@ -1,9 +1,9 @@
 # encoding=utf8
 # -*- coding: utf-8 -*-
 
-import sys
-reload(sys)
-sys.setdefaultencoding('utf8')
+# import sys
+# reload(sys)
+# sys.setdefaultencoding('utf8')
 
 import os
 from flask import Flask, render_template, url_for, redirect, request

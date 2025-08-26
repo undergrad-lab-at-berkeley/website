@@ -31,21 +31,23 @@ labs = {
         "full_name": u"Psychology and Cognitive Sciences",
         "navbar": u"Cog_Sci",
         "status": "Active",
-        "members": ["Nimangie Weerakoon", "Rachel Pham", "Janaki Krishna", "Idalys Cuaderno", "Tayeba Chowdhury", "Tiffany Lam",
-                    "Marina Zhao", "Megan Cervera", "Mark D\'Esposito"],
+        "members": ["Jeremy Manwaring", "Nick Zhang", "Tvisha Joshi", "Taylan Dincer", "Eva Reineck", "Armando Lopez",
+                     "Teresa Le", "Evan Chau", "Divya Sundar", "Mark D\'Esposito"],
         "content": {
             "overview": {
-                "group_photo": u"/static/img/staff/cogsci2023.jpg",
+                # "group_photo": u"/static/img/staff/cogsci2023.jpg",
+                "slides": ["/static/img/cogsci_slides/cogsci2023.jpg", "/static/img/cogsci_slides/symp_poster.png",
+                           "/static/img/cogsci_slides/symp_poster2.png", "/static/img/cogsci_slides/group_far.png",
+                            "/static/img/cogsci_slides/symp_poster3.png", "/static/img/cogsci_slides/symp_poster4.png"],
                 "title": "Lab Overview",
                 "text": """
-                        Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community.  Experienced researchers can attain leadership roles within this lab setting while facilitating the training and growth of aspiring researchers so that each group is primed for more advanced research opportunities. </br>
+                        Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community while facilitating the training and growth of aspiring researchers  </br>
                         <p></p>
-                        This year, we are following a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULab Board of Directors and dedicated graduate students. Each group will get to pick studies in areas that interest them the most. This will also allow an opportunity for projects to be published!
+                        We follow a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULab Board of Directors and dedicated graduate students. Each group will have the opportunity to select studies in areas that interest them the most. This will also allow an opportunity for projects to be published!
                         <p><p/>
-                        Our projects this year involve social psychology, fMRI analyses, visual field cortices, language processing, among others. All projects will be published in a paper and poster series via UC eScholarship Open Access publishing. Posters will be presented to notable UC Berkeley faculty. This will certainly aid in getting on-campus research.
+                        Our projects this year involve behavioral psychology, fMRI analyses, visual field cortices, language processing, cognitive neuroscience, and other areas. All projects will be published in a paper and poster series via UC eScholarship Open Access publishing. Posters will be presented to faculty members and peers at UC Berkeley. This will certainly aid in getting on-campus research.
                         <p><p/>
-                        Currently, Dr. Mark D'Esposito, Professor of Neuroscience and Psychology at UC Berkeley, serves as primary faculty advisor. As the ULab Board of Directors pursues new projects and initiatives, Dr. D'Esposito oversees their work to ensure the advancement of ULab's mission.
-                        <p><p/> 
+                        Currently, Dr. Mark D’Esposito, Professor of Neuroscience and Psychology at UC Berkeley, serves as primary faculty advisor. As the ULab Board of Directors pursues new projects and initiatives, Dr. D’Esposito oversees their work to ensure the advancement of ULab’s mission.
                         """
                 # Our Sponsors:
                 # The <a href="http://www.wheelerlabs.berkeley.edu">Wheeler Labs</a> is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
@@ -53,17 +55,22 @@ labs = {
             "sponsor": {
                 "title": "Want to join us?",
                 "text": """
-                        Applications can be found at the following hyperlinks: <a href="https://forms.gle/sV2rtcGoZypGeEjKA">Mentor App</a>, <a href="https://forms.gle/R7wgcbr7vDSA5KSF7">Mentee App</a>, <a href="https://forms.gle/ErLwuvwTZEouNbZ88">Grad Student App</a>, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6cMOQ9PBYSShYAkxS9mU4G_gWTDWNzsOjGyMInGFXBdBcDA/viewform">UROP App</a>. Deadlines and details are provided on the applications. <br/>  <br/>                      
+                        Applications for 2025-2026 can be found at the following hyperlinks: <a href="https://forms.gle/f7A1LH1AybZggVFJ8">Mentor App</a>. Deadlines and details are provided on the applications. Mentee, Grad Student, and UROP applications coming soon! For periodic updates, sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a><br/>  <br/>                      
                         
                         """
                 # Applications for mentors and mentees for the 2021-2022 year are closed!
                 # However, feel free to reach out to us by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
             },
             "join": {
-                "title": """Sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a>.""",
+                "title": """Check out our publications <a href='https://escholarship.org/uc/ulab_cogscipsych'>here</a>.""",
                 "text": """"""
 
             },
+            # "join": {
+            #     "title": """Sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a>.""",
+            #     "text": """"""
+
+            # },
             "calendar": {
                 "title": u"ULab Division Calendar",
                 "text": u"""This calendar has all of the events and deadlines for the year. Exact days and times are subject to change.""",
@@ -73,7 +80,7 @@ labs = {
                 "link": "https://drive.google.com/file/d/1N4Cipbns-FMjD4yefx97KDqVOObv2ulZ/view?usp=sharing"
             },
             "modules": {
-                "link": "https://docs.google.com/document/d/1qTL6MKEss-XpFKhx50v1PXzCuOZgsIHdVYduIk2OaKE/edit?usp=sharing"
+                "link": "https://docs.google.com/document/d/16jjTm23QawiBWiFi368txxgXZ0wVwguHrue-iL7jUck/view?usp=sharing"
             },
             "resources": {
                 "link": "https://drive.google.com/drive/folders/1H7nmUNhrPlhBdOhwsMN9PFK8DOolUcFe?usp=sharing"
