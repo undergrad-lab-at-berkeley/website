@@ -289,7 +289,7 @@ members = {
         "github": "",
         "personal": "",
         "bio": """TBD""",
-        "img": "img/staff/Taylan_Dincer.png"
+        "img": "img/staff/Taylan_Dincer.jpg"
     },
     # "Rachel Pham": {
     #     "title": "Lab Manager",
