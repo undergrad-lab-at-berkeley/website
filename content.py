@@ -46,7 +46,7 @@ labs = {
                         <p><p/>
                         Our projects this year involve behavioral psychology, fMRI analyses, visual field cortices, language processing, cognitive neuroscience, and other areas. All projects will be published in a paper and poster series via UC eScholarship Open Access publishing. Posters will be presented to faculty members and peers at UC Berkeley. This will certainly aid in getting on-campus research.
                         <p><p/>
-                        Currently, Dr. Mark D’Esposito, Professor of Neuroscience and Psychology at UC Berkeley, serves as primary faculty advisor. As the ULab Board of Directors pursues new projects and initiatives, Dr. D’Esposito oversees their work to ensure the advancement of ULab’s mission.
+                        Currently, Dr. Mark D'Esposito, Professor of Neuroscience and Psychology at UC Berkeley, serves as primary faculty advisor. As the ULab Board of Directors pursues new projects and initiatives, Dr. D'Esposito oversees their work to ensure the advancement of ULab's mission.
                         """
                 # Our Sponsors:
                 # The <a href="http://www.wheelerlabs.berkeley.edu">Wheeler Labs</a> is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
