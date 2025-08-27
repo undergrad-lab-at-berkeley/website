@@ -36,9 +36,9 @@ labs = {
         "content": {
             "overview": {
                 "title": u"Lab Overview",
-                "slides": [u"/static/img/cogsci_slides/cogsci2023.jpg", u"/static/img/cogsci_slides/symp_poster.png",
-                           u"/static/img/cogsci_slides/symp_poster2.png", u"/static/img/cogsci_slides/group_far.png",
-                            u"/static/img/cogsci_slides/symp_poster3.png", u"/static/img/cogsci_slides/symp_poster4.png"],
+                "slides": ["/static/img/cogsci_slides/cogsci2023.jpg", "/static/img/cogsci_slides/symp_poster.png",
+                           "/static/img/cogsci_slides/symp_poster2.png", "/static/img/cogsci_slides/group_far.png",
+                            "/static/img/cogsci_slides/symp_poster3.png", "/static/img/cogsci_slides/symp_poster4.png"],
                 "text": u"""
                         Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community while facilitating the training and growth of aspiring researchers  </br>
                         <p></p>
@@ -55,14 +55,13 @@ labs = {
                 "title": u"Want to join us?",
                 "text": u"""
                         Applications for 2025-2026 can be found at the following hyperlinks: <a href="https://forms.gle/f7A1LH1AybZggVFJ8">Mentor App</a>. Deadlines and details are provided on the applications. Mentee, Grad Student, and UROP applications coming soon! For periodic updates, sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a><br/>  <br/>                      
-                        
                         """
                 # Applications for mentors and mentees for the 2021-2022 year are closed!
                 # However, feel free to reach out to us by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
             },
             "join": {
                 "title": u"""Check out our publications <a href='https://escholarship.org/uc/ulab_cogscipsych'>here</a>.""",
-                "text": """"""
+                "text": u""""""
 
             },
             # "join": {
