@@ -54,7 +54,7 @@ labs = {
             "sponsor": {
                 "title": u"Want to join us?",
                 "text": u"""
-                        <b>Applications for 2025-2026 can be found at the following hyperlinks: <a href="https://forms.gle/f7A1LH1AybZggVFJ8">Mentor App</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSdzJdpZwrEtupx-Z2P4ZVUdrf4BA_zw57OojJnLb2NDCFIWOQ/viewform">Mentee App</a>.</b> Deadlines and details are provided on the applications. Mentee, Grad Student, and UROP applications coming soon! For periodic updates, sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a><br/>  <br/>                      
+                        <b>Applications for 2025-2026 can be found at the following hyperlinks: <a href="https://forms.gle/f7A1LH1AybZggVFJ8">Mentor App</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSdzJdpZwrEtupx-Z2P4ZVUdrf4BA_zw57OojJnLb2NDCFIWOQ/viewform">Mentee App</a>.</b> Deadlines and details are provided on the applications. For periodic updates, sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a><br/>  <br/>                      
                         """
                 # Applications for mentors and mentees for the 2021-2022 year are closed!
                 # However, feel free to reach out to us by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
