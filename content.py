@@ -39,14 +39,22 @@ labs = {
                 "slides": ["/static/img/cogsci_slides/cogsci2023.jpg", "/static/img/cogsci_slides/symp_poster.png",
                            "/static/img/cogsci_slides/symp_poster2.png", "/static/img/cogsci_slides/group_far.png",
                             "/static/img/cogsci_slides/symp_poster3.png", "/static/img/cogsci_slides/symp_poster4.png"],
-                "text": u""""""
+                "text": u"""
+                        Founded in Fall 2017 by Jenna Martin and Riley McDanal, the Psych & CogSci Lab has a vision of offering an experience that benefits all undergraduates in the research community while facilitating the training and growth of aspiring researchers.
+                        <br><br>
+                        We follow a replicate and extend structure. Mentees will be divided into groups of 4-5 and assigned a mentor that will guide them through a year-long project. The first semester will be spent replicating a published study and the second semester will be spent extending the methods based on an original idea. The studies will be provided through a database compiled by the ULab Board of Directors and dedicated graduate students. Each group will have the opportunity to select studies in areas that interest them the most. This will also allow an opportunity for projects to be published!
+                        <br><br>
+                        Our projects this year involve behavioral psychology, fMRI analyses, visual field cortices, language processing, cognitive neuroscience, and other areas. All projects will be published in a paper and poster series via UC eScholarship Open Access publishing. Posters will be presented to faculty members and peers at UC Berkeley. This will certainly aid in getting on-campus research.
+                        <br><br>
+                        Currently, Dr. Mark D'Esposito, Professor of Neuroscience and Psychology at UC Berkeley, serves as primary faculty advisor. As the ULab Board of Directors pursues new projects and initiatives, Dr. D'Esposito oversees their work to ensure the advancement of ULab's mission.
+                        """
                 # Our Sponsors:
                 # The <a href="http://www.wheelerlabs.berkeley.edu">Wheeler Labs</a> is a group of scientists dedicatd to developing innovative methods to study brain function, with the goal of translating these methods into clinically useful tools. The Wheeler Lab is sponsoring our lab space as well as our future events.
             },
             "sponsor": {
                 "title": u"Want to join us?",
                 "text": u"""
-                        Applications for 2025-2026 can be found at the following hyperlinks: <a href="https://forms.gle/f7A1LH1AybZggVFJ8">Mentor App</a>. Deadlines and details are provided on the applications. Mentee, Grad Student, and UROP applications coming soon! For periodic updates, sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a><br/>  <br/>                      
+                        <b>Applications for 2025-2026 can be found at the following hyperlinks: <a href="https://forms.gle/f7A1LH1AybZggVFJ8">Mentor App</a>.</b> Deadlines and details are provided on the applications. Mentee, Grad Student, and UROP applications coming soon! For periodic updates, sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a><br/>  <br/>                      
                         """
                 # Applications for mentors and mentees for the 2021-2022 year are closed!
                 # However, feel free to reach out to us by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
