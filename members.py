@@ -1124,7 +1124,7 @@ members = {
         "facebook": "",
         "github": "",
         "img": "img/staff/bio/albert-wu-2.jpg",
-        "bio": "I’m Albert Wu, a senior majoring in chemical biology. I joined ULAB to learn about research. I also "
+        "bio": "I'm Albert Wu, a senior majoring in chemical biology. I joined ULAB to learn about research. I also "
                "love to play basketball in my free time!"
     },
     "Aishwarya Ballapuram": {
@@ -1353,8 +1353,8 @@ members = {
         "github": "",
         "personal": "",
         "img": "img/staff/bio/vivian-lee.png",
-        "bio": "Hi! My name is Vivian, and I’m a 2nd year MCB/Public Health major. I’m really enthusiastic about "
-               "novel health-related research and writing, so I’m super excited to be a part of the ULAB team this "
+        "bio": "Hi! My name is Vivian, and I'm a 2nd year MCB/Public Health major. I'm really enthusiastic about "
+               "novel health-related research and writing, so I'm super excited to be a part of the ULAB team this "
                "year!"
     },
     "Tara Rahai": {
@@ -1378,7 +1378,7 @@ members = {
         "github": "",
         "personal": "",
         "img": "img/staff/bio/heer-nanda.png",
-        "bio": "Hi! My name is Heer Nanda, and I’m a junior studying Molecular and Cell Biology and Business "
+        "bio": "Hi! My name is Heer Nanda, and I'm a junior studying Molecular and Cell Biology and Business "
                "Administration (LSBE). Beyond academics, I love to dance, garden, and travel with my friends. I "
                "joined ULAB my sophomore year as a mentor and am super excited to be able to get more involved with "
                "ULAB this year!"
@@ -1391,7 +1391,7 @@ members = {
         "github": "",
         "personal": "",
         "img": "img/staff/bio/arushi-neravetla.jpg",
-        "bio": "Hi everyone! My name is Arushi Neravetla and I’m studying Molecular & Cellular Biology with plans to "
+        "bio": "Hi everyone! My name is Arushi Neravetla and I'm studying Molecular & Cellular Biology with plans to "
                "minor in Data Science. I joined ULAB to foster an environment that emphasizes visionary scientific "
                "research and to share these opportunities with the broader public. Beyond the scope of research, "
                "my free time is mainly devoted to poetry, music, traveling, and spending time with my family!"
@@ -1404,8 +1404,8 @@ members = {
         "github": "",
         "personal": "",
         "img": "img/staff/bio/nandika-nambiar.jpg",
-        "bio": "Hi! My name is Nandika Nambiar and I’m a 2nd year MCB major. I’m very excited about targeted "
-               "therapeutics research, and I’m very excited to be joining the ULab board this fall! In my free time, "
+        "bio": "Hi! My name is Nandika Nambiar and I'm a 2nd year MCB major. I'm very excited about targeted "
+               "therapeutics research, and I'm very excited to be joining the ULab board this fall! In my free time, "
                "I love to climb and listen to music!"
     },
     "Ariana Chavez": {
@@ -1462,7 +1462,7 @@ members = {
                "and had a great experience getting my feet wet in academic research. My goal is to become an "
                "epidemiologist in the future where I plan on researching health equity in healthcare and public "
                "health, infectious disease surveillance and outbreak, and public health intervention effectiveness. I "
-               "am excited to share some insight and engage with students’ ideas and research journeys!"
+               "am excited to share some insight and engage with students' ideas and research journeys!"
     },
     "Zarin Mahmud": {
         "title": "Finance and Administration Director",
@@ -1472,10 +1472,10 @@ members = {
         "github": "",
         "personal": "",
         "img": "img/staff/bio/zarin-mahmud.jpg",
-        "bio": "Hey everyone! My name is Zarin and I’m a 2nd year double majoring in MCB and Neuroscience. I love "
-               "spending time with friends and writing blog posts in my free time :) I’ve also always been interested "
-               "in public health research and the healthcare disparity-related barriers it can expose and break — "
-               "this is exactly why I joined ULab PHHS and I’m super excited to be serving on the board this year!"
+        "bio": "Hey everyone! My name is Zarin and I'm a 2nd year double majoring in MCB and Neuroscience. I love "
+               "spending time with friends and writing blog posts in my free time :) I've also always been interested "
+               "in public health research and the healthcare disparity-related barriers it can expose and break - "
+               "this is exactly why I joined ULab PHHS and I'm super excited to be serving on the board this year!"
     },
     "Tejas Raxwal": {
         "title": "Mentor Coordinator",
@@ -1485,7 +1485,7 @@ members = {
         "github": "",
         "personal": "",
         "img": "img/staff/bio/tejas-raxwal.jpg",
-        "bio": "Hey, my name is Tejas Raxwal. I’m a 2nd year MCB major and I am excited to be part of the ULAB team "
+        "bio": "Hey, my name is Tejas Raxwal. I'm a 2nd year MCB major and I am excited to be part of the ULAB team "
                "this year! I joined ULAB to sharpen my academic writing and research skills, especially in the "
                "medical field, where my main interests lie in surgery and cardiology. Outside of academics, "
                "I love watching TV, hitting the gym, spending all my money on Taco Bell, and listening to all kinds "

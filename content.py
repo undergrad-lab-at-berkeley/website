@@ -200,7 +200,7 @@ labs = {
                         Yes. Students that join ULAB, but are subsequently accepted into another program (e.g. URAP) may pursue both concurrently or drop ULAB before the drop deadline late September.              
                         <br><br>
                         <b>Q: Do ULAB projects yield results?</b><br>
-                        Wrong question. ULAB is a <i>research training</i> organization. Through conducting their projects, mentees learn about the basic knowledge and skills required to conduct research in their field and leave our program a better candidate, and better prepared for research. (…but to answer the question, most projects do yield interesting results; and even when they don’t, mentees are able to explain their work and what they’ve learned).
+                        Wrong question. ULAB is a <i>research training</i> organization. Through conducting their projects, mentees learn about the basic knowledge and skills required to conduct research in their field and leave our program a better candidate, and better prepared for research. (...but to answer the question, most projects do yield interesting results; and even when they don't, mentees are able to explain their work and what they've learned).
                         """
             },
             "mentors": {
@@ -293,7 +293,7 @@ labs = {
                     },
                     '2019-2020': {
                         u'Computational Analysis of Mixing Layers in the Interstellar Medium': '/static/doc/posters/s201.pdf',
-                        u'Investigation on the Potential Origin of ‘Oumuamua': '/static/doc/posters/s202.pdf',
+                        u"Investigation on the Potential Origin of 'Oumuamua": '/static/doc/posters/s202.pdf',
                         u'Simulating the Antenna Response of Radio Interferometers': '/static/doc/posters/s203.pdf',
                         u'Accessible Balloon RAdiometer-Detecting the Cosmic Microwave Background': '/static/doc/posters/s204.pdf',
                         u'Period-Luminosity Analysis of Cepheid Variables': '/static/doc/posters/s205.pdf',
@@ -379,7 +379,7 @@ labs = {
                 "text": u"""
                     Mentee & Mentor positions are now open for Fall 2023! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. The application deadline is extended to Saturday, September 16th @ 11:59PM for both mentors and mentees. Both mentors & mentees will hear back from us regarding the decision by Monday, September 18th; the deadline to accept our offer will be Tuesday, September 19th. Although the application deadline is after the course add/drop deadline, all members that hear from us before September 13th will be able to take our Decal for units. Our first class will be held on September 12th in the Social Sciences Building Room 56 from 7-8pm, and we welcome all potential members to attend, even if you are unsure of applying!
                     <br><br>
-                    <b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through BioE 98. The application is due by Monday, January 29th at 11:59PM PT; apply now at the link: <a href='https://tinyurl.com/ulabcompbiomentee23'>tinyurl.com/ulabcompbiomentee23</a>                        <br><br>
+                    <b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group's area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through BioE 98. The application is due by Monday, January 29th at 11:59PM PT; apply now at the link: <a href='https://tinyurl.com/ulabcompbiomentee23'>tinyurl.com/ulabcompbiomentee23</a>                        <br><br>
                     <b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Monday, September 5th at 11:59PM PT; apply now at the link!: <a href='https://tinyurl.com/ulabcompbiomentor23'>tinyurl.com/ulabcompbiomentor23</a>
                     <br><br>
                     If you are interested in joining and would like to be updated on our program, fill out the interest form: <a href='https://forms.gle/mQaURznvM3xN87ZG8'>tinyurl.com/ulab-compbio</a>
@@ -388,7 +388,7 @@ labs = {
 
                 # <a href="https://forms.gle/4CUb93ZLr3KVeTcZ6">Apply Now!</a><br/><br/>
                 # <b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. Mentors receive 2 units through IB 98. The application is due by Wednesday, January 27th at 11:59PM PT; apply now at the link above!.<br/><br/>
-                # <b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group’s area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link above!
+                # <b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group's area of interest. Along the way they will learn fundamental research skills and background knowledge in Computational Biology. Mentees receive 2 units through IB 98. The application is due by Friday, January 29th at 11:59PM PT; apply now at the link above!
                 # """
             },
             "calendar": {
@@ -411,7 +411,7 @@ labs = {
             "overview": {
                 "title": "Lab Overview",
                 "text": u"""
-                        The Data Science Lab, started by Alan Pham in Fall 2018, is a great opportunity for students to conduct data science research by working on an interesting project, with guidance from experienced undergraduate mentors. It might seem difficult, but it’s actually very fun and easy, because of our unique way of providing students a gentle introduction to research. For mentors, this is a meaningful opportunity to lead aspiring researchers while getting to know what it might be like to lead a lab. <br/>
+                        The Data Science Lab, started by Alan Pham in Fall 2018, is a great opportunity for students to conduct data science research by working on an interesting project, with guidance from experienced undergraduate mentors. It might seem difficult, but it's actually very fun and easy, because of our unique way of providing students a gentle introduction to research. For mentors, this is a meaningful opportunity to lead aspiring researchers while getting to know what it might be like to lead a lab. <br/>
 
                         <br/>
 
@@ -419,14 +419,14 @@ labs = {
 
                         <br/>
 
-                        Please don’t hesitate to contact us if you have any questions."""
+                        Please don't hesitate to contact us if you have any questions."""
             },
             "join": {
                 "title": u"Want to join us?",
                 "text": u"""
                         Mentee & Mentor positions are now open for Spring 2022! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. Applications are due Friday, February 4th @ 11:59PM for both mentors and mentees. Both mentors & mentees will hear back from us regarding the decision by Sunday, February 6th; the deadline to accept our offer will be Tuesday, February 8th. 
                         <br><br>
-                        If you’re interested in getting to know more about ULAB DS and its structure, or if you have any questions you'd like to ask us, attend our info session on Tuesday 2/1 @ 8PM: more details on our Facebook page <a href='https://fb.me/e/22SDc3utS'>here</a>.
+                        If you're interested in getting to know more about ULAB DS and its structure, or if you have any questions you'd like to ask us, attend our info session on Tuesday 2/1 @ 8PM: more details on our Facebook page <a href='https://fb.me/e/22SDc3utS'>here</a>.
                         <br><br> 
                         Mentee Application: <a href='https://docs.google.com/forms/d/e/1FAIpQLSdid-6ZauDfHUX4j4HAGTAhgysko9_se7hfsnyX3uUlwQmNeg/viewform'>tinyurl.com/sp22ulab</a>
                         <br><br>
@@ -569,7 +569,7 @@ research = {
             <h4>Astrophysics</h4>
                 <p>The Astrophysics branch of uLab provides an academic outlet for first-year students with an interest in space physics, exoplanets, cosmology, and much more, regardless of their intended majors. While Astrophysics uLab functions as a gateway to classes and research opportunities for those who decide to pursue astrophysics research in the future, those who do not will leave the program with the benefits of a broad range of academic skills, research experience, and an heightened understanding of basic astrophysics.</p>
                 <p>In this sense, uLab welcomes passionate students more than anything else. From those determining their interest in a major to those to those already sure, uLab Astrophysics is a great place to improve research paper literacy, experimental design and computer programming skills, in addition to participating in the epicenter of important interdisciplinary discoveries.</p>
-                <p>The astrophysics branch currently supports two separate projects, the first being on exoplanetary atmospheric analysis. By using open-sourced data from NASA’s Kepler mission, the group plans to create an automated method of categorizing various exoplanet’s atmospheric compositions and habitability likelihood.</p>
+                <p>The astrophysics branch currently supports two separate projects, the first being on exoplanetary atmospheric analysis. By using open-sourced data from NASA's Kepler mission, the group plans to create an automated method of categorizing various exoplanet's atmospheric compositions and habitability likelihood.</p>
                 <p>The second of the astrophysics projects focuses on black holes. By comparing the results of an existing research paper making use of RELXILL with those calculated from the new FENRIR model, students will examine black hole spins and hone computational skills.</p>
             <h4>Condensed Matter</h4>
                 <p>The Condensed Matter branch of uLab allows students with an interest in atomic and molecular physics to investigate the mechanical, electrical, magnetic, and optical properties of nanomaterials and nanostructures. Students who join the condensed matter team will learn about the various techniques and methods that are prevalent throughout the field. We work closely with research groups in the physics department. Current areas of research at Berkeley are quantum information, physics of nanomaterials, magnetism, quantum materials, optical properties, photoemission, superconductivity, and new materials. Our undergraduate mentors are involved in various condensed matter research groups, and can share their experience in the field as they guide students in their projects.</p>
