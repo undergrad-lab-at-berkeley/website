@@ -403,7 +403,7 @@ members = {
     #     "img": "img/staff/Nimangie_Weerakoon.jpg"
     # },
     "Jeremy Manwaring": {
-        "title": "Lab Manager",
+        "title": "Research Director",
         "email": "jmanwaring@berkeley.edu",
         "linkedin": "",
         "facebook": "",
@@ -413,7 +413,7 @@ members = {
         "img": "img/staff/Jeremy_Manwaring.jpg"
     },
     "Nick Zhang": {
-        "title": "Lab Manager",
+        "title": "Research Director",
         "email": "zyunqi@berkeley.edu",
         "linkedin": "",
         "facebook": "",
