@@ -288,7 +288,8 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "bio": """TBD""",
+        "bio": """Hi, I’m Taylan! I’m a senior at Berkeley, majoring in Cognitive Science and Neuroscience, and minoring in Computer Science and Data Science. I'm specifically pretty interested in how we can further develop AI in healthcare and neurotechnology.
+Outside of academics, I'm really into the NBA (please don't get me started. If you ask me a single question you will be locked into a discussion with me) and drinking boba that is definitely way too expensive. Looking forward to meeting you all!""",
         "img": "img/staff/Taylan_Dincer.jpg"
     },
     # "Rachel Pham": {
