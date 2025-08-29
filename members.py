@@ -288,7 +288,7 @@ members = {
         "facebook": "",
         "github": "",
         "personal": "",
-        "bio": """Hi, I’m Taylan! I’m a senior at Berkeley, majoring in Cognitive Science and Neuroscience, and minoring in Computer Science and Data Science. I'm specifically pretty interested in how we can further develop AI in healthcare and neurotechnology.
+        "bio": """Hi, I'm Taylan! I'm a senior at Berkeley, majoring in Cognitive Science and Neuroscience, and minoring in Computer Science and Data Science. I'm specifically pretty interested in how we can further develop AI in healthcare and neurotechnology.
 Outside of academics, I'm really into the NBA (please don't get me started. If you ask me a single question you will be locked into a discussion with me) and drinking boba that is definitely way too expensive. Looking forward to meeting you all!""",
         "img": "img/staff/Taylan_Dincer.jpg"
     },
@@ -798,7 +798,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "bio": ""
     },
     "Andrew McHaty": {
-        "title": "Lab Manager",
+        "title": "Research Director - Research",
         "email": "andrew.mchaty@berkeley.edu",
         "linkedin": "",
         "facebook": "",
@@ -1206,7 +1206,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "img": "",
     },
     "Yaamini Jois": {
-        "title": "Lab Manager",
+        "title": "Research Director - PIL",
         "email": "yjois@berkeley.edu",
         "linkedin": "",
         "facebook": "",
@@ -1235,7 +1235,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "img": "",
     },
      "Jordan Duan": {
-        "title": "Research Director",
+        "title": "Research Director - Operations",
         "email": "jordanduan@berkeley.edu",
         "linkedin": "",
         "facebook": "",
@@ -1491,5 +1491,49 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
                "medical field, where my main interests lie in surgery and cardiology. Outside of academics, "
                "I love watching TV, hitting the gym, spending all my money on Taco Bell, and listening to all kinds "
                "of music. I am excited to work with all of you this year!"
+    },
+    "Sophia Bucker": {
+        "title": "",
+        "founder_title": "",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+        "bio": ""
+    },
+    "Olivia Wagner": {
+        "title": "",
+        "founder_title": "",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+        "bio": ""
+    },
+    "Michelle Duan": {
+        "title": "Lab Manager",
+        "founder_title": "",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+        "bio": ""
+    },
+    "Andrew Wang": {
+        "title": "Social Chair",
+        "founder_title": "",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+        "bio": ""
     },
 }
