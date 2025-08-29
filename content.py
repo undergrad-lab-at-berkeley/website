@@ -92,11 +92,7 @@ labs = {
         "full_name": u"Physics and Astronomy",
         "navbar": u"Physics",
         "status": "Active",
-        "members": ["Jordan Duan", 'Andrew McHaty', 'Yaamini Jois', 'Brianna Peck', 'Caitlin Begbie', 'Andrew Wang', 'Michelle Duan', 'Olivia Wagner', 'Sophie Bucker'],
-        "former": {
-            'former_name': [
-                'Arjun Savel',
-                'Aditya Sengupta',],
+        "members": ["Saahit Mogan", "Jordan Duan", 'Andrew McHaty', 'Yaamini Jois', 'Brianna Peck', 'Caitlin Begbie'],
         "former": {
             'former_name': [
                 'Arjun Savel',
@@ -106,8 +102,7 @@ labs = {
                 'Padma Venkatraman',
                 'Rav Kaur',
                 'Anmol Desai',
-                'Dex Bhadra',
-                'Saahit Mogan',
+                'Dex Bhadra'
             ],
             'former_position': [
                 "Director '19, Lab Manager '18",
@@ -117,8 +112,7 @@ labs = {
                 "Curriculum Chair '21",
                 "Director '22, '23, Lab Manager '21",
                 "Senior Advsior '23, Director '22, Lab Manager '21",
-                "Curriculum Manager '23, '24",
-                "Director '23, '24, '25"
+                "Curriculum Manager '23"
             ],
             'former_now': [
                 'Astro graduate student at UMD',
@@ -128,8 +122,7 @@ labs = {
                 'Post-Baccalaureate Fellow at Kavli Institute for Particle Astrophysics and Cosmology',
                 'Astronomy and Astrophysics PhD student at UC Santa Cruz',
                 'Post-Baccalaureate Researcher at Goddard Space Flight Center',
-                '-',
-                'Astrophysics PhD Student at UC Berkeley'
+                '-'
             ]
         },
         "content": {
