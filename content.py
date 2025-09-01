@@ -245,6 +245,17 @@ labs = {
                 "title": "Projects",
                 "text": "<b style='font-size:150%;'> Past Projects </b>",
                 "years": {
+                    '2024-2025': {
+                        u'Performance Comparison of new Keck Adaptive Optics System': '/static/doc/posters/2025-1%20(1).pdf',
+                        u'CORONA: Classification of R Coronae Objects with Neural Network Automation': '/static/doc/posters/2025-1%20(2).pdf',
+                        u'Shedding Light on Obscura - Confirming the Existence of an Exoplanet': '/static/doc/posters/2025-1%20(3).pdf',
+                        u'Re-analysis of OB110462 as a Possible Binary Microlensing Event': '/static/doc/posters/2025-1%20(4).pdf',
+                        u'Solar Cycle Events and Impacts on Particle Intensity Around the South American Anomaly': '/static/doc/posters/2025-1%20(5).pdf',
+                        u'The Dynamics of Rogue Planets in Binary Star Systems': '/static/doc/posters/2025-1%20(6).pdf',
+                        u'Increasing Convergence of Three-Channel Scattering Amplitudes': '/static/doc/posters/2025-1%20(7).pdf',
+                        u'Simulating Ecosystems with Wild Demographic Fluctuations': '/static/doc/posters/2025-1%20(8).pdf',
+                        u'Z-Streak Analysis & Discovery of Near Earth Objects': '/static/doc/posters/2025-1%20(9).pdf',
+                    },
                     '2023-2024': {
                         u'Magnetic Energy Transfer in Kerr Black Holes': '/static/doc/posters/s241.pdf',
                         u'Investigating the Effect of Pollution on Muon Flux Using a CosmicWatch Modular Detector': '/static/doc/posters/s242.pdf',
