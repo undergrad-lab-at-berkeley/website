@@ -1237,7 +1237,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
      "Jordan Duan": {
         "title": "Research Director - Operations",
         "email": "jordanduan@berkeley.edu",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/jordan-duan/",
         "facebook": "",
         "github": "",
         "personal": "",
