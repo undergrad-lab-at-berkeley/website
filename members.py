@@ -1241,7 +1241,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/jordan_duan.png",
+        "img": "img/staff/jordan_duan.jpg",
 
     },
     # "Maya Singh": {
