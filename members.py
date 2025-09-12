@@ -912,25 +912,6 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "img": "img/staff/bio/candice_ng.jpg",
         "bio": ""
     },
-    "Shrina Pandey": {
-        "title": "Research Director",
-        "email": "spandey13@berkeley.edu",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "img/staff/bio/ShrinaPandeyResized.jpg",
-    },
-    "Meeseo Lee": {
-        "title": "Research Director",
-        "email": "meeseo@berkeley.edu",
-        "linkedin": "http://linkedin.com/in/meeseo-lee-142834194",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "img/staff/bio/Meeseo_Lee2.jpg",
-
-    },
     "Anisha Chandy": {
         "title": "Head Editor-in-Chief",
         "email": "anishamchandy@berkeley.edu",
@@ -949,38 +930,6 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "personal": "",
         "img": "img/staff/bio/AdrianFu.jpg",
     },
-    # "Ishna Pandey": {
-    #     "title": "Research Director",
-    #     "email": "ishna13@berkeley.edu",
-    #     "linkedin": "",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "img": "img/staff/bio/ishna-pandey-3.jpg",
-    #     "bio": "Hi! I'm Ishna Pandey and I'm a senior majoring in Integrative Biology. This is my fourth year at ULAB "
-    #            "and my first as Research Director. I'm excited to work with all of you this year!"
-    # },
-    "Andrew Koh": {
-        "title": "Head Mentor Coordinator",
-        "email": "adkoh515@berkeley.edu",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "img/staff/bio/Andrew_Koh.jpg",
-    },
-    # "Tanirika Singh": {
-    #     "title": "Head Mentor Coordinator & Editor-in-Chief",
-    #     "email": "tanirikasingh@berkeley.edu",
-    #     "linkedin": "",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "img": "img/staff/bio/tanirika-singh-3.jpg",
-    #     "bio": "Hello! My name is Tanirika and I'm currently a senior majoring in Molecular & Cell Biology with an "
-    #            "emphasis in Neurobiology. I'm really excited to continue being a part of ULAB and can't wait for a "
-    #            "great year ahead!"
-    # },
     "Jean Ye": {
         "title": "Fall Mentor Coordinator & Spring Editor-in-Chief",
         "email": "jeanye@berkeley.edu",
@@ -989,18 +938,6 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "github": "",
         "img": "img/staff/bio/JeanYe.JPG",
     },
-    # "Ting Guo": {
-    #     "title": "Research Director",
-    #     "email": "tingguo20@berkeley.edu",
-    #     "linkedin": "https://www.linkedin.com/in/ting-guo-957aa719a/",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "img": "img/staff/bio/ting-guo-3.jpg",
-    #     "bio": "Hi everyone! I'm Ting and I am a senior studying Molecular Environmental Biology & Psychology. I was "
-    #            "involved with ULAB because it was a great introduction into scientific research and writing "
-    #            "especially for students with no previous experience."
-    # },
     "Namrata Kantamneni": {
         "title": "Computer Science Director",
         "email": "namratakantamneni@berkeley.edu",
@@ -1020,17 +957,6 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "img": "img/staff/bio/alec_parker.jpg",
         "bio": ""
     },
-    # "Jenny Wu": {
-    #     "title": "Operations and Outreach Director",
-    #     "email": "yingjungwu2222@berkeley.edu",
-    #     "linkedin": "",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "img": "img/staff/bio/jenny-wu-4.png",
-    #     "bio": "My name is Jenny Wu, and I am a 4th year Chem Bio major. I hope that I'll be able to assist you as "
-    #            "you begin your research journey at Cal!"
-    # },
     "Angikaar Chana": {
         "title": "Senior Advisor",
         "email": "angikaar@berkeley.edu",
@@ -1103,31 +1029,6 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "personal": "",
         "img": "img/staff/ArjunVats.jpg"
     },
-
-    ## PHHS 2022-2023 Add INS
-    # "Hank Wang": {
-    #     "title": "Co-Lab Manager",
-    #     "email": "hankwang001@berkeley.edu",
-    #     "linkedin": "",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "img": "img/staff/bio/hank-wang-2.png",
-    #     "bio": "Name's Hank. I'm a senior majoring in Molecular and Cell Biology (Cell and Developmental Biology) and "
-    #            "Computer Science. I am also an undergraduate researcher at the Lammel Lab. My research centers around "
-    #            "using bioinformatics and data science to study addiction, motivation and physiological and "
-    #            "pharmacological effects of motivation. This is my second year at ULAB."
-    # },
-    "Albert Wu": {
-        "title": "Research Director",
-        "email": "",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "img": "img/staff/bio/albert-wu-2.jpg",
-        "bio": "I'm Albert Wu, a senior majoring in chemical biology. I joined ULAB to learn about research. I also "
-               "love to play basketball in my free time!"
-    },
     "Aishwarya Ballapuram": {
         "title": "Operation and Outreach Director",
         "email": "aishwaryab@berkeley.edu",
@@ -1137,18 +1038,6 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "personal": "",
         "img": "img/staff/bio/Aishwarya_Ballapuram.jpg"
     },
-    # "Sanghvi Samala": {
-    #     "title": "Mentor Coordinator & Editor-in-Chief",
-    #     "email": "sanghvis@berkeley.edu",
-    #     "linkedin": "",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "img": "img/staff/bio/sanghvi-samala.jpg",
-    #     "bio": "Hey! My name is Sanghvi and I am currently a senior majoring in Molecular and Cell Biology with a "
-    #            "concentration in Immunology and minoring in Public Policy. This is my third year in ULAB and I'm "
-    #            "excited to continue being a part of such a great community!"
-    # },
     "Tiffany Yeh": {
         "title": "Fall Mentor Coordinator & Spring Editor in Chief",
         "email": "tiffanyyeh3625@berkeley.edu",
@@ -1167,17 +1056,6 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "personal": "",
         "img": "img/staff/bio/Serena_Chi.jpg",
     },
-    "Nancy Nguyen": {
-        "title": "Mentor Coordinator & Editor-in-Chief",
-        "email": "nantnguyen@berkeley.edu",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "img/staff/bio/nancy-nguyen-2.jpg",
-        "bio": "Hi all! My name is Nancy and I am currently a senior studying Integrative biology and public policy. "
-               "This is my second year with ULAB and am excited for this upcoming year with the organization."
-    },
     "Saahit Mogan": {
         "title": "Research Director",
         "email": "smogan@berkeley.edu",
@@ -1187,7 +1065,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "personal": "",
         "img": "",
     },
-        "Brianna Peck": {
+    "Brianna Peck": {
         "title": "Curriculum Chair",
         "email": "bpeck114@berkeley.edu",
         "linkedin": "",
@@ -1196,7 +1074,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "personal": "",
         "img": "",
     },
-        "Caitlin Begbie": {
+    "Caitlin Begbie": {
         "title": "Curriculum Lecturer",
         "email": "caitlinbegbie@berkeley.edu",
         "linkedin": "",
@@ -1214,17 +1092,6 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "personal": "",
         "img": "",
     },
-    # "Nancy Nguyen": {
-    #     "title": "Mentor Coordinator & Editor-in-Chief",
-    #     "email": "nantnguyen@berkeley.edu",
-    #     "linkedin": "",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "img": "img/staff/bio/nancy-nguyen-2.jpg",
-    #     "bio": "Hi all! My name is Nancy and I am currently a senior studying Integrative biology and public policy. "
-    #            "This is my second year with ULAB and am excited for this upcoming year with the organization."
-    # },
     "Tanay Bhadra": {
         "title": "Curriculum Chair",
         "email": "tanaymbhadra@berkeley.edu",
@@ -1234,7 +1101,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "personal": "",
         "img": "",
     },
-     "Jordan Duan": {
+    "Jordan Duan": {
         "title": "Research Director - Operations",
         "email": "jordanduan@berkeley.edu",
         "linkedin": "https://www.linkedin.com/in/jordan-duan/",
@@ -1244,108 +1111,32 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "img": "img/staff/jordan_duan.jpg",
 
     },
-    # "Maya Singh": {
-    #     "title": "Social Chair",
-    #     "email": "",
-    #     "linkedin": "",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "img": "img/staff/bio/maya-singh.jpg",
-    #     "bio": "My name is Maya and I am a third year majoring in Molecular and Cellular Biology with an emphasis "
-    #            "in immunology and pathogenesis. I joined ULAB in hopes of creating more opportunities to become "
-    #            "involved in research in the Public Health and general Health sector. In my free time, "
-    #            "I enjoy spending time with my family and friends, trying new foods, classical Indian dancing, "
-    #            "and traveling to new places."
-    # },
-    # "Aidan Lee": {
-    #     "title": "Mentor Coordinator & Chapter Editor",
-    #     "email": "",
-    #     "linkedin": "",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "img": "img/staff/bio/aidan-lee.jpg",
-    #     "bio": "I'm Aidan Lee, a third-year studying Public Health and Data Science. Excited to help our members best "
-    #            "achieve their research endeavors!"
-    # },
     "Aarti Anand": {
-        "title": "Lab Manager",
-        "email": "",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "img/staff/bio/aarti-anand.jpg",
-        "bio": "My name is Aarti Anand and I am a junior studying Molecular and Cell Biology and Data Science. I "
-               "joined ULAB to develop my own research ideas as well as learn from the perspectives of other "
-               "researchers around me. In my free time, I enjoy playing tennis, learning languages and playing the "
-               "piano and violin!"
-    },
-    "Christopher Lee": {
-        "title": "Lab Manager",
-        "email": "",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "img/staff/bio/christopher-lee.jpg",
-        "bio": "I'm Christopher Lee and I am a third-year studying Neuroscience and Data Science. I joined ULAB "
-               "freshman year as a research mentor and now I'm excited to hopefully engage more students with a "
-               "better understanding of research, especially on the statistical and computational tools and topics. "
-               "Outside of Berkeley, I run club TF/XC and am a huge insufferable nerd about culinary science, "
-               "oenology, and jazz theory."
-    },
-    "Katherine Kan": {
         "title": "Research Director",
         "email": "",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/bio/katherine-kan.jpg",
-        "bio": "Hello! My name is Katherine, and I am a senior double-majoring in Integrative Biology and Psychology. "
-               "I joined ULAB to gain hands-on experience with academic writing and literature reviews, "
-               "and my primary academic interests are in reproductive health and cardiology. I also enjoy playing "
-               "pickleball, running, and baking!"
+        "img": "img/staff/bio/aarti-anand.jpg",
+        "bio": "Hi! My name is Aarti Anand and I am a senior studying Molecular and Cell Biology and Data Science. I "
+               "joined ULAB to develop my own research ideas as well as learn from the perspectives of other "
+               "researchers around me. In my free time, I enjoy playing tennis, learning languages and playing the "
+               "piano and violin!"
     },
-    # "Easha Narayanan": {
-    #     "title": "Operations and Outreach Director",
-    #     "email": "",
-    #     "linkedin": "",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "img": "img/staff/bio/easha-narayanan.jpg",
-    #     "bio": "Hello! My name is Easha and I'm a second year intending on majoring in Public Health. I joined ULAB "
-    #            "as a research mentor last year and loved collaborating with my peers to research health policy. I am "
-    #            "so excited to help others learn about the research process!"
-    # },
-    # "Yuna Lee": {
-    #     "title": "Mentor Coordinator & Editor-in-Chief",
-    #     "email": "",
-    #     "linkedin": "",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "img": "img/staff/bio/yuna-lee.png",
-    #     "bio": "Hi! My name is Yuna, and I'm rising senior, majoring in Molecular & Cell Biology (Cell Biology, "
-    #            "Development & Physiology) and Psychology. I also work as an Undergraduate Researcher at Gopnik Lab, "
-    #            "studying child development. I was a team mentor last year at ULAB PHHS, and this is my second year at "
-    #            "ULAB as a board member. I love traveling, reading, and hanging out with my fuzzy friends!"
-    # },
-    # "Lianna Soriano": {
-    #     "title": "Social Chair",
-    #     "email": "",
-    #     "linkedin": "",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "img": "img/staff/bio/lianna-soriano.jpg",
-    #     "bio": "Hihi!!! My name is Lianna and I am a 3rd year studying Molecular and Cell Biology and Psychology. "
-    #            "This is my first year on ULAB board and my second year being a mentee. I am excited for the research I "
-    #            "will be doing this year and I hope to make ULAB very fun for everyone!"
-    # },
+    "Christopher Lee": {
+        "title": "Research Director",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "img/staff/bio/christopher-lee.jpg",
+        "bio": "Hey everyone! I am a fourth-year studying Neuroscience and Data Science. I joined ULAB "
+               "freshman year as a research mentor and now as Research Director, I'm excited to inspire more students "
+               "about research. Outside of school, I run club TF/XC and am a huge insufferable nerd about culinary "
+               "science and jazz theory."
+    },
     "Vivian Lee": {
         "title": "Mentor Coordinator",
         "email": "",
@@ -1354,73 +1145,34 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "github": "",
         "personal": "",
         "img": "img/staff/bio/vivian-lee.png",
-        "bio": "Hi! My name is Vivian, and I'm a 2nd year MCB/Public Health major. I'm really enthusiastic about "
-               "novel health-related research and writing, so I'm super excited to be a part of the ULAB team this "
-               "year!"
-    },
-    "Tara Rahai": {
-        "title": "Head Mentor Coordinator",
-        "email": "",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "img/staff/bio/tara-rahai.png",
-        "bio": "My name is Tara Rahai, and I'm a fourth-year student majoring in Molecular Cell Biology and "
-               "Sociology. Joining ULAB in my second year was instrumental in introducing me to the field of research "
-               "and providing access to various lab and research opportunities at UC Berkeley. In my free time, "
-               "I enjoy playing tennis, hiking, camping, and spending time with family and friends!"
+        "bio": "Hi! My name is Vivian, and I’m a third-year MCB major. I’m enthusiastic about novel health-related "
+               "research and writing, so I’m super excited to be a part of the ULAB team this year!"
     },
     "Heer Nanda": {
-        "title": "Mentor Coordinator",
+        "title": "Lab Manager",
         "email": "",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
         "img": "img/staff/bio/heer-nanda.png",
-        "bio": "Hi! My name is Heer Nanda, and I'm a junior studying Molecular and Cell Biology and Business "
-               "Administration (LSBE). Beyond academics, I love to dance, garden, and travel with my friends. I "
-               "joined ULAB my sophomore year as a mentor and am super excited to be able to get more involved with "
-               "ULAB this year!"
-    },
-    "Arushi Neravetla": {
-        "title": "Operations & Outreach Director",
-        "email": "",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "img/staff/bio/arushi-neravetla.jpg",
-        "bio": "Hi everyone! My name is Arushi Neravetla and I'm studying Molecular & Cellular Biology with plans to "
-               "minor in Data Science. I joined ULAB to foster an environment that emphasizes visionary scientific "
-               "research and to share these opportunities with the broader public. Beyond the scope of research, "
-               "my free time is mainly devoted to poetry, music, traveling, and spending time with my family!"
-    },
-    "Nandika Nambiar": {
-        "title": "Mentor Coordinator",
-        "email": "",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "img/staff/bio/nandika-nambiar.jpg",
-        "bio": "Hi! My name is Nandika Nambiar and I'm a 2nd year MCB major. I'm very excited about targeted "
-               "therapeutics research, and I'm very excited to be joining the ULab board this fall! In my free time, "
-               "I love to climb and listen to music!"
+        "bio": "Hi! My name is Heer, and I’m a senior studying Molecular and Cell Biology and Business Administration "
+               "(LSBE). Beyond academics, I love to dance, garden, and travel with my friends. I joined ULAB my "
+               "sophomore year as a mentor and have been on board ever since. I love the community here at ULAB and "
+               "am super excited for a successful year ahead!"
     },
     "Ariana Chavez": {
-        "title": "Mentor Coordinator",
+        "title": "Head Mentor Coordinator",
         "email": "",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
         "img": "img/staff/bio/ariana-chavez.png",
-        "bio": "Hello everyone! My name is Ariana Chavez, and I'm a junior majoring in Conservation and Resource "
-               "Studies. My focus is on ocean afforestation and conservation, specifically targeting CO2 levels. I'm "
-               "a big music enthusiast and love hiking in my spare time. I'm incredibly excited to join the ULAB "
-               "board this year and can't wait to dive into all the amazing work ahead!"
+        "bio": "Hi my name is Ariana Chavez! I am going into my 4th year, my major is Conservation and Resource "
+               "Studies, my concentration is in Terrestial Marine Microbial Ecology and Disease Dynamics. I joined "
+               "ULAB to enchance my research and leadership skills, being part of this organization has been very "
+               "rewarding!  In my spare time I love to go on hikes and listen to music!"
     },
     "Jeffrey Chen": {
         "title": "Operations and Outreach Director",
@@ -1430,110 +1182,105 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "github": "",
         "personal": "",
         "img": "img/staff/bio/jeffrey-chen.png",
-        "bio": "Hey! My name is Jeffrey Chen and I am a third-year studying Molecular and Cell Biology with a minor "
-               "in Data Science and CalTeach. I joined ULAB sophomore year as a research mentee to gain experience in "
-               "academic research and developing a research topic. I am really interested in discovering new "
-               "therapeutic methods to target specific diseases. Outside of school, I enjoy playing volleyball, "
-               "traveling, exploring the food scene, and learning more about cars."
-    },
-    "Amber Mach": {
-        "title": "Social Chair",
-        "email": "",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "img/staff/bio/amber-mach.jpg",
-        "bio": "Hi my name is Amber Mach and I am a fourth year studying Molecular Cell Biology. Some of my hobbies "
-               "include digital art and cooking, as well as learning new languages. After my experience as a mentee "
-               "looking into neurodegenerative diseases at ULAB, I have been continuing neuroscience research outside "
-               "of school. I am so excited to be working with you this year!"
-    },
-    "Jaszmyn Paiste Ponder": {
-        "title": "CS Director",
-        "email": "",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "img/staff/bio/jaszmyn-ponder.jpg",
-        "bio": "Hi my name is Jaszmyn Paiste Ponder and I am a recent graduate from the Public Health program Class "
-               "of 2024. My hobbies include sports/exercise (basketball, volleybal, tennis, and walking my dog), "
-               "watching movies, painting, and listening to music. I joined ULAB as a mentee in my junior year (2023) "
-               "and had a great experience getting my feet wet in academic research. My goal is to become an "
-               "epidemiologist in the future where I plan on researching health equity in healthcare and public "
-               "health, infectious disease surveillance and outbreak, and public health intervention effectiveness. I "
-               "am excited to share some insight and engage with students' ideas and research journeys!"
+        "bio": "Hi everyone, my name is Jeffrey and I am a fourth year majoring in MCB. I joined ULAB during my "
+               "sophomore year as a mentee, where I explored the field of natural medicine. Through ULAB, "
+               "I have found my lab position so I am super excited to help others find opportunities and passion for "
+               "research. Outside of school, I enjoy playing volleyball, being outdoors, and trying new restaurants."
     },
     "Zarin Mahmud": {
-        "title": "Finance and Administration Director",
-        "email": "",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "img/staff/bio/zarin-mahmud.jpg",
-        "bio": "Hey everyone! My name is Zarin and I'm a 2nd year double majoring in MCB and Neuroscience. I love "
-               "spending time with friends and writing blog posts in my free time :) I've also always been interested "
-               "in public health research and the healthcare disparity-related barriers it can expose and break - "
-               "this is exactly why I joined ULab PHHS and I'm super excited to be serving on the board this year!"
-    },
-    "Tejas Raxwal": {
         "title": "Mentor Coordinator",
         "email": "",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/bio/tejas-raxwal.jpg",
-        "bio": "Hey, my name is Tejas Raxwal. I'm a 2nd year MCB major and I am excited to be part of the ULAB team "
-               "this year! I joined ULAB to sharpen my academic writing and research skills, especially in the "
-               "medical field, where my main interests lie in surgery and cardiology. Outside of academics, "
-               "I love watching TV, hitting the gym, spending all my money on Taco Bell, and listening to all kinds "
-               "of music. I am excited to work with all of you this year!"
+        "img": "img/staff/bio/zarin-mahmud.jpg",
+        "bio": "Hey! I’m Zarin, a third-year studying Neuroscience and Clinical Psychology. I first joined ULAB as a "
+               "mentee my freshman year, and it’s been a very rewarding part of my Berkeley experience ever since. "
+               "I’m particularly interested in making research more accessible. In my free time, I love exploring all "
+               "kinds of music, experimenting with emerging fashion, and discovering new places and food. This year, "
+               "I’m excited to help others find the same sense of growth and community that has made ULAB so "
+               "meaningful to me!"
     },
-    "Sophia Bucker": {
-        "title": "",
-        "founder_title": "",
-        "email": "",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "",
-        "bio": ""
-    },
-    "Olivia Wagner": {
-        "title": "",
-        "founder_title": "",
-        "email": "",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "",
-        "bio": ""
-    },
-    "Michelle Duan": {
+    "Tejas Raxwal": {
         "title": "Lab Manager",
-        "founder_title": "",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "img/staff/bio/tejas-raxwal.jpg",
+        "bio": "Hi! My name is Tejas, and I’m a third-year studying Molecular and Cell Biology. I’m especially "
+               "interested in cardiology, but I also enjoy diving into new areas of biology whenever I can. Outside "
+               "of the lab, you’ll usually find me working out, camped out in Doe with matcha (I'm not performative, "
+               "I swear it just tastes good), or heading to San Francisco to make the most of the nightlife. I’m "
+               "always down for spontaneous trips, trying new food spots, or random conversations that last way too "
+               "long."
+    },
+    "Seo Jin (Ella) Choi": {
+        "title": "Finance & Administration Director",
         "email": "",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
         "img": "",
-        "bio": ""
+        "bio": "Hi, I go by Ella Choi. I am a senior studying Psychology on the Pre-Med Path. I joined ULAB sophomore "
+               "and junior year as my mentee in the Health Sciences division and had the opportunity to research "
+               "social connectedness among undergraduates. I'm excited to continue exploring research that intersects "
+               "mental health, technology, and equity. Outside of Berkeley, I volunteer at St. Jude Medical Center, "
+               "tutor high school students, and enjoy listening to music."
     },
-    "Andrew Wang": {
+    "Antara Majumder": {
+        "title": "Mentor Coordinator",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+        "bio": "Hi! My name is Antara, and I’m a second year studying MCB. Outside of school I enjoy traveling, "
+               "eating, and just spending time with my friends and family. I joined ULAB as a mentee last year to "
+               "gain more experience with academic research, and am super excited to be more involved this year!"
+    },
+    "Yihan Xia": {
+        "title": "Computer Science Director",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+        "bio": "Hello everyone! I’m Yihan, a junior majoring in Molecular & Cell Biology and Data Science. I joined "
+               "ULAB during my second year as a mentor, which became one of my most memorable experiences at "
+               "Berkeley, so I decided to continue making research more accessible by providing more "
+               "bioinformatics-related resources. Outside of school, I enjoy music, cooking, and origami!"
+    },
+    "Fakhrunnesa (Nessa) Samim": {
+        "title": "Mentor Coordinator",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+        "bio": "Hello! My name is Fakhrunnesa (go by Nessa). I am a fourth year student studying Molecular and "
+               "Cellular Biology. I joined ULAB as a mentor because I wanted to work towards making research and "
+               "education more accessible and easier to grasp for first generation students! I love to visit new "
+               "places and travel outside of academia!"
+    },
+    "Kaitlyn Gilbride": {
         "title": "Social Chair",
-        "founder_title": "",
         "email": "",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
         "img": "",
-        "bio": ""
-    },
+        "bio": "Hi, my name is Kaitlyn Gilbride and I’m a junior studying Integrated Human Biology at UC Berkeley. I "
+               "serve as the Social Chair for ULAB and as President of Bowles Hall. Outside of class, I’m a certified "
+               "medical assistant and EMT, conduct research through URAP with the Rapid Reviews Infectious Diseases "
+               "journal, and volunteer at the Tang Center. I’m passionate about healthcare, advancing research, "
+               "and fostering strong communities on campus."
+    }
 }

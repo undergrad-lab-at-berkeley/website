@@ -348,9 +348,9 @@ labs = {
         "full_name": u"Health Sciences",
         "navbar": u"Health Sciences",
         "status": "Active",
-        "members": ["Albert Wu", "Katherine Kan", "Aarti Anand", "Christopher Lee", "Tara Rahai", "Arushi Neravetla",
-                    "Jeffrey Chen", "Zarin Mahmud", "Jaszmyn Paiste Ponder", "Amber Mach", "Ariana Chavez",
-                    "Heer Nanda", "Nandika Nambiar", "Tejas Raxwal", "Vivian Lee"],
+        "members": ["Aarti Anand", "Christopher Lee", "Heer Nanda", "Tejas Raxwal", "Ariana Chavez", "Antara Majumder",
+                    "Fakhrunnesa (Nessa) Samim", "Vivian Lee", "Zarin Mahmud", "Jeffrey Chen",
+                    "Kaitlyn Gilbride", "Yihan Xia", "Seo Jin (Ella) Choi"],
         "content": {
             "overview": {
                 "title": "Lab Overview Coming Soon!",
@@ -358,11 +358,11 @@ labs = {
             },
             "join": {
                 "title": "Want to join us?",
-                "text": u"""Applications are now open for Fall 2024 to Spring 2025 academic year! <br/>
-                Apply as a <strong>mentee <a href="https://forms.gle/sKBBkokMMFHR4i8AA" target="_blank">here</a></strong> 
-                by <strong>September 16th, 11:59pm</strong> <br/>
-                Apply as a <strong>mentor <a href="https://forms.gle/DJCeZnhWJuVuXgT79" target="_blank">here</a></strong> 
-                by <strong>September 30th, 11:59pm</strong> <br/>"""
+                "text": u"""Applications are now open for Fall 2025 to Spring 2026 academic year! <br/>
+                New to research? Apply as a <strong>mentee <a href="https://bit.ly/ulab-phhs-25-26-mentee-apps" target="_blank">here</a></strong> 
+                by <strong>September 25th, 2025 at 11:59pm</strong> <br/>
+                Ready to lead a research team? Apply as a <strong>mentor <a href="https://bit.ly/ulab-phhs-25-26-mentor-apps" target="_blank">here</a></strong> 
+                by <strong>September 25th, 2025 at 11:59pm</strong> <br/>"""
             },
             "calendar": {
                 "title": "",
