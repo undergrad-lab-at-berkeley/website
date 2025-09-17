@@ -1194,7 +1194,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/bio/zarin-mahmud.jpg",
+        "img": "",
         "bio": "Hey! I’m Zarin, a third-year studying Neuroscience and Clinical Psychology. I first joined ULAB as a "
                "mentee my freshman year, and it’s been a very rewarding part of my Berkeley experience ever since. "
                "I’m particularly interested in making research more accessible. In my free time, I love exploring all "
@@ -1209,7 +1209,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/bio/tejas-raxwal.jpg",
+        "img": "",
         "bio": "Hi! My name is Tejas, and I’m a third-year studying Molecular and Cell Biology. I’m especially "
                "interested in cardiology, but I also enjoy diving into new areas of biology whenever I can. Outside "
                "of the lab, you’ll usually find me working out, camped out in Doe with matcha (I'm not performative, "
