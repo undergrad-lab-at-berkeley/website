@@ -1,7 +1,3 @@
-import sys
-reload(sys)
-sys.setdefaultencoding('utf8')
-
 import os
 from flask import Flask, render_template, url_for, redirect, request
 from flask import abort
