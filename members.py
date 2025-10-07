@@ -1168,7 +1168,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "img/staff/bio/ariana-chavez.png",
+        "img": "img/staff/bio/ariana-chavez.jpg",
         "bio": "Hi my name is Ariana Chavez! I am going into my 4th year, my major is Conservation and Resource "
                "Studies, my concentration is in Terrestial Marine Microbial Ecology and Disease Dynamics. I joined "
                "ULAB to enchance my research and leadership skills, being part of this organization has been very "
@@ -1194,7 +1194,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/zarin-mahmud.png",
         "bio": "Hey! I’m Zarin, a third-year studying Neuroscience and Clinical Psychology. I first joined ULAB as a "
                "mentee my freshman year, and it’s been a very rewarding part of my Berkeley experience ever since. "
                "I’m particularly interested in making research more accessible. In my free time, I love exploring all "
@@ -1209,7 +1209,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/tejas-raxwal.jpg",
         "bio": "Hi! My name is Tejas, and I’m a third-year studying Molecular and Cell Biology. I’m especially "
                "interested in cardiology, but I also enjoy diving into new areas of biology whenever I can. Outside "
                "of the lab, you’ll usually find me working out, camped out in Doe with matcha (I'm not performative, "
@@ -1224,7 +1224,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/ella-choi.png",
         "bio": "Hi, I go by Ella Choi. I am a senior studying Psychology on the Pre-Med Path. I joined ULAB sophomore "
                "and junior year as my mentee in the Health Sciences division and had the opportunity to research "
                "social connectedness among undergraduates. I'm excited to continue exploring research that intersects "
@@ -1238,7 +1238,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/antara-majumder.jpg",
         "bio": "Hi! My name is Antara, and I’m a second year studying MCB. Outside of school I enjoy traveling, "
                "eating, and just spending time with my friends and family. I joined ULAB as a mentee last year to "
                "gain more experience with academic research, and am super excited to be more involved this year!"
@@ -1250,7 +1250,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/yihan-xia.png",
         "bio": "Hello everyone! I’m Yihan, a junior majoring in Molecular & Cell Biology and Data Science. I joined "
                "ULAB during my second year as a mentor, which became one of my most memorable experiences at "
                "Berkeley, so I decided to continue making research more accessible by providing more "
@@ -1263,7 +1263,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/nessa-samim.png",
         "bio": "Hello! My name is Fakhrunnesa (go by Nessa). I am a fourth year student studying Molecular and "
                "Cellular Biology. I joined ULAB as a mentor because I wanted to work towards making research and "
                "education more accessible and easier to grasp for first generation students! I love to visit new "
@@ -1276,7 +1276,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "facebook": "",
         "github": "",
         "personal": "",
-        "img": "",
+        "img": "img/staff/bio/kaitlyn-gilbride.png",
         "bio": "Hi, my name is Kaitlyn Gilbride and I’m a junior studying Integrated Human Biology at UC Berkeley. I "
                "serve as the Social Chair for ULAB and as President of Bowles Hall. Outside of class, I’m a certified "
                "medical assistant and EMT, conduct research through URAP with the Rapid Reviews Infectious Diseases "

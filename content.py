@@ -358,11 +358,11 @@ labs = {
             },
             "join": {
                 "title": "Want to join us?",
-                "text": u"""Applications are now open for Fall 2025 to Spring 2026 academic year! <br/>
-                New to research? Apply as a <strong>mentee <a href="https://bit.ly/ulab-phhs-25-26-mentee-apps" target="_blank">here</a></strong> 
-                by <strong>September 25th, 2025 at 11:59pm</strong> <br/>
-                Ready to lead a research team? Apply as a <strong>mentor <a href="https://bit.ly/ulab-phhs-25-26-mentor-apps" target="_blank">here</a></strong> 
-                by <strong>September 25th, 2025 at 11:59pm</strong> <br/>"""
+                "text": u"""We extended both application deadlines to <strong>October 8th, 2025 at 11:59pm on a 
+                rolling basis!</strong> Apply now before all spots are filled! <br/> New to research? Apply as a 
+                <strong>mentee <a href="https://bit.ly/ulab-phhs-25-26-mentee-apps" target="_blank">here</a></strong> 
+                <br/> Ready to lead a research team? Apply as a <strong>mentor <a 
+                href="https://bit.ly/ulab-phhs-25-26-mentor-apps" target="_blank">here</a></strong> <br/>"""
             },
             "calendar": {
                 "title": "",
