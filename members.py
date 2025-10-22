@@ -758,7 +758,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "bio": ""
     },
     "Dan Kasen": {
-        "title": "Faculty Sponser",
+        "title": "Faculty Sponsor",
         "email": "",
         "linkedin": "",
         "facebook": "",
@@ -785,16 +785,6 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "github": "",
         "personal": "",
         "img": "img/staff/rav_kaur2.jpeg",
-        "bio": ""
-    },
-    "Saahit Mogan": {
-        "title": "Research Director",
-        "email": "smogan@berkeley.edu",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "img": "",
         "bio": ""
     },
     "Andrew McHaty": {
@@ -1057,11 +1047,11 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "img": "img/staff/bio/Serena_Chi.jpg",
     },
     "Saahit Mogan": {
-        "title": "Research Director",
+        "title": "Graduate Student Advisor",
         "email": "smogan@berkeley.edu",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/saahitmog/",
         "facebook": "",
-        "github": "",
+        "github": "https://github.com/saahitmog",
         "personal": "",
         "img": "",
     },
@@ -1110,6 +1100,42 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "personal": "",
         "img": "img/staff/jordan_duan.jpg",
 
+    },
+    "Sophia Bucker": {
+        "title": "Lab Manager",
+        "email": "sbbucker@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+    },
+    "Olivia Wagner": {
+        "title": "Lab Manager",
+        "email": "oliviawagner@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+    },
+    "Michelle Duan": {
+        "title": "Lab Manager",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
+    },
+    "Andrew Wang": {
+        "title": "Social Chair",
+        "email": "",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "img": "",
     },
     "Aarti Anand": {
         "title": "Research Director",

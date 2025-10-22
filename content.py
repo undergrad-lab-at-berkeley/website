@@ -92,7 +92,7 @@ labs = {
         "full_name": u"Physics and Astronomy",
         "navbar": u"Physics",
         "status": "Active",
-        "members": [], #["Jordan Duan", 'Andrew McHaty', 'Yaamini Jois', 'Brianna Peck', 'Caitlin Begbie', 'Michelle Duan', 'Andrew Wang', 'Sophia Bucker', 'Olivia Wagner'],
+        "members": ["Jordan Duan", 'Andrew McHaty', 'Yaamini Jois', 'Brianna Peck', 'Caitlin Begbie', 'Michelle Duan', 'Andrew Wang', 'Sophia Bucker', 'Olivia Wagner'],
         "former": {
             'former_name': [
                 'Arjun Savel',
