@@ -248,6 +248,18 @@ labs = {
                 "title": "Projects",
                 "text": "<b style='font-size:150%;'> Past Projects </b>",
                 "years": {
+                    '2025-2026': {
+                        u'Analyzing Gas Structure of Galaxy-Clusters via Multipole Decomposition': '',
+                        u'Quantifying Stripping in the Hydrogen Rich Supernova SN 2023axu': '',
+                        u'Observing an Exoplanet': '',
+                        u'Bending Space, Time, and Light: Microlensing Prediction Curves with PyTorch': '',
+                        u'Distant Kuiper Belt Object (KBO) Clustering and its Relationship to the Ninth Planet Hypothesis': '',
+                        u'Sulfur-bearing Molecules in MAPS Protoplanetary Disks': '',
+                        u'Listening to the Sun Daily HFR Spectrograms': '',
+                        u'Rediscovery of the Higgs Boson with Bayesian Analysis': '',
+                        u'The Birth of CHAD': '',
+                        u'Quantifying EMIC-Plume Interactions as a Dominant Loss Mechanism for Electron Decay Rate in the Radiation Belts': '',
+                    },
                     '2024-2025': {
                         u'Performance Comparison of new Keck Adaptive Optics System': '/static/doc/posters/2025-1%20(1).pdf',
                         u'CORONA: Classification of R Coronae Objects with Neural Network Automation': '/static/doc/posters/2025-1%20(2).pdf',
