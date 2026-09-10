@@ -410,7 +410,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "github": "",
         "personal": "",
         "bio": """3rd year psych major, research interests- social/personality psych, sense of self, outside of class I like reading and crafting!""",
-        "img": "img/staff/Tvisha_year3"
+        "img": "img/staff/Tvisha_year3.jpg"
     },
     "Nick Zhang": {
         "title": "Research Director Emeritus",
@@ -430,7 +430,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "github": "",
         "personal": "",
         "bio": """TBD!!""",
-        "img": "img/staff/BrianLin.jpg"
+        "img": "img/staff/BrianLin.png"
     },
     # "Tayeba Chowdhury": {
     #     "title": "Finance Manager",
@@ -450,7 +450,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "github": "",
         "personal": "",
         "bio": """TBD""",
-        "img": "Krithika.png"
+        "img": "img/staff/Kritika.png"
     },
     # "Teresa Le": {
     #     "title": "Marketing Director",
