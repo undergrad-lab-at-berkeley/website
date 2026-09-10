@@ -31,8 +31,7 @@ labs = {
         "full_name": u"Psychology and Cognitive Sciences",
         "navbar": u"Cog_Sci",
         "status": "Active",
-        "members": ["Jeremy Manwaring", "Nick Zhang", "Tvisha Joshi", "Taylan Dincer", "Eva Reineck", "Armando Lopez",
-                     "Teresa Le", "Evan Chau", "Divya Sundar", "Mark D\'Esposito"],
+        "members": ["Tvisha Joshi", "Anika Krishnan", "Alisha Paracha", "Brian Lin", "Vaidehi Chandra", "Kritika Jhamatt", "Nick Zhang", "Fei Xu"],
         "content": {
             "overview": {
                 "title": u"Lab Overview",
