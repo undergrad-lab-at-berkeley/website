@@ -450,7 +450,7 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "github": "",
         "personal": "",
         "bio": """TBD""",
-        "img": "img/staff/Krithika.png"
+        "img": "img/staff/Kritika.png"
     },
     # "Teresa Le": {
     #     "title": "Marketing Director",
