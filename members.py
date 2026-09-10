@@ -221,15 +221,15 @@ members = {
     #     "bio": """I am a fourth year majoring in psychology and cognitive science and minoring in education. I currently work as a marketing, outreach, and volunteer coordination intern at the Gender Equity Resource Center and am interested in developmental psychology and psychopathology. In my free time, I like to play animal crossing, make memes, and do arts and crafts. I hope you all will learn a lot from your time with ULAB this year, and I look forward to getting to know all of you!""",
     #     "img": "img/staff/Jimin_Oh.jpg"
     # },
-    "Mark D\'Esposito": {
+    "Fei Xu": {
         "title": "Faculty Advisor",
-        "email": "despo@berkeley.edu",
+        "email": "fei_xu@berkeley.edu",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
-        "bio": """Dr. Mark D\'Esposito is Professor of Neuroscience and Psychology and former Director of the Henry H. Wheeler, Jr. Brain Imaging Center (2000-2020) at the Helen Wills Neuroscience Institute at the University of California, Berkeley. He is also an attending neurologist at the Northern California VA Health Care System and Adjunct Professor of Neurology at UCSF. He received his MD at SUNY Syracuse and completed a Neurology residency and fellowship at Boston University. In 1993, he was appointed Assistant Professor of Neurology at the University of Pennsylvania School of Medicine where he remained until his recruitment to UC Berkeley in 2000. His lab investigates the neural mechanisms underlying working memory, cognitive control and frontal lobe function utilizing different convergent experimental approaches such as functional MRI, transcranial magnetic stimulation, pharmacological interventions and behavioral studies of healthy individuals and those with neurological disorders. Dr. D\'Esposito is the Editor-In-Chief of the Journal of Cognitive Neuroscience and has received numerous awards such as the Norman Geschwind Prize in Behavioral Neurology from American Academy of Neurology, Best Doctors in America, and election as a Fellow to the American Association for the Advancement of Science. He has trained 77 post-doctoral fellows and graduate students, 55 who went on to obtained faculty positions at Universities in the United States and around the world and 36 who have achieved tenure. He has been the Principal Investigator on numerous NIH, private foundation and VA-funded grants. He has authored over 400 research publications which have been cited over 69,000 times, as well as six books on the topics of behavioral neurology and cognitive neuroscience.""",
-        "img": "img/staff/MarkDEsposito.jpg"
+        "bio": "",
+        "img": "img/staff/FeiXu.avif"
     },
     # "Samantha Juang": {
     # 	"title": "Internal Outreach",
@@ -302,17 +302,16 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
     #     "bio": """Hi! I am a third-year intending to major in psychology. I am from the Bay Area and in my free time I like to get boba, craft, paint, and try new foods with my friends! Currently, I am involved with Delta Epsilon Mu, a pre-health fraternity and the Berkeley Medical Reserve Corps! I was a mentee last year for ULAB and I really loved how ULAB is able to bridge the disparity between students who do not have research experience and those who come to Berkeley with research experience. As the internal operations director for ULAB, I hope to bring everyone together and make your ULAB experience amazing!""",
     #     "img": "img/staff/Rachel_Pham.jpg"
     # },
-    "Tvisha Joshi": {
-        "title": "Internal Operations Director",
-        "email": "tvisha_joshi@berkeley.edu",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "bio": """Proven track record in publication, research, and R. Student passionate about academia and the nexus of psychology, philosophy, and consciousness. I love being in no other than than the classroom, and am eager to learn!
-        Outside of Class Interests: Dreams, Art, Music, Media, Literature and the profound impact they have on our lives.""",
-        "img": "img/staff/Tvisha_Joshi.jpg"
-    },
+    # "Tvisha Joshi": {
+    #     "title": "Internal Operations Director",
+    #     "email": "tvisha_joshi@berkeley.edu",
+    #     "linkedin": "",
+    #     "facebook": "",
+    #     "github": "",
+    #     "personal": "",
+    #     "bio": """""",
+    #     "img": "img/staff/Tvisha_Joshi.jpg"
+    # },
     # "Sharona Yang": {
     #     "title": "CS Director",
     #     "email": "sharonasyang@berkeley.edu",
@@ -333,16 +332,16 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
     #     "bio": """I am a third-year majoring in computer science and statistics from the Bay Area. In my free time, I like to explore SF, play volleyball, and watch comedy shows. I look forward to meeting all of you!""",
     #     "img": "img/staff/TiffanyLam.jpg"
     # },
-    "Divya Sundar": {
-        "title": "CS Director",
-        "email": "divya.sundar@berkeley.edu",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "bio": """Hi! I'm Divya, a senior majoring in computer science and cognitive science. I'm currently doing computational cognitive science research at UW's Computational Minds and Machines Lab and the Gopnik Lab. I love teaching CS and have previously been a CSM mentor and a TA for CS 61A. I also love cats, indie horror games, matcha, and Ghibli movies!""",
-        "img": "img/staff/Divya_Sundar.jpg"
-    },
+    # "Divya Sundar": {
+    #     "title": "CS Director",
+    #     "email": "divya.sundar@berkeley.edu",
+    #     "linkedin": "",
+    #     "facebook": "",
+    #     "github": "",
+    #     "personal": "",
+    #     "bio": """Hi! I'm Divya, a senior majoring in computer science and cognitive science. I'm currently doing computational cognitive science research at UW's Computational Minds and Machines Lab and the Gopnik Lab. I love teaching CS and have previously been a CSM mentor and a TA for CS 61A. I also love cats, indie horror games, matcha, and Ghibli movies!""",
+    #     "img": "img/staff/Divya_Sundar.jpg"
+    # },
     # "Namrata Vedagarbha": {
     #     "title": "Mentor Coordinator/ Editor-in-Chief",
     #     "email": "namrxta.v@berkeley.edu",
@@ -363,15 +362,15 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
     #     "bio": """I am a second year majoring in psychology and minoring in clinical psychology. I currently work as a research assistant at Stanford Life-Span Development Lab & Golden Bear Sleep and Mood Research Clinic, and I was a mentee in ULAB last year. In my free time, I like to play the piano and watch netflix. I hope to make ULAB a great experience for everyone this year, and I look forward to meeting all of you!""",
     #     "img": "img/staff/MarinaZhao.png"
     # },
-    "Armando Lopez": {
+    "Alisha Paracha": {
         "title": "Mentor Coordinator",
-        "email": "mando.lop_@berkeley.edu",
+        "email": "alishatparacha@berkeley.edu",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
-        "bio": """HI! My name is Armando Lopez, and I am a Third Year Nutritional and Metabolic Biology major on the Pre-Optometry track. On campus, I am involved in Sigma Mu Delta a pre-health fraternity, Volunteers for Medical Outreach (VMO) and ACEing Autism.  I am from the Bay Area and in my free time I enjoy photography, music and cooking!""",
-        "img": "img/staff/Armando_Lopez.png"
+        "bio": """I'm a senior at UC Berkeley pursuing a degree in Psychology with an inclination towards clinical and behavioural psychology. My main academic and research interests focus on OCD, anxiety, adolescent mental health, and ambition and motivation. I love collaborating with others and using my communication skills to build meaningful connections within the lab and the broader academic community. Alongside research, I am very passionate about peer mentorship, and I really enjoy supporting fellow students through their academic journeys by sharing the insights and lessons I've learned along the way. After graduating, I plan to pursue a Ph.D. in Clinical Psychology to build a career as both a researcher and clinician!""",
+        "img": "img/staff/Alisha_Paracha.JPEG"
     },
     # "Megan Cervera": {
     #     "title": "Mentor Coordinator/ Editor-in-Chief",
@@ -383,38 +382,38 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
     #     "bio": """I am a fourth year psychology major and was previously a ULAB mentor! I am currently a research assistant at the Golden Bear Sleep and Mood Research Clinic and work as a student assistant at the UC Berkeley Psychology Clinic. My research related interests involve investigating the etiology of conditions like Bipolar Disorder and ADHD through an integrative neurobiological and psychosocial approach. In my free time, I enjoy reading literature, creating Notion templates, playing animal crossing, drawing, and spending my time with friends. I hope that ULAB will be a great experience for everyone and I am looking forward to connecting with you all!""",
     #     "img": "img/staff/MeganCervera.png"
     # },
-    "Eva Reineck": {
-        "title": "Mentor Coordinator",
-        "email": "ereineck@berkeley.edu",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "bio": """I am a third year French and Neuroscience major with a minor in Education. I am currently finishing a research project regarding narrative-based medicine through the Mayo Clinic Center for Humanities in Medicine. In my free time, I enjoy running and spending time with my cats. I also volunteer as an EMT Field Training Officer for the Berkeley Medical Reserve Corps, as well as a French tutor for the UCB French department. I was a ULAB mentee two years ago and am very excited to be a part of the board this year. I look forward to meeting everyone!""",
-        "img": "img/staff/Eva_Reineck.jpg"
-    },
-    # "Nimangie Weerakoon": {
-    #     "title": "Research Director",
-    #     "email": "nimangie0101@berkeley.edu",
+    # "Eva Reineck": {
+    #     "title": "Mentor Coordinator",
+    #     "email": "ereineck@berkeley.edu",
     #     "linkedin": "",
     #     "facebook": "",
     #     "github": "",
     #     "personal": "",
-    #     "bio": """I am a junior majoring in molecular and cellular biology and intend to choose the immunology- infectious disease track. I am from LA and although the sunny weather can be nice, I really enjoy the weather upstate and the greenery. In my spare time, I enjoy baking, gardening, and spending time with my dog. I love learning about the various subfields within psychology, which is why I chose this ULAB department. I mentored for ULAB last year and enjoyed the program, so I hope, as your co-mentor coordinator, I can help make the experience just as enjoyable for everyone in ULAB this year!""",
-    #     "img": "img/staff/Nimangie_Weerakoon.jpg"
+    #     "bio": """I am a third year French and Neuroscience major with a minor in Education. I am currently finishing a research project regarding narrative-based medicine through the Mayo Clinic Center for Humanities in Medicine. In my free time, I enjoy running and spending time with my cats. I also volunteer as an EMT Field Training Officer for the Berkeley Medical Reserve Corps, as well as a French tutor for the UCB French department. I was a ULAB mentee two years ago and am very excited to be a part of the board this year. I look forward to meeting everyone!""",
+    #     "img": "img/staff/Eva_Reineck.jpg"
     # },
-    "Jeremy Manwaring": {
-        "title": "Research Director",
-        "email": "jmanwaring@berkeley.edu",
+    "Anika Krishnan": {
+        "title": "Lab Manager",
+        "email": "anika_krishnan@berkeley.edu",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
-        "bio": """Jeremy is a third year Psychology, Cognitive Science, and Neuroscience major. He loves fashion, music, and nightlife; and will always say yes to a fun night out! Interested in consciousness research and neurotechnology, he loves sharing knowledge and learning from people around him and the world! Something he strives to carve in ULAB, helping other students find their passions and ways they can explore science in a way thats accessible, and fun.""",
-        "img": "img/staff/Jeremy_Manwaring.jpg"
+        "bio": """I am a third year majoring in Computer Science and Psychology. I'm interested in how children perceive the world around them and how they grow to interpret caregivers in their lives. I am also interested in finding answers to developmental psychology questions using Computational methods. I plan to go to graduate school to pursue a Clinical Child Psychology Degree. In my free time, I like to play volleyball, weight-lift, and read. """,
+        "img": "img/staff/AnikaKrishnan.jpg"
+    },
+    "Tvisha Joshi": {
+        "title": "Research Director",
+        "email": "tvisha_joshi@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "bio": """3rd year psych major, research interests- social/personality psych, sense of self, outside of class I like reading and crafting!""",
+        "img": "img/staff/Tvisha_year3"
     },
     "Nick Zhang": {
-        "title": "Research Director",
+        "title": "Research Director Emeritus",
         "email": "zyunqi@berkeley.edu",
         "linkedin": "",
         "facebook": "",
@@ -423,16 +422,16 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
         "bio": """Hi! I am a senior majoring in cognitive science and philosophy. I am also a researcher assistant at Berkeley Early Learning Lab, studying numerical cognition through neuroimaging techniques. I started in ULAB as a mentor and continued as the lab manager the following year. As the current research director, I hope to foster a great research community here at ULAB!""",
         "img": "img/staff/Nick_Zhang.jpg"
     },
-    # "Huda Jawad": {
-    #     "title": "Finance Manager",
-    #     "email": "hudajawad3697@berkeley.edu",
-    #     "linkedin": "",
-    #     "facebook": "",
-    #     "github": "",
-    #     "personal": "",
-    #     "bio": """Hi! I am Huda and I am a fourth year majoring in psychology. I am involved in child development research at the Social Origins Lab here on campus. I was born and raised in the Bay Area so this is home to me. I love cooking and baking whenever I have the time and enjoy traveling to explore new places. This is my first time being involved in ULAB and I am very excited to meet you all and have a great year.""",
-    #     "img": "img/staff/Huda_Jawad.jpg"
-    # },
+    "Brian Lin": {
+        "title": "Internal Director of Operations",
+        "email": "brian-lin@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "bio": """TBD!!""",
+        "img": "img/staff/BrianLin.jpg"
+    },
     # "Tayeba Chowdhury": {
     #     "title": "Finance Manager",
     #     "email": "tayeba.ch@berkeley.edu",
@@ -443,36 +442,36 @@ Outside of academics, I'm really into the NBA (please don't get me started. If y
     #     "bio": """Hi! I am Huda and I am a fourth year majoring in psychology. I am involved in child development research at the Social Origins Lab here on campus. I was born and raised in the Bay Area so this is home to me. I love cooking and baking whenever I have the time and enjoy traveling to explore new places. This is my first time being involved in ULAB and I am very excited to meet you all and have a great year.""",
     #     "img": "img/staff/Tayeba_Chowdhury.jpg"
     # },
-    "Evan Chau": {
+    "Kritika Jhamatt": {
         "title": "Finance Manager",
-        "email": "evchau@berkeley.edu",
+        "email": "jhamatt_kritika@berkeley.edu",
         "linkedin": "",
         "facebook": "",
         "github": "",
         "personal": "",
         "bio": """TBD""",
-        "img": "img/staff/Evan_Chau.png"
+        "img": "Krithika.png"
     },
-    "Teresa Le": {
-        "title": "Marketing Director",
-        "email": "teresa.tle@berkeley.edu",
-        "linkedin": "",
-        "facebook": "",
-        "github": "",
-        "personal": "",
-        "bio": """Hi! My name is Teresa and I am a third year studying Cognitive Science with a minor in Data Science. I previously did Computational Neuroscience research at the Redwood Theoretical Neuroscience Research Center and my interests are within Cognition, Psychology, and Neuroscience! Outside of academics, I enjoy working out, traveling, reading books, and spending time with my loved ones. This is my first time being involved in ULAB and I am super excited for this upcoming year!""",
-        "img": "img/staff/Teresa_Le.png"
-    },
-    # "Josephine Widjaja": {
-    #     "title": "Editor-in-Chief",
-    #     "email": "josephine.widjaja@berkeley.edu",
+    # "Teresa Le": {
+    #     "title": "Marketing Director",
+    #     "email": "teresa.tle@berkeley.edu",
     #     "linkedin": "",
     #     "facebook": "",
     #     "github": "",
     #     "personal": "",
-    #     "bio": """Josephine is a second-year chemical biology major. She is interested in research in the application of chemistry in a biological aspect. She joined ULAB as a mentee in Fall 2018 and is excited to start publishing ULAB work this spring!""",
-    #     "img": "img/staff/josephinewidjaja.jpg"
+    #     "bio": """Hi! My name is Teresa and I am a third year studying Cognitive Science with a minor in Data Science. I previously did Computational Neuroscience research at the Redwood Theoretical Neuroscience Research Center and my interests are within Cognition, Psychology, and Neuroscience! Outside of academics, I enjoy working out, traveling, reading books, and spending time with my loved ones. This is my first time being involved in ULAB and I am super excited for this upcoming year!""",
+    #     "img": "img/staff/Teresa_Le.png"
     # },
+    "Vaidehi Chandra": {
+        "title": "External Operations Director",
+        "email": "vaidehi_chandra@berkeley.edu",
+        "linkedin": "",
+        "facebook": "",
+        "github": "",
+        "personal": "",
+        "bio": """Vaidehi is a Psychology major at UC Berkeley with an interest in how people think, learn, and interact with the world around them. Outside of ULAB, she enjoys dancing, singing, and finding good coffee spots!""",
+        "img": "img/staff/Vaidehi.jpeg"
+    },
     # "Samadi Karunasundera": {
     #     "title": "Finance Director",
     #     "email": "",
