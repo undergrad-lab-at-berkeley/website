@@ -54,7 +54,7 @@ labs = {
             "sponsor": {
                 "title": u"Want to join us?",
                 "text": u"""
-                        <b>Applications for 2026-2027 can be found at the following hyperlinks: <a href="https://docs.google.com/forms/d/e/1FAIpQLScVG1fLwk0kZX_Jjiz8vFI2J_uv4w37vA2uQRT-XG6DbOYkxw/viewform">Mentor App</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLScmf0ORwb9kwDQwxB5V92AxnwB2yJvsqvqlGfK5oXkxfZokUA/viewform">Mentee App</a>.</b> Deadlines and details are provided on the applications. For periodic updates, sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a><br/>  <br/>                      
+                        <b>Applications for 2026-2027 can be found at the following hyperlinks: <a href="https://docs.google.com/forms/d/e/1FAIpQLScVG1fLwk0kZX_Jjiz8vFI2J_uv4w37vA2uQRT-XG6DbOYkxw/viewform">Mentor App</a>, <a href="https://forms.gle/bvD8wCr3deqkmvu57">Mentee App</a>.</b> Deadlines and details are provided on the applications. For periodic updates, sign up for our newsletter <a href='http://eepurl.com/gyuGd5'>here</a><br/>  <br/>                      
                         """
                 # Applications for mentors and mentees for the 2021-2022 year are closed!
                 # However, feel free to reach out to us by <a href = "mailto: cogsci@ulab.berkeley.edu">emailing us </a> or be added to our newsletter by filling out <a href="http://eepurl.com/gyuGd5">this form</a>.
