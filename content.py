@@ -359,9 +359,8 @@ labs = {
         "full_name": u"Health Sciences",
         "navbar": u"Health Sciences",
         "status": "Active",
-        "members": ["Aarti Anand", "Christopher Lee", "Heer Nanda", "Tejas Raxwal", "Ariana Chavez", "Antara Majumder",
-                    "Fakhrunnesa (Nessa) Samim", "Vivian Lee", "Zarin Mahmud", "Jeffrey Chen",
-                    "Kaitlyn Gilbride", "Yihan Xia", "Seo Jin (Ella) Choi"],
+        "members": ["Antara Majumder", "Yihan Xia", "Fantasy Wang", "Neha Narayanam", "Amy Wu", "Piyusha Kaur", 
+                    "Rachel Cho", "Charlotte Tsang", "Evan Ho", "Elissa Zhu"],
         "content": {
             "overview": {
                 "title": "Lab Overview Coming Soon!",
@@ -369,8 +368,15 @@ labs = {
             },
             "join": {
                 "title": "Want to join us?",
-                "text": u"""Applications for Fall 2025 to Spring 2026 year are closed, please check back beginning 
-                next Fall 2026!"""
+                "text": u"""
+                    Mentee & Mentor positions are now open for Fall 2026! If you would like to be considered for a role in our lab this semester, please fill out the respective forms below. The application deadline is to Saturday, September 19th @ 11:59PM for both mentors and mentees. 
+                    <br><br>
+                    <b>Mentees:</b> Mentees will work in groups of 4-6 students, supervised by a mentor, in developing and working on a research project in their group's area of interest. Along the way they will learn fundamental research skills and background knowledge in Health Sciences research. Apply now at the link: <a href='https://forms.gle/VPP69B3K5y5D2Yju8'>forms.gle/VPP69B3K5y5D2Yju8</a>                        <br><br>
+                    <b>Mentors:</b> Mentors will guide an undergraduate team of students through the process of designing and working on a research project within their area of interest. Teams will present their projects at an end-of-semester symposium. An interview will be conducted for selected mentor candidates. Apply now at the link: <a href='https://forms.gle/3uV1ushoqjZWxjHk7'>forms.gle/3uV1ushoqjZWxjHk7</a>
+                    <br><br>                    
+                """
+                # u"""Applications for Fall 2025 to Spring 2026 year are closed, please check back beginning 
+                # next Fall 2026!"""
             },
             "calendar": {
                 "title": "",
